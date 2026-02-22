@@ -1,0 +1,68 @@
+.laycontent-side .ant-tree li .ant-tree-node-content-wrapper.ant-tree-node-selected {
+  /* background: rgba(245, 247, 247, 1); */
+  font-weight: 600;
+  color: rgba(31, 119, 243, 1);
+  background: rgba(244, 248, 254, 0);
+}
+.laycontent-side ul.ant-tree:not(.hasArrow) > li:first-child .ant-tree-switcher {
+  display: none;
+}
+
+.laycontent-side .ant-tree li .ant-tree-node-content-wrapper:hover {
+  background: rgba(244, 248, 254, 1);
+}
+
+.ant-select-tree li .ant-select-tree-node-content-wrapper:hover {
+  background-color: #e8f1fd;
+}
+
+.ant-table-row-expand-icon:hover {
+  display: inline-block;
+  width: 17px;
+  height: 17px;
+  line-height: 14px;
+  text-align: center;
+  color: #1890ff;
+  border: 1px solid #1890ff;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.ant-select-tree li .ant-select-tree-node-content-wrapper.ant-select-tree-node-selected {
+  background-color: #d8e9ff;
+}
+
+.ant-tree-checkbox-checked .ant-tree-checkbox-inner {
+  background-color: #273863;
+  border-color: #273863;
+}
+.ant-tree-checkbox .ant-tree-checkbox-inner:hover {
+  border-color: #273863;
+}
+.laycontent-side .ant-tree {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  color: rgba(0, 0, 0, 0.65);
+  font-size: 14px;
+  font-variant: tabular-nums;
+  height: calc(100% - 88px);
+  overflow-y: scroll;
+  line-height: 1.5;
+  list-style: none;
+  -webkit-font-feature-settings: 'tnum';
+  font-feature-settings: 'tnum';
+  margin: 0;
+  padding: 0;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.laycontent-side .ant-tree li.ant-tree-treenode-switcher-open {
+  overflow-x: hidden;
+}
+.laycontent .laycontent-side {
+  overflow-y: initial;
+  position: relative;
+}

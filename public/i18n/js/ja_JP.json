@@ -1,0 +1,7116 @@
+﻿{
+  "scheduleManagement": {
+    "comma": {
+      "text": "comma",
+      "desc": ""
+    },
+    "isActivatedText": {
+      "text": "isActivatedText",
+      "desc": ""
+    },
+    "workerCount": {
+      "text": "workerCount",
+      "desc": ""
+    },
+    "cronExp": {
+      "text": "cronExp",
+      "desc": ""
+    },
+    "cronExpError": {
+      "text": "cronExpError",
+      "desc": ""
+    },
+    "cronExpCorrect": {
+      "text": "cronExpCorrect",
+      "desc": ""
+    },
+    "jsonFormatError": {
+      "text": "jsonFormatError",
+      "desc": ""
+    },
+    "cronHelscheduleg": {
+      "text": "cronHelscheduleg",
+      "desc": ""
+    },
+    "eight": {
+      "text": "eight",
+      "desc": ""
+    },
+    "flowVersion": {
+      "text": "flowVersion",
+      "desc": ""
+    },
+    "saveBtn": {
+      "text": "saveBtn",
+      "desc": ""
+    },
+    "editSchedule": {
+      "text": "editSchedule",
+      "desc": ""
+    },
+    "editScheduleTitle": {
+      "text": "editScheduleTitle",
+      "desc": ""
+    },
+    "notRecord": {
+      "text": "notRecord",
+      "desc": ""
+    },
+    "noSupportThisMode": {
+      "text": "noSupportThisMode",
+      "desc": ""
+    },
+    "creatorText": {
+      "text": "creatorText",
+      "desc": ""
+    },
+    "createScheduleSuc": {
+      "text": "createScheduleSuc",
+      "desc": ""
+    },
+    "createScheduleFail": {
+      "text": "createScheduleFail",
+      "desc": ""
+    },
+    "calendarCreator": {
+      "text": "calendarCreator",
+      "desc": ""
+    },
+    "currentDaySchedule": {
+      "text": "currentDaySchedule",
+      "desc": ""
+    },
+    "currentMonth": {
+      "text": "currentMonth",
+      "desc": ""
+    },
+    "countNumber": {
+      "text": "countNumber",
+      "desc": ""
+    },
+    "time": {
+      "text": "time",
+      "desc": ""
+    },
+    "two": {
+      "text": "two",
+      "desc": ""
+    },
+    "noWorkDay": {
+      "text": "noWorkDay",
+      "desc": ""
+    },
+    "noWorkDayExecute": {
+      "text": "noWorkDayExecute",
+      "desc": ""
+    },
+    "manyMinutesExecute": {
+      "text": "manyMinutesExecute",
+      "desc": ""
+    },
+    "minutes": {
+      "text": "minutes",
+      "desc": ""
+    },
+    "unit": {
+      "text": "unit",
+      "desc": ""
+    },
+    "calendarUpdate": {
+      "text": "calendarUpdate",
+      "desc": ""
+    },
+    "updateCalendarSuccess": {
+      "text": "updateCalendarSuccess",
+      "desc": ""
+    },
+    "updateCalendarFaile": {
+      "text": "updateCalendarFaile",
+      "desc": ""
+    },
+    "workCalendarSet": {
+      "text": "workCalendarSet",
+      "desc": ""
+    },
+    "workDayExecute": {
+      "text": "workDayExecute",
+      "desc": ""
+    },
+    "aboutCron": {
+      "text": "aboutCron",
+      "desc": ""
+    },
+    "noSupportChar": {
+      "text": "noSupportChar",
+      "desc": ""
+    },
+    "getWorkerListFail": {
+      "text": "getWorkerListFail",
+      "desc": ""
+    },
+    "getSingleFlowFail": {
+      "text": "getSingleFlowFail",
+      "desc": ""
+    },
+    "getAllEnvFail": {
+      "text": "getAllEnvFail",
+      "desc": ""
+    },
+    "getScheduleInfoFail": {
+      "text": "getScheduleInfoFail",
+      "desc": ""
+    },
+    "getScheduleListFail": {
+      "text": "getScheduleListFail",
+      "desc": ""
+    },
+    "getFlowListFail": {
+      "text": "getFlowListFail",
+      "desc": ""
+    },
+    "getEveryDayScheduleFail": {
+      "text": "getEveryDayScheduleFail",
+      "desc": ""
+    },
+    "getScheduleCalendarFail": {
+      "text": "getScheduleCalendarFail",
+      "desc": ""
+    },
+    "basicInfo": {
+      "text": "basicInfo",
+      "desc": ""
+    },
+    "scheduleName": {
+      "text": "scheduleName",
+      "desc": ""
+    },
+    "scheduleName2": {
+      "text": "scheduleName2",
+      "desc": ""
+    },
+    "searchPlaceholderText2": {
+      "text": "searchPlaceholderText2",
+      "desc": ""
+    },
+    "createScheduleName2": {
+      "text": "createScheduleName2",
+      "desc": ""
+    },
+    "fastCreateOk": {
+      "text": "fastCreateOk",
+      "desc": ""
+    },
+    "timeText": {
+      "text": "timeText",
+      "desc": ""
+    },
+    "checkCronRuleErr": {
+      "text": "checkCronRuleErr",
+      "desc": ""
+    },
+    "checkCronRuleErrWithMsg": {
+      "text": "checkCronRuleErrWithMsg",
+      "desc": ""
+    },
+    "result": {
+      "text": "result",
+      "desc": ""
+    },
+    "endTime": {
+      "text": "endTime",
+      "desc": ""
+    },
+    "parse": {
+      "text": "parse",
+      "desc": ""
+    },
+    "unactive": {
+      "text": "unactive",
+      "desc": ""
+    },
+    "nine": {
+      "text": "nine",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "createTime",
+      "desc": ""
+    },
+    "scheduleStartTime": {
+      "text": "scheduleStartTime",
+      "desc": ""
+    },
+    "calendarTypeBlank": {
+      "text": "calendarTypeBlank",
+      "desc": ""
+    },
+    "fastCreate": {
+      "text": "fastCreate",
+      "desc": ""
+    },
+    "flowName": {
+      "text": "flowName",
+      "desc": ""
+    },
+    "flow": {
+      "text": "flow",
+      "desc": ""
+    },
+    "flowPackage": {
+      "text": "flowPackage",
+      "desc": ""
+    },
+    "six": {
+      "text": "six",
+      "desc": ""
+    },
+    "record": {
+      "text": "record",
+      "desc": ""
+    },
+    "each": {
+      "text": "each",
+      "desc": ""
+    },
+    "scheduleExecuteTimeTip": {
+      "text": "scheduleExecuteTimeTip",
+      "desc": ""
+    },
+    "everyday": {
+      "text": "everyday",
+      "desc": ""
+    },
+    "perMonth": {
+      "text": "perMonth",
+      "desc": ""
+    },
+    "perWeek": {
+      "text": "perWeek",
+      "desc": ""
+    },
+    "desc": {
+      "text": "desc",
+      "desc": ""
+    },
+    "createScheduleDes": {
+      "text": "createScheduleDes",
+      "desc": ""
+    },
+    "searchPlaceholderText": {
+      "text": "searchPlaceholderText",
+      "desc": ""
+    },
+    "createScheduleName": {
+      "text": "createScheduleName",
+      "desc": ""
+    },
+    "nameOrMechanicalCode": {
+      "text": "nameOrMechanicalCode",
+      "desc": ""
+    },
+    "noFillScheduleName": {
+      "text": "noFillScheduleName",
+      "desc": ""
+    },
+    "seven": {
+      "text": "seven",
+      "desc": ""
+    },
+    "startTime": {
+      "text": "startTime",
+      "desc": ""
+    },
+    "active": {
+      "text": "active",
+      "desc": ""
+    },
+    "activeState": {
+      "text": "activeState",
+      "desc": ""
+    },
+    "isActivated": {
+      "text": "isActivated",
+      "desc": ""
+    },
+    "pleaseInputCronExp": {
+      "text": "pleaseInputCronExp",
+      "desc": ""
+    },
+    "inputScheduleName": {
+      "text": "inputScheduleName",
+      "desc": ""
+    },
+    "pleaseFillBaseInfo": {
+      "text": "pleaseFillBaseInfo",
+      "desc": ""
+    },
+    "pleaseSelectWorker": {
+      "text": "pleaseSelectWorker",
+      "desc": ""
+    },
+    "pleaseselectEndDate": {
+      "text": "pleaseselectEndDate",
+      "desc": ""
+    },
+    "pleaseFillFlow": {
+      "text": "pleaseFillFlow",
+      "desc": ""
+    },
+    "pleaseFillDepartment": {
+      "text": "pleaseFillDepartment",
+      "desc": ""
+    },
+    "pleaseFillCronExp": {
+      "text": "pleaseFillCronExp",
+      "desc": ""
+    },
+    "noSelectWorkerTip": {
+      "text": "noSelectWorkerTip",
+      "desc": ""
+    },
+    "noSelectDepartmentTip": {
+      "text": "noSelectDepartmentTip",
+      "desc": ""
+    },
+    "selectWorkCalendar": {
+      "text": "selectWorkCalendar",
+      "desc": ""
+    },
+    "selectEnvPlaceholder": {
+      "text": "selectEnvPlaceholder",
+      "desc": ""
+    },
+    "pleaseSelectEnv": {
+      "text": "pleaseSelectEnv",
+      "desc": ""
+    },
+    "pleaseSelectEnvMessage": {
+      "text": "pleaseSelectEnvMessage",
+      "desc": ""
+    },
+    "pleaseScheduleInFlow": {
+      "text": "pleaseScheduleInFlow",
+      "desc": ""
+    },
+    "noSelectFlowTip": {
+      "text": "noSelectFlowTip",
+      "desc": ""
+    },
+    "noSelectWorkerMessage": {
+      "text": "noSelectWorkerMessage",
+      "desc": ""
+    },
+    "cancelBtn": {
+      "text": "cancelBtn",
+      "desc": ""
+    },
+    "sureBtn": {
+      "text": "sureBtn",
+      "desc": ""
+    },
+    "deleteScheduleTip": {
+      "text": "deleteScheduleTip",
+      "desc": ""
+    },
+    "deleteCalendarContent": {
+      "text": "deleteCalendarContent",
+      "desc": ""
+    },
+    "taskParams": {
+      "text": "taskParams",
+      "desc": ""
+    },
+    "taskCountNo": {
+      "text": "taskCountNo",
+      "desc": ""
+    },
+    "taskCount": {
+      "text": "taskCount",
+      "desc": ""
+    },
+    "calendarName": {
+      "text": "calendarName",
+      "desc": ""
+    },
+    "calendarValidateRepeatName": {
+      "text": "calendarValidateRepeatName",
+      "desc": ""
+    },
+    "calendarCycleDate": {
+      "text": "calendarCycleDate",
+      "desc": ""
+    },
+    "three": {
+      "text": "three",
+      "desc": ""
+    },
+    "deleteCalendar": {
+      "text": "deleteCalendar",
+      "desc": ""
+    },
+    "deleteCalendarSuccess": {
+      "text": "deleteCalendarSuccess",
+      "desc": ""
+    },
+    "deleteCalendarFail": {
+      "text": "deleteCalendarFail",
+      "desc": ""
+    },
+    "deleteSchedule": {
+      "text": "deleteSchedule",
+      "desc": ""
+    },
+    "deleteScheduleSuc": {
+      "text": "deleteScheduleSuc",
+      "desc": ""
+    },
+    "deleteScheduleFail": {
+      "text": "deleteScheduleFail",
+      "desc": ""
+    },
+    "calendarTempTypeTips": {
+      "text": "calendarTempTypeTips",
+      "desc": ""
+    },
+    "uploadCalendarTips": {
+      "text": "uploadCalendarTips",
+      "desc": ""
+    },
+    "uploadCalendarFile": {
+      "text": "uploadCalendarFile",
+      "desc": ""
+    },
+    "setTaskParams": {
+      "text": "setTaskParams",
+      "desc": ""
+    },
+    "ten": {
+      "text": "ten",
+      "desc": ""
+    },
+    "isRecord": {
+      "text": "isRecord",
+      "desc": ""
+    },
+    "four": {
+      "text": "four",
+      "desc": ""
+    },
+    "department": {
+      "text": "department",
+      "desc": ""
+    },
+    "selectCalendarDateTip": {
+      "text": "selectCalendarDateTip",
+      "desc": ""
+    },
+    "day": {
+      "text": "day",
+      "desc": ""
+    },
+    "calendarTempSizeTips": {
+      "text": "calendarTempSizeTips",
+      "desc": ""
+    },
+    "noHasTaskParams": {
+      "text": "noHasTaskParams",
+      "desc": ""
+    },
+    "five": {
+      "text": "five",
+      "desc": ""
+    },
+    "fastCreateTip": {
+      "text": "fastCreateTip",
+      "desc": ""
+    },
+    "scheduleExecuteNextTime": {
+      "text": "scheduleExecuteNextTime",
+      "desc": ""
+    },
+    "downloadCalendarFile": {
+      "text": "downloadCalendarFile",
+      "desc": ""
+    },
+    "hours": {
+      "text": "hours",
+      "desc": ""
+    },
+    "newCreate": {
+      "text": "newCreate",
+      "desc": ""
+    },
+    "createWorkCalendarTitle": {
+      "text": "createWorkCalendarTitle",
+      "desc": ""
+    },
+    "newSchedule": {
+      "text": "newSchedule",
+      "desc": ""
+    },
+    "createScheduleTitle": {
+      "text": "createScheduleTitle",
+      "desc": ""
+    },
+    "fixScheduleSuc": {
+      "text": "fixScheduleSuc",
+      "desc": ""
+    },
+    "fixScheduleFail": {
+      "text": "fixScheduleFail",
+      "desc": ""
+    },
+    "selectCalendarFile": {
+      "text": "selectCalendarFile",
+      "desc": ""
+    },
+    "loopExecute": {
+      "text": "loopExecute",
+      "desc": ""
+    },
+    "one": {
+      "text": "one",
+      "desc": ""
+    },
+    "neverEnd": {
+      "text": "neverEnd",
+      "desc": ""
+    },
+    "calendarStr1": {
+      "text": "calendarStr1",
+      "desc": ""
+    },
+    "remain": {
+      "text": "remain",
+      "desc": ""
+    },
+    "noHaveCalendar": {
+      "text": "noHaveCalendar",
+      "desc": ""
+    },
+    "executeRules": {
+      "text": "executeRules",
+      "desc": ""
+    },
+    "executeSchedule": {
+      "text": "executeSchedule",
+      "desc": ""
+    },
+    "executeFrequency": {
+      "text": "executeFrequency",
+      "desc": ""
+    },
+    "executeOnce": {
+      "text": "executeOnce",
+      "desc": ""
+    },
+    "performPreview": {
+      "text": "performPreview",
+      "desc": ""
+    },
+    "specifyWorker": {
+      "text": "specifyWorker",
+      "desc": ""
+    },
+    "specifiedTime": {
+      "text": "specifiedTime",
+      "desc": ""
+    },
+    "leastSelectOneDayOfMonth": {
+      "text": "leastSelectOneDayOfMonth",
+      "desc": ""
+    },
+    "leastSelectOneDayOfWeek": {
+      "text": "leastSelectOneDayOfWeek",
+      "desc": ""
+    },
+    "repeatExecute": {
+      "text": "repeatExecute",
+      "desc": ""
+    },
+    "tuesday": {
+      "text": "tuesday",
+      "desc": ""
+    },
+    "saturday": {
+      "text": "saturday",
+      "desc": ""
+    },
+    "calendarTypeSingle": {
+      "text": "calendarTypeSingle",
+      "desc": ""
+    },
+    "calendarTypeDouble": {
+      "text": "calendarTypeDouble",
+      "desc": ""
+    },
+    "sunday": {
+      "text": "sunday",
+      "desc": ""
+    },
+    "wednesday": {
+      "text": "wednesday",
+      "desc": ""
+    },
+    "thursday": {
+      "text": "thursday",
+      "desc": ""
+    },
+    "friday": {
+      "text": "friday",
+      "desc": ""
+    },
+    "monday": {
+      "text": "monday",
+      "desc": ""
+    },
+    "defineCronExp": {
+      "text": "defineCronExp",
+      "desc": ""
+    },
+    "selfWorkCalendar": {
+      "text": "selfWorkCalendar",
+      "desc": ""
+    },
+    "selfWorkProcess": {
+      "text": "selfWorkProcess",
+      "desc": ""
+    },
+    "editCalendarTip": {
+      "text": "editCalendarTip",
+      "desc": ""
+    },
+    "deleteCalendarTip": {
+      "text": "deleteCalendarTip",
+      "desc": ""
+    },
+    "month": {
+      "text": "month",
+      "desc": ""
+    },
+    "year": {
+      "text": "year",
+      "desc": ""
+    },
+    "outCalendarCycle": {
+      "text": "outCalendarCycle",
+      "desc": ""
+    },
+    "uploadBoxLimit": {
+      "text": "uploadBoxLimit",
+      "desc": ""
+    },
+    "uploadText": {
+      "text": "uploadText",
+      "desc": ""
+    },
+    "uploadCalendarTitle": {
+      "text": "uploadCalendarTitle",
+      "desc": ""
+    },
+    "uploadCalendarTips1": {
+      "text": "uploadCalendarTips1",
+      "desc": ""
+    },
+    "calendarEditChangeBtn": {
+      "text": "calendarEditChangeBtn",
+      "desc": ""
+    },
+    "calendarEditExit": {
+      "text": "calendarEditExit",
+      "desc": ""
+    },
+    "calendarEditExitTips": {
+      "text": "calendarEditExitTips",
+      "desc": ""
+    },
+    "calendarNameLengthTip": {
+      "text": "calendarNameLengthTip",
+      "desc": ""
+    },
+    "workDay": {
+      "text": "workDay",
+      "desc": ""
+    },
+    "scheduleDownloadTip": {
+      "text": "scheduleDownloadTip",
+      "desc": ""
+    },
+    "cronHelpLang": {
+      "text": "cronHelpLang",
+      "desc": ""
+    },
+    "cronTipText22": {
+      "text": "cronTipText22",
+      "desc": ""
+    },
+    "cronTipText3": {
+      "text": "cronTipText3",
+      "desc": ""
+    },
+    "cronTipText4": {
+      "text": "cronTipText4",
+      "desc": ""
+    },
+    "cronTipText6": {
+      "text": "cronTipText6",
+      "desc": ""
+    },
+    "cronTipText17": {
+      "text": "cronTipText17",
+      "desc": ""
+    },
+    "cronTipText16": {
+      "text": "cronTipText16",
+      "desc": ""
+    },
+    "cronTipText20": {
+      "text": "cronTipText20",
+      "desc": ""
+    },
+    "cronTipText19": {
+      "text": "cronTipText19",
+      "desc": ""
+    },
+    "cronTipText18": {
+      "text": "cronTipText18",
+      "desc": ""
+    },
+    "cronTipText8": {
+      "text": "cronTipText8",
+      "desc": ""
+    },
+    "cronTipText25": {
+      "text": "cronTipText25",
+      "desc": ""
+    },
+    "cronTipText24": {
+      "text": "cronTipText24",
+      "desc": ""
+    },
+    "cronTipText5": {
+      "text": "cronTipText5",
+      "desc": ""
+    },
+    "cronTipText2": {
+      "text": "cronTipText2",
+      "desc": ""
+    },
+    "cronTipText10": {
+      "text": "cronTipText10",
+      "desc": ""
+    },
+    "cronTipText7": {
+      "text": "cronTipText7",
+      "desc": ""
+    },
+    "calendarSetName": {
+      "text": "calendarSetName",
+      "desc": ""
+    },
+    "cronTipText12": {
+      "text": "cronTipText12",
+      "desc": ""
+    },
+    "cronTipText11": {
+      "text": "cronTipText11",
+      "desc": ""
+    },
+    "newCreate1": {
+      "text": "newCreate1",
+      "desc": ""
+    },
+    "cronTipText14": {
+      "text": "cronTipText14",
+      "desc": ""
+    },
+    "cronTipText13": {
+      "text": "cronTipText13",
+      "desc": ""
+    },
+    "cronTipText21": {
+      "text": "cronTipText21",
+      "desc": ""
+    },
+    "cronTipText23": {
+      "text": "cronTipText23",
+      "desc": ""
+    },
+    "cronTipText15": {
+      "text": "cronTipText15",
+      "desc": ""
+    },
+    "cronTipText1": {
+      "text": "cronTipText1",
+      "desc": ""
+    },
+    "cronTipText9": {
+      "text": "cronTipText9",
+      "desc": ""
+    }
+  },
+  "passwordSafe": {
+    "accountFreeze": {
+      "text": "accountFreeze",
+      "desc": ""
+    },
+    "sixMonth": {
+      "text": "sixMonth",
+      "desc": ""
+    },
+    "twoMonth": {
+      "text": "twoMonth",
+      "desc": ""
+    },
+    "threeMonth": {
+      "text": "threeMonth",
+      "desc": ""
+    },
+    "save": {
+      "text": "save",
+      "desc": ""
+    },
+    "saveSuccess": {
+      "text": "saveSuccess",
+      "desc": ""
+    },
+    "includeNum": {
+      "text": "includeNum",
+      "desc": ""
+    },
+    "complexityItem3": {
+      "text": "complexityItem3",
+      "desc": ""
+    },
+    "complexityItem1": {
+      "text": "complexityItem1",
+      "desc": ""
+    },
+    "complexityItem2": {
+      "text": "complexityItem2",
+      "desc": ""
+    },
+    "includeSpecial": {
+      "text": "includeSpecial",
+      "desc": ""
+    },
+    "includeWord": {
+      "text": "includeWord",
+      "desc": ""
+    },
+    "mustComplexity": {
+      "text": "mustComplexity",
+      "desc": ""
+    },
+    "time": {
+      "text": "time",
+      "desc": ""
+    },
+    "errorBe1to10": {
+      "text": "errorBe1to10",
+      "desc": ""
+    },
+    "Freeze1to1440": {
+      "text": "Freeze1to1440",
+      "desc": ""
+    },
+    "protect": {
+      "text": "protect",
+      "desc": ""
+    },
+    "minite": {
+      "text": "minite",
+      "desc": ""
+    },
+    "passwordMinWords": {
+      "text": "passwordMinWords",
+      "desc": ""
+    },
+    "passwordSafeTitle": {
+      "text": "passwordSafeTitle",
+      "desc": ""
+    },
+    "pswErrorMax": {
+      "text": "pswErrorMax",
+      "desc": ""
+    },
+    "complexity": {
+      "text": "complexity",
+      "desc": ""
+    },
+    "validTime": {
+      "text": "validTime",
+      "desc": ""
+    },
+    "pswLength6to10": {
+      "text": "pswLength6to10",
+      "desc": ""
+    },
+    "pswOnlyNum": {
+      "text": "pswOnlyNum",
+      "desc": ""
+    },
+    "passwordMinLength": {
+      "text": "passwordMinLength",
+      "desc": ""
+    },
+    "passwordMin": {
+      "text": "passwordMin",
+      "desc": ""
+    },
+    "passwordMinLengthMessage": {
+      "text": "passwordMinLengthMessage",
+      "desc": ""
+    },
+    "pleaseInputErrorNum": {
+      "text": "pleaseInputErrorNum",
+      "desc": ""
+    },
+    "pleaseInputFreezeTime": {
+      "text": "pleaseInputFreezeTime",
+      "desc": ""
+    },
+    "pleaseInputPswLength": {
+      "text": "pleaseInputPswLength",
+      "desc": ""
+    },
+    "passwordMinLengthPlaceholder": {
+      "text": "passwordMinLengthPlaceholder",
+      "desc": ""
+    },
+    "never": {
+      "text": "never",
+      "desc": ""
+    }
+  },
+  "package": {
+    "uploadError3": {
+      "text": "uploadError3",
+      "desc": ""
+    },
+    "uploadError2": {
+      "text": "uploadError2",
+      "desc": ""
+    },
+    "versionRemark": {
+      "text": "versionRemark",
+      "desc": ""
+    },
+    "version": {
+      "text": "version",
+      "desc": ""
+    },
+    "versionId": {
+      "text": "versionId",
+      "desc": ""
+    },
+    "versions": {
+      "text": "versions",
+      "desc": ""
+    },
+    "versionNumber": {
+      "text": "versionNumber",
+      "desc": ""
+    },
+    "description": {
+      "text": "description",
+      "desc": ""
+    },
+    "versionDescription": {
+      "text": "versionDescription",
+      "desc": ""
+    },
+    "versionDetail": {
+      "text": "versionDetail",
+      "desc": ""
+    },
+    "save": {
+      "text": "save",
+      "desc": ""
+    },
+    "remark": {
+      "text": "remark",
+      "desc": ""
+    },
+    "remarkVersion": {
+      "text": "remarkVersion",
+      "desc": ""
+    },
+    "edit": {
+      "text": "edit",
+      "desc": ""
+    },
+    "editVersionRemark": {
+      "text": "editVersionRemark",
+      "desc": ""
+    },
+    "editPackage": {
+      "text": "editPackage",
+      "desc": ""
+    },
+    "packageTitle2": {
+      "text": "packageTitle2",
+      "desc": ""
+    },
+    "operation": {
+      "text": "operation",
+      "desc": ""
+    },
+    "lookPackageVersion": {
+      "text": "lookPackageVersion",
+      "desc": ""
+    },
+    "lookPackage": {
+      "text": "lookPackage",
+      "desc": ""
+    },
+    "lookPackageDetail": {
+      "text": "lookPackageDetail",
+      "desc": ""
+    },
+    "lookUseIntroduction": {
+      "text": "lookUseIntroduction",
+      "desc": ""
+    },
+    "createSuccess": {
+      "text": "createSuccess",
+      "desc": ""
+    },
+    "createPackageTime": {
+      "text": "createPackageTime",
+      "desc": ""
+    },
+    "createTimes": {
+      "text": "createTimes",
+      "desc": ""
+    },
+    "createUserName": {
+      "text": "createUserName",
+      "desc": ""
+    },
+    "uploadBoxText": {
+      "text": "uploadBoxText",
+      "desc": ""
+    },
+    "uploadBoxLimitError": {
+      "text": "uploadBoxLimitError",
+      "desc": ""
+    },
+    "updateSuccess": {
+      "text": "updateSuccess",
+      "desc": ""
+    },
+    "totalNum": {
+      "text": "totalNum",
+      "desc": ""
+    },
+    "userLinked": {
+      "text": "userLinked",
+      "desc": ""
+    },
+    "or": {
+      "text": "or",
+      "desc": ""
+    },
+    "uploadError1": {
+      "text": "uploadError1",
+      "desc": ""
+    },
+    "uploadBoxLimit": {
+      "text": "uploadBoxLimit",
+      "desc": ""
+    },
+    "uploadPackageTip": {
+      "text": "uploadPackageTip",
+      "desc": ""
+    },
+    "isActive": {
+      "text": "isActive",
+      "desc": ""
+    },
+    "packageManagement": {
+      "text": "packageManagement",
+      "desc": ""
+    },
+    "package": {
+      "text": "package",
+      "desc": ""
+    },
+    "packageNames": {
+      "text": "packageNames",
+      "desc": ""
+    },
+    "packageName": {
+      "text": "packageName",
+      "desc": ""
+    },
+    "packageNameTip1": {
+      "text": "packageNameTip1",
+      "desc": ""
+    },
+    "packageFileTitle": {
+      "text": "packageFileTitle",
+      "desc": ""
+    },
+    "packageFile": {
+      "text": "packageFile",
+      "desc": ""
+    },
+    "packageRemark": {
+      "text": "packageRemark",
+      "desc": ""
+    },
+    "errorTip3": {
+      "text": "errorTip3",
+      "desc": ""
+    },
+    "createPackageTip": {
+      "text": "createPackageTip",
+      "desc": ""
+    },
+    "errorTip1": {
+      "text": "errorTip1",
+      "desc": ""
+    },
+    "versionRemarkPlaceholder": {
+      "text": "versionRemarkPlaceholder",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "remarkPlaceholder",
+      "desc": ""
+    },
+    "packageNamePlaceholder": {
+      "text": "packageNamePlaceholder",
+      "desc": ""
+    },
+    "packageRemarkPlaceholder": {
+      "text": "packageRemarkPlaceholder",
+      "desc": ""
+    },
+    "userLinkedMessage": {
+      "text": "userLinkedMessage",
+      "desc": ""
+    },
+    "userLinkedPlaceholder": {
+      "text": "userLinkedPlaceholder",
+      "desc": ""
+    },
+    "content": {
+      "text": "content",
+      "desc": ""
+    },
+    "deleteSuccess": {
+      "text": "deleteSuccess",
+      "desc": ""
+    },
+    "deletePackage": {
+      "text": "deletePackage",
+      "desc": ""
+    },
+    "deleteFail": {
+      "text": "deleteFail",
+      "desc": ""
+    },
+    "uploadVersion": {
+      "text": "uploadVersion",
+      "desc": ""
+    },
+    "upload": {
+      "text": "upload",
+      "desc": ""
+    },
+    "uploadText": {
+      "text": "uploadText",
+      "desc": ""
+    },
+    "versionTitle": {
+      "text": "versionTitle",
+      "desc": ""
+    },
+    "uploadSuccess": {
+      "text": "uploadSuccess",
+      "desc": ""
+    },
+    "uploadVersionSuccess": {
+      "text": "uploadVersionSuccess",
+      "desc": ""
+    },
+    "uploadPackage": {
+      "text": "uploadPackage",
+      "desc": ""
+    },
+    "uploadVersionFail": {
+      "text": "uploadVersionFail",
+      "desc": ""
+    },
+    "uploadTime": {
+      "text": "uploadTime",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "createTime",
+      "desc": ""
+    },
+    "publishTime": {
+      "text": "publishTime",
+      "desc": ""
+    },
+    "uploadIcon": {
+      "text": "uploadIcon",
+      "desc": ""
+    },
+    "uploadAuthor": {
+      "text": "uploadAuthor",
+      "desc": ""
+    },
+    "userName": {
+      "text": "userName",
+      "desc": ""
+    },
+    "publisher": {
+      "text": "publisher",
+      "desc": ""
+    },
+    "useDescription": {
+      "text": "useDescription",
+      "desc": ""
+    },
+    "isEnabled": {
+      "text": "isEnabled",
+      "desc": ""
+    },
+    "uploadHoverText": {
+      "text": "uploadHoverText",
+      "desc": ""
+    },
+    "icon": {
+      "text": "icon",
+      "desc": ""
+    },
+    "uploadSizeLimitError": {
+      "text": "uploadSizeLimitError",
+      "desc": ""
+    },
+    "createPackage": {
+      "text": "createPackage",
+      "desc": ""
+    },
+    "packageTitle": {
+      "text": "packageTitle",
+      "desc": ""
+    },
+    "selectIcon": {
+      "text": "selectIcon",
+      "desc": ""
+    },
+    "uploadWarning": {
+      "text": "uploadWarning",
+      "desc": ""
+    },
+    "noUrlTip": {
+      "text": "noUrlTip",
+      "desc": ""
+    },
+    "packageNameTip3": {
+      "text": "packageNameTip3",
+      "desc": ""
+    },
+    "versionRemarkTip": {
+      "text": "versionRemarkTip",
+      "desc": ""
+    },
+    "remarkTip": {
+      "text": "remarkTip",
+      "desc": ""
+    },
+    "packageNameTip2": {
+      "text": "packageNameTip2",
+      "desc": ""
+    },
+    "uploadVersionIng": {
+      "text": "uploadVersionIng",
+      "desc": ""
+    },
+    "iconTip": {
+      "text": "iconTip",
+      "desc": ""
+    },
+    "errorTip2": {
+      "text": "errorTip2",
+      "desc": ""
+    }
+  },
+  "public": {
+    "placeholderMax": {
+      "text": "placeholderMax",
+      "desc": ""
+    },
+    "ipAddress": {
+      "text": "ipAddress",
+      "desc": ""
+    },
+    "version": {
+      "text": "version",
+      "desc": ""
+    },
+    "save": {
+      "text": "save",
+      "desc": ""
+    },
+    "remark": {
+      "text": "remark",
+      "desc": ""
+    },
+    "edit": {
+      "text": "edit",
+      "desc": ""
+    },
+    "bool": {
+      "text": "bool",
+      "desc": ""
+    },
+    "operate": {
+      "text": "operate",
+      "desc": ""
+    },
+    "lookDetail": {
+      "text": "lookDetail",
+      "desc": ""
+    },
+    "lookRunLog": {
+      "text": "lookRunLog",
+      "desc": ""
+    },
+    "search": {
+      "text": "search",
+      "desc": ""
+    },
+    "time": {
+      "text": "time",
+      "desc": ""
+    },
+    "error": {
+      "text": "error",
+      "desc": ""
+    },
+    "currentSelect": {
+      "text": "currentSelect",
+      "desc": ""
+    },
+    "assignWorkerSelectEnv": {
+      "text": "assignWorkerSelectEnv",
+      "desc": ""
+    },
+    "back": {
+      "text": "back",
+      "desc": ""
+    },
+    "minute": {
+      "text": "minute",
+      "desc": ""
+    },
+    "one": {
+      "text": "one",
+      "desc": ""
+    },
+    "pageTotalCount": {
+      "text": "pageTotalCount",
+      "desc": ""
+    },
+    "pageTotal": {
+      "text": "pageTotal",
+      "desc": ""
+    },
+    "close": {
+      "text": "close",
+      "desc": ""
+    },
+    "env": {
+      "text": "env",
+      "desc": ""
+    },
+    "getDepartmentTreeFail": {
+      "text": "getDepartmentTreeFail",
+      "desc": ""
+    },
+    "machineCode": {
+      "text": "machineCode",
+      "desc": ""
+    },
+    "activationschedule": {
+      "text": "activationschedule",
+      "desc": ""
+    },
+    "endTime": {
+      "text": "endTime",
+      "desc": ""
+    },
+    "startTime": {
+      "text": "startTime",
+      "desc": ""
+    },
+    "workerType": {
+      "text": "workerType",
+      "desc": ""
+    },
+    "type": {
+      "text": "type",
+      "desc": ""
+    },
+    "workerOffline": {
+      "text": "workerOffline",
+      "desc": ""
+    },
+    "executeImmediately": {
+      "text": "executeImmediately",
+      "desc": ""
+    },
+    "second": {
+      "text": "second",
+      "desc": ""
+    },
+    "name": {
+      "text": "name",
+      "desc": ""
+    },
+    "nameNotEmpty": {
+      "text": "nameNotEmpty",
+      "desc": ""
+    },
+    "queueExecute": {
+      "text": "queueExecute",
+      "desc": ""
+    },
+    "pleaseInputName": {
+      "text": "pleaseInputName",
+      "desc": ""
+    },
+    "pleaseInputDes": {
+      "text": "pleaseInputDes",
+      "desc": ""
+    },
+    "maxTaskTargetNumber": {
+      "text": "maxTaskTargetNumber",
+      "desc": ""
+    },
+    "inputTaskNumberErrorTip": {
+      "text": "inputTaskNumberErrorTip",
+      "desc": ""
+    },
+    "noSelectEnvTip": {
+      "text": "noSelectEnvTip",
+      "desc": ""
+    },
+    "minTaskNumberTip": {
+      "text": "minTaskNumberTip",
+      "desc": ""
+    },
+    "minWorkerNumberTip": {
+      "text": "minWorkerNumberTip",
+      "desc": ""
+    },
+    "cancel": {
+      "text": "cancel",
+      "desc": ""
+    },
+    "cancelTableTitleTips": {
+      "text": "cancelTableTitleTips",
+      "desc": ""
+    },
+    "ok": {
+      "text": "ok",
+      "desc": ""
+    },
+    "okText": {
+      "text": "okText",
+      "desc": ""
+    },
+    "laborCost": {
+      "text": "laborCost",
+      "desc": ""
+    },
+    "laborTime": {
+      "text": "laborTime",
+      "desc": ""
+    },
+    "maxTaskNumberTip": {
+      "text": "maxTaskNumberTip",
+      "desc": ""
+    },
+    "delete": {
+      "text": "delete",
+      "desc": ""
+    },
+    "previousStep": {
+      "text": "previousStep",
+      "desc": ""
+    },
+    "number": {
+      "text": "number",
+      "desc": ""
+    },
+    "des": {
+      "text": "des",
+      "desc": ""
+    },
+    "search2": {
+      "text": "search2",
+      "desc": ""
+    },
+    "department": {
+      "text": "department",
+      "desc": ""
+    },
+    "toolTip": {
+      "text": "toolTip",
+      "desc": ""
+    },
+    "day": {
+      "text": "day",
+      "desc": ""
+    },
+    "complete": {
+      "text": "complete",
+      "desc": ""
+    },
+    "workerInactivated": {
+      "text": "workerInactivated",
+      "desc": ""
+    },
+    "text": {
+      "text": "text",
+      "desc": ""
+    },
+    "unattended": {
+      "text": "unattended",
+      "desc": ""
+    },
+    "nextStep": {
+      "text": "nextStep",
+      "desc": ""
+    },
+    "hour": {
+      "text": "hour",
+      "desc": ""
+    },
+    "create": {
+      "text": "create",
+      "desc": ""
+    },
+    "cnYuan": {
+      "text": "cnYuan",
+      "desc": ""
+    },
+    "runTime": {
+      "text": "runTime",
+      "desc": ""
+    },
+    "workerOnline": {
+      "text": "workerOnline",
+      "desc": ""
+    },
+    "noData": {
+      "text": "noData",
+      "desc": ""
+    },
+    "nameMaxLength": {
+      "text": "nameMaxLength",
+      "desc": ""
+    },
+    "desMaxLength": {
+      "text": "desMaxLength",
+      "desc": ""
+    },
+    "nameMinLength": {
+      "text": "nameMinLength",
+      "desc": ""
+    },
+    "desMinLength": {
+      "text": "desMinLength",
+      "desc": ""
+    },
+    "executeWay": {
+      "text": "executeWay",
+      "desc": ""
+    },
+    "specifyWorker": {
+      "text": "specifyWorker",
+      "desc": ""
+    },
+    "doAgain": {
+      "text": "doAgain",
+      "desc": ""
+    },
+    "reAssignWorker": {
+      "text": "reAssignWorker",
+      "desc": ""
+    },
+    "reassignWorker": {
+      "text": "reassignWorker",
+      "desc": ""
+    },
+    "state": {
+      "text": "state",
+      "desc": ""
+    },
+    "status": {
+      "text": "status",
+      "desc": ""
+    },
+    "autoAllocation": {
+      "text": "autoAllocation",
+      "desc": ""
+    },
+    "connectTime": {
+      "text": "connectTime",
+      "desc": ""
+    },
+    "activationPlan": {
+      "text": "activationPlan",
+      "desc": ""
+    },
+    "one1": {
+      "text": "one1",
+      "desc": ""
+    },
+    "manday": {
+      "text": "manday",
+      "desc": ""
+    }
+  },
+  "WorkerAttend": {
+    "versionUpdatePackage": {
+      "text": "versionUpdatePackage",
+      "desc": ""
+    },
+    "workerTitle": {
+      "text": "workerTitle",
+      "desc": ""
+    },
+    "workerAttendName2": {
+      "text": "workerAttendName2",
+      "desc": ""
+    },
+    "workerRemark": {
+      "text": "workerRemark",
+      "desc": ""
+    },
+    "workerAttendEditWorker": {
+      "text": "workerAttendEditWorker",
+      "desc": ""
+    },
+    "editWorkerFail": {
+      "text": "editWorkerFail",
+      "desc": ""
+    },
+    "departmentTitle": {
+      "text": "departmentTitle",
+      "desc": ""
+    },
+    "lookDetails": {
+      "text": "lookDetails",
+      "desc": ""
+    },
+    "createWorkerFail": {
+      "text": "createWorkerFail",
+      "desc": ""
+    },
+    "workerAttendMessage2": {
+      "text": "workerAttendMessage2",
+      "desc": ""
+    },
+    "workerVersion": {
+      "text": "workerVersion",
+      "desc": ""
+    },
+    "workerAttendMessage3": {
+      "text": "workerAttendMessage3",
+      "desc": ""
+    },
+    "bulkUpdateMessage1": {
+      "text": "bulkUpdateMessage1",
+      "desc": ""
+    },
+    "bulkUpdateTip2": {
+      "text": "bulkUpdateTip2",
+      "desc": ""
+    },
+    "environment": {
+      "text": "environment",
+      "desc": ""
+    },
+    "getWorkerInfoFail": {
+      "text": "getWorkerInfoFail",
+      "desc": ""
+    },
+    "bulkUpdateError1": {
+      "text": "bulkUpdateError1",
+      "desc": ""
+    },
+    "machineCode": {
+      "text": "machineCode",
+      "desc": ""
+    },
+    "beginUpdate": {
+      "text": "beginUpdate",
+      "desc": ""
+    },
+    "bulkUpdateRemarkPlaceholder": {
+      "text": "bulkUpdateRemarkPlaceholder",
+      "desc": ""
+    },
+    "offline": {
+      "text": "offline",
+      "desc": ""
+    },
+    "workerAttendName": {
+      "text": "workerAttendName",
+      "desc": ""
+    },
+    "searchVal": {
+      "text": "searchVal",
+      "desc": ""
+    },
+    "workerAttendNameMessage1": {
+      "text": "workerAttendNameMessage1",
+      "desc": ""
+    },
+    "titleBtnContent": {
+      "text": "titleBtnContent",
+      "desc": ""
+    },
+    "bulkUpdateTitle": {
+      "text": "bulkUpdateTitle",
+      "desc": ""
+    },
+    "workerAttendNamePlaceholder": {
+      "text": "workerAttendNamePlaceholder",
+      "desc": ""
+    },
+    "workerAttendRemarkPlaceholder": {
+      "text": "workerAttendRemarkPlaceholder",
+      "desc": ""
+    },
+    "bulkUpdateTip3": {
+      "text": "bulkUpdateTip3",
+      "desc": ""
+    },
+    "workerAttendDepartmentMessage": {
+      "text": "workerAttendDepartmentMessage",
+      "desc": ""
+    },
+    "workerAttendDepartmentPlaceholder": {
+      "text": "workerAttendDepartmentPlaceholder",
+      "desc": ""
+    },
+    "workerAttendEnvironmentPlaceholder": {
+      "text": "workerAttendEnvironmentPlaceholder",
+      "desc": ""
+    },
+    "workerAttendEnvironmentMessage": {
+      "text": "workerAttendEnvironmentMessage",
+      "desc": ""
+    },
+    "workerAttendUserPlaceholder": {
+      "text": "workerAttendUserPlaceholder",
+      "desc": ""
+    },
+    "workerAttendUserMessage": {
+      "text": "workerAttendUserMessage",
+      "desc": ""
+    },
+    "bulkUpdateError2": {
+      "text": "bulkUpdateError2",
+      "desc": ""
+    },
+    "cancel": {
+      "text": "cancel",
+      "desc": ""
+    },
+    "delTip": {
+      "text": "delTip",
+      "desc": ""
+    },
+    "attendFloat": {
+      "text": "attendFloat",
+      "desc": ""
+    },
+    "workerAttendRemoveWorker": {
+      "text": "workerAttendRemoveWorker",
+      "desc": ""
+    },
+    "workerAttendMessage1": {
+      "text": "workerAttendMessage1",
+      "desc": ""
+    },
+    "workerAttendError1": {
+      "text": "workerAttendError1",
+      "desc": ""
+    },
+    "preStep": {
+      "text": "preStep",
+      "desc": ""
+    },
+    "authorType": {
+      "text": "authorType",
+      "desc": ""
+    },
+    "workerAttendDepartment": {
+      "text": "workerAttendDepartment",
+      "desc": ""
+    },
+    "department": {
+      "text": "department",
+      "desc": ""
+    },
+    "workerAttendEnvironment": {
+      "text": "workerAttendEnvironment",
+      "desc": ""
+    },
+    "workerAttendUser": {
+      "text": "workerAttendUser",
+      "desc": ""
+    },
+    "notActive": {
+      "text": "notActive",
+      "desc": ""
+    },
+    "nextStep": {
+      "text": "nextStep",
+      "desc": ""
+    },
+    "new": {
+      "text": "new",
+      "desc": ""
+    },
+    "titleBtn": {
+      "text": "titleBtn",
+      "desc": ""
+    },
+    "selectUpdatePackage": {
+      "text": "selectUpdatePackage",
+      "desc": ""
+    },
+    "selectWorker": {
+      "text": "selectWorker",
+      "desc": ""
+    },
+    "online": {
+      "text": "online",
+      "desc": ""
+    },
+    "bulkUpdateTip1": {
+      "text": "bulkUpdateTip1",
+      "desc": ""
+    },
+    "workerAttendNameMessage3": {
+      "text": "workerAttendNameMessage3",
+      "desc": ""
+    },
+    "bulkUpdateRemarkMessage": {
+      "text": "bulkUpdateRemarkMessage",
+      "desc": ""
+    },
+    "workerAttendNameMessage2": {
+      "text": "workerAttendNameMessage2",
+      "desc": ""
+    },
+    "workerAttendWorkerState": {
+      "text": "workerAttendWorkerState",
+      "desc": ""
+    },
+    "lastLogined": {
+      "text": "lastLogined",
+      "desc": ""
+    }
+  },
+  "UpdateWorker": {
+    "updateVersionIntroduction": {
+      "text": "updateVersionIntroduction",
+      "desc": ""
+    },
+    "versionUpdate": {
+      "text": "versionUpdate",
+      "desc": ""
+    },
+    "version": {
+      "text": "version",
+      "desc": ""
+    },
+    "versionTip": {
+      "text": "versionTip",
+      "desc": ""
+    },
+    "versionIntroduction": {
+      "text": "versionIntroduction",
+      "desc": ""
+    },
+    "saveSuccess": {
+      "text": "saveSuccess",
+      "desc": ""
+    },
+    "operation": {
+      "text": "operation",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "createTime",
+      "desc": ""
+    },
+    "updateCloseTip": {
+      "text": "updateCloseTip",
+      "desc": ""
+    },
+    "uploadNotCloseWindow": {
+      "text": "uploadNotCloseWindow",
+      "desc": ""
+    },
+    "existCloseTip": {
+      "text": "existCloseTip",
+      "desc": ""
+    },
+    "dragToUpload": {
+      "text": "dragToUpload",
+      "desc": ""
+    },
+    "youTriggerEvent": {
+      "text": "youTriggerEvent",
+      "desc": ""
+    },
+    "isActivated": {
+      "text": "isActivated",
+      "desc": ""
+    },
+    "pleaseUploadUpdate": {
+      "text": "pleaseUploadUpdate",
+      "desc": ""
+    },
+    "uploadWorkerIntroduction": {
+      "text": "uploadWorkerIntroduction",
+      "desc": ""
+    },
+    "uploadWorkerUpdate": {
+      "text": "uploadWorkerUpdate",
+      "desc": ""
+    },
+    "uploadSuccess": {
+      "text": "uploadSuccess",
+      "desc": ""
+    },
+    "uploadUpdate": {
+      "text": "uploadUpdate",
+      "desc": ""
+    },
+    "uploadBy": {
+      "text": "uploadBy",
+      "desc": ""
+    },
+    "uploading": {
+      "text": "uploading",
+      "desc": ""
+    },
+    "firstUseTime": {
+      "text": "firstUseTime",
+      "desc": ""
+    },
+    "download": {
+      "text": "download",
+      "desc": ""
+    },
+    "noIntroduction": {
+      "text": "noIntroduction",
+      "desc": ""
+    },
+    "closeDirect": {
+      "text": "closeDirect",
+      "desc": ""
+    },
+    "onlyZip": {
+      "text": "onlyZip",
+      "desc": ""
+    },
+    "reUpload": {
+      "text": "reUpload",
+      "desc": ""
+    },
+    "upgradSuc": {
+      "text": "upgradSuc",
+      "desc": ""
+    },
+    "deleteSuc": {
+      "text": "deleteSuc",
+      "desc": ""
+    },
+    "deleteUpdatePackage": {
+      "text": "deleteUpdatePackage",
+      "desc": ""
+    },
+    "updateRemarkSuc": {
+      "text": "updateRemarkSuc",
+      "desc": ""
+    },
+    "systemWindow": {
+      "text": "systemWindow",
+      "desc": ""
+    },
+    "window32": {
+      "text": "window32",
+      "desc": ""
+    },
+    "window64": {
+      "text": "window64",
+      "desc": ""
+    },
+    "uploadSucess": {
+      "text": "uploadSucess",
+      "desc": ""
+    },
+    "cancelUploadPack": {
+      "text": "cancelUploadPack",
+      "desc": ""
+    },
+    "uploadCheckErr": {
+      "text": "uploadCheckErr",
+      "desc": ""
+    },
+    "workerAcceptBtnText1": {
+      "text": "workerAcceptBtnText1",
+      "desc": ""
+    },
+    "workerAcceptBtnText2": {
+      "text": "workerAcceptBtnText2",
+      "desc": ""
+    },
+    "workerUpdateRunTips1": {
+      "text": "workerUpdateRunTips1",
+      "desc": ""
+    },
+    "workerUpdateRunTips2": {
+      "text": "workerUpdateRunTips2",
+      "desc": ""
+    },
+    "workerUpdateErrTips": {
+      "text": "workerUpdateErrTips",
+      "desc": ""
+    },
+    "workerUpdateErrTips1": {
+      "text": "workerUpdateErrTips1",
+      "desc": ""
+    },
+    "workerUpdateTips1": {
+      "text": "workerUpdateTips1",
+      "desc": ""
+    },
+    "workerUpdateTips": {
+      "text": "workerUpdateTips",
+      "desc": ""
+    },
+    "versionName": {
+      "text": "versionName",
+      "desc": ""
+    },
+    "versionNum": {
+      "text": "versionNum",
+      "desc": ""
+    },
+    "useSystem": {
+      "text": "useSystem",
+      "desc": ""
+    },
+    "versionTips": {
+      "text": "versionTips",
+      "desc": ""
+    },
+    "uploadName": {
+      "text": "uploadName",
+      "desc": ""
+    },
+    "uploadTime": {
+      "text": "uploadTime",
+      "desc": ""
+    },
+    "versionSize": {
+      "text": "versionSize",
+      "desc": ""
+    },
+    "versionDesc": {
+      "text": "versionDesc",
+      "desc": ""
+    },
+    "versionDetail": {
+      "text": "versionDetail",
+      "desc": ""
+    },
+    "inputDesc": {
+      "text": "inputDesc",
+      "desc": ""
+    },
+    "editDesc": {
+      "text": "editDesc",
+      "desc": ""
+    },
+    "deleteUpdateWorkerContent": {
+      "text": "deleteUpdateWorkerContent",
+      "desc": ""
+    },
+    "downLoadUpdateWorkerContent": {
+      "text": "downLoadUpdateWorkerContent",
+      "desc": ""
+    },
+    "uploadPackageProcessTip": {
+      "text": "uploadPackageProcessTip",
+      "desc": ""
+    },
+    "uploadPackageErr1": {
+      "text": "uploadPackageErr1",
+      "desc": ""
+    },
+    "uploadVersionLowerTips": {
+      "text": "uploadVersionLowerTips",
+      "desc": ""
+    },
+    "uploadFormatErr": {
+      "text": "uploadFormatErr",
+      "desc": ""
+    },
+    "uploadBoxLimit": {
+      "text": "uploadBoxLimit",
+      "desc": ""
+    },
+    "uploadUpdateLimitError": {
+      "text": "uploadUpdateLimitError",
+      "desc": ""
+    },
+    "updateFileTitle": {
+      "text": "updateFileTitle",
+      "desc": ""
+    },
+    "uploadText": {
+      "text": "uploadText",
+      "desc": ""
+    },
+    "activeTips": {
+      "text": "activeTips",
+      "desc": ""
+    },
+    "forceUpdateTipsLine1": {
+      "text": "forceUpdateTipsLine1",
+      "desc": ""
+    },
+    "forceUpdateTipsLine2": {
+      "text": "forceUpdateTipsLine2",
+      "desc": ""
+    },
+    "forceUpdateTipsLine3": {
+      "text": "forceUpdateTipsLine3",
+      "desc": ""
+    },
+    "isForceUpdate": {
+      "text": "isForceUpdate",
+      "desc": ""
+    },
+    "updateDesc": {
+      "text": "updateDesc",
+      "desc": ""
+    },
+    "updateWorkerTip": {
+      "text": "updateWorkerTip",
+      "desc": ""
+    },
+    "updateFailTips1": {
+      "text": "updateFailTips1",
+      "desc": ""
+    },
+    "updateFailTips2": {
+      "text": "updateFailTips2",
+      "desc": ""
+    },
+    "updateFailTips3": {
+      "text": "updateFailTips3",
+      "desc": ""
+    },
+    "workerUpdateTips2": {
+      "text": "workerUpdateTips2",
+      "desc": ""
+    },
+    "workerUpdateOkText": {
+      "text": "workerUpdateOkText",
+      "desc": ""
+    },
+    "netError": {
+      "text": "netError",
+      "desc": ""
+    },
+    "updateFailTips4": {
+      "text": "updateFailTips4",
+      "desc": ""
+    }
+  },
+  "utilsIndexJs": {
+    "oneDayAgo": {
+      "text": "oneDayAgo",
+      "desc": ""
+    },
+    "boolText": {
+      "text": "boolText",
+      "desc": ""
+    },
+    "queryText": {
+      "text": "queryText",
+      "desc": ""
+    },
+    "success": {
+      "text": "success",
+      "desc": ""
+    },
+    "error": {
+      "text": "error",
+      "desc": ""
+    },
+    "errorText": {
+      "text": "errorText",
+      "desc": ""
+    },
+    "deploying": {
+      "text": "deploying",
+      "desc": ""
+    },
+    "pendingDeployment": {
+      "text": "pendingDeployment",
+      "desc": ""
+    },
+    "received": {
+      "text": "received",
+      "desc": ""
+    },
+    "deployingText": {
+      "text": "deployingText",
+      "desc": ""
+    },
+    "exportText": {
+      "text": "exportText",
+      "desc": ""
+    },
+    "importText": {
+      "text": "importText",
+      "desc": ""
+    },
+    "tuesday": {
+      "text": "tuesday",
+      "desc": ""
+    },
+    "minute": {
+      "text": "minute",
+      "desc": ""
+    },
+    "minutesAgo": {
+      "text": "minutesAgo",
+      "desc": ""
+    },
+    "just": {
+      "text": "just",
+      "desc": ""
+    },
+    "trace": {
+      "text": "trace",
+      "desc": ""
+    },
+    "trackText": {
+      "text": "trackText",
+      "desc": ""
+    },
+    "admin": {
+      "text": "admin",
+      "desc": ""
+    },
+    "today": {
+      "text": "today",
+      "desc": ""
+    },
+    "disableText": {
+      "text": "disableText",
+      "desc": ""
+    },
+    "prohibiting": {
+      "text": "prohibiting",
+      "desc": ""
+    },
+    "warn": {
+      "text": "warn",
+      "desc": ""
+    },
+    "warningText": {
+      "text": "warningText",
+      "desc": ""
+    },
+    "developer": {
+      "text": "developer",
+      "desc": ""
+    },
+    "abortedByCommander": {
+      "text": "abortedByCommander",
+      "desc": ""
+    },
+    "saturday": {
+      "text": "saturday",
+      "desc": ""
+    },
+    "sessionExpired": {
+      "text": "sessionExpired",
+      "desc": ""
+    },
+    "user": {
+      "text": "user",
+      "desc": ""
+    },
+    "starting": {
+      "text": "starting",
+      "desc": ""
+    },
+    "startText": {
+      "text": "startText",
+      "desc": ""
+    },
+    "enabling": {
+      "text": "enabling",
+      "desc": ""
+    },
+    "canceled": {
+      "text": "canceled",
+      "desc": ""
+    },
+    "canceling": {
+      "text": "canceling",
+      "desc": ""
+    },
+    "humanComputerInteraction": {
+      "text": "humanComputerInteraction",
+      "desc": ""
+    },
+    "runCancelText": {
+      "text": "runCancelText",
+      "desc": ""
+    },
+    "taskCancelText": {
+      "text": "taskCancelText",
+      "desc": ""
+    },
+    "sunday": {
+      "text": "sunday",
+      "desc": ""
+    },
+    "day": {
+      "text": "day",
+      "desc": ""
+    },
+    "wednesday": {
+      "text": "wednesday",
+      "desc": ""
+    },
+    "deleteText": {
+      "text": "deleteText",
+      "desc": ""
+    },
+    "fail": {
+      "text": "fail",
+      "desc": ""
+    },
+    "hour": {
+      "text": "hour",
+      "desc": ""
+    },
+    "numberText": {
+      "text": "numberText",
+      "desc": ""
+    },
+    "thursday": {
+      "text": "thursday",
+      "desc": ""
+    },
+    "allState": {
+      "text": "allState",
+      "desc": ""
+    },
+    "promptText": {
+      "text": "promptText",
+      "desc": ""
+    },
+    "stopping": {
+      "text": "stopping",
+      "desc": ""
+    },
+    "unknown": {
+      "text": "unknown",
+      "desc": ""
+    },
+    "textText": {
+      "text": "textText",
+      "desc": ""
+    },
+    "fileTooLarge": {
+      "text": "fileTooLarge",
+      "desc": ""
+    },
+    "rejected": {
+      "text": "rejected",
+      "desc": ""
+    },
+    "unattended": {
+      "text": "unattended",
+      "desc": ""
+    },
+    "friday": {
+      "text": "friday",
+      "desc": ""
+    },
+    "detailsText": {
+      "text": "detailsText",
+      "desc": ""
+    },
+    "info": {
+      "text": "info",
+      "desc": ""
+    },
+    "messageText": {
+      "text": "messageText",
+      "desc": ""
+    },
+    "hoursAgo": {
+      "text": "hoursAgo",
+      "desc": ""
+    },
+    "addText": {
+      "text": "addText",
+      "desc": ""
+    },
+    "modifyText": {
+      "text": "modifyText",
+      "desc": ""
+    },
+    "monday": {
+      "text": "monday",
+      "desc": ""
+    },
+    "deployedAlready": {
+      "text": "deployedAlready",
+      "desc": ""
+    },
+    "runned": {
+      "text": "runned",
+      "desc": ""
+    },
+    "stoped": {
+      "text": "stoped",
+      "desc": ""
+    },
+    "finished": {
+      "text": "finished",
+      "desc": ""
+    },
+    "aborted": {
+      "text": "aborted",
+      "desc": ""
+    },
+    "workerCrashed": {
+      "text": "workerCrashed",
+      "desc": ""
+    },
+    "abortedByUser": {
+      "text": "abortedByUser",
+      "desc": ""
+    },
+    "month": {
+      "text": "month",
+      "desc": ""
+    },
+    "runSucText": {
+      "text": "runSucText",
+      "desc": ""
+    },
+    "runFailText": {
+      "text": "runFailText",
+      "desc": ""
+    },
+    "started": {
+      "text": "started",
+      "desc": ""
+    },
+    "running": {
+      "text": "running",
+      "desc": ""
+    },
+    "runningText": {
+      "text": "runningText",
+      "desc": ""
+    },
+    "retrying": {
+      "text": "retrying",
+      "desc": ""
+    },
+    "lastThreeMonths": {
+      "text": "lastThreeMonths",
+      "desc": ""
+    },
+    "lastMonth": {
+      "text": "lastMonth",
+      "desc": ""
+    },
+    "lastWeek": {
+      "text": "lastWeek",
+      "desc": ""
+    },
+    "taskInvalidText": {
+      "text": "taskInvalidText",
+      "desc": ""
+    }
+  },
+  "accessKey": {
+    "upgradeTip": {
+      "text": "upgradeTip",
+      "desc": ""
+    },
+    "columnTitleAKId": {
+      "text": "columnTitleAKId",
+      "desc": ""
+    },
+    "columnTitleSKSec": {
+      "text": "columnTitleSKSec",
+      "desc": ""
+    },
+    "modalConfirmText": {
+      "text": "modalConfirmText",
+      "desc": ""
+    },
+    "msgboxTitleResetAK": {
+      "text": "msgboxTitleResetAK",
+      "desc": ""
+    },
+    "validateMessageRequired": {
+      "text": "validateMessageRequired",
+      "desc": ""
+    },
+    "editModalTitle": {
+      "text": "editModalTitle",
+      "desc": ""
+    },
+    "columnTitleOperation": {
+      "text": "columnTitleOperation",
+      "desc": ""
+    },
+    "gotoAppKeyLink": {
+      "text": "gotoAppKeyLink",
+      "desc": ""
+    },
+    "columnTitleCallbackUrl": {
+      "text": "columnTitleCallbackUrl",
+      "desc": ""
+    },
+    "formLabelCallback": {
+      "text": "formLabelCallback",
+      "desc": ""
+    },
+    "validateMessageInvalidUrl": {
+      "text": "validateMessageInvalidUrl",
+      "desc": ""
+    },
+    "formPlaceHolderCallbackUrl": {
+      "text": "formPlaceHolderCallbackUrl",
+      "desc": ""
+    },
+    "formPlaceHolderName": {
+      "text": "formPlaceHolderName",
+      "desc": ""
+    },
+    "mocalCancelText": {
+      "text": "mocalCancelText",
+      "desc": ""
+    },
+    "msgboxCancelText": {
+      "text": "msgboxCancelText",
+      "desc": ""
+    },
+    "msgboxConfirmText": {
+      "text": "msgboxConfirmText",
+      "desc": ""
+    },
+    "modalRemoveAkTitle": {
+      "text": "modalRemoveAkTitle",
+      "desc": ""
+    },
+    "msgboxTitleRemoveAK": {
+      "text": "msgboxTitleRemoveAK",
+      "desc": ""
+    },
+    "msgboxTipRemoveAK": {
+      "text": "msgboxTipRemoveAK",
+      "desc": ""
+    },
+    "buttonTextCreateAK": {
+      "text": "buttonTextCreateAK",
+      "desc": ""
+    },
+    "createModalTitle": {
+      "text": "createModalTitle",
+      "desc": ""
+    },
+    "columnTitleName": {
+      "text": "columnTitleName",
+      "desc": ""
+    },
+    "formLabelName": {
+      "text": "formLabelName",
+      "desc": ""
+    },
+    "title": {
+      "text": "title",
+      "desc": ""
+    },
+    "modalRefreshAKTitle": {
+      "text": "modalRefreshAKTitle",
+      "desc": ""
+    },
+    "msgboxTipResetAK": {
+      "text": "msgboxTipResetAK",
+      "desc": ""
+    },
+    "buttonTextLookInterfaceApi": {
+      "text": "buttonTextLookInterfaceApi",
+      "desc": ""
+    },
+    "accessKeyTips1": {
+      "text": "accessKeyTips1",
+      "desc": ""
+    },
+    "accessKeyTips": {
+      "text": "accessKeyTips",
+      "desc": ""
+    }
+  },
+  "taskQueueManager": {
+    "authorizeTypeText": {
+      "text": "authorizeTypeText",
+      "desc": ""
+    },
+    "ip": {
+      "text": "ip",
+      "desc": ""
+    },
+    "createdTime": {
+      "text": "createdTime",
+      "desc": ""
+    },
+    "searchPlaceholder": {
+      "text": "searchPlaceholder",
+      "desc": ""
+    },
+    "stateTip": {
+      "text": "stateTip",
+      "desc": ""
+    },
+    "version": {
+      "text": "version",
+      "desc": ""
+    },
+    "lookTaskDetail": {
+      "text": "lookTaskDetail",
+      "desc": ""
+    },
+    "lowVersion": {
+      "text": "lowVersion",
+      "desc": ""
+    },
+    "low": {
+      "text": "low",
+      "desc": ""
+    },
+    "currentWorker": {
+      "text": "currentWorker",
+      "desc": ""
+    },
+    "question3": {
+      "text": "question3",
+      "desc": ""
+    },
+    "offlineTime": {
+      "text": "offlineTime",
+      "desc": ""
+    },
+    "queueDetail": {
+      "text": "queueDetail",
+      "desc": ""
+    },
+    "sendCtrlAltDel": {
+      "text": "sendCtrlAltDel",
+      "desc": ""
+    },
+    "tab": {
+      "text": "tab",
+      "desc": ""
+    },
+    "win": {
+      "text": "win",
+      "desc": ""
+    },
+    "minute": {
+      "text": "minute",
+      "desc": ""
+    },
+    "question": {
+      "text": "question",
+      "desc": ""
+    },
+    "noAccess": {
+      "text": "noAccess",
+      "desc": ""
+    },
+    "monitoring": {
+      "text": "monitoring",
+      "desc": ""
+    },
+    "over": {
+      "text": "over",
+      "desc": ""
+    },
+    "overControl": {
+      "text": "overControl",
+      "desc": ""
+    },
+    "invnc": {
+      "text": "invnc",
+      "desc": ""
+    },
+    "startTime": {
+      "text": "startTime",
+      "desc": ""
+    },
+    "tooLongFreeTime": {
+      "text": "tooLongFreeTime",
+      "desc": ""
+    },
+    "freeing": {
+      "text": "freeing",
+      "desc": ""
+    },
+    "controling": {
+      "text": "controling",
+      "desc": ""
+    },
+    "offline": {
+      "text": "offline",
+      "desc": ""
+    },
+    "tooLongOffline": {
+      "text": "tooLongOffline",
+      "desc": ""
+    },
+    "history": {
+      "text": "history",
+      "desc": ""
+    },
+    "searchFlowPlaceholder": {
+      "text": "searchFlowPlaceholder",
+      "desc": ""
+    },
+    "flowName": {
+      "text": "flowName",
+      "desc": ""
+    },
+    "secound": {
+      "text": "secound",
+      "desc": ""
+    },
+    "keyboard": {
+      "text": "keyboard",
+      "desc": ""
+    },
+    "question1": {
+      "text": "question1",
+      "desc": ""
+    },
+    "max": {
+      "text": "max",
+      "desc": ""
+    },
+    "taskCode": {
+      "text": "taskCode",
+      "desc": ""
+    },
+    "taskScreening": {
+      "text": "taskScreening",
+      "desc": ""
+    },
+    "timeout": {
+      "text": "timeout",
+      "desc": ""
+    },
+    "question2": {
+      "text": "question2",
+      "desc": ""
+    },
+    "realTimeMonitor": {
+      "text": "realTimeMonitor",
+      "desc": ""
+    },
+    "authorizeType": {
+      "text": "authorizeType",
+      "desc": ""
+    },
+    "refresh": {
+      "text": "refresh",
+      "desc": ""
+    },
+    "min": {
+      "text": "min",
+      "desc": ""
+    },
+    "unactive": {
+      "text": "unactive",
+      "desc": ""
+    },
+    "noActive": {
+      "text": "noActive",
+      "desc": ""
+    },
+    "noResponse": {
+      "text": "noResponse",
+      "desc": ""
+    },
+    "noRecord": {
+      "text": "noRecord",
+      "desc": ""
+    },
+    "unAttendBind": {
+      "text": "unAttendBind",
+      "desc": ""
+    },
+    "unAttendFloat": {
+      "text": "unAttendFloat",
+      "desc": ""
+    },
+    "hour": {
+      "text": "hour",
+      "desc": ""
+    },
+    "freeTime": {
+      "text": "freeTime",
+      "desc": ""
+    },
+    "remoteControl": {
+      "text": "remoteControl",
+      "desc": ""
+    },
+    "runtime": {
+      "text": "runtime",
+      "desc": ""
+    },
+    "online": {
+      "text": "online",
+      "desc": ""
+    },
+    "noTask": {
+      "text": "noTask",
+      "desc": ""
+    },
+    "tooLongUnactive": {
+      "text": "tooLongUnactive",
+      "desc": ""
+    },
+    "runningTask": {
+      "text": "runningTask",
+      "desc": ""
+    },
+    "pointerTask": {
+      "text": "pointerTask",
+      "desc": ""
+    },
+    "reconnent": {
+      "text": "reconnent",
+      "desc": ""
+    },
+    "pointerTaskTip": {
+      "text": "pointerTaskTip",
+      "desc": ""
+    },
+    "latestConnectTime": {
+      "text": "latestConnectTime",
+      "desc": ""
+    },
+    "authorizeWorkerTypeText": {
+      "text": "authorizeWorkerTypeText",
+      "desc": ""
+    },
+    "authorizeAuthTypeText": {
+      "text": "authorizeAuthTypeText",
+      "desc": ""
+    }
+  },
+  "Creator": {
+    "creatorName": {
+      "text": "creatorName",
+      "desc": ""
+    },
+    "lastLoginIP": {
+      "text": "lastLoginIP",
+      "desc": ""
+    },
+    "licenseTypeFixed": {
+      "text": "licenseTypeFixed",
+      "desc": ""
+    },
+    "editCreator": {
+      "text": "editCreator",
+      "desc": ""
+    },
+    "creatorMessage2": {
+      "text": "creatorMessage2",
+      "desc": ""
+    },
+    "noCreatorTip": {
+      "text": "noCreatorTip",
+      "desc": ""
+    },
+    "acceptTaskNo": {
+      "text": "acceptTaskNo",
+      "desc": ""
+    },
+    "licenseTypeFloating": {
+      "text": "licenseTypeFloating",
+      "desc": ""
+    },
+    "creatorMessage3": {
+      "text": "creatorMessage3",
+      "desc": ""
+    },
+    "environment": {
+      "text": "environment",
+      "desc": ""
+    },
+    "machineName": {
+      "text": "machineName",
+      "desc": ""
+    },
+    "creatorStateOffline": {
+      "text": "creatorStateOffline",
+      "desc": ""
+    },
+    "creatorSearchVal": {
+      "text": "creatorSearchVal",
+      "desc": ""
+    },
+    "creatorNameMessage1": {
+      "text": "creatorNameMessage1",
+      "desc": ""
+    },
+    "creatorNamePlaceholder": {
+      "text": "creatorNamePlaceholder",
+      "desc": ""
+    },
+    "creatorDepartmentMessage": {
+      "text": "creatorDepartmentMessage",
+      "desc": ""
+    },
+    "creatorDepartmentPlaceholder": {
+      "text": "creatorDepartmentPlaceholder",
+      "desc": ""
+    },
+    "creatorEnvironmentPlaceholder": {
+      "text": "creatorEnvironmentPlaceholder",
+      "desc": ""
+    },
+    "creatorEnvironmentMessage": {
+      "text": "creatorEnvironmentMessage",
+      "desc": ""
+    },
+    "creatorUserPlaceholder": {
+      "text": "creatorUserPlaceholder",
+      "desc": ""
+    },
+    "creatorUserMessage": {
+      "text": "creatorUserMessage",
+      "desc": ""
+    },
+    "creatorDelTip": {
+      "text": "creatorDelTip",
+      "desc": ""
+    },
+    "removeCreator": {
+      "text": "removeCreator",
+      "desc": ""
+    },
+    "creatorMessage1": {
+      "text": "creatorMessage1",
+      "desc": ""
+    },
+    "creatorError1": {
+      "text": "creatorError1",
+      "desc": ""
+    },
+    "acceptTaskYes": {
+      "text": "acceptTaskYes",
+      "desc": ""
+    },
+    "acceptTask": {
+      "text": "acceptTask",
+      "desc": ""
+    },
+    "licenseType": {
+      "text": "licenseType",
+      "desc": ""
+    },
+    "licenseTypeAll": {
+      "text": "licenseTypeAll",
+      "desc": ""
+    },
+    "department": {
+      "text": "department",
+      "desc": ""
+    },
+    "creatorDepartment": {
+      "text": "creatorDepartment",
+      "desc": ""
+    },
+    "creatorEnvironment": {
+      "text": "creatorEnvironment",
+      "desc": ""
+    },
+    "creatorUser": {
+      "text": "creatorUser",
+      "desc": ""
+    },
+    "creatorTitleBtn": {
+      "text": "creatorTitleBtn",
+      "desc": ""
+    },
+    "creatorStateOnline": {
+      "text": "creatorStateOnline",
+      "desc": ""
+    },
+    "noCreatorSearchTip": {
+      "text": "noCreatorSearchTip",
+      "desc": ""
+    },
+    "creatorNameMessage3": {
+      "text": "creatorNameMessage3",
+      "desc": ""
+    },
+    "creatorNameMessage2": {
+      "text": "creatorNameMessage2",
+      "desc": ""
+    },
+    "creatorState": {
+      "text": "creatorState",
+      "desc": ""
+    },
+    "creatorStateAll": {
+      "text": "creatorStateAll",
+      "desc": ""
+    },
+    "lastLogined": {
+      "text": "lastLogined",
+      "desc": ""
+    },
+    "defendMode": {
+      "text": "defendMode",
+      "desc": ""
+    },
+    "version": {
+      "text": "version",
+      "desc": ""
+    },
+    "acceptTask1": {
+      "text": "acceptTask1",
+      "desc": ""
+    }
+  },
+  "MessageNotification": {
+    "notifyByEmail": {
+      "text": "notifyByEmail",
+      "desc": ""
+    },
+    "workerOverload": {
+      "text": "workerOverload",
+      "desc": ""
+    },
+    "workerLongOffline": {
+      "text": "workerLongOffline",
+      "desc": ""
+    },
+    "save": {
+      "text": "save",
+      "desc": ""
+    },
+    "saveSuccess": {
+      "text": "saveSuccess",
+      "desc": ""
+    },
+    "saveFail": {
+      "text": "saveFail",
+      "desc": ""
+    },
+    "close": {
+      "text": "close",
+      "desc": ""
+    },
+    "getNotifySettingFail": {
+      "text": "getNotifySettingFail",
+      "desc": ""
+    },
+    "open": {
+      "text": "open",
+      "desc": ""
+    },
+    "notifyByEmailTips": {
+      "text": "notifyByEmailTips",
+      "desc": ""
+    },
+    "messageStatusMessage": {
+      "text": "messageStatusMessage",
+      "desc": ""
+    },
+    "all": {
+      "text": "all",
+      "desc": ""
+    },
+    "taskSendFail": {
+      "text": "taskSendFail",
+      "desc": ""
+    },
+    "taskQueueTimeout": {
+      "text": "taskQueueTimeout",
+      "desc": ""
+    },
+    "taskRunTimeout": {
+      "text": "taskRunTimeout",
+      "desc": ""
+    },
+    "taskRunFail": {
+      "text": "taskRunFail",
+      "desc": ""
+    },
+    "failMessage": {
+      "text": "failMessage",
+      "desc": ""
+    },
+    "notifyWay": {
+      "text": "notifyWay",
+      "desc": ""
+    },
+    "messageType": {
+      "text": "messageType",
+      "desc": ""
+    },
+    "messageTitle": {
+      "text": "messageTitle",
+      "desc": ""
+    },
+    "messageStatus": {
+      "text": "messageStatus",
+      "desc": ""
+    },
+    "exceptionMessage": {
+      "text": "exceptionMessage",
+      "desc": ""
+    },
+    "notifyEmailSettings": {
+      "text": "notifyEmailSettings",
+      "desc": ""
+    },
+    "warningMessage": {
+      "text": "warningMessage",
+      "desc": ""
+    },
+    "webMessage": {
+      "text": "webMessage",
+      "desc": ""
+    },
+    "errorRequireAtLeastOneNotifyType": {
+      "text": "errorRequireAtLeastOneNotifyType",
+      "desc": ""
+    },
+    "errorRequireAtLeastOneMessageType": {
+      "text": "errorRequireAtLeastOneMessageType",
+      "desc": ""
+    }
+  },
+  "taskManager": {
+    "jsonFormatError": {
+      "text": "jsonFormatError",
+      "desc": ""
+    },
+    "createTypeValue3": {
+      "text": "createTypeValue3",
+      "desc": ""
+    },
+    "workerName22": {
+      "text": "workerName22",
+      "desc": ""
+    },
+    "Worker": {
+      "text": "Worker",
+      "desc": ""
+    },
+    "workerCrashed": {
+      "text": "workerCrashed",
+      "desc": ""
+    },
+    "workerClientCancel": {
+      "text": "workerClientCancel",
+      "desc": ""
+    },
+    "workerType": {
+      "text": "workerType",
+      "desc": ""
+    },
+    "workerName": {
+      "text": "workerName",
+      "desc": ""
+    },
+    "saveTaskTargetFail": {
+      "text": "saveTaskTargetFail",
+      "desc": ""
+    },
+    "recordState2": {
+      "text": "recordState2",
+      "desc": ""
+    },
+    "notRecord": {
+      "text": "notRecord",
+      "desc": ""
+    },
+    "department": {
+      "text": "department",
+      "desc": ""
+    },
+    "departmentName": {
+      "text": "departmentName",
+      "desc": ""
+    },
+    "departName2": {
+      "text": "departName2",
+      "desc": ""
+    },
+    "operation": {
+      "text": "operation",
+      "desc": ""
+    },
+    "operate": {
+      "text": "operate",
+      "desc": ""
+    },
+    "viewImg": {
+      "text": "viewImg",
+      "desc": ""
+    },
+    "lookRecord": {
+      "text": "lookRecord",
+      "desc": ""
+    },
+    "lookTaskParams": {
+      "text": "lookTaskParams",
+      "desc": ""
+    },
+    "lookDetails": {
+      "text": "lookDetails",
+      "desc": ""
+    },
+    "lookStatis": {
+      "text": "lookStatis",
+      "desc": ""
+    },
+    "fileViewTitle": {
+      "text": "fileViewTitle",
+      "desc": ""
+    },
+    "lookRunLogFail": {
+      "text": "lookRunLogFail",
+      "desc": ""
+    },
+    "getFlowListDataFail": {
+      "text": "getFlowListDataFail",
+      "desc": ""
+    },
+    "resultSuc": {
+      "text": "resultSuc",
+      "desc": ""
+    },
+    "handleComplete": {
+      "text": "handleComplete",
+      "desc": ""
+    },
+    "handlingExceptions": {
+      "text": "handlingExceptions",
+      "desc": ""
+    },
+    "createTaskSuc": {
+      "text": "createTaskSuc",
+      "desc": ""
+    },
+    "createTaskFail": {
+      "text": "createTaskFail",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "createTime",
+      "desc": ""
+    },
+    "createTimeSelectTips": {
+      "text": "createTimeSelectTips",
+      "desc": ""
+    },
+    "createTime2": {
+      "text": "createTime2",
+      "desc": ""
+    },
+    "founde": {
+      "text": "founde",
+      "desc": ""
+    },
+    "deploying": {
+      "text": "deploying",
+      "desc": ""
+    },
+    "waitingExecute": {
+      "text": "waitingExecute",
+      "desc": ""
+    },
+    "currentQueueTask": {
+      "text": "currentQueueTask",
+      "desc": ""
+    },
+    "currentQueue": {
+      "text": "currentQueue",
+      "desc": ""
+    },
+    "pending": {
+      "text": "pending",
+      "desc": ""
+    },
+    "backHomePage": {
+      "text": "backHomePage",
+      "desc": ""
+    },
+    "stepThree": {
+      "text": "stepThree",
+      "desc": ""
+    },
+    "stepThree2": {
+      "text": "stepThree2",
+      "desc": ""
+    },
+    "workerAllocation": {
+      "text": "workerAllocation",
+      "desc": ""
+    },
+    "workerAllocation2": {
+      "text": "workerAllocation2",
+      "desc": ""
+    },
+    "getWorkerListDataFail": {
+      "text": "getWorkerListDataFail",
+      "desc": ""
+    },
+    "getCurrentRunListFail": {
+      "text": "getCurrentRunListFail",
+      "desc": ""
+    },
+    "getTaskQueueManagerFail": {
+      "text": "getTaskQueueManagerFail",
+      "desc": ""
+    },
+    "getRecordViewDataFail": {
+      "text": "getRecordViewDataFail",
+      "desc": ""
+    },
+    "getTaskViewFail": {
+      "text": "getTaskViewFail",
+      "desc": ""
+    },
+    "getTaskDetailListDataFail": {
+      "text": "getTaskDetailListDataFail",
+      "desc": ""
+    },
+    "getTaskFileFail": {
+      "text": "getTaskFileFail",
+      "desc": ""
+    },
+    "getTaskDetailFail": {
+      "text": "getTaskDetailFail",
+      "desc": ""
+    },
+    "getTaskTargetFail": {
+      "text": "getTaskTargetFail",
+      "desc": ""
+    },
+    "getBussinessTypeFail": {
+      "text": "getBussinessTypeFail",
+      "desc": ""
+    },
+    "getStatisticsDataFail": {
+      "text": "getStatisticsDataFail",
+      "desc": ""
+    },
+    "getAssignWorkerNumberFail": {
+      "text": "getAssignWorkerNumberFail",
+      "desc": ""
+    },
+    "level": {
+      "text": "level",
+      "desc": ""
+    },
+    "createTypeValue4": {
+      "text": "createTypeValue4",
+      "desc": ""
+    },
+    "endTime": {
+      "text": "endTime",
+      "desc": ""
+    },
+    "endTime2": {
+      "text": "endTime2",
+      "desc": ""
+    },
+    "screenTime": {
+      "text": "screenTime",
+      "desc": ""
+    },
+    "startTime": {
+      "text": "startTime",
+      "desc": ""
+    },
+    "workerEmpty": {
+      "text": "workerEmpty",
+      "desc": ""
+    },
+    "fastCreateTask": {
+      "text": "fastCreateTask",
+      "desc": ""
+    },
+    "flowName": {
+      "text": "flowName",
+      "desc": ""
+    },
+    "flowDataDisplay": {
+      "text": "flowDataDisplay",
+      "desc": ""
+    },
+    "flowName4": {
+      "text": "flowName4",
+      "desc": ""
+    },
+    "createTypeValue5": {
+      "text": "createTypeValue5",
+      "desc": ""
+    },
+    "flowName3": {
+      "text": "flowName3",
+      "desc": ""
+    },
+    "flowName22": {
+      "text": "flowName22",
+      "desc": ""
+    },
+    "flowName2": {
+      "text": "flowName2",
+      "desc": ""
+    },
+    "flowFileFormatException": {
+      "text": "flowFileFormatException",
+      "desc": ""
+    },
+    "flowDownloadFail": {
+      "text": "flowDownloadFail",
+      "desc": ""
+    },
+    "flowRunFail": {
+      "text": "flowRunFail",
+      "desc": ""
+    },
+    "recordState1": {
+      "text": "recordState1",
+      "desc": ""
+    },
+    "record": {
+      "text": "record",
+      "desc": ""
+    },
+    "recordViewTitle": {
+      "text": "recordViewTitle",
+      "desc": ""
+    },
+    "recordDetail": {
+      "text": "recordDetail",
+      "desc": ""
+    },
+    "videoFileExist": {
+      "text": "videoFileExist",
+      "desc": ""
+    },
+    "noTaskRunning": {
+      "text": "noTaskRunning",
+      "desc": ""
+    },
+    "remark": {
+      "text": "remark",
+      "desc": ""
+    },
+    "logDisplayContent": {
+      "text": "logDisplayContent",
+      "desc": ""
+    },
+    "otherTypeOfBusiness": {
+      "text": "otherTypeOfBusiness",
+      "desc": ""
+    },
+    "pleaseFillTaskTargetInfo": {
+      "text": "pleaseFillTaskTargetInfo",
+      "desc": ""
+    },
+    "pleaseSelectWorker": {
+      "text": "pleaseSelectWorker",
+      "desc": ""
+    },
+    "depNamePlaceholder": {
+      "text": "depNamePlaceholder",
+      "desc": ""
+    },
+    "businessTypeTip": {
+      "text": "businessTypeTip",
+      "desc": ""
+    },
+    "pleaseSelectExecuteWay": {
+      "text": "pleaseSelectExecuteWay",
+      "desc": ""
+    },
+    "noSelectWorkerMessage": {
+      "text": "noSelectWorkerMessage",
+      "desc": ""
+    },
+    "cancelBtn": {
+      "text": "cancelBtn",
+      "desc": ""
+    },
+    "cancelTask": {
+      "text": "cancelTask",
+      "desc": ""
+    },
+    "cancelTime": {
+      "text": "cancelTime",
+      "desc": ""
+    },
+    "cancelTaskSuc": {
+      "text": "cancelTaskSuc",
+      "desc": ""
+    },
+    "cancelTaskFail": {
+      "text": "cancelTaskFail",
+      "desc": ""
+    },
+    "cancelOperateContentTip": {
+      "text": "cancelOperateContentTip",
+      "desc": ""
+    },
+    "reExecuteContentTip": {
+      "text": "reExecuteContentTip",
+      "desc": ""
+    },
+    "workerAttendFixed": {
+      "text": "workerAttendFixed",
+      "desc": ""
+    },
+    "workerAttendFloat": {
+      "text": "workerAttendFloat",
+      "desc": ""
+    },
+    "createTypeValue2": {
+      "text": "createTypeValue2",
+      "desc": ""
+    },
+    "taskCode": {
+      "text": "taskCode",
+      "desc": ""
+    },
+    "searchPlaceholderTip": {
+      "text": "searchPlaceholderTip",
+      "desc": ""
+    },
+    "searchPlaceholderTip2": {
+      "text": "searchPlaceholderTip2",
+      "desc": ""
+    },
+    "taskParams": {
+      "text": "taskParams",
+      "desc": ""
+    },
+    "taskQueue": {
+      "text": "taskQueue",
+      "desc": ""
+    },
+    "createTypeValue1": {
+      "text": "createTypeValue1",
+      "desc": ""
+    },
+    "createType": {
+      "text": "createType",
+      "desc": ""
+    },
+    "canceled": {
+      "text": "canceled",
+      "desc": ""
+    },
+    "cancelTaskFailMessage": {
+      "text": "cancelTaskFailMessage",
+      "desc": ""
+    },
+    "taskLog": {
+      "text": "taskLog",
+      "desc": ""
+    },
+    "taskListText": {
+      "text": "taskListText",
+      "desc": ""
+    },
+    "taskInfo": {
+      "text": "taskInfo",
+      "desc": ""
+    },
+    "taskState": {
+      "text": "taskState",
+      "desc": ""
+    },
+    "taskState2": {
+      "text": "taskState2",
+      "desc": ""
+    },
+    "logDetails": {
+      "text": "logDetails",
+      "desc": ""
+    },
+    "uploadTime": {
+      "text": "uploadTime",
+      "desc": ""
+    },
+    "creator": {
+      "text": "creator",
+      "desc": ""
+    },
+    "preImg": {
+      "text": "preImg",
+      "desc": ""
+    },
+    "setTaskParams": {
+      "text": "setTaskParams",
+      "desc": ""
+    },
+    "resultFail": {
+      "text": "resultFail",
+      "desc": ""
+    },
+    "failReason": {
+      "text": "failReason",
+      "desc": ""
+    },
+    "recordState": {
+      "text": "recordState",
+      "desc": ""
+    },
+    "isRecord": {
+      "text": "isRecord",
+      "desc": ""
+    },
+    "dataStatisticsTarget": {
+      "text": "dataStatisticsTarget",
+      "desc": ""
+    },
+    "statisticsTargetRename": {
+      "text": "statisticsTargetRename",
+      "desc": ""
+    },
+    "refresh": {
+      "text": "refresh",
+      "desc": ""
+    },
+    "depName": {
+      "text": "depName",
+      "desc": ""
+    },
+    "departName": {
+      "text": "departName",
+      "desc": ""
+    },
+    "env": {
+      "text": "env",
+      "desc": ""
+    },
+    "allFlow": {
+      "text": "allFlow",
+      "desc": ""
+    },
+    "allState": {
+      "text": "allState",
+      "desc": ""
+    },
+    "statisticsTarget": {
+      "text": "statisticsTarget",
+      "desc": ""
+    },
+    "stepFour": {
+      "text": "stepFour",
+      "desc": ""
+    },
+    "noActive": {
+      "text": "noActive",
+      "desc": ""
+    },
+    "urlError": {
+      "text": "urlError",
+      "desc": ""
+    },
+    "fileName": {
+      "text": "fileName",
+      "desc": ""
+    },
+    "filePlaceholder": {
+      "text": "filePlaceholder",
+      "desc": ""
+    },
+    "workerUnattendFixed": {
+      "text": "workerUnattendFixed",
+      "desc": ""
+    },
+    "workerUnattendFloat": {
+      "text": "workerUnattendFloat",
+      "desc": ""
+    },
+    "noHasTaskParams": {
+      "text": "noHasTaskParams",
+      "desc": ""
+    },
+    "nextImg": {
+      "text": "nextImg",
+      "desc": ""
+    },
+    "createTask": {
+      "text": "createTask",
+      "desc": ""
+    },
+    "addAStatisticsTarget": {
+      "text": "addAStatisticsTarget",
+      "desc": ""
+    },
+    "saveTaskTargetSuc": {
+      "text": "saveTaskTargetSuc",
+      "desc": ""
+    },
+    "stepOne": {
+      "text": "stepOne",
+      "desc": ""
+    },
+    "stepTwo": {
+      "text": "stepTwo",
+      "desc": ""
+    },
+    "businessType": {
+      "text": "businessType",
+      "desc": ""
+    },
+    "businessTypeTip2": {
+      "text": "businessTypeTip2",
+      "desc": ""
+    },
+    "cancelTaskSucMessage": {
+      "text": "cancelTaskSucMessage",
+      "desc": ""
+    },
+    "userCancelTask": {
+      "text": "userCancelTask",
+      "desc": ""
+    },
+    "success": {
+      "text": "success",
+      "desc": ""
+    },
+    "runResult": {
+      "text": "runResult",
+      "desc": ""
+    },
+    "workerRunLog": {
+      "text": "workerRunLog",
+      "desc": ""
+    },
+    "runLog": {
+      "text": "runLog",
+      "desc": ""
+    },
+    "failed": {
+      "text": "failed",
+      "desc": ""
+    },
+    "runTime": {
+      "text": "runTime",
+      "desc": ""
+    },
+    "runInfo": {
+      "text": "runInfo",
+      "desc": ""
+    },
+    "running": {
+      "text": "running",
+      "desc": ""
+    },
+    "noConnect": {
+      "text": "noConnect",
+      "desc": ""
+    },
+    "noParams": {
+      "text": "noParams",
+      "desc": ""
+    },
+    "noWorkerData": {
+      "text": "noWorkerData",
+      "desc": ""
+    },
+    "noScreenVideo": {
+      "text": "noScreenVideo",
+      "desc": ""
+    },
+    "imgViewerMessage1": {
+      "text": "imgViewerMessage1",
+      "desc": ""
+    },
+    "imgViewerMessage2": {
+      "text": "imgViewerMessage2",
+      "desc": ""
+    },
+    "processing": {
+      "text": "processing",
+      "desc": ""
+    },
+    "taskRunning": {
+      "text": "taskRunning",
+      "desc": ""
+    },
+    "runMethod": {
+      "text": "runMethod",
+      "desc": ""
+    },
+    "timeLimitTips": {
+      "text": "timeLimitTips",
+      "desc": ""
+    },
+    "specifyWorker": {
+      "text": "specifyWorker",
+      "desc": ""
+    },
+    "reExecuteSuc": {
+      "text": "reExecuteSuc",
+      "desc": ""
+    },
+    "reExecuteFail": {
+      "text": "reExecuteFail",
+      "desc": ""
+    },
+    "reassignWorkerSuc": {
+      "text": "reassignWorkerSuc",
+      "desc": ""
+    },
+    "reassignWorkerFail": {
+      "text": "reassignWorkerFail",
+      "desc": ""
+    },
+    "state": {
+      "text": "state",
+      "desc": ""
+    },
+    "workerState": {
+      "text": "workerState",
+      "desc": ""
+    },
+    "autoAllocation": {
+      "text": "autoAllocation",
+      "desc": ""
+    },
+    "autoAllocationIncludeBrackets": {
+      "text": "autoAllocationIncludeBrackets",
+      "desc": ""
+    },
+    "autoRefresh": {
+      "text": "autoRefresh",
+      "desc": ""
+    },
+    "autoRefreshTip": {
+      "text": "autoRefreshTip",
+      "desc": ""
+    },
+    "invalid": {
+      "text": "invalid",
+      "desc": ""
+    }
+  },
+  "permission": {
+    "uiBotCommanderTitle": {
+      "text": "uiBotCommanderTitle",
+      "desc": ""
+    },
+    "tip1": {
+      "text": "tip1",
+      "desc": ""
+    },
+    "message1": {
+      "text": "message1",
+      "desc": ""
+    }
+  },
+  "loginManager": {
+    "OAuthLogin": {
+      "text": "OAuthLogin",
+      "desc": ""
+    },
+    "productTitle": {
+      "text": "productTitle",
+      "desc": ""
+    },
+    "loginTitle": {
+      "text": "loginTitle",
+      "desc": ""
+    },
+    "login": {
+      "text": "login",
+      "desc": ""
+    },
+    "loginName": {
+      "text": "loginName",
+      "desc": ""
+    },
+    "userNameMessage": {
+      "text": "userNameMessage",
+      "desc": ""
+    },
+    "companyCode": {
+      "text": "companyCode",
+      "desc": ""
+    },
+    "companyCodeMessage": {
+      "text": "companyCodeMessage",
+      "desc": ""
+    },
+    "copyright": {
+      "text": "copyright",
+      "desc": ""
+    },
+    "errorMessage3": {
+      "text": "errorMessage3",
+      "desc": ""
+    },
+    "flowManagementPlatform": {
+      "text": "flowManagementPlatform",
+      "desc": ""
+    },
+    "userPassword": {
+      "text": "userPassword",
+      "desc": ""
+    },
+    "userPasswordMessage": {
+      "text": "userPasswordMessage",
+      "desc": ""
+    },
+    "expireModifyPwdTip": {
+      "text": "expireModifyPwdTip",
+      "desc": ""
+    },
+    "userNamePlaceholder": {
+      "text": "userNamePlaceholder",
+      "desc": ""
+    },
+    "companyCodePlaceholder": {
+      "text": "companyCodePlaceholder",
+      "desc": ""
+    },
+    "userPasswordPlaceholder": {
+      "text": "userPasswordPlaceholder",
+      "desc": ""
+    },
+    "newPwdPlaceholder": {
+      "text": "newPwdPlaceholder",
+      "desc": ""
+    },
+    "checkCodePlaceholder": {
+      "text": "checkCodePlaceholder",
+      "desc": ""
+    },
+    "oldPwdPlaceholder": {
+      "text": "oldPwdPlaceholder",
+      "desc": ""
+    },
+    "reNewPwdPlaceholder": {
+      "text": "reNewPwdPlaceholder",
+      "desc": ""
+    },
+    "errorMessage1": {
+      "text": "errorMessage1",
+      "desc": ""
+    },
+    "firstModifyPwdTip": {
+      "text": "firstModifyPwdTip",
+      "desc": ""
+    },
+    "newPwdLabel": {
+      "text": "newPwdLabel",
+      "desc": ""
+    },
+    "errorMessage2": {
+      "text": "errorMessage2",
+      "desc": ""
+    },
+    "newPwdMessage": {
+      "text": "newPwdMessage",
+      "desc": ""
+    },
+    "errorMessage4": {
+      "text": "errorMessage4",
+      "desc": ""
+    },
+    "modifyPwdTitle": {
+      "text": "modifyPwdTitle",
+      "desc": ""
+    },
+    "successMessage1": {
+      "text": "successMessage1",
+      "desc": ""
+    },
+    "checkCode": {
+      "text": "checkCode",
+      "desc": ""
+    },
+    "checkCodeMessage": {
+      "text": "checkCodeMessage",
+      "desc": ""
+    },
+    "agreement": {
+      "text": "agreement",
+      "desc": ""
+    },
+    "oldPwdLabel": {
+      "text": "oldPwdLabel",
+      "desc": ""
+    },
+    "oldPwdMessage": {
+      "text": "oldPwdMessage",
+      "desc": ""
+    },
+    "reNewPwdLabel": {
+      "text": "reNewPwdLabel",
+      "desc": ""
+    },
+    "reNewPwdMessage": {
+      "text": "reNewPwdMessage",
+      "desc": ""
+    }
+  },
+  "EmailSettingsModal": {
+    "smtpPort": {
+      "text": "smtpPort",
+      "desc": ""
+    },
+    "validateMessageRequiredsmtpPort": {
+      "text": "validateMessageRequiredsmtpPort",
+      "desc": ""
+    },
+    "smtpHost": {
+      "text": "smtpHost",
+      "desc": ""
+    },
+    "validateMessageRequiredsmtpHost": {
+      "text": "validateMessageRequiredsmtpHost",
+      "desc": ""
+    },
+    "smtpDomain": {
+      "text": "smtpDomain",
+      "desc": ""
+    },
+    "collapseSettingSendFailed": {
+      "text": "collapseSettingSendFailed",
+      "desc": ""
+    },
+    "collapseSettingTitle": {
+      "text": "collapseSettingTitle",
+      "desc": ""
+    },
+    "collapseSettingSendSuccess": {
+      "text": "collapseSettingSendSuccess",
+      "desc": ""
+    },
+    "senderAddress": {
+      "text": "senderAddress",
+      "desc": ""
+    },
+    "validateMessageRequiredsenderAddress": {
+      "text": "validateMessageRequiredsenderAddress",
+      "desc": ""
+    },
+    "senderName": {
+      "text": "senderName",
+      "desc": ""
+    },
+    "collapseSettingSendButton": {
+      "text": "collapseSettingSendButton",
+      "desc": ""
+    },
+    "collapseSettingSenddingButton": {
+      "text": "collapseSettingSenddingButton",
+      "desc": ""
+    },
+    "smtpPassword": {
+      "text": "smtpPassword",
+      "desc": ""
+    },
+    "validateMessageRequiredpassword": {
+      "text": "validateMessageRequiredpassword",
+      "desc": ""
+    },
+    "max30Charactor": {
+      "text": "max30Charactor",
+      "desc": ""
+    },
+    "enableSsl": {
+      "text": "enableSsl",
+      "desc": ""
+    },
+    "testEmailPlaceHolder": {
+      "text": "testEmailPlaceHolder",
+      "desc": ""
+    },
+    "validEmailRequired": {
+      "text": "validEmailRequired",
+      "desc": ""
+    },
+    "cancelButton": {
+      "text": "cancelButton",
+      "desc": ""
+    },
+    "confirmButton": {
+      "text": "confirmButton",
+      "desc": ""
+    },
+    "collapseSettingReceiver": {
+      "text": "collapseSettingReceiver",
+      "desc": ""
+    },
+    "smtpUserName": {
+      "text": "smtpUserName",
+      "desc": ""
+    },
+    "validateMessageRequireduserName": {
+      "text": "validateMessageRequireduserName",
+      "desc": ""
+    },
+    "dialogTitle": {
+      "text": "dialogTitle",
+      "desc": ""
+    }
+  },
+  "datav": {
+    "datavTitle": {
+      "text": "datavTitle",
+      "desc": ""
+    },
+    "successRate": {
+      "text": "successRate",
+      "desc": ""
+    },
+    "saveTime": {
+      "text": "saveTime",
+      "desc": ""
+    },
+    "saveTimeSummary": {
+      "text": "saveTimeSummary",
+      "desc": ""
+    },
+    "geoMapTask": {
+      "text": "geoMapTask",
+      "desc": ""
+    },
+    "top12": {
+      "text": "top12",
+      "desc": ""
+    },
+    "usageRate": {
+      "text": "usageRate",
+      "desc": ""
+    },
+    "runCount": {
+      "text": "runCount",
+      "desc": ""
+    },
+    "runCountSaveTime": {
+      "text": "runCountSaveTime",
+      "desc": ""
+    },
+    "running": {
+      "text": "running",
+      "desc": ""
+    },
+    "workerRunState": {
+      "text": "workerRunState",
+      "desc": ""
+    },
+    "savejieTimeSummary": {
+      "text": "savejieTimeSummary",
+      "desc": ""
+    },
+    "runCountsaveTimeSummary": {
+      "text": "runCountsaveTimeSummary",
+      "desc": ""
+    }
+  },
+  "workerUnAttend": {
+    "workerName": {
+      "text": "workerName",
+      "desc": ""
+    },
+    "notEmptyWorkerName": {
+      "text": "notEmptyWorkerName",
+      "desc": ""
+    },
+    "workerName2": {
+      "text": "workerName2",
+      "desc": ""
+    },
+    "workerNameUnattend": {
+      "text": "workerNameUnattend",
+      "desc": ""
+    },
+    "bindMachine": {
+      "text": "bindMachine",
+      "desc": ""
+    },
+    "workerRemark": {
+      "text": "workerRemark",
+      "desc": ""
+    },
+    "editWorker": {
+      "text": "editWorker",
+      "desc": ""
+    },
+    "editWorker2": {
+      "text": "editWorker2",
+      "desc": ""
+    },
+    "editWorkerFail": {
+      "text": "editWorkerFail",
+      "desc": ""
+    },
+    "workerDepartmentTitle": {
+      "text": "workerDepartmentTitle",
+      "desc": ""
+    },
+    "lookKey": {
+      "text": "lookKey",
+      "desc": ""
+    },
+    "lookKey2": {
+      "text": "lookKey2",
+      "desc": ""
+    },
+    "querySingleWorkerMessage": {
+      "text": "querySingleWorkerMessage",
+      "desc": ""
+    },
+    "createWorkerSucMessage": {
+      "text": "createWorkerSucMessage",
+      "desc": ""
+    },
+    "createWorkerFail": {
+      "text": "createWorkerFail",
+      "desc": ""
+    },
+    "selectUnattendedBindMachine": {
+      "text": "selectUnattendedBindMachine",
+      "desc": ""
+    },
+    "selectUnattendedFloatingAuthorization": {
+      "text": "selectUnattendedFloatingAuthorization",
+      "desc": ""
+    },
+    "currentVersionCode": {
+      "text": "currentVersionCode",
+      "desc": ""
+    },
+    "clickCopy": {
+      "text": "clickCopy",
+      "desc": ""
+    },
+    "floatingAuthorization": {
+      "text": "floatingAuthorization",
+      "desc": ""
+    },
+    "copyAndClose": {
+      "text": "copyAndClose",
+      "desc": ""
+    },
+    "copySuc": {
+      "text": "copySuc",
+      "desc": ""
+    },
+    "copyKey": {
+      "text": "copyKey",
+      "desc": ""
+    },
+    "browserNotSupportCopy": {
+      "text": "browserNotSupportCopy",
+      "desc": ""
+    },
+    "updateWorkerSucMessage": {
+      "text": "updateWorkerSucMessage",
+      "desc": ""
+    },
+    "updateWorkerFailMessage": {
+      "text": "updateWorkerFailMessage",
+      "desc": ""
+    },
+    "env": {
+      "text": "env",
+      "desc": ""
+    },
+    "getWorkerListFailMessage": {
+      "text": "getWorkerListFailMessage",
+      "desc": ""
+    },
+    "machineCode": {
+      "text": "machineCode",
+      "desc": ""
+    },
+    "activateWorker": {
+      "text": "activateWorker",
+      "desc": ""
+    },
+    "activateWorker2": {
+      "text": "activateWorker2",
+      "desc": ""
+    },
+    "searchPlaceholder": {
+      "text": "searchPlaceholder",
+      "desc": ""
+    },
+    "workerDepartmentMessage5": {
+      "text": "workerDepartmentMessage5",
+      "desc": ""
+    },
+    "bulkUpdateWorker": {
+      "text": "bulkUpdateWorker",
+      "desc": ""
+    },
+    "rememberKey": {
+      "text": "rememberKey",
+      "desc": ""
+    },
+    "pleaseInputWorkerName": {
+      "text": "pleaseInputWorkerName",
+      "desc": ""
+    },
+    "workerDepartmentMessage": {
+      "text": "workerDepartmentMessage",
+      "desc": ""
+    },
+    "workerEnvironmentPlaceholder": {
+      "text": "workerEnvironmentPlaceholder",
+      "desc": ""
+    },
+    "workerEnvironmentMessage": {
+      "text": "workerEnvironmentMessage",
+      "desc": ""
+    },
+    "pleaseSelectAuthorizeType": {
+      "text": "pleaseSelectAuthorizeType",
+      "desc": ""
+    },
+    "workerDepartmentPlaceholder": {
+      "text": "workerDepartmentPlaceholder",
+      "desc": ""
+    },
+    "createWorkerMessageTips": {
+      "text": "createWorkerMessageTips",
+      "desc": ""
+    },
+    "deleteWorkerMessage": {
+      "text": "deleteWorkerMessage",
+      "desc": ""
+    },
+    "deleteWorker": {
+      "text": "deleteWorker",
+      "desc": ""
+    },
+    "deleteWorkerSucMessage": {
+      "text": "deleteWorkerSucMessage",
+      "desc": ""
+    },
+    "deleteWorkerFailMessage": {
+      "text": "deleteWorkerFailMessage",
+      "desc": ""
+    },
+    "remainingAvailable": {
+      "text": "remainingAvailable",
+      "desc": ""
+    },
+    "isAccept": {
+      "text": "isAccept",
+      "desc": ""
+    },
+    "authorizedDepartment": {
+      "text": "authorizedDepartment",
+      "desc": ""
+    },
+    "workerAuthorDepartment": {
+      "text": "workerAuthorDepartment",
+      "desc": ""
+    },
+    "authorizeType": {
+      "text": "authorizeType",
+      "desc": ""
+    },
+    "workerType": {
+      "text": "workerType",
+      "desc": ""
+    },
+    "authorizationType": {
+      "text": "authorizationType",
+      "desc": ""
+    },
+    "workerDepartment": {
+      "text": "workerDepartment",
+      "desc": ""
+    },
+    "departmentName": {
+      "text": "departmentName",
+      "desc": ""
+    },
+    "workerEnvironment": {
+      "text": "workerEnvironment",
+      "desc": ""
+    },
+    "workerEnv": {
+      "text": "workerEnv",
+      "desc": ""
+    },
+    "createWorkerComplete": {
+      "text": "createWorkerComplete",
+      "desc": ""
+    },
+    "iKnow": {
+      "text": "iKnow",
+      "desc": ""
+    },
+    "unattendFixed": {
+      "text": "unattendFixed",
+      "desc": ""
+    },
+    "unattendFloat": {
+      "text": "unattendFloat",
+      "desc": ""
+    },
+    "workerDepartmentMessage2": {
+      "text": "workerDepartmentMessage2",
+      "desc": ""
+    },
+    "createWorker": {
+      "text": "createWorker",
+      "desc": ""
+    },
+    "newWorkerUnAttendFailMessage": {
+      "text": "newWorkerUnAttendFailMessage",
+      "desc": ""
+    },
+    "workerDepartmentMessage1": {
+      "text": "workerDepartmentMessage1",
+      "desc": ""
+    },
+    "workerDepartmentMessage3": {
+      "text": "workerDepartmentMessage3",
+      "desc": ""
+    },
+    "pasteKey": {
+      "text": "pasteKey",
+      "desc": ""
+    },
+    "state": {
+      "text": "state",
+      "desc": ""
+    },
+    "workerDepartmentMessage4": {
+      "text": "workerDepartmentMessage4",
+      "desc": ""
+    },
+    "connectTimeLast": {
+      "text": "connectTimeLast",
+      "desc": ""
+    },
+    "removeBindTitle": {
+      "text": "removeBindTitle",
+      "desc": ""
+    },
+    "removeBindContent": {
+      "text": "removeBindContent",
+      "desc": ""
+    },
+    "noRemoveBindTip": {
+      "text": "noRemoveBindTip",
+      "desc": ""
+    },
+    "removeBindTip": {
+      "text": "removeBindTip",
+      "desc": ""
+    },
+    "acceptModeTips1": {
+      "text": "acceptModeTips1",
+      "desc": ""
+    },
+    "acceptModeTips2": {
+      "text": "acceptModeTips2",
+      "desc": ""
+    },
+    "versionCode": {
+      "text": "versionCode",
+      "desc": ""
+    },
+    "isAccept1": {
+      "text": "isAccept1",
+      "desc": ""
+    }
+  },
+  "dashboard": {
+    "workUsage": {
+      "text": "workUsage",
+      "desc": ""
+    },
+    "workerCount": {
+      "text": "workerCount",
+      "desc": ""
+    },
+    "successRate": {
+      "text": "successRate",
+      "desc": ""
+    },
+    "dealCompleted": {
+      "text": "dealCompleted",
+      "desc": ""
+    },
+    "dealWait": {
+      "text": "dealWait",
+      "desc": ""
+    },
+    "departmentAnaTitle": {
+      "text": "departmentAnaTitle",
+      "desc": ""
+    },
+    "more": {
+      "text": "more",
+      "desc": ""
+    },
+    "workUsageDatav": {
+      "text": "workUsageDatav",
+      "desc": ""
+    },
+    "workerDepartmentDatav": {
+      "text": "workerDepartmentDatav",
+      "desc": ""
+    },
+    "workerHours2": {
+      "text": "workerHours2",
+      "desc": ""
+    },
+    "saveMinite": {
+      "text": "saveMinite",
+      "desc": ""
+    },
+    "saveMinite1": {
+      "text": "saveMinite1",
+      "desc": ""
+    },
+    "todayTask": {
+      "text": "todayTask",
+      "desc": ""
+    },
+    "latestTwoWeek": {
+      "text": "latestTwoWeek",
+      "desc": ""
+    },
+    "latestOneMonth": {
+      "text": "latestOneMonth",
+      "desc": ""
+    },
+    "latestOneWeek": {
+      "text": "latestOneWeek",
+      "desc": ""
+    },
+    "departmentSummary": {
+      "text": "departmentSummary",
+      "desc": ""
+    },
+    "regionSummary": {
+      "text": "regionSummary",
+      "desc": ""
+    },
+    "saveCostSummary": {
+      "text": "saveCostSummary",
+      "desc": ""
+    },
+    "workHours": {
+      "text": "workHours",
+      "desc": ""
+    },
+    "bussinessTypeDistribute": {
+      "text": "bussinessTypeDistribute",
+      "desc": ""
+    },
+    "businessTypeDatav": {
+      "text": "businessTypeDatav",
+      "desc": ""
+    },
+    "mostUsedTop10": {
+      "text": "mostUsedTop10",
+      "desc": ""
+    },
+    "mostUsedTop5": {
+      "text": "mostUsedTop5",
+      "desc": ""
+    },
+    "mostUsedTopDatav": {
+      "text": "mostUsedTopDatav",
+      "desc": ""
+    },
+    "workerAttend": {
+      "text": "workerAttend",
+      "desc": ""
+    },
+    "workerAttendFloat": {
+      "text": "workerAttendFloat",
+      "desc": ""
+    },
+    "task": {
+      "text": "task",
+      "desc": ""
+    },
+    "taskRegionDistribute": {
+      "text": "taskRegionDistribute",
+      "desc": ""
+    },
+    "taskFailReasonDistribution": {
+      "text": "taskFailReasonDistribution",
+      "desc": ""
+    },
+    "datav": {
+      "text": "datav",
+      "desc": ""
+    },
+    "failRate": {
+      "text": "failRate",
+      "desc": ""
+    },
+    "failReason": {
+      "text": "failReason",
+      "desc": ""
+    },
+    "usage": {
+      "text": "usage",
+      "desc": ""
+    },
+    "taskCon": {
+      "text": "taskCon",
+      "desc": ""
+    },
+    "centerTitle": {
+      "text": "centerTitle",
+      "desc": ""
+    },
+    "workerUnattend": {
+      "text": "workerUnattend",
+      "desc": ""
+    },
+    "workerUnattendFixed": {
+      "text": "workerUnattendFixed",
+      "desc": ""
+    },
+    "workerUnattendFloat": {
+      "text": "workerUnattendFloat",
+      "desc": ""
+    },
+    "businessAnalyze": {
+      "text": "businessAnalyze",
+      "desc": ""
+    },
+    "businessType": {
+      "text": "businessType",
+      "desc": ""
+    },
+    "runSuccess": {
+      "text": "runSuccess",
+      "desc": ""
+    },
+    "taskCountSummary": {
+      "text": "taskCountSummary",
+      "desc": ""
+    },
+    "runSuccessRate": {
+      "text": "runSuccessRate",
+      "desc": ""
+    },
+    "taskSuccessRate": {
+      "text": "taskSuccessRate",
+      "desc": ""
+    },
+    "runCount": {
+      "text": "runCount",
+      "desc": ""
+    },
+    "taskCount": {
+      "text": "taskCount",
+      "desc": ""
+    },
+    "runCount1": {
+      "text": "runCount1",
+      "desc": ""
+    },
+    "runFail": {
+      "text": "runFail",
+      "desc": ""
+    },
+    "workerDepartment": {
+      "text": "workerDepartment",
+      "desc": ""
+    },
+    "workType": {
+      "text": "workType",
+      "desc": ""
+    },
+    "dealing": {
+      "text": "dealing",
+      "desc": ""
+    },
+    "systemWorkNormal": {
+      "text": "systemWorkNormal",
+      "desc": ""
+    },
+    "successRatePer": {
+      "text": "successRatePer",
+      "desc": ""
+    },
+    "times": {
+      "text": "times",
+      "desc": ""
+    },
+    "taskSuccessRateOne": {
+      "text": "taskSuccessRateOne",
+      "desc": ""
+    },
+    "runSuccessTitle": {
+      "text": "runSuccessTitle",
+      "desc": ""
+    },
+    "runSuccess1": {
+      "text": "runSuccess1",
+      "desc": ""
+    },
+    "runFail1": {
+      "text": "runFail1",
+      "desc": ""
+    }
+  },
+  "userSetting": {
+    "workerBaseInfo": {
+      "text": "workerBaseInfo",
+      "desc": ""
+    },
+    "bindMachine": {
+      "text": "bindMachine",
+      "desc": ""
+    },
+    "saveSuc": {
+      "text": "saveSuc",
+      "desc": ""
+    },
+    "department": {
+      "text": "department",
+      "desc": ""
+    },
+    "operate": {
+      "text": "operate",
+      "desc": ""
+    },
+    "lookMessage": {
+      "text": "lookMessage",
+      "desc": ""
+    },
+    "currentVersionCode": {
+      "text": "currentVersionCode",
+      "desc": ""
+    },
+    "floatAuthorization": {
+      "text": "floatAuthorization",
+      "desc": ""
+    },
+    "env": {
+      "text": "env",
+      "desc": ""
+    },
+    "getWorkerMessageFailTips": {
+      "text": "getWorkerMessageFailTips",
+      "desc": ""
+    },
+    "getMessageListFailTips": {
+      "text": "getMessageListFailTips",
+      "desc": ""
+    },
+    "machineCode2": {
+      "text": "machineCode2",
+      "desc": ""
+    },
+    "machineCode": {
+      "text": "machineCode",
+      "desc": ""
+    },
+    "workerType": {
+      "text": "workerType",
+      "desc": ""
+    },
+    "workerName": {
+      "text": "workerName",
+      "desc": ""
+    },
+    "setAllRead": {
+      "text": "setAllRead",
+      "desc": ""
+    },
+    "setAllReadFail": {
+      "text": "setAllReadFail",
+      "desc": ""
+    },
+    "sureBtn": {
+      "text": "sureBtn",
+      "desc": ""
+    },
+    "deleteMessageTips": {
+      "text": "deleteMessageTips",
+      "desc": ""
+    },
+    "messageFailType": {
+      "text": "messageFailType",
+      "desc": ""
+    },
+    "messageExpectionType": {
+      "text": "messageExpectionType",
+      "desc": ""
+    },
+    "deleteMessage": {
+      "text": "deleteMessage",
+      "desc": ""
+    },
+    "deleteMessageSucTips": {
+      "text": "deleteMessageSucTips",
+      "desc": ""
+    },
+    "deleteMessageFailTips": {
+      "text": "deleteMessageFailTips",
+      "desc": ""
+    },
+    "timeZoneSetting": {
+      "text": "timeZoneSetting",
+      "desc": ""
+    },
+    "usedPercentage": {
+      "text": "usedPercentage",
+      "desc": ""
+    },
+    "sourceTime": {
+      "text": "sourceTime",
+      "desc": ""
+    },
+    "notRead": {
+      "text": "notRead",
+      "desc": ""
+    },
+    "systemMessage": {
+      "text": "systemMessage",
+      "desc": ""
+    },
+    "messageType": {
+      "text": "messageType",
+      "desc": ""
+    },
+    "messageContent": {
+      "text": "messageContent",
+      "desc": ""
+    },
+    "messageCenter": {
+      "text": "messageCenter",
+      "desc": ""
+    },
+    "messageState": {
+      "text": "messageState",
+      "desc": ""
+    },
+    "index": {
+      "text": "index",
+      "desc": ""
+    },
+    "readed": {
+      "text": "readed",
+      "desc": ""
+    },
+    "hdSpace": {
+      "text": "hdSpace",
+      "desc": ""
+    },
+    "messageWarningType": {
+      "text": "messageWarningType",
+      "desc": ""
+    },
+    "workerState": {
+      "text": "workerState",
+      "desc": ""
+    },
+    "connectTimeLast": {
+      "text": "connectTimeLast",
+      "desc": ""
+    }
+  },
+  "flowManagement": {
+    "versionTitle": {
+      "text": "versionTitle",
+      "desc": ""
+    },
+    "save": {
+      "text": "save",
+      "desc": ""
+    },
+    "editFlow": {
+      "text": "editFlow",
+      "desc": ""
+    },
+    "operation": {
+      "text": "operation",
+      "desc": ""
+    },
+    "lookPackage": {
+      "text": "lookPackage",
+      "desc": ""
+    },
+    "lookDetails": {
+      "text": "lookDetails",
+      "desc": ""
+    },
+    "createSuccess": {
+      "text": "createSuccess",
+      "desc": ""
+    },
+    "minutes": {
+      "text": "minutes",
+      "desc": ""
+    },
+    "copy": {
+      "text": "copy",
+      "desc": ""
+    },
+    "copySuccess": {
+      "text": "copySuccess",
+      "desc": ""
+    },
+    "copyFail": {
+      "text": "copyFail",
+      "desc": ""
+    },
+    "updateTip": {
+      "text": "updateTip",
+      "desc": ""
+    },
+    "upgradeOk": {
+      "text": "upgradeOk",
+      "desc": ""
+    },
+    "updateSuccess": {
+      "text": "updateSuccess",
+      "desc": ""
+    },
+    "dataCount": {
+      "text": "dataCount",
+      "desc": ""
+    },
+    "serveClose": {
+      "text": "serveClose",
+      "desc": ""
+    },
+    "stepTitle1": {
+      "text": "stepTitle1",
+      "desc": ""
+    },
+    "serveOpen": {
+      "text": "serveOpen",
+      "desc": ""
+    },
+    "flowServiceTip": {
+      "text": "flowServiceTip",
+      "desc": ""
+    },
+    "fastCreateTask": {
+      "text": "fastCreateTask",
+      "desc": ""
+    },
+    "selectType": {
+      "text": "selectType",
+      "desc": ""
+    },
+    "package": {
+      "text": "package",
+      "desc": ""
+    },
+    "packageTitle": {
+      "text": "packageTitle",
+      "desc": ""
+    },
+    "selectPackage": {
+      "text": "selectPackage",
+      "desc": ""
+    },
+    "showPackage": {
+      "text": "showPackage",
+      "desc": ""
+    },
+    "version": {
+      "text": "version",
+      "desc": ""
+    },
+    "selectVersion": {
+      "text": "selectVersion",
+      "desc": ""
+    },
+    "showVersion": {
+      "text": "showVersion",
+      "desc": ""
+    },
+    "flowCode": {
+      "text": "flowCode",
+      "desc": ""
+    },
+    "flowService": {
+      "text": "flowService",
+      "desc": ""
+    },
+    "flowTypeTile": {
+      "text": "flowTypeTile",
+      "desc": ""
+    },
+    "type": {
+      "text": "type",
+      "desc": ""
+    },
+    "typeTitle": {
+      "text": "typeTitle",
+      "desc": ""
+    },
+    "showType": {
+      "text": "showType",
+      "desc": ""
+    },
+    "flowName": {
+      "text": "flowName",
+      "desc": ""
+    },
+    "flowNameTile": {
+      "text": "flowNameTile",
+      "desc": ""
+    },
+    "name": {
+      "text": "name",
+      "desc": ""
+    },
+    "searchVal": {
+      "text": "searchVal",
+      "desc": ""
+    },
+    "showName": {
+      "text": "showName",
+      "desc": ""
+    },
+    "tip1": {
+      "text": "tip1",
+      "desc": ""
+    },
+    "description": {
+      "text": "description",
+      "desc": ""
+    },
+    "showDescription": {
+      "text": "showDescription",
+      "desc": ""
+    },
+    "flowImage": {
+      "text": "flowImage",
+      "desc": ""
+    },
+    "flowDetail": {
+      "text": "flowDetail",
+      "desc": ""
+    },
+    "uploadTip1": {
+      "text": "uploadTip1",
+      "desc": ""
+    },
+    "other": {
+      "text": "other",
+      "desc": ""
+    },
+    "please": {
+      "text": "please",
+      "desc": ""
+    },
+    "selectDep": {
+      "text": "selectDep",
+      "desc": ""
+    },
+    "showInfoTitle": {
+      "text": "showInfoTitle",
+      "desc": ""
+    },
+    "flowNamePlaceholder": {
+      "text": "flowNamePlaceholder",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "remarkPlaceholder",
+      "desc": ""
+    },
+    "laborTimeTip": {
+      "text": "laborTimeTip",
+      "desc": ""
+    },
+    "packagePlaceholder": {
+      "text": "packagePlaceholder",
+      "desc": ""
+    },
+    "packageTip1": {
+      "text": "packageTip1",
+      "desc": ""
+    },
+    "versionPlaceholder": {
+      "text": "versionPlaceholder",
+      "desc": ""
+    },
+    "versionTip1": {
+      "text": "versionTip1",
+      "desc": ""
+    },
+    "typePlaceholder": {
+      "text": "typePlaceholder",
+      "desc": ""
+    },
+    "typeTip1": {
+      "text": "typeTip1",
+      "desc": ""
+    },
+    "authDepTip1": {
+      "text": "authDepTip1",
+      "desc": ""
+    },
+    "businessTypePlaceholder": {
+      "text": "businessTypePlaceholder",
+      "desc": ""
+    },
+    "businessTypeTip1": {
+      "text": "businessTypeTip1",
+      "desc": ""
+    },
+    "authDepTip2": {
+      "text": "authDepTip2",
+      "desc": ""
+    },
+    "cancel": {
+      "text": "cancel",
+      "desc": ""
+    },
+    "all": {
+      "text": "all",
+      "desc": ""
+    },
+    "tip": {
+      "text": "tip",
+      "desc": ""
+    },
+    "deleteContent": {
+      "text": "deleteContent",
+      "desc": ""
+    },
+    "laborCost": {
+      "text": "laborCost",
+      "desc": ""
+    },
+    "laborTime": {
+      "text": "laborTime",
+      "desc": ""
+    },
+    "workerAttend": {
+      "text": "workerAttend",
+      "desc": ""
+    },
+    "UnfastCreateTask": {
+      "text": "UnfastCreateTask",
+      "desc": ""
+    },
+    "deleteSuccess": {
+      "text": "deleteSuccess",
+      "desc": ""
+    },
+    "deleteFail": {
+      "text": "deleteFail",
+      "desc": ""
+    },
+    "upload": {
+      "text": "upload",
+      "desc": ""
+    },
+    "preText": {
+      "text": "preText",
+      "desc": ""
+    },
+    "upgrade": {
+      "text": "upgrade",
+      "desc": ""
+    },
+    "authDep": {
+      "text": "authDep",
+      "desc": ""
+    },
+    "stepTitle2": {
+      "text": "stepTitle2",
+      "desc": ""
+    },
+    "showDepartment": {
+      "text": "showDepartment",
+      "desc": ""
+    },
+    "depTreeSearchPlaceholer": {
+      "text": "depTreeSearchPlaceholer",
+      "desc": ""
+    },
+    "placeholder": {
+      "text": "placeholder",
+      "desc": ""
+    },
+    "depTreePlaceholder": {
+      "text": "depTreePlaceholder",
+      "desc": ""
+    },
+    "search": {
+      "text": "search",
+      "desc": ""
+    },
+    "department": {
+      "text": "department",
+      "desc": ""
+    },
+    "dataStatistics": {
+      "text": "dataStatistics",
+      "desc": ""
+    },
+    "validateTip3": {
+      "text": "validateTip3",
+      "desc": ""
+    },
+    "validateTip1": {
+      "text": "validateTip1",
+      "desc": ""
+    },
+    "validateTip2": {
+      "text": "validateTip2",
+      "desc": ""
+    },
+    "stepTitle3": {
+      "text": "stepTitle3",
+      "desc": ""
+    },
+    "flowNoCode": {
+      "text": "flowNoCode",
+      "desc": ""
+    },
+    "workerUnAttend": {
+      "text": "workerUnAttend",
+      "desc": ""
+    },
+    "nextText": {
+      "text": "nextText",
+      "desc": ""
+    },
+    "titleBtn": {
+      "text": "titleBtn",
+      "desc": ""
+    },
+    "createFlow": {
+      "text": "createFlow",
+      "desc": ""
+    },
+    "createIndicator": {
+      "text": "createIndicator",
+      "desc": ""
+    },
+    "businessType": {
+      "text": "businessType",
+      "desc": ""
+    },
+    "businessTypeSetTitle": {
+      "text": "businessTypeSetTitle",
+      "desc": ""
+    },
+    "listEmpty": {
+      "text": "listEmpty",
+      "desc": ""
+    },
+    "tip3": {
+      "text": "tip3",
+      "desc": ""
+    },
+    "remarkTip1": {
+      "text": "remarkTip1",
+      "desc": ""
+    },
+    "tip2": {
+      "text": "tip2",
+      "desc": ""
+    },
+    "lastPre": {
+      "text": "lastPre",
+      "desc": ""
+    },
+    "manualTime": {
+      "text": "manualTime",
+      "desc": ""
+    },
+    "laborTimeTip1": {
+      "text": "laborTimeTip1",
+      "desc": ""
+    }
+  },
+  "businessType": {
+    "save": {
+      "text": "save",
+      "desc": ""
+    },
+    "editBusiness": {
+      "text": "editBusiness",
+      "desc": ""
+    },
+    "option5": {
+      "text": "option5",
+      "desc": ""
+    },
+    "operation": {
+      "text": "operation",
+      "desc": ""
+    },
+    "createSuccess": {
+      "text": "createSuccess",
+      "desc": ""
+    },
+    "option6": {
+      "text": "option6",
+      "desc": ""
+    },
+    "updateSuccess": {
+      "text": "updateSuccess",
+      "desc": ""
+    },
+    "businessNameTip1": {
+      "text": "businessNameTip1",
+      "desc": ""
+    },
+    "option8": {
+      "text": "option8",
+      "desc": ""
+    },
+    "businessPlaceholder": {
+      "text": "businessPlaceholder",
+      "desc": ""
+    },
+    "content": {
+      "text": "content",
+      "desc": ""
+    },
+    "deleteSuccess": {
+      "text": "deleteSuccess",
+      "desc": ""
+    },
+    "deleteFail": {
+      "text": "deleteFail",
+      "desc": ""
+    },
+    "deleteBusiness": {
+      "text": "deleteBusiness",
+      "desc": ""
+    },
+    "option2": {
+      "text": "option2",
+      "desc": ""
+    },
+    "newBusiness": {
+      "text": "newBusiness",
+      "desc": ""
+    },
+    "option7": {
+      "text": "option7",
+      "desc": ""
+    },
+    "businessName": {
+      "text": "businessName",
+      "desc": ""
+    },
+    "businessType": {
+      "text": "businessType",
+      "desc": ""
+    },
+    "searchValue": {
+      "text": "searchValue",
+      "desc": ""
+    },
+    "option1": {
+      "text": "option1",
+      "desc": ""
+    },
+    "businessNameTip2": {
+      "text": "businessNameTip2",
+      "desc": ""
+    },
+    "option3": {
+      "text": "option3",
+      "desc": ""
+    },
+    "option4": {
+      "text": "option4",
+      "desc": ""
+    }
+  },
+  "recordSetting": {
+    "save": {
+      "text": "save",
+      "desc": ""
+    },
+    "saveSuccess": {
+      "text": "saveSuccess",
+      "desc": ""
+    },
+    "no": {
+      "text": "no",
+      "desc": ""
+    },
+    "defaultSetting": {
+      "text": "defaultSetting",
+      "desc": ""
+    },
+    "yes": {
+      "text": "yes",
+      "desc": ""
+    },
+    "isRecord": {
+      "text": "isRecord",
+      "desc": ""
+    }
+  },
+  "department": {
+    "remark": {
+      "text": "remark",
+      "desc": ""
+    },
+    "editSomeDepartment": {
+      "text": "editSomeDepartment",
+      "desc": ""
+    },
+    "department": {
+      "text": "department",
+      "desc": ""
+    },
+    "editDepartmentSuccess": {
+      "text": "editDepartmentSuccess",
+      "desc": ""
+    },
+    "editDepartmentSuccess2": {
+      "text": "editDepartmentSuccess2",
+      "desc": ""
+    },
+    "maxFiveLevel": {
+      "text": "maxFiveLevel",
+      "desc": ""
+    },
+    "createDepartmentSuccess": {
+      "text": "createDepartmentSuccess",
+      "desc": ""
+    },
+    "departmentName": {
+      "text": "departmentName",
+      "desc": ""
+    },
+    "departmentNameMessage1": {
+      "text": "departmentNameMessage1",
+      "desc": ""
+    },
+    "mostFiveLevel": {
+      "text": "mostFiveLevel",
+      "desc": ""
+    },
+    "error1": {
+      "text": "error1",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "remarkPlaceholder",
+      "desc": ""
+    },
+    "departmentNamePlaceholder": {
+      "text": "departmentNamePlaceholder",
+      "desc": ""
+    },
+    "countyPlaceholder": {
+      "text": "countyPlaceholder",
+      "desc": ""
+    },
+    "deleteTip": {
+      "text": "deleteTip",
+      "desc": ""
+    },
+    "provincePlaceholder": {
+      "text": "provincePlaceholder",
+      "desc": ""
+    },
+    "cityPlaceholder": {
+      "text": "cityPlaceholder",
+      "desc": ""
+    },
+    "region": {
+      "text": "region",
+      "desc": ""
+    },
+    "addSameLevelDepartment": {
+      "text": "addSameLevelDepartment",
+      "desc": ""
+    },
+    "addChildDepartment": {
+      "text": "addChildDepartment",
+      "desc": ""
+    },
+    "addTopDepartment": {
+      "text": "addTopDepartment",
+      "desc": ""
+    },
+    "createTopDepartment": {
+      "text": "createTopDepartment",
+      "desc": ""
+    },
+    "createLowerDepartment": {
+      "text": "createLowerDepartment",
+      "desc": ""
+    },
+    "createSameLevel": {
+      "text": "createSameLevel",
+      "desc": ""
+    },
+    "createlower": {
+      "text": "createlower",
+      "desc": ""
+    },
+    "departmentNameMessage3": {
+      "text": "departmentNameMessage3",
+      "desc": ""
+    },
+    "remarkMessage": {
+      "text": "remarkMessage",
+      "desc": ""
+    },
+    "departmentNameMessage2": {
+      "text": "departmentNameMessage2",
+      "desc": ""
+    },
+    "all": {
+      "text": "all",
+      "desc": ""
+    }
+  },
+  "UserManager": {
+    "remark": {
+      "text": "remark",
+      "desc": ""
+    },
+    "editUser": {
+      "text": "editUser",
+      "desc": ""
+    },
+    "realNameMessage2": {
+      "text": "realNameMessage2",
+      "desc": ""
+    },
+    "userNameMessage2": {
+      "text": "userNameMessage2",
+      "desc": ""
+    },
+    "viewUser": {
+      "text": "viewUser",
+      "desc": ""
+    },
+    "userDetail": {
+      "text": "userDetail",
+      "desc": ""
+    },
+    "error3": {
+      "text": "error3",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "createTime",
+      "desc": ""
+    },
+    "creator": {
+      "text": "creator",
+      "desc": ""
+    },
+    "loginPsw": {
+      "text": "loginPsw",
+      "desc": ""
+    },
+    "userName": {
+      "text": "userName",
+      "desc": ""
+    },
+    "newOrCreateMessage2": {
+      "text": "newOrCreateMessage2",
+      "desc": ""
+    },
+    "newOrCreateError2": {
+      "text": "newOrCreateError2",
+      "desc": ""
+    },
+    "error1": {
+      "text": "error1",
+      "desc": ""
+    },
+    "disableActive": {
+      "text": "disableActive",
+      "desc": ""
+    },
+    "pswMessage1": {
+      "text": "pswMessage1",
+      "desc": ""
+    },
+    "passwordMessage": {
+      "text": "passwordMessage",
+      "desc": ""
+    },
+    "newOrCreateError5": {
+      "text": "newOrCreateError5",
+      "desc": ""
+    },
+    "passwordTip2": {
+      "text": "passwordTip2",
+      "desc": ""
+    },
+    "active": {
+      "text": "active",
+      "desc": ""
+    },
+    "isActive": {
+      "text": "isActive",
+      "desc": ""
+    },
+    "usernameIsActive": {
+      "text": "usernameIsActive",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "remarkPlaceholder",
+      "desc": ""
+    },
+    "realNamePlaceholder": {
+      "text": "realNamePlaceholder",
+      "desc": ""
+    },
+    "passwordTip1": {
+      "text": "passwordTip1",
+      "desc": ""
+    },
+    "phoneNumberPlaceholder": {
+      "text": "phoneNumberPlaceholder",
+      "desc": ""
+    },
+    "userNamePlaceholder": {
+      "text": "userNamePlaceholder",
+      "desc": ""
+    },
+    "emailPlaceholder": {
+      "text": "emailPlaceholder",
+      "desc": ""
+    },
+    "depNameMessage": {
+      "text": "depNameMessage",
+      "desc": ""
+    },
+    "depNamePlaceholder": {
+      "text": "depNamePlaceholder",
+      "desc": ""
+    },
+    "rolePlaceholder": {
+      "text": "rolePlaceholder",
+      "desc": ""
+    },
+    "roleMessage": {
+      "text": "roleMessage",
+      "desc": ""
+    },
+    "deleteTip": {
+      "text": "deleteTip",
+      "desc": ""
+    },
+    "message1": {
+      "text": "message1",
+      "desc": ""
+    },
+    "error2": {
+      "text": "error2",
+      "desc": ""
+    },
+    "removeUser": {
+      "text": "removeUser",
+      "desc": ""
+    },
+    "lastLogined": {
+      "text": "lastLogined",
+      "desc": ""
+    },
+    "latestModifyTime": {
+      "text": "latestModifyTime",
+      "desc": ""
+    },
+    "latestModifier": {
+      "text": "latestModifier",
+      "desc": ""
+    },
+    "phoneNumber": {
+      "text": "phoneNumber",
+      "desc": ""
+    },
+    "newOrCreateError4": {
+      "text": "newOrCreateError4",
+      "desc": ""
+    },
+    "depName": {
+      "text": "depName",
+      "desc": ""
+    },
+    "roles": {
+      "text": "roles",
+      "desc": ""
+    },
+    "role": {
+      "text": "role",
+      "desc": ""
+    },
+    "externalAuthSource": {
+      "text": "externalAuthSource",
+      "desc": ""
+    },
+    "newOrCreateMessage1": {
+      "text": "newOrCreateMessage1",
+      "desc": ""
+    },
+    "newOrCreateError1": {
+      "text": "newOrCreateError1",
+      "desc": ""
+    },
+    "createUser": {
+      "text": "createUser",
+      "desc": ""
+    },
+    "userSearchKey": {
+      "text": "userSearchKey",
+      "desc": ""
+    },
+    "userAlias": {
+      "text": "userAlias",
+      "desc": ""
+    },
+    "firstModifyPwd": {
+      "text": "firstModifyPwd",
+      "desc": ""
+    },
+    "realName": {
+      "text": "realName",
+      "desc": ""
+    },
+    "realNameMessage1": {
+      "text": "realNameMessage1",
+      "desc": ""
+    },
+    "email": {
+      "text": "email",
+      "desc": ""
+    },
+    "newOrCreateError3": {
+      "text": "newOrCreateError3",
+      "desc": ""
+    },
+    "emailMessage2": {
+      "text": "emailMessage2",
+      "desc": ""
+    },
+    "realNameMessage4": {
+      "text": "realNameMessage4",
+      "desc": ""
+    },
+    "userNameMessage4": {
+      "text": "userNameMessage4",
+      "desc": ""
+    },
+    "pswMessage2": {
+      "text": "pswMessage2",
+      "desc": ""
+    },
+    "remarkMessage": {
+      "text": "remarkMessage",
+      "desc": ""
+    },
+    "realNameMessage3": {
+      "text": "realNameMessage3",
+      "desc": ""
+    },
+    "userNameMessage3": {
+      "text": "userNameMessage3",
+      "desc": ""
+    },
+    "emailMessage1": {
+      "text": "emailMessage1",
+      "desc": ""
+    },
+    "phoneNumberMessage": {
+      "text": "phoneNumberMessage",
+      "desc": ""
+    },
+    "userNameMessage1": {
+      "text": "userNameMessage1",
+      "desc": ""
+    }
+  },
+  "Role": {
+    "remark": {
+      "text": "remark",
+      "desc": ""
+    },
+    "editRole": {
+      "text": "editRole",
+      "desc": ""
+    },
+    "alias": {
+      "text": "alias",
+      "desc": ""
+    },
+    "roleUserHeader1": {
+      "text": "roleUserHeader1",
+      "desc": ""
+    },
+    "viewRole": {
+      "text": "viewRole",
+      "desc": ""
+    },
+    "roleDetailTitle": {
+      "text": "roleDetailTitle",
+      "desc": ""
+    },
+    "viewUser": {
+      "text": "viewUser",
+      "desc": ""
+    },
+    "roleUserTitle": {
+      "text": "roleUserTitle",
+      "desc": ""
+    },
+    "error2": {
+      "text": "error2",
+      "desc": ""
+    },
+    "userRoleError": {
+      "text": "userRoleError",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "createTime",
+      "desc": ""
+    },
+    "creator": {
+      "text": "creator",
+      "desc": ""
+    },
+    "companyUserName": {
+      "text": "companyUserName",
+      "desc": ""
+    },
+    "message1": {
+      "text": "message1",
+      "desc": ""
+    },
+    "error4": {
+      "text": "error4",
+      "desc": ""
+    },
+    "managePermissions": {
+      "text": "managePermissions",
+      "desc": ""
+    },
+    "error1": {
+      "text": "error1",
+      "desc": ""
+    },
+    "roleUserHeader2": {
+      "text": "roleUserHeader2",
+      "desc": ""
+    },
+    "roleMessage1": {
+      "text": "roleMessage1",
+      "desc": ""
+    },
+    "roleName": {
+      "text": "roleName",
+      "desc": ""
+    },
+    "searchKey": {
+      "text": "searchKey",
+      "desc": ""
+    },
+    "role": {
+      "text": "role",
+      "desc": ""
+    },
+    "rolePermissions": {
+      "text": "rolePermissions",
+      "desc": ""
+    },
+    "adminNodeTip": {
+      "text": "adminNodeTip",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "remarkPlaceholder",
+      "desc": ""
+    },
+    "rolePlaceholder": {
+      "text": "rolePlaceholder",
+      "desc": ""
+    },
+    "shrinkAll": {
+      "text": "shrinkAll",
+      "desc": ""
+    },
+    "expandAll": {
+      "text": "expandAll",
+      "desc": ""
+    },
+    "deleteTip": {
+      "text": "deleteTip",
+      "desc": ""
+    },
+    "message2": {
+      "text": "message2",
+      "desc": ""
+    },
+    "removeRole": {
+      "text": "removeRole",
+      "desc": ""
+    },
+    "error5": {
+      "text": "error5",
+      "desc": ""
+    },
+    "lastModifyDatetime": {
+      "text": "lastModifyDatetime",
+      "desc": ""
+    },
+    "latestModifyTime": {
+      "text": "latestModifyTime",
+      "desc": ""
+    },
+    "latestModifier": {
+      "text": "latestModifier",
+      "desc": ""
+    },
+    "depName": {
+      "text": "depName",
+      "desc": ""
+    },
+    "createRole": {
+      "text": "createRole",
+      "desc": ""
+    },
+    "error3": {
+      "text": "error3",
+      "desc": ""
+    },
+    "businessPermissions": {
+      "text": "businessPermissions",
+      "desc": ""
+    },
+    "userCount": {
+      "text": "userCount",
+      "desc": ""
+    },
+    "roleMessage3": {
+      "text": "roleMessage3",
+      "desc": ""
+    },
+    "remarkMessage": {
+      "text": "remarkMessage",
+      "desc": ""
+    },
+    "roleMessage2": {
+      "text": "roleMessage2",
+      "desc": ""
+    }
+  },
+  "dataManager": {
+    "remark": {
+      "text": "remark",
+      "desc": ""
+    },
+    "paramRemark": {
+      "text": "paramRemark",
+      "desc": ""
+    },
+    "credentialRemark": {
+      "text": "credentialRemark",
+      "desc": ""
+    },
+    "queueRemark": {
+      "text": "queueRemark",
+      "desc": ""
+    },
+    "createQueueRemark": {
+      "text": "createQueueRemark",
+      "desc": ""
+    },
+    "editJson": {
+      "text": "editJson",
+      "desc": ""
+    },
+    "editParam": {
+      "text": "editParam",
+      "desc": ""
+    },
+    "editQueue": {
+      "text": "editQueue",
+      "desc": ""
+    },
+    "editEnv": {
+      "text": "editEnv",
+      "desc": ""
+    },
+    "editCredential": {
+      "text": "editCredential",
+      "desc": ""
+    },
+    "parameter": {
+      "text": "parameter",
+      "desc": ""
+    },
+    "paramName": {
+      "text": "paramName",
+      "desc": ""
+    },
+    "lookMsgQueue": {
+      "text": "lookMsgQueue",
+      "desc": ""
+    },
+    "viewQueue": {
+      "text": "viewQueue",
+      "desc": ""
+    },
+    "checkQueueDrawerError5": {
+      "text": "checkQueueDrawerError5",
+      "desc": ""
+    },
+    "viewContent": {
+      "text": "viewContent",
+      "desc": ""
+    },
+    "viewMessageQueue": {
+      "text": "viewMessageQueue",
+      "desc": ""
+    },
+    "lookTitle": {
+      "text": "lookTitle",
+      "desc": ""
+    },
+    "envMessage1": {
+      "text": "envMessage1",
+      "desc": ""
+    },
+    "paramMessage2": {
+      "text": "paramMessage2",
+      "desc": ""
+    },
+    "credentialMessage3": {
+      "text": "credentialMessage3",
+      "desc": ""
+    },
+    "queueMessage3": {
+      "text": "queueMessage3",
+      "desc": ""
+    },
+    "queueError3": {
+      "text": "queueError3",
+      "desc": ""
+    },
+    "queue": {
+      "text": "queue",
+      "desc": ""
+    },
+    "queueNameMessage1": {
+      "text": "queueNameMessage1",
+      "desc": ""
+    },
+    "queueName": {
+      "text": "queueName",
+      "desc": ""
+    },
+    "queuePlaceholderTip": {
+      "text": "queuePlaceholderTip",
+      "desc": ""
+    },
+    "createQueueName": {
+      "text": "createQueueName",
+      "desc": ""
+    },
+    "formatJson": {
+      "text": "formatJson",
+      "desc": ""
+    },
+    "envMessage2": {
+      "text": "envMessage2",
+      "desc": ""
+    },
+    "paramMessage3": {
+      "text": "paramMessage3",
+      "desc": ""
+    },
+    "credentialMessage2": {
+      "text": "credentialMessage2",
+      "desc": ""
+    },
+    "queueMessage2": {
+      "text": "queueMessage2",
+      "desc": ""
+    },
+    "queueError2": {
+      "text": "queueError2",
+      "desc": ""
+    },
+    "credentialError3": {
+      "text": "credentialError3",
+      "desc": ""
+    },
+    "expiredDatetime": {
+      "text": "expiredDatetime",
+      "desc": ""
+    },
+    "againQueueDialogError1": {
+      "text": "againQueueDialogError1",
+      "desc": ""
+    },
+    "environment": {
+      "text": "environment",
+      "desc": ""
+    },
+    "managerEnvironment": {
+      "text": "managerEnvironment",
+      "desc": ""
+    },
+    "name": {
+      "text": "name",
+      "desc": ""
+    },
+    "nameMessage1": {
+      "text": "nameMessage1",
+      "desc": ""
+    },
+    "createQueueError1": {
+      "text": "createQueueError1",
+      "desc": ""
+    },
+    "againQueueDialogError2": {
+      "text": "againQueueDialogError2",
+      "desc": ""
+    },
+    "valueRadioFalse": {
+      "text": "valueRadioFalse",
+      "desc": ""
+    },
+    "paramType": {
+      "text": "paramType",
+      "desc": ""
+    },
+    "headerSelectorPlaceholder": {
+      "text": "headerSelectorPlaceholder",
+      "desc": ""
+    },
+    "credentialPsw": {
+      "text": "credentialPsw",
+      "desc": ""
+    },
+    "credentialPswMessage1": {
+      "text": "credentialPswMessage1",
+      "desc": ""
+    },
+    "credentialError4": {
+      "text": "credentialError4",
+      "desc": ""
+    },
+    "passwordTip2": {
+      "text": "passwordTip2",
+      "desc": ""
+    },
+    "searchPlaceholder": {
+      "text": "searchPlaceholder",
+      "desc": ""
+    },
+    "paramNameMessage1": {
+      "text": "paramNameMessage1",
+      "desc": ""
+    },
+    "credentialNameMessage1": {
+      "text": "credentialNameMessage1",
+      "desc": ""
+    },
+    "consumeTips": {
+      "text": "consumeTips",
+      "desc": ""
+    },
+    "credential": {
+      "text": "credential",
+      "desc": ""
+    },
+    "credentialName": {
+      "text": "credentialName",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "remarkPlaceholder",
+      "desc": ""
+    },
+    "paramRemarkPlaceholder": {
+      "text": "paramRemarkPlaceholder",
+      "desc": ""
+    },
+    "credentialRemarkPlaceholder": {
+      "text": "credentialRemarkPlaceholder",
+      "desc": ""
+    },
+    "queueRemarkPlaceholder": {
+      "text": "queueRemarkPlaceholder",
+      "desc": ""
+    },
+    "paramNamePlaceholder": {
+      "text": "paramNamePlaceholder",
+      "desc": ""
+    },
+    "queueNamePlaceholder": {
+      "text": "queueNamePlaceholder",
+      "desc": ""
+    },
+    "namePlaceholder": {
+      "text": "namePlaceholder",
+      "desc": ""
+    },
+    "passwordTip1": {
+      "text": "passwordTip1",
+      "desc": ""
+    },
+    "credentialNamePlaceholder": {
+      "text": "credentialNamePlaceholder",
+      "desc": ""
+    },
+    "calendarNameMessage": {
+      "text": "calendarNameMessage",
+      "desc": ""
+    },
+    "messageContentPlaceholder": {
+      "text": "messageContentPlaceholder",
+      "desc": ""
+    },
+    "credentialPlaceholder": {
+      "text": "credentialPlaceholder",
+      "desc": ""
+    },
+    "paramValuePlaceholder": {
+      "text": "paramValuePlaceholder",
+      "desc": ""
+    },
+    "paramError2": {
+      "text": "paramError2",
+      "desc": ""
+    },
+    "credentialError2": {
+      "text": "credentialError2",
+      "desc": ""
+    },
+    "queueError4": {
+      "text": "queueError4",
+      "desc": ""
+    },
+    "paramTypeMessage": {
+      "text": "paramTypeMessage",
+      "desc": ""
+    },
+    "paramTypePlaceholder": {
+      "text": "paramTypePlaceholder",
+      "desc": ""
+    },
+    "calendarCycleMessage": {
+      "text": "calendarCycleMessage",
+      "desc": ""
+    },
+    "selectTips": {
+      "text": "selectTips",
+      "desc": ""
+    },
+    "deleteParamTip": {
+      "text": "deleteParamTip",
+      "desc": ""
+    },
+    "removeQueueTip": {
+      "text": "removeQueueTip",
+      "desc": ""
+    },
+    "deleteTip": {
+      "text": "deleteTip",
+      "desc": ""
+    },
+    "credentialDelTip": {
+      "text": "credentialDelTip",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "createTime",
+      "desc": ""
+    },
+    "removeParam": {
+      "text": "removeParam",
+      "desc": ""
+    },
+    "envMessage3": {
+      "text": "envMessage3",
+      "desc": ""
+    },
+    "paramMessage1": {
+      "text": "paramMessage1",
+      "desc": ""
+    },
+    "credentialMessage1": {
+      "text": "credentialMessage1",
+      "desc": ""
+    },
+    "delQueue": {
+      "text": "delQueue",
+      "desc": ""
+    },
+    "queueMessage1": {
+      "text": "queueMessage1",
+      "desc": ""
+    },
+    "removeEnv": {
+      "text": "removeEnv",
+      "desc": ""
+    },
+    "delCredential": {
+      "text": "delCredential",
+      "desc": ""
+    },
+    "envError1": {
+      "text": "envError1",
+      "desc": ""
+    },
+    "paramError1": {
+      "text": "paramError1",
+      "desc": ""
+    },
+    "credentialError1": {
+      "text": "credentialError1",
+      "desc": ""
+    },
+    "queueError1": {
+      "text": "queueError1",
+      "desc": ""
+    },
+    "availableDatetime": {
+      "text": "availableDatetime",
+      "desc": ""
+    },
+    "createEnv": {
+      "text": "createEnv",
+      "desc": ""
+    },
+    "notActive": {
+      "text": "notActive",
+      "desc": ""
+    },
+    "notConsume": {
+      "text": "notConsume",
+      "desc": ""
+    },
+    "remainMessageCount": {
+      "text": "remainMessageCount",
+      "desc": ""
+    },
+    "messageConvertConsumed": {
+      "text": "messageConvertConsumed",
+      "desc": ""
+    },
+    "consumeTitle": {
+      "text": "consumeTitle",
+      "desc": ""
+    },
+    "pullWorkerName": {
+      "text": "pullWorkerName",
+      "desc": ""
+    },
+    "messageCode": {
+      "text": "messageCode",
+      "desc": ""
+    },
+    "publishWorkerName": {
+      "text": "publishWorkerName",
+      "desc": ""
+    },
+    "messageContent": {
+      "text": "messageContent",
+      "desc": ""
+    },
+    "messageContentMessage": {
+      "text": "messageContentMessage",
+      "desc": ""
+    },
+    "paramTitleBtn": {
+      "text": "paramTitleBtn",
+      "desc": ""
+    },
+    "newParams": {
+      "text": "newParams",
+      "desc": ""
+    },
+    "createQueue": {
+      "text": "createQueue",
+      "desc": ""
+    },
+    "createCredential": {
+      "text": "createCredential",
+      "desc": ""
+    },
+    "addParam": {
+      "text": "addParam",
+      "desc": ""
+    },
+    "addQueue": {
+      "text": "addQueue",
+      "desc": ""
+    },
+    "createEnvironment": {
+      "text": "createEnvironment",
+      "desc": ""
+    },
+    "addCredential": {
+      "text": "addCredential",
+      "desc": ""
+    },
+    "compressJson": {
+      "text": "compressJson",
+      "desc": ""
+    },
+    "expired": {
+      "text": "expired",
+      "desc": ""
+    },
+    "consumed": {
+      "text": "consumed",
+      "desc": ""
+    },
+    "consumeMessageCount": {
+      "text": "consumeMessageCount",
+      "desc": ""
+    },
+    "credentialUser": {
+      "text": "credentialUser",
+      "desc": ""
+    },
+    "credentialUserMessage1": {
+      "text": "credentialUserMessage1",
+      "desc": ""
+    },
+    "indexInfo1": {
+      "text": "indexInfo1",
+      "desc": ""
+    },
+    "indexInfo3": {
+      "text": "indexInfo3",
+      "desc": ""
+    },
+    "indexInfo2": {
+      "text": "indexInfo2",
+      "desc": ""
+    },
+    "paramValueMessage2": {
+      "text": "paramValueMessage2",
+      "desc": ""
+    },
+    "nameMessage3": {
+      "text": "nameMessage3",
+      "desc": ""
+    },
+    "paramNameMessage3": {
+      "text": "paramNameMessage3",
+      "desc": ""
+    },
+    "credentialNameMessage3": {
+      "text": "credentialNameMessage3",
+      "desc": ""
+    },
+    "credentialUserMessage3": {
+      "text": "credentialUserMessage3",
+      "desc": ""
+    },
+    "credentialPswMessage3": {
+      "text": "credentialPswMessage3",
+      "desc": ""
+    },
+    "queueNameMessage3": {
+      "text": "queueNameMessage3",
+      "desc": ""
+    },
+    "remarkMessage": {
+      "text": "remarkMessage",
+      "desc": ""
+    },
+    "paramRemarkMessage": {
+      "text": "paramRemarkMessage",
+      "desc": ""
+    },
+    "credentialRemarkMessage": {
+      "text": "credentialRemarkMessage",
+      "desc": ""
+    },
+    "queueRemarkMessage": {
+      "text": "queueRemarkMessage",
+      "desc": ""
+    },
+    "nameMessage2": {
+      "text": "nameMessage2",
+      "desc": ""
+    },
+    "paramNameMessage2": {
+      "text": "paramNameMessage2",
+      "desc": ""
+    },
+    "credentialNameMessage2": {
+      "text": "credentialNameMessage2",
+      "desc": ""
+    },
+    "credentialUserMessage2": {
+      "text": "credentialUserMessage2",
+      "desc": ""
+    },
+    "credentialPswMessage2": {
+      "text": "credentialPswMessage2",
+      "desc": ""
+    },
+    "queueNameMessage2": {
+      "text": "queueNameMessage2",
+      "desc": ""
+    },
+    "valueRadioTrue": {
+      "text": "valueRadioTrue",
+      "desc": ""
+    },
+    "paramValue": {
+      "text": "paramValue",
+      "desc": ""
+    },
+    "paramValueMessage1": {
+      "text": "paramValueMessage1",
+      "desc": ""
+    },
+    "paramValueMessage5": {
+      "text": "paramValueMessage5",
+      "desc": ""
+    },
+    "paramValueMessage3": {
+      "text": "paramValueMessage3",
+      "desc": ""
+    },
+    "checkQueueDrawerError1": {
+      "text": "checkQueueDrawerError1",
+      "desc": ""
+    },
+    "reEntryQueue": {
+      "text": "reEntryQueue",
+      "desc": ""
+    },
+    "againQueueTitle": {
+      "text": "againQueueTitle",
+      "desc": ""
+    },
+    "checkQueueDrawerMessage1": {
+      "text": "checkQueueDrawerMessage1",
+      "desc": ""
+    },
+    "checkQueueDrawerError2": {
+      "text": "checkQueueDrawerError2",
+      "desc": ""
+    },
+    "checkQueueDrawerError3": {
+      "text": "checkQueueDrawerError3",
+      "desc": ""
+    },
+    "checkQueueDrawerError4": {
+      "text": "checkQueueDrawerError4",
+      "desc": ""
+    },
+    "messageStatus": {
+      "text": "messageStatus",
+      "desc": ""
+    },
+    "paramValueMessage4": {
+      "text": "paramValueMessage4",
+      "desc": ""
+    }
+  },
+  "applicationLicensing": {
+    "editApp": {
+      "text": "editApp",
+      "desc": ""
+    },
+    "editAppSuccess": {
+      "text": "editAppSuccess",
+      "desc": ""
+    },
+    "editAppFail": {
+      "text": "editAppFail",
+      "desc": ""
+    },
+    "operate": {
+      "text": "operate",
+      "desc": ""
+    },
+    "back": {
+      "text": "back",
+      "desc": ""
+    },
+    "appNamePlaceholder": {
+      "text": "appNamePlaceholder",
+      "desc": ""
+    },
+    "pleaseInputAppName": {
+      "text": "pleaseInputAppName",
+      "desc": ""
+    },
+    "deleteMessage": {
+      "text": "deleteMessage",
+      "desc": ""
+    },
+    "deleteSuccess": {
+      "text": "deleteSuccess",
+      "desc": ""
+    },
+    "deleteFail": {
+      "text": "deleteFail",
+      "desc": ""
+    },
+    "Message1": {
+      "text": "Message1",
+      "desc": ""
+    },
+    "errorMessage1": {
+      "text": "errorMessage1",
+      "desc": ""
+    },
+    "addApp": {
+      "text": "addApp",
+      "desc": ""
+    },
+    "addAppSuccess": {
+      "text": "addAppSuccess",
+      "desc": ""
+    },
+    "addAppFail": {
+      "text": "addAppFail",
+      "desc": ""
+    },
+    "appName": {
+      "text": "appName",
+      "desc": ""
+    },
+    "appNameMessage": {
+      "text": "appNameMessage",
+      "desc": ""
+    },
+    "userName": {
+      "text": "userName",
+      "desc": ""
+    },
+    "appNameMessage2": {
+      "text": "appNameMessage2",
+      "desc": ""
+    },
+    "appNameMessage1": {
+      "text": "appNameMessage1",
+      "desc": ""
+    },
+    "reCreate": {
+      "text": "reCreate",
+      "desc": ""
+    },
+    "reSetAccessKey": {
+      "text": "reSetAccessKey",
+      "desc": ""
+    }
+  },
+  "basicLayout": {
+    "sayLater": {
+      "text": "sayLater",
+      "desc": ""
+    },
+    "pswOutofDate": {
+      "text": "pswOutofDate",
+      "desc": ""
+    },
+    "pswTip": {
+      "text": "pswTip",
+      "desc": ""
+    },
+    "netConnect": {
+      "text": "netConnect",
+      "desc": ""
+    },
+    "netException": {
+      "text": "netException",
+      "desc": ""
+    }
+  },
+  "OperationLog": {
+    "operation": {
+      "text": "operation",
+      "desc": ""
+    },
+    "operateTime": {
+      "text": "operateTime",
+      "desc": ""
+    },
+    "operator": {
+      "text": "operator",
+      "desc": ""
+    },
+    "getOperateListError": {
+      "text": "getOperateListError",
+      "desc": ""
+    },
+    "getOperateError": {
+      "text": "getOperateError",
+      "desc": ""
+    },
+    "getModuleNameError": {
+      "text": "getModuleNameError",
+      "desc": ""
+    },
+    "desc": {
+      "text": "desc",
+      "desc": ""
+    },
+    "moduleName2": {
+      "text": "moduleName2",
+      "desc": ""
+    },
+    "moduleName": {
+      "text": "moduleName",
+      "desc": ""
+    },
+    "allModule": {
+      "text": "allModule",
+      "desc": ""
+    },
+    "onlyInMonth": {
+      "text": "onlyInMonth",
+      "desc": ""
+    },
+    "operateIp": {
+      "text": "operateIp",
+      "desc": ""
+    }
+  },
+  "authorizeInfo": {
+    "companyName": {
+      "text": "companyName",
+      "desc": ""
+    },
+    "endtime": {
+      "text": "endtime",
+      "desc": ""
+    },
+    "creatorFloating": {
+      "text": "creatorFloating",
+      "desc": ""
+    },
+    "attendFloat": {
+      "text": "attendFloat",
+      "desc": ""
+    },
+    "nums": {
+      "text": "nums",
+      "desc": ""
+    },
+    "authorizeInfo": {
+      "text": "authorizeInfo",
+      "desc": ""
+    },
+    "authorizeType": {
+      "text": "authorizeType",
+      "desc": ""
+    },
+    "unattendFixed": {
+      "text": "unattendFixed",
+      "desc": ""
+    },
+    "unattendFloat": {
+      "text": "unattendFloat",
+      "desc": ""
+    },
+    "usednums": {
+      "text": "usednums",
+      "desc": ""
+    }
+  },
+  "Nopermission": {
+    "backToLogin": {
+      "text": "backToLogin",
+      "desc": ""
+    },
+    "titleText": {
+      "text": "titleText",
+      "desc": ""
+    }
+  },
+  "globalHeader": {
+    "simplifiedChinese": {
+      "text": "Simplified Chinese",
+      "desc": "Simplified Chinese"
+    },
+    "traditionalChinese": {
+      "text": "Traditional Chinese",
+      "desc": "Traditional Chinese"
+    },
+    "English": {
+      "text": "English",
+      "desc": "English"
+    },
+    "Japan": {
+      "text": "Japanese",
+      "desc": "Japanese"
+    },
+    "aboutTitle": {
+      "text": "aboutTitle",
+      "desc": ""
+    },
+    "tipForCreator2": {
+      "text": "tipForCreator2",
+      "desc": ""
+    },
+    "tipForWorkerAttend2": {
+      "text": "tipForWorkerAttend2",
+      "desc": ""
+    },
+    "aboutCopyright": {
+      "text": "aboutCopyright",
+      "desc": ""
+    },
+    "twoPswNotSame": {
+      "text": "twoPswNotSame",
+      "desc": ""
+    },
+    "pswLengthMoreThanZero": {
+      "text": "pswLengthMoreThanZero",
+      "desc": ""
+    },
+    "newPswMessage": {
+      "text": "newPswMessage",
+      "desc": ""
+    },
+    "oldPswMessage": {
+      "text": "oldPswMessage",
+      "desc": ""
+    },
+    "rePswMessage": {
+      "text": "rePswMessage",
+      "desc": ""
+    },
+    "tip": {
+      "text": "tip",
+      "desc": ""
+    },
+    "exit": {
+      "text": "exit",
+      "desc": ""
+    },
+    "messageCenter": {
+      "text": "messageCenter",
+      "desc": ""
+    },
+    "tipForCreator1": {
+      "text": "tipForCreator1",
+      "desc": ""
+    },
+    "tipForWorkerAttend1": {
+      "text": "tipForWorkerAttend1",
+      "desc": ""
+    },
+    "newPsw": {
+      "text": "newPsw",
+      "desc": ""
+    },
+    "editPsw": {
+      "text": "editPsw",
+      "desc": ""
+    },
+    "editPswSuccess": {
+      "text": "editPswSuccess",
+      "desc": ""
+    },
+    "editPswFail": {
+      "text": "editPswFail",
+      "desc": ""
+    },
+    "user": {
+      "text": "user",
+      "desc": ""
+    },
+    "aboutLicense": {
+      "text": "aboutLicense",
+      "desc": ""
+    },
+    "oldPsw": {
+      "text": "oldPsw",
+      "desc": ""
+    },
+    "rePsw": {
+      "text": "rePsw",
+      "desc": ""
+    },
+    "chinese": {
+      "text": "chinese",
+      "desc": ""
+    },
+    "userBook": {
+      "text": "userBook",
+      "desc": ""
+    },
+    "version": {
+      "text": "version",
+      "desc": ""
+    },
+    "interfaceBook": {
+      "text": "interfaceBook",
+      "desc": ""
+    }
+  },
+  "systemSet": {
+    "recordSetTitle": {
+      "text": "recordSetTitle",
+      "desc": ""
+    },
+    "passwordSafeSetTitle": {
+      "text": "passwordSafeSetTitle",
+      "desc": ""
+    },
+    "messageNotificateSetTitle": {
+      "text": "messageNotificateSetTitle",
+      "desc": ""
+    }
+  },
+  "agreement": {
+    "cancel": {
+      "text": "cancel",
+      "desc": ""
+    },
+    "confirm": {
+      "text": "confirm",
+      "desc": ""
+    },
+    "agree": {
+      "text": "agree",
+      "desc": ""
+    },
+    "checkTip": {
+      "text": "checkTip",
+      "desc": ""
+    }
+  },
+  "other": {
+    "directionalIcon": {
+      "text": "directionalIcon",
+      "desc": ""
+    },
+    "suggestedIcon": {
+      "text": "suggestedIcon",
+      "desc": ""
+    },
+    "editorIcon": {
+      "text": "editorIcon",
+      "desc": ""
+    },
+    "dataIcon": {
+      "text": "dataIcon",
+      "desc": ""
+    },
+    "brandlogoIcon": {
+      "text": "brandlogoIcon",
+      "desc": ""
+    },
+    "applicationIcon": {
+      "text": "applicationIcon",
+      "desc": ""
+    },
+    "themeColor1": {
+      "text": "themeColor1",
+      "desc": ""
+    },
+    "themeColor2": {
+      "text": "themeColor2",
+      "desc": ""
+    },
+    "themeColor3": {
+      "text": "themeColor3",
+      "desc": ""
+    },
+    "themeColor4": {
+      "text": "themeColor4",
+      "desc": ""
+    },
+    "themeColor5": {
+      "text": "themeColor5",
+      "desc": ""
+    },
+    "themeColor6": {
+      "text": "themeColor6",
+      "desc": ""
+    },
+    "themeColor7": {
+      "text": "themeColor7",
+      "desc": ""
+    },
+    "themeColor8": {
+      "text": "themeColor8",
+      "desc": ""
+    },
+    "changTheme": {
+      "text": "changTheme",
+      "desc": ""
+    },
+    "home": {
+      "text": "home",
+      "desc": ""
+    }
+  }
+}

@@ -1,0 +1,7116 @@
+﻿{
+  "scheduleManagement": {
+    "comma": {
+      "text": "，",
+      "desc": ""
+    },
+    "isActivatedText": {
+      "text": "['啓用', '未啓用']",
+      "desc": ""
+    },
+    "workerCount": {
+      "text": "{msg}數量",
+      "desc": ""
+    },
+    "cronExp": {
+      "text": "CRON表達式",
+      "desc": ""
+    },
+    "cronExpError": {
+      "text": "cron表達式格式錯誤",
+      "desc": ""
+    },
+    "cronExpCorrect": {
+      "text": "cron表達式正確",
+      "desc": ""
+    },
+    "jsonFormatError": {
+      "text": "Json格式錯誤",
+      "desc": ""
+    },
+    "cronHelscheduleg": {
+      "text": "zh",
+      "desc": ""
+    },
+    "eight": {
+      "text": "八",
+      "desc": ""
+    },
+    "flowVersion": {
+      "text": "版本",
+      "desc": ""
+    },
+    "saveBtn": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "editSchedule": {
+      "text": "編輯計劃",
+      "desc": ""
+    },
+    "editScheduleTitle": {
+      "text": "編輯計劃",
+      "desc": ""
+    },
+    "notRecord": {
+      "text": "不錄製畫面",
+      "desc": ""
+    },
+    "noSupportThisMode": {
+      "text": "不支持此種模式",
+      "desc": ""
+    },
+    "creatorText": {
+      "text": "創建",
+      "desc": ""
+    },
+    "createScheduleSuc": {
+      "text": "創建計劃成功！",
+      "desc": ""
+    },
+    "createScheduleFail": {
+      "text": "創建計劃失敗！",
+      "desc": ""
+    },
+    "calendarCreator": {
+      "text": "創建者",
+      "desc": ""
+    },
+    "currentDaySchedule": {
+      "text": "當天計劃",
+      "desc": ""
+    },
+    "currentMonth": {
+      "text": "當月第",
+      "desc": ""
+    },
+    "countNumber": {
+      "text": "第{msg}次 | 第{msg}次",
+      "desc": ""
+    },
+    "time": {
+      "text": "點 | 點",
+      "desc": ""
+    },
+    "two": {
+      "text": "二",
+      "desc": ""
+    },
+    "noWorkDay": {
+      "text": "非工作日",
+      "desc": ""
+    },
+    "noWorkDayExecute": {
+      "text": "非工作日執行",
+      "desc": ""
+    },
+    "manyMinutesExecute": {
+      "text": "分執行 | 分執行",
+      "desc": ""
+    },
+    "minutes": {
+      "text": "分鐘| 分鐘",
+      "desc": ""
+    },
+    "unit": {
+      "text": "個任務",
+      "desc": ""
+    },
+    "calendarUpdate": {
+      "text": "更新",
+      "desc": ""
+    },
+    "updateCalendarSuccess": {
+      "text": "更新工作日曆成功",
+      "desc": ""
+    },
+    "updateCalendarFaile": {
+      "text": "更新工作日曆失敗",
+      "desc": ""
+    },
+    "workCalendarSet": {
+      "text": "工作日曆設定",
+      "desc": ""
+    },
+    "workDayExecute": {
+      "text": "工作日執行",
+      "desc": ""
+    },
+    "aboutCron": {
+      "text": "關於 CRON 表達式",
+      "desc": ""
+    },
+    "noSupportChar": {
+      "text": "後臺表達式不支持'?'字元",
+      "desc": ""
+    },
+    "getWorkerListFail": {
+      "text": "讀取Worker列表失敗",
+      "desc": ""
+    },
+    "getSingleFlowFail": {
+      "text": "讀取單個流程資料失敗！",
+      "desc": ""
+    },
+    "getAllEnvFail": {
+      "text": "讀取環境列表失敗！",
+      "desc": ""
+    },
+    "getScheduleInfoFail": {
+      "text": "讀取計劃編輯信息失敗！",
+      "desc": ""
+    },
+    "getScheduleListFail": {
+      "text": "讀取計劃列表資料失敗！",
+      "desc": ""
+    },
+    "getFlowListFail": {
+      "text": "讀取流程列表資料失敗！",
+      "desc": ""
+    },
+    "getEveryDayScheduleFail": {
+      "text": "讀取每日計劃失敗！",
+      "desc": ""
+    },
+    "getScheduleCalendarFail": {
+      "text": "讀取日曆失敗！",
+      "desc": ""
+    },
+    "basicInfo": {
+      "text": "基本信息",
+      "desc": ""
+    },
+    "scheduleName": {
+      "text": "計劃名稱",
+      "desc": ""
+    },
+    "scheduleName2": {
+      "text": "計劃名稱",
+      "desc": ""
+    },
+    "searchPlaceholderText2": {
+      "text": "計劃名稱",
+      "desc": ""
+    },
+    "createScheduleName2": {
+      "text": "計劃名稱",
+      "desc": ""
+    },
+    "fastCreateOk": {
+      "text": "計劃任務新建完成",
+      "desc": ""
+    },
+    "timeText": {
+      "text": "計劃執行時間",
+      "desc": ""
+    },
+    "checkCronRuleErr": {
+      "text": "接口請求錯誤!",
+      "desc": ""
+    },
+    "checkCronRuleErrWithMsg": {
+      "text": "接口請求錯誤: {msg}",
+      "desc": ""
+    },
+    "result": {
+      "text": "結果：",
+      "desc": ""
+    },
+    "endTime": {
+      "text": "結束時間",
+      "desc": ""
+    },
+    "parse": {
+      "text": "解析",
+      "desc": ""
+    },
+    "unactive": {
+      "text": "禁用",
+      "desc": ""
+    },
+    "nine": {
+      "text": "九",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "開始時間",
+      "desc": ""
+    },
+    "scheduleStartTime": {
+      "text": "開始時間",
+      "desc": ""
+    },
+    "calendarTypeBlank": {
+      "text": "空白日曆",
+      "desc": ""
+    },
+    "fastCreate": {
+      "text": "快速新建任務",
+      "desc": ""
+    },
+    "flowName": {
+      "text": "流程",
+      "desc": ""
+    },
+    "flow": {
+      "text": "流程",
+      "desc": ""
+    },
+    "flowPackage": {
+      "text": "流程包",
+      "desc": ""
+    },
+    "six": {
+      "text": "六",
+      "desc": ""
+    },
+    "record": {
+      "text": "錄製畫面",
+      "desc": ""
+    },
+    "each": {
+      "text": "每",
+      "desc": ""
+    },
+    "scheduleExecuteTimeTip": {
+      "text": "每次執行時，會按執行規則生成任務，排隊等待執行",
+      "desc": ""
+    },
+    "everyday": {
+      "text": "每天",
+      "desc": ""
+    },
+    "perMonth": {
+      "text": "每月",
+      "desc": ""
+    },
+    "perWeek": {
+      "text": "每周",
+      "desc": ""
+    },
+    "desc": {
+      "text": "描述",
+      "desc": ""
+    },
+    "createScheduleDes": {
+      "text": "描述",
+      "desc": ""
+    },
+    "searchPlaceholderText": {
+      "text": "名稱",
+      "desc": ""
+    },
+    "createScheduleName": {
+      "text": "名稱",
+      "desc": ""
+    },
+    "nameOrMechanicalCode": {
+      "text": "名稱 / 機器碼 /IP",
+      "desc": ""
+    },
+    "noFillScheduleName": {
+      "text": "名稱不能爲空！",
+      "desc": ""
+    },
+    "seven": {
+      "text": "七",
+      "desc": ""
+    },
+    "startTime": {
+      "text": "啓動時間",
+      "desc": ""
+    },
+    "active": {
+      "text": "啓用",
+      "desc": ""
+    },
+    "activeState": {
+      "text": "啓用狀態",
+      "desc": ""
+    },
+    "isActivated": {
+      "text": "啓用狀態",
+      "desc": ""
+    },
+    "pleaseInputCronExp": {
+      "text": "請輸入CRON表達式：例 * 0/23 1-31 * *",
+      "desc": ""
+    },
+    "inputScheduleName": {
+      "text": "請輸入計劃名稱",
+      "desc": ""
+    },
+    "pleaseFillBaseInfo": {
+      "text": "請先填寫基本信息！",
+      "desc": ""
+    },
+    "pleaseSelectWorker": {
+      "text": "請先選擇Worker信息",
+      "desc": ""
+    },
+    "pleaseselectEndDate": {
+      "text": "請先選擇結束日期",
+      "desc": ""
+    },
+    "pleaseFillFlow": {
+      "text": "請先選擇流程",
+      "desc": ""
+    },
+    "pleaseFillDepartment": {
+      "text": "請先選擇所屬部門",
+      "desc": ""
+    },
+    "pleaseFillCronExp": {
+      "text": "請先選擇填寫Cron表達式",
+      "desc": ""
+    },
+    "noSelectWorkerTip": {
+      "text": "請選擇Worker！",
+      "desc": ""
+    },
+    "noSelectDepartmentTip": {
+      "text": "請選擇部門！",
+      "desc": ""
+    },
+    "selectWorkCalendar": {
+      "text": "請選擇工作日曆",
+      "desc": ""
+    },
+    "selectEnvPlaceholder": {
+      "text": "請選擇環境",
+      "desc": ""
+    },
+    "pleaseSelectEnv": {
+      "text": "請選擇環境",
+      "desc": ""
+    },
+    "pleaseSelectEnvMessage": {
+      "text": "請選擇環境！",
+      "desc": ""
+    },
+    "pleaseScheduleInFlow": {
+      "text": "請選擇一個流程！",
+      "desc": ""
+    },
+    "noSelectFlowTip": {
+      "text": "請選擇一個流程！",
+      "desc": ""
+    },
+    "noSelectWorkerMessage": {
+      "text": "請至少指定1個執行計劃的Worker！",
+      "desc": ""
+    },
+    "cancelBtn": {
+      "text": "取消",
+      "desc": ""
+    },
+    "sureBtn": {
+      "text": "確定",
+      "desc": ""
+    },
+    "deleteScheduleTip": {
+      "text": "確定删除這個計劃？該操作不可逆",
+      "desc": ""
+    },
+    "deleteCalendarContent": {
+      "text": "確定要删除這個工作日曆？該操作不可逆！",
+      "desc": ""
+    },
+    "taskParams": {
+      "text": "任務參數",
+      "desc": ""
+    },
+    "taskCountNo": {
+      "text": "任務數量",
+      "desc": ""
+    },
+    "taskCount": {
+      "text": "任務數量：",
+      "desc": ""
+    },
+    "calendarName": {
+      "text": "日曆名稱",
+      "desc": ""
+    },
+    "calendarValidateRepeatName": {
+      "text": "日曆名稱已存在",
+      "desc": ""
+    },
+    "calendarCycleDate": {
+      "text": "日曆周期",
+      "desc": ""
+    },
+    "three": {
+      "text": "三",
+      "desc": ""
+    },
+    "deleteCalendar": {
+      "text": "删除工作日曆",
+      "desc": ""
+    },
+    "deleteCalendarSuccess": {
+      "text": "删除工作日曆成功",
+      "desc": ""
+    },
+    "deleteCalendarFail": {
+      "text": "删除工作日曆失敗",
+      "desc": ""
+    },
+    "deleteSchedule": {
+      "text": "删除計劃",
+      "desc": ""
+    },
+    "deleteScheduleSuc": {
+      "text": "删除計劃成功！",
+      "desc": ""
+    },
+    "deleteScheduleFail": {
+      "text": "删除計劃失敗！",
+      "desc": ""
+    },
+    "calendarTempTypeTips": {
+      "text": "上傳格式錯誤,請重新選擇！",
+      "desc": ""
+    },
+    "uploadCalendarTips": {
+      "text": "上傳日曆設定檔案將會覆蓋當前的日曆設定，是否確認上傳？",
+      "desc": ""
+    },
+    "uploadCalendarFile": {
+      "text": "上傳自定義日曆設定檔案",
+      "desc": ""
+    },
+    "setTaskParams": {
+      "text": "設定任務參數",
+      "desc": ""
+    },
+    "ten": {
+      "text": "十",
+      "desc": ""
+    },
+    "isRecord": {
+      "text": "是否錄製畫面",
+      "desc": ""
+    },
+    "four": {
+      "text": "四",
+      "desc": ""
+    },
+    "department": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "selectCalendarDateTip": {
+      "text": "所選日期不在日曆周期範圍內",
+      "desc": ""
+    },
+    "day": {
+      "text": "天 | 天",
+      "desc": ""
+    },
+    "calendarTempSizeTips": {
+      "text": "檔案不能大於1M，請重新選擇！",
+      "desc": ""
+    },
+    "noHasTaskParams": {
+      "text": "無任務參數",
+      "desc": ""
+    },
+    "five": {
+      "text": "五",
+      "desc": ""
+    },
+    "fastCreateTip": {
+      "text": "系統將會按照當前計劃的配置生成任務，並排隊執行，是否繼續？",
+      "desc": ""
+    },
+    "scheduleExecuteNextTime": {
+      "text": "下次執行時間",
+      "desc": ""
+    },
+    "downloadCalendarFile": {
+      "text": "下載日曆設定模板",
+      "desc": ""
+    },
+    "hours": {
+      "text": "小時| 小時",
+      "desc": ""
+    },
+    "newCreate": {
+      "text": "新建",
+      "desc": ""
+    },
+    "createWorkCalendarTitle": {
+      "text": "新建工作日曆",
+      "desc": ""
+    },
+    "newSchedule": {
+      "text": "新建計劃",
+      "desc": ""
+    },
+    "createScheduleTitle": {
+      "text": "新建計劃",
+      "desc": ""
+    },
+    "fixScheduleSuc": {
+      "text": "修改計劃成功！",
+      "desc": ""
+    },
+    "fixScheduleFail": {
+      "text": "修改計劃失敗！",
+      "desc": ""
+    },
+    "selectCalendarFile": {
+      "text": "選擇日曆模板",
+      "desc": ""
+    },
+    "loopExecute": {
+      "text": "循環執行",
+      "desc": ""
+    },
+    "one": {
+      "text": "一",
+      "desc": ""
+    },
+    "neverEnd": {
+      "text": "永不結束",
+      "desc": ""
+    },
+    "calendarStr1": {
+      "text": "於",
+      "desc": ""
+    },
+    "remain": {
+      "text": "在",
+      "desc": ""
+    },
+    "noHaveCalendar": {
+      "text": "暫無工作日曆",
+      "desc": ""
+    },
+    "executeRules": {
+      "text": "執行規則",
+      "desc": ""
+    },
+    "executeSchedule": {
+      "text": "執行計劃",
+      "desc": ""
+    },
+    "executeFrequency": {
+      "text": "執行頻率",
+      "desc": ""
+    },
+    "executeOnce": {
+      "text": "執行一次",
+      "desc": ""
+    },
+    "performPreview": {
+      "text": "執行預覽",
+      "desc": ""
+    },
+    "specifyWorker": {
+      "text": "指定Worker",
+      "desc": ""
+    },
+    "specifiedTime": {
+      "text": "指定時間",
+      "desc": ""
+    },
+    "leastSelectOneDayOfMonth": {
+      "text": "至少選擇當月中的一天",
+      "desc": ""
+    },
+    "leastSelectOneDayOfWeek": {
+      "text": "至少選擇周一到周日中的一天",
+      "desc": ""
+    },
+    "repeatExecute": {
+      "text": "重複執行",
+      "desc": ""
+    },
+    "tuesday": {
+      "text": "周二",
+      "desc": ""
+    },
+    "saturday": {
+      "text": "周六",
+      "desc": ""
+    },
+    "calendarTypeSingle": {
+      "text": "周末單休日曆",
+      "desc": ""
+    },
+    "calendarTypeDouble": {
+      "text": "周末雙休日曆",
+      "desc": ""
+    },
+    "sunday": {
+      "text": "周日",
+      "desc": ""
+    },
+    "wednesday": {
+      "text": "周三",
+      "desc": ""
+    },
+    "thursday": {
+      "text": "周四",
+      "desc": ""
+    },
+    "friday": {
+      "text": "周五",
+      "desc": ""
+    },
+    "monday": {
+      "text": "周一",
+      "desc": ""
+    },
+    "defineCronExp": {
+      "text": "自定義CRON表達式",
+      "desc": ""
+    },
+    "selfWorkCalendar": {
+      "text": "自定義工作日",
+      "desc": ""
+    },
+    "selfWorkProcess": {
+      "text": "自定義工作日可以指定具體的日期啓動流程",
+      "desc": ""
+    },
+    "editCalendarTip": {
+      "text": "編輯工作日曆",
+      "desc": ""
+    },
+    "deleteCalendarTip": {
+      "text": "删除工作日曆",
+      "desc": ""
+    },
+    "month": {
+      "text": "月",
+      "desc": ""
+    },
+    "year": {
+      "text": "年",
+      "desc": ""
+    },
+    "outCalendarCycle": {
+      "text": "超出日曆週期",
+      "desc": ""
+    },
+    "uploadBoxLimit": {
+      "text": "僅支持.CSV檔案",
+      "desc": ""
+    },
+    "uploadText": {
+      "text": "上傳",
+      "desc": ""
+    },
+    "uploadCalendarTitle": {
+      "text": "上傳日曆檔案",
+      "desc": ""
+    },
+    "uploadCalendarTips1": {
+      "text": "請先下載日曆範本，將非工作日按照範本格式填入檔案中，添加完成後上傳檔案即可",
+      "desc": ""
+    },
+    "calendarEditChangeBtn": {
+      "text": "離開",
+      "desc": ""
+    },
+    "calendarEditExit": {
+      "text": "離開此頁面？",
+      "desc": ""
+    },
+    "calendarEditExitTips": {
+      "text": "系統可能不會儲存您所做的更改",
+      "desc": ""
+    },
+    "calendarNameLengthTip": {
+      "text": "日曆名稱最少為兩個字元",
+      "desc": ""
+    },
+    "workDay": {
+      "text": "工作日",
+      "desc": ""
+    },
+    "scheduleDownloadTip": {
+      "text": "下載日曆設定模版，將非工作日按照模版格式填入檔案中，並上傳日曆設定檔案，存檔即可",
+      "desc": ""
+    },
+    "cronHelpLang": {
+      "text": "zh",
+      "desc": ""
+    },
+    "cronTipText22": {
+      "text": "* 和/",
+      "desc": ""
+    },
+    "cronTipText3": {
+      "text": "” （不包含 “秒” 和 “年”），使用空格隔開不同的信息域。 比如：“",
+      "desc": ""
+    },
+    "cronTipText4": {
+      "text": "” 表示 “",
+      "desc": ""
+    },
+    "cronTipText6": {
+      "text": "”，即 “",
+      "desc": ""
+    },
+    "cronTipText17": {
+      "text": "0~23的整數",
+      "desc": ""
+    },
+    "cronTipText16": {
+      "text": "0~59的整數",
+      "desc": ""
+    },
+    "cronTipText20": {
+      "text": "0~6的整數",
+      "desc": ""
+    },
+    "cronTipText19": {
+      "text": "1~12的整數",
+      "desc": ""
+    },
+    "cronTipText18": {
+      "text": "1~31的整數",
+      "desc": ""
+    },
+    "cronTipText8": {
+      "text": "CRON表達式允許的值和特殊符號，如下所示：",
+      "desc": ""
+    },
+    "cronTipText25": {
+      "text": "表示匹配該域的任意值。假如在Minutes域使用*， 即表示每分鐘都會觸發事件 注：暫不支持“L、W”和“？、#”等特殊符號。",
+      "desc": ""
+    },
+    "cronTipText24": {
+      "text": "表示起始時間開始觸發，然後每隔固定時間觸發一次。例如在Minutes域使用5/20，則意味著5分鐘觸發一次，而25，45等分別觸發一次。",
+      "desc": ""
+    },
+    "cronTipText5": {
+      "text": "第5分鐘 每小時 第1天 每月 每周",
+      "desc": ""
+    },
+    "cronTipText2": {
+      "text": "分 時 天 月 周",
+      "desc": ""
+    },
+    "cronTipText10": {
+      "text": "分（Minutes）",
+      "desc": ""
+    },
+    "cronTipText7": {
+      "text": "每月每周第1天的第5分鐘",
+      "desc": ""
+    },
+    "calendarSetName": {
+      "text": "日曆設定模板",
+      "desc": ""
+    },
+    "cronTipText12": {
+      "text": "日期（DayofMonth）",
+      "desc": ""
+    },
+    "cronTipText11": {
+      "text": "小時（Hours）",
+      "desc": ""
+    },
+    "newCreate1": {
+      "text": "新建",
+      "desc": ""
+    },
+    "cronTipText14": {
+      "text": "星期（DayofWeek）",
+      "desc": ""
+    },
+    "cronTipText13": {
+      "text": "月份（Month）",
+      "desc": ""
+    },
+    "cronTipText21": {
+      "text": "允許的特殊字",
+      "desc": ""
+    },
+    "cronTipText23": {
+      "text": "允許使用的特殊符號，說明如下：",
+      "desc": ""
+    },
+    "cronTipText15": {
+      "text": "允許值",
+      "desc": ""
+    },
+    "cronTipText1": {
+      "text": "在 UiBot Commander 中，CRON 表達式的結構爲 “",
+      "desc": ""
+    },
+    "cronTipText9": {
+      "text": "欄位",
+      "desc": ""
+    }
+  },
+  "passwordSafe": {
+    "accountFreeze": {
+      "text": "，帳號凍結",
+      "desc": ""
+    },
+    "sixMonth": {
+      "text": "180天",
+      "desc": ""
+    },
+    "twoMonth": {
+      "text": "60天",
+      "desc": ""
+    },
+    "threeMonth": {
+      "text": "90天",
+      "desc": ""
+    },
+    "save": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "saveSuccess": {
+      "text": "存檔成功",
+      "desc": ""
+    },
+    "includeNum": {
+      "text": "必須包含數位",
+      "desc": ""
+    },
+    "complexityItem3": {
+      "text": "必須包含數位、大寫和小寫英文字母（A~Z和a~z）以及特殊字元",
+      "desc": ""
+    },
+    "complexityItem1": {
+      "text": "必須包含數位、英文字母（A~Z或a~z）",
+      "desc": ""
+    },
+    "complexityItem2": {
+      "text": "必須包含數位、英文字母（A~Z或a~z）和特殊字元",
+      "desc": ""
+    },
+    "includeSpecial": {
+      "text": "必須包含特殊符號",
+      "desc": ""
+    },
+    "includeWord": {
+      "text": "必須包含字母",
+      "desc": ""
+    },
+    "mustComplexity": {
+      "text": "必須選擇複雜度",
+      "desc": ""
+    },
+    "time": {
+      "text": "次 | 次",
+      "desc": ""
+    },
+    "errorBe1to10": {
+      "text": "錯誤次數爲1-10次",
+      "desc": ""
+    },
+    "Freeze1to1440": {
+      "text": "凍結時間爲1-1440分鐘",
+      "desc": ""
+    },
+    "protect": {
+      "text": "防破解",
+      "desc": ""
+    },
+    "minite": {
+      "text": "分鐘",
+      "desc": ""
+    },
+    "passwordMinWords": {
+      "text": "個字元 | 個字元",
+      "desc": ""
+    },
+    "passwordSafeTitle": {
+      "text": "密碼安全策略設定",
+      "desc": ""
+    },
+    "pswErrorMax": {
+      "text": "密碼錯誤次數大於等於",
+      "desc": ""
+    },
+    "complexity": {
+      "text": "密碼複雜性",
+      "desc": ""
+    },
+    "validTime": {
+      "text": "密碼有效期",
+      "desc": ""
+    },
+    "pswLength6to10": {
+      "text": "密碼長度在6-10位!",
+      "desc": ""
+    },
+    "pswOnlyNum": {
+      "text": "密碼長度只能輸入數位",
+      "desc": ""
+    },
+    "passwordMinLength": {
+      "text": "密碼長度最小值",
+      "desc": ""
+    },
+    "passwordMin": {
+      "text": "密碼至少",
+      "desc": ""
+    },
+    "passwordMinLengthMessage": {
+      "text": "密碼最小長度不能爲空",
+      "desc": ""
+    },
+    "pleaseInputErrorNum": {
+      "text": "請輸入錯誤次數",
+      "desc": ""
+    },
+    "pleaseInputFreezeTime": {
+      "text": "請輸入凍結時間",
+      "desc": ""
+    },
+    "pleaseInputPswLength": {
+      "text": "請輸入密碼長度最小值",
+      "desc": ""
+    },
+    "passwordMinLengthPlaceholder": {
+      "text": "請輸入數位",
+      "desc": ""
+    },
+    "never": {
+      "text": "永不過期",
+      "desc": ""
+    }
+  },
+  "package": {
+    "uploadError3": {
+      "text": ".html檔案解析錯誤，請確保是由Creator發布的檔案！",
+      "desc": ""
+    },
+    "uploadError2": {
+      "text": "config.json檔案或.html檔案解析錯誤，請確保是由Creator發布的檔案！",
+      "desc": ""
+    },
+    "versionRemark": {
+      "text": "版本",
+      "desc": ""
+    },
+    "version": {
+      "text": "版本",
+      "desc": ""
+    },
+    "versionId": {
+      "text": "版本",
+      "desc": ""
+    },
+    "versions": {
+      "text": "版本",
+      "desc": ""
+    },
+    "versionNumber": {
+      "text": "版本號",
+      "desc": ""
+    },
+    "description": {
+      "text": "版本說明",
+      "desc": ""
+    },
+    "versionDescription": {
+      "text": "版本說明",
+      "desc": ""
+    },
+    "versionDetail": {
+      "text": "版本詳情",
+      "desc": ""
+    },
+    "save": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "remark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "remarkVersion": {
+      "text": "備注",
+      "desc": ""
+    },
+    "edit": {
+      "text": "編輯",
+      "desc": ""
+    },
+    "editVersionRemark": {
+      "text": "編輯備注",
+      "desc": ""
+    },
+    "editPackage": {
+      "text": "編輯流程包",
+      "desc": ""
+    },
+    "packageTitle2": {
+      "text": "編輯流程包",
+      "desc": ""
+    },
+    "operation": {
+      "text": "操作",
+      "desc": ""
+    },
+    "lookPackageVersion": {
+      "text": "查看版本詳情",
+      "desc": ""
+    },
+    "lookPackage": {
+      "text": "查看流程包詳情",
+      "desc": ""
+    },
+    "lookPackageDetail": {
+      "text": "查看流程包詳情",
+      "desc": ""
+    },
+    "lookUseIntroduction": {
+      "text": "查看使用說明",
+      "desc": ""
+    },
+    "createSuccess": {
+      "text": "創建成功",
+      "desc": ""
+    },
+    "createPackageTime": {
+      "text": "創建時間",
+      "desc": ""
+    },
+    "createTimes": {
+      "text": "創建時間",
+      "desc": ""
+    },
+    "createUserName": {
+      "text": "創建者",
+      "desc": ""
+    },
+    "uploadBoxText": {
+      "text": "點擊或拖放檔案至此區域",
+      "desc": ""
+    },
+    "uploadBoxLimitError": {
+      "text": "格式錯誤，請重新選擇！",
+      "desc": ""
+    },
+    "updateSuccess": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "totalNum": {
+      "text": "共 {number} 個流程包",
+      "desc": ""
+    },
+    "userLinked": {
+      "text": "關聯用戶",
+      "desc": ""
+    },
+    "or": {
+      "text": "或",
+      "desc": ""
+    },
+    "uploadError1": {
+      "text": "解析檔案報錯，請確保是由Creator發布的檔案！",
+      "desc": ""
+    },
+    "uploadBoxLimit": {
+      "text": "僅支持.bot檔案",
+      "desc": ""
+    },
+    "uploadPackageTip": {
+      "text": "可將檔案拖拽至此區域，只能選擇.bot檔案",
+      "desc": ""
+    },
+    "isActive": {
+      "text": "可用狀態",
+      "desc": ""
+    },
+    "packageManagement": {
+      "text": "流程包",
+      "desc": ""
+    },
+    "package": {
+      "text": "流程包",
+      "desc": ""
+    },
+    "packageNames": {
+      "text": "流程包",
+      "desc": ""
+    },
+    "packageName": {
+      "text": "流程包名稱",
+      "desc": ""
+    },
+    "packageNameTip1": {
+      "text": "流程包名稱不能爲空",
+      "desc": ""
+    },
+    "packageFileTitle": {
+      "text": "流程包檔案",
+      "desc": ""
+    },
+    "packageFile": {
+      "text": "流程檔案",
+      "desc": ""
+    },
+    "packageRemark": {
+      "text": "描述",
+      "desc": ""
+    },
+    "errorTip3": {
+      "text": "您選擇的流程檔案格式有誤",
+      "desc": ""
+    },
+    "createPackageTip": {
+      "text": "您選擇的流程檔案格式有誤，請先新建流程包",
+      "desc": ""
+    },
+    "errorTip1": {
+      "text": "請上傳流程檔案",
+      "desc": ""
+    },
+    "versionRemarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "packageNamePlaceholder": {
+      "text": "請輸入流程包名稱",
+      "desc": ""
+    },
+    "packageRemarkPlaceholder": {
+      "text": "請輸入描述",
+      "desc": ""
+    },
+    "userLinkedMessage": {
+      "text": "請選擇Creator用戶",
+      "desc": ""
+    },
+    "userLinkedPlaceholder": {
+      "text": "請選擇用戶",
+      "desc": ""
+    },
+    "content": {
+      "text": "確定要删除這個流程包？該操作不可逆！",
+      "desc": ""
+    },
+    "deleteSuccess": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "deletePackage": {
+      "text": "删除流程包",
+      "desc": ""
+    },
+    "deleteFail": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "uploadVersion": {
+      "text": "上傳",
+      "desc": ""
+    },
+    "upload": {
+      "text": "上傳",
+      "desc": ""
+    },
+    "uploadText": {
+      "text": "上傳",
+      "desc": ""
+    },
+    "versionTitle": {
+      "text": "上傳版本",
+      "desc": ""
+    },
+    "uploadSuccess": {
+      "text": "上傳成功",
+      "desc": ""
+    },
+    "uploadVersionSuccess": {
+      "text": "上傳成功！",
+      "desc": ""
+    },
+    "uploadPackage": {
+      "text": "上傳流程包",
+      "desc": ""
+    },
+    "uploadVersionFail": {
+      "text": "上傳失敗",
+      "desc": ""
+    },
+    "uploadTime": {
+      "text": "上傳時間",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "上傳時間",
+      "desc": ""
+    },
+    "publishTime": {
+      "text": "上傳時間",
+      "desc": ""
+    },
+    "uploadIcon": {
+      "text": "上傳圖標",
+      "desc": ""
+    },
+    "uploadAuthor": {
+      "text": "上傳者",
+      "desc": ""
+    },
+    "userName": {
+      "text": "上傳者",
+      "desc": ""
+    },
+    "publisher": {
+      "text": "上傳者",
+      "desc": ""
+    },
+    "useDescription": {
+      "text": "使用說明",
+      "desc": ""
+    },
+    "isEnabled": {
+      "text": "是否可用",
+      "desc": ""
+    },
+    "uploadHoverText": {
+      "text": "鬆開滑鼠",
+      "desc": ""
+    },
+    "icon": {
+      "text": "圖標",
+      "desc": ""
+    },
+    "uploadSizeLimitError": {
+      "text": "檔案不能大於200M，請重新選擇！",
+      "desc": ""
+    },
+    "createPackage": {
+      "text": "新建流程包",
+      "desc": ""
+    },
+    "packageTitle": {
+      "text": "新建流程包",
+      "desc": ""
+    },
+    "selectIcon": {
+      "text": "選擇圖標",
+      "desc": ""
+    },
+    "uploadWarning": {
+      "text": "已取消上傳！",
+      "desc": ""
+    },
+    "noUrlTip": {
+      "text": "暫無使用說明",
+      "desc": ""
+    },
+    "packageNameTip3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "versionRemarkTip": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "remarkTip": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "packageNameTip2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "uploadVersionIng": {
+      "text": "正在上傳",
+      "desc": ""
+    },
+    "iconTip": {
+      "text": "支持圖片類型：png, jpg",
+      "desc": ""
+    },
+    "errorTip2": {
+      "text": "只能上傳.bot檔案",
+      "desc": ""
+    }
+  },
+  "public": {
+    "placeholderMax": {
+      "text": "{max}個字元以內",
+      "desc": ""
+    },
+    "ipAddress": {
+      "text": "IP地址",
+      "desc": ""
+    },
+    "version": {
+      "text": "版本",
+      "desc": ""
+    },
+    "save": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "remark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "edit": {
+      "text": "編輯",
+      "desc": ""
+    },
+    "bool": {
+      "text": "布林",
+      "desc": ""
+    },
+    "operate": {
+      "text": "操作",
+      "desc": ""
+    },
+    "lookDetail": {
+      "text": "查看詳情",
+      "desc": ""
+    },
+    "lookRunLog": {
+      "text": "查看執行Log",
+      "desc": ""
+    },
+    "search": {
+      "text": "查詢",
+      "desc": ""
+    },
+    "time": {
+      "text": "次 | 次",
+      "desc": ""
+    },
+    "error": {
+      "text": "錯誤",
+      "desc": ""
+    },
+    "currentSelect": {
+      "text": "當前選擇：",
+      "desc": ""
+    },
+    "assignWorkerSelectEnv": {
+      "text": "當前選擇：自動分配Worker",
+      "desc": ""
+    },
+    "back": {
+      "text": "返回",
+      "desc": ""
+    },
+    "minute": {
+      "text": "分鐘 | 分鐘",
+      "desc": ""
+    },
+    "one": {
+      "text": "個 | 個",
+      "desc": ""
+    },
+    "pageTotalCount": {
+      "text": "共 {msg} 條資料 | 共 {msg} 條資料",
+      "desc": ""
+    },
+    "pageTotal": {
+      "text": "共 {msg} 條資料 | 共 {msg} 條資料",
+      "desc": ""
+    },
+    "close": {
+      "text": "關閉",
+      "desc": ""
+    },
+    "env": {
+      "text": "環境",
+      "desc": ""
+    },
+    "getDepartmentTreeFail": {
+      "text": "讀取部門樹失敗！",
+      "desc": ""
+    },
+    "machineCode": {
+      "text": "機器碼",
+      "desc": ""
+    },
+    "activationschedule": {
+      "text": "啓用計劃",
+      "desc": ""
+    },
+    "endTime": {
+      "text": "結束時間",
+      "desc": ""
+    },
+    "startTime": {
+      "text": "開始時間",
+      "desc": ""
+    },
+    "workerType": {
+      "text": "類型",
+      "desc": ""
+    },
+    "type": {
+      "text": "類型",
+      "desc": ""
+    },
+    "workerOffline": {
+      "text": "離綫",
+      "desc": ""
+    },
+    "executeImmediately": {
+      "text": "立即執行",
+      "desc": ""
+    },
+    "second": {
+      "text": "秒 | 秒",
+      "desc": ""
+    },
+    "name": {
+      "text": "名稱",
+      "desc": ""
+    },
+    "nameNotEmpty": {
+      "text": "名稱不能爲空",
+      "desc": ""
+    },
+    "queueExecute": {
+      "text": "排隊執行",
+      "desc": ""
+    },
+    "pleaseInputName": {
+      "text": "請輸入名稱",
+      "desc": ""
+    },
+    "pleaseInputDes": {
+      "text": "請輸入說明",
+      "desc": ""
+    },
+    "maxTaskTargetNumber": {
+      "text": "請輸入小於等於1440的整數！",
+      "desc": ""
+    },
+    "inputTaskNumberErrorTip": {
+      "text": "請輸入正確的任務數量！",
+      "desc": ""
+    },
+    "noSelectEnvTip": {
+      "text": "請選擇環境",
+      "desc": ""
+    },
+    "minTaskNumberTip": {
+      "text": "請至少分配1個任務！",
+      "desc": ""
+    },
+    "minWorkerNumberTip": {
+      "text": "請至少指定1個執行計劃的Worker！",
+      "desc": ""
+    },
+    "cancel": {
+      "text": "取消",
+      "desc": ""
+    },
+    "cancelTableTitleTips": {
+      "text": "取消",
+      "desc": ""
+    },
+    "ok": {
+      "text": "確定",
+      "desc": ""
+    },
+    "okText": {
+      "text": "確定删除",
+      "desc": ""
+    },
+    "laborCost": {
+      "text": "人工成本",
+      "desc": ""
+    },
+    "laborTime": {
+      "text": "人工時間",
+      "desc": ""
+    },
+    "maxTaskNumberTip": {
+      "text": "任務數量最多爲100！",
+      "desc": ""
+    },
+    "delete": {
+      "text": "删除",
+      "desc": ""
+    },
+    "previousStep": {
+      "text": "上一步",
+      "desc": ""
+    },
+    "number": {
+      "text": "數值",
+      "desc": ""
+    },
+    "des": {
+      "text": "說明",
+      "desc": ""
+    },
+    "search2": {
+      "text": "搜尋",
+      "desc": ""
+    },
+    "department": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "toolTip": {
+      "text": "提示",
+      "desc": ""
+    },
+    "day": {
+      "text": "天 | 天",
+      "desc": ""
+    },
+    "complete": {
+      "text": "完成",
+      "desc": ""
+    },
+    "workerInactivated": {
+      "text": "未啓用",
+      "desc": ""
+    },
+    "text": {
+      "text": "文字",
+      "desc": ""
+    },
+    "unattended": {
+      "text": "無人值守",
+      "desc": ""
+    },
+    "nextStep": {
+      "text": "下一步",
+      "desc": ""
+    },
+    "hour": {
+      "text": "小時 | 小時",
+      "desc": ""
+    },
+    "create": {
+      "text": "新增",
+      "desc": ""
+    },
+    "cnYuan": {
+      "text": "元 | 元",
+      "desc": ""
+    },
+    "runTime": {
+      "text": "執行時間",
+      "desc": ""
+    },
+    "workerOnline": {
+      "text": "在綫",
+      "desc": ""
+    },
+    "noData": {
+      "text": "暫無資料…",
+      "desc": ""
+    },
+    "nameMaxLength": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "desMaxLength": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "nameMinLength": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "desMinLength": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "executeWay": {
+      "text": "執行方式",
+      "desc": ""
+    },
+    "specifyWorker": {
+      "text": "指定Worker",
+      "desc": ""
+    },
+    "doAgain": {
+      "text": "重新執行",
+      "desc": ""
+    },
+    "reAssignWorker": {
+      "text": "重新指定Worker",
+      "desc": ""
+    },
+    "reassignWorker": {
+      "text": "重新指派Worker",
+      "desc": ""
+    },
+    "state": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "status": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "autoAllocation": {
+      "text": "自動分配",
+      "desc": ""
+    },
+    "connectTime": {
+      "text": "最近連接時間",
+      "desc": ""
+    },
+    "activationPlan": {
+      "text": "啓用計劃",
+      "desc": ""
+    },
+    "one1": {
+      "text": "次 | 次",
+      "desc": ""
+    },
+    "manday": {
+      "text": "人天 | 人天",
+      "desc": ""
+    }
+  },
+  "WorkerAttend": {
+    "versionUpdatePackage": {
+      "text": "{msg}版本更新包",
+      "desc": ""
+    },
+    "workerTitle": {
+      "text": "Worker",
+      "desc": ""
+    },
+    "workerAttendName2": {
+      "text": "Worker名稱",
+      "desc": ""
+    },
+    "workerRemark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "workerAttendEditWorker": {
+      "text": "編輯Worker",
+      "desc": ""
+    },
+    "editWorkerFail": {
+      "text": "編輯Worker失敗!",
+      "desc": ""
+    },
+    "departmentTitle": {
+      "text": "部門",
+      "desc": ""
+    },
+    "lookDetails": {
+      "text": "查看詳情",
+      "desc": ""
+    },
+    "createWorkerFail": {
+      "text": "創建Worker失敗",
+      "desc": ""
+    },
+    "workerAttendMessage2": {
+      "text": "創建成功",
+      "desc": ""
+    },
+    "workerVersion": {
+      "text": "版本",
+      "desc": ""
+    },
+    "workerAttendMessage3": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "bulkUpdateMessage1": {
+      "text": "更新命令已下發！",
+      "desc": ""
+    },
+    "bulkUpdateTip2": {
+      "text": "勾選部門預設選擇部門下全部Worker",
+      "desc": ""
+    },
+    "environment": {
+      "text": "環境",
+      "desc": ""
+    },
+    "getWorkerInfoFail": {
+      "text": "讀取Worker信息失敗",
+      "desc": ""
+    },
+    "bulkUpdateError1": {
+      "text": "讀取部門樹失敗",
+      "desc": ""
+    },
+    "machineCode": {
+      "text": "機器名/機器碼",
+      "desc": ""
+    },
+    "beginUpdate": {
+      "text": "開始更新",
+      "desc": ""
+    },
+    "bulkUpdateRemarkPlaceholder": {
+      "text": "可輸入更新說明…",
+      "desc": ""
+    },
+    "offline": {
+      "text": "離綫",
+      "desc": ""
+    },
+    "workerAttendName": {
+      "text": "名稱",
+      "desc": ""
+    },
+    "searchVal": {
+      "text": "名稱/機器碼",
+      "desc": ""
+    },
+    "workerAttendNameMessage1": {
+      "text": "名稱不能爲空",
+      "desc": ""
+    },
+    "titleBtnContent": {
+      "text": "批量更新Worker",
+      "desc": ""
+    },
+    "bulkUpdateTitle": {
+      "text": "批量更新worker",
+      "desc": ""
+    },
+    "workerAttendNamePlaceholder": {
+      "text": "請輸入Worker名稱",
+      "desc": ""
+    },
+    "workerAttendRemarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "bulkUpdateTip3": {
+      "text": "請先選擇有Worker的部門,再選擇對應部門下需要更新的Worker",
+      "desc": ""
+    },
+    "workerAttendDepartmentMessage": {
+      "text": "請選擇部門",
+      "desc": ""
+    },
+    "workerAttendDepartmentPlaceholder": {
+      "text": "請選擇部門",
+      "desc": ""
+    },
+    "workerAttendEnvironmentPlaceholder": {
+      "text": "請選擇環境",
+      "desc": ""
+    },
+    "workerAttendEnvironmentMessage": {
+      "text": "請選擇環境",
+      "desc": ""
+    },
+    "workerAttendUserPlaceholder": {
+      "text": "請選擇用戶",
+      "desc": ""
+    },
+    "workerAttendUserMessage": {
+      "text": "請選擇用戶",
+      "desc": ""
+    },
+    "bulkUpdateError2": {
+      "text": "請至少選擇一個需要更新的Worker",
+      "desc": ""
+    },
+    "cancel": {
+      "text": "取消",
+      "desc": ""
+    },
+    "delTip": {
+      "text": "確定要删除這個Worker？該操作不可逆！",
+      "desc": ""
+    },
+    "attendFloat": {
+      "text": "人機交互浮動授權",
+      "desc": ""
+    },
+    "workerAttendRemoveWorker": {
+      "text": "删除Worker",
+      "desc": ""
+    },
+    "workerAttendMessage1": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "workerAttendError1": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "preStep": {
+      "text": "上一步",
+      "desc": ""
+    },
+    "authorType": {
+      "text": "授權類型",
+      "desc": ""
+    },
+    "workerAttendDepartment": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "department": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "workerAttendEnvironment": {
+      "text": "所屬環境",
+      "desc": ""
+    },
+    "workerAttendUser": {
+      "text": "所屬用戶",
+      "desc": ""
+    },
+    "notActive": {
+      "text": "未啓用",
+      "desc": ""
+    },
+    "nextStep": {
+      "text": "下一步",
+      "desc": ""
+    },
+    "new": {
+      "text": "新",
+      "desc": ""
+    },
+    "titleBtn": {
+      "text": "新建Worker",
+      "desc": ""
+    },
+    "selectUpdatePackage": {
+      "text": "選擇更新包",
+      "desc": ""
+    },
+    "selectWorker": {
+      "text": "選擇需要更新的Worker",
+      "desc": ""
+    },
+    "online": {
+      "text": "在綫",
+      "desc": ""
+    },
+    "bulkUpdateTip1": {
+      "text": "暫無可用的Worker更新包,請先上傳或啓用Worker更新包",
+      "desc": ""
+    },
+    "workerAttendNameMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "bulkUpdateRemarkMessage": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "workerAttendNameMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "workerAttendWorkerState": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "lastLogined": {
+      "text": "最近連接時間",
+      "desc": ""
+    }
+  },
+  "UpdateWorker": {
+    "updateVersionIntroduction": {
+      "text": "{msg}更新包版本說明",
+      "desc": ""
+    },
+    "versionUpdate": {
+      "text": "版本更新包.exe",
+      "desc": ""
+    },
+    "version": {
+      "text": "版本",
+      "desc": ""
+    },
+    "versionTip": {
+      "text": "版本說明",
+      "desc": ""
+    },
+    "versionIntroduction": {
+      "text": "版本說明",
+      "desc": ""
+    },
+    "saveSuccess": {
+      "text": "存檔成功",
+      "desc": ""
+    },
+    "operation": {
+      "text": "操作",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "創建時間",
+      "desc": ""
+    },
+    "updateCloseTip": {
+      "text": "更新包還未存檔，確定關閉嗎？",
+      "desc": ""
+    },
+    "uploadNotCloseWindow": {
+      "text": "更新包上傳中請勿關閉彈窗",
+      "desc": ""
+    },
+    "existCloseTip": {
+      "text": "更新包已存在，是否確認替換？",
+      "desc": ""
+    },
+    "dragToUpload": {
+      "text": "可將檔案拖拽至此區域",
+      "desc": ""
+    },
+    "youTriggerEvent": {
+      "text": "你觸發事件!--",
+      "desc": ""
+    },
+    "isActivated": {
+      "text": "啓用狀態",
+      "desc": ""
+    },
+    "pleaseUploadUpdate": {
+      "text": "請上傳Worker更新包",
+      "desc": ""
+    },
+    "uploadWorkerIntroduction": {
+      "text": "請上傳Zip格式的更新包，上傳成功後可用於Worker升級",
+      "desc": ""
+    },
+    "uploadWorkerUpdate": {
+      "text": "上傳Worker更新包",
+      "desc": ""
+    },
+    "uploadSuccess": {
+      "text": "上傳成功!",
+      "desc": ""
+    },
+    "uploadUpdate": {
+      "text": "上傳更新包",
+      "desc": ""
+    },
+    "uploadBy": {
+      "text": "上傳者",
+      "desc": ""
+    },
+    "uploading": {
+      "text": "上傳中…",
+      "desc": ""
+    },
+    "firstUseTime": {
+      "text": "首次使用時間",
+      "desc": ""
+    },
+    "download": {
+      "text": "下載",
+      "desc": ""
+    },
+    "noIntroduction": {
+      "text": "暫無說明",
+      "desc": ""
+    },
+    "closeDirect": {
+      "text": "直接關閉",
+      "desc": ""
+    },
+    "onlyZip": {
+      "text": "只能上傳.zip檔案",
+      "desc": ""
+    },
+    "reUpload": {
+      "text": "重新上傳",
+      "desc": ""
+    },
+    "upgradSuc": {
+      "text": "操作成功，Worker正在更新中",
+      "desc": ""
+    },
+    "deleteSuc": {
+      "text": "deleteSuc",
+      "desc": ""
+    },
+    "deleteUpdatePackage": {
+      "text": "删除安裝包",
+      "desc": ""
+    },
+    "updateRemarkSuc": {
+      "text": "修改備註成功",
+      "desc": ""
+    },
+    "systemWindow": {
+      "text": "systemWindow",
+      "desc": ""
+    },
+    "window32": {
+      "text": "window32",
+      "desc": ""
+    },
+    "window64": {
+      "text": "window64",
+      "desc": ""
+    },
+    "uploadSucess": {
+      "text": "上傳成功",
+      "desc": ""
+    },
+    "cancelUploadPack": {
+      "text": "已取消上傳",
+      "desc": ""
+    },
+    "uploadCheckErr": {
+      "text": "檢測檔案名錯誤",
+      "desc": ""
+    },
+    "workerAcceptBtnText1": {
+      "text": "強制取消任務，立即進入 '維護模式'",
+      "desc": ""
+    },
+    "workerAcceptBtnText2": {
+      "text": "當前任務執行結束後，自動進入 '維護模式'",
+      "desc": ""
+    },
+    "workerUpdateRunTips1": {
+      "text": "當前 Worker 正在執行任務",
+      "desc": ""
+    },
+    "workerUpdateRunTips2": {
+      "text": "是否確定改為維護模式？",
+      "desc": ""
+    },
+    "workerUpdateErrTips": {
+      "text": "當前Worker 尚未開啟維護模式，無法執行版本更新",
+      "desc": ""
+    },
+    "workerUpdateErrTips1": {
+      "text": "當前Worker 處於離線狀態，無法執行版本更新",
+      "desc": ""
+    },
+    "workerUpdateTips1": {
+      "text": "無人值守 Worker 將自動執行版本更新，並自動認證登入",
+      "desc": ""
+    },
+    "workerUpdateTips": {
+      "text": "存在新版本 {msg}，是否立即更新？",
+      "desc": ""
+    },
+    "versionName": {
+      "text": "檔案名",
+      "desc": ""
+    },
+    "versionNum": {
+      "text": "版本",
+      "desc": ""
+    },
+    "useSystem": {
+      "text": "適用系統",
+      "desc": ""
+    },
+    "versionTips": {
+      "text": "版本說明",
+      "desc": ""
+    },
+    "uploadName": {
+      "text": "上傳者",
+      "desc": ""
+    },
+    "uploadTime": {
+      "text": "上傳時間",
+      "desc": ""
+    },
+    "versionSize": {
+      "text": "檔案大小",
+      "desc": ""
+    },
+    "versionDesc": {
+      "text": "備注",
+      "desc": ""
+    },
+    "versionDetail": {
+      "text": "版本詳情",
+      "desc": ""
+    },
+    "inputDesc": {
+      "text": "inputDesc",
+      "desc": ""
+    },
+    "editDesc": {
+      "text": "編輯備注",
+      "desc": ""
+    },
+    "deleteUpdateWorkerContent": {
+      "text": "是否確定刪除安裝包？該操作不可逆",
+      "desc": ""
+    },
+    "downLoadUpdateWorkerContent": {
+      "text": "是否確定下載安裝包？",
+      "desc": ""
+    },
+    "uploadPackageProcessTip": {
+      "text": "上傳過程中不能取消",
+      "desc": ""
+    },
+    "uploadPackageErr1": {
+      "text": "只能上傳.zip檔案",
+      "desc": ""
+    },
+    "uploadVersionLowerTips": {
+      "text": "當前上傳的版本過低，請上傳 5.5.0 及以上版本",
+      "desc": ""
+    },
+    "uploadFormatErr": {
+      "text": "uploadFormatErr",
+      "desc": ""
+    },
+    "uploadBoxLimit": {
+      "text": "僅支持.zip檔案",
+      "desc": ""
+    },
+    "uploadUpdateLimitError": {
+      "text": "uploadUpdateLimitError",
+      "desc": ""
+    },
+    "updateFileTitle": {
+      "text": "updateFileTitle",
+      "desc": ""
+    },
+    "uploadText": {
+      "text": "上傳",
+      "desc": ""
+    },
+    "activeTips": {
+      "text": "版本更新列表中，只能存在一個啓用版本",
+      "desc": ""
+    },
+    "forceUpdateTipsLine1": {
+      "text": "強制更新：用戶端連接Commander 時，檢測並強制更新，不提供“取消”按鈕",
+      "desc": ""
+    },
+    "forceUpdateTipsLine2": {
+      "text": "非強制更新：用戶端提示更新，提供“取消”按鈕，但取消更新後，下次啟動時會再次提醒",
+      "desc": ""
+    },
+    "forceUpdateTipsLine3": {
+      "text": "特殊情況：無人值守Worker 請通過“Worker > 無人值守”開啟維護模式，再進行版本更新（支持自動完成版本更新並恢復線上狀態）",
+      "desc": ""
+    },
+    "isForceUpdate": {
+      "text": "是否強制更新",
+      "desc": ""
+    },
+    "updateDesc": {
+      "text": "備注",
+      "desc": ""
+    },
+    "updateWorkerTip": {
+      "text": "用於管理 Creator / Worker 用戶端的版本更新，適用於5.5.0及更高版本",
+      "desc": ""
+    },
+    "updateFailTips1": {
+      "text": "Zip包上傳失敗",
+      "desc": ""
+    },
+    "updateFailTips2": {
+      "text": "Zip包下載失敗",
+      "desc": ""
+    },
+    "updateFailTips3": {
+      "text": "安裝包exe上傳失敗",
+      "desc": ""
+    },
+    "workerUpdateTips2": {
+      "text": "更新時，如該設備打開了Creator客戶端，會同步關閉並更新。",
+      "desc": ""
+    },
+    "workerUpdateOkText": {
+      "text": "立即更新",
+      "desc": ""
+    },
+    "netError": {
+      "text": "網路錯誤，上傳失敗",
+      "desc": ""
+    },
+    "updateFailTips4": {
+      "text": "已存在相同版本的安裝包，請重新上傳",
+      "desc": ""
+    }
+  },
+  "utilsIndexJs": {
+    "oneDayAgo": {
+      "text": "1天前",
+      "desc": ""
+    },
+    "boolText": {
+      "text": "布林",
+      "desc": ""
+    },
+    "queryText": {
+      "text": "查詢",
+      "desc": ""
+    },
+    "success": {
+      "text": "成功",
+      "desc": ""
+    },
+    "error": {
+      "text": "錯誤",
+      "desc": ""
+    },
+    "errorText": {
+      "text": "錯誤",
+      "desc": ""
+    },
+    "deploying": {
+      "text": "待部署",
+      "desc": ""
+    },
+    "pendingDeployment": {
+      "text": "待部署",
+      "desc": ""
+    },
+    "received": {
+      "text": "待執行",
+      "desc": ""
+    },
+    "deployingText": {
+      "text": "待執行",
+      "desc": ""
+    },
+    "exportText": {
+      "text": "導出",
+      "desc": ""
+    },
+    "importText": {
+      "text": "導入",
+      "desc": ""
+    },
+    "tuesday": {
+      "text": "二",
+      "desc": ""
+    },
+    "minute": {
+      "text": "分",
+      "desc": ""
+    },
+    "minutesAgo": {
+      "text": "分鐘前",
+      "desc": ""
+    },
+    "just": {
+      "text": "剛剛",
+      "desc": ""
+    },
+    "trace": {
+      "text": "跟踪",
+      "desc": ""
+    },
+    "trackText": {
+      "text": "跟踪",
+      "desc": ""
+    },
+    "admin": {
+      "text": "管理員",
+      "desc": ""
+    },
+    "today": {
+      "text": "今天",
+      "desc": ""
+    },
+    "disableText": {
+      "text": "禁用",
+      "desc": ""
+    },
+    "prohibiting": {
+      "text": "禁用",
+      "desc": ""
+    },
+    "warn": {
+      "text": "警告",
+      "desc": ""
+    },
+    "warningText": {
+      "text": "警告",
+      "desc": ""
+    },
+    "developer": {
+      "text": "開發者",
+      "desc": ""
+    },
+    "abortedByCommander": {
+      "text": "控制中止",
+      "desc": ""
+    },
+    "saturday": {
+      "text": "六",
+      "desc": ""
+    },
+    "sessionExpired": {
+      "text": "您的Session已過期",
+      "desc": ""
+    },
+    "user": {
+      "text": "普通用戶",
+      "desc": ""
+    },
+    "starting": {
+      "text": "啓動中",
+      "desc": ""
+    },
+    "startText": {
+      "text": "啓用",
+      "desc": ""
+    },
+    "enabling": {
+      "text": "啓用",
+      "desc": ""
+    },
+    "canceled": {
+      "text": "取消",
+      "desc": ""
+    },
+    "canceling": {
+      "text": "取消中",
+      "desc": ""
+    },
+    "humanComputerInteraction": {
+      "text": "人機交互",
+      "desc": ""
+    },
+    "runCancelText": {
+      "text": "取消",
+      "desc": ""
+    },
+    "taskCancelText": {
+      "text": "取消",
+      "desc": ""
+    },
+    "sunday": {
+      "text": "日",
+      "desc": ""
+    },
+    "day": {
+      "text": "日",
+      "desc": ""
+    },
+    "wednesday": {
+      "text": "三",
+      "desc": ""
+    },
+    "deleteText": {
+      "text": "删除",
+      "desc": ""
+    },
+    "fail": {
+      "text": "失敗",
+      "desc": ""
+    },
+    "hour": {
+      "text": "時",
+      "desc": ""
+    },
+    "numberText": {
+      "text": "數值",
+      "desc": ""
+    },
+    "thursday": {
+      "text": "四",
+      "desc": ""
+    },
+    "allState": {
+      "text": "所有狀態",
+      "desc": ""
+    },
+    "promptText": {
+      "text": "提示",
+      "desc": ""
+    },
+    "stopping": {
+      "text": "停止中",
+      "desc": ""
+    },
+    "unknown": {
+      "text": "未知",
+      "desc": ""
+    },
+    "textText": {
+      "text": "文字",
+      "desc": ""
+    },
+    "fileTooLarge": {
+      "text": "檔案過大!",
+      "desc": ""
+    },
+    "rejected": {
+      "text": "無法回應",
+      "desc": ""
+    },
+    "unattended": {
+      "text": "無人值守",
+      "desc": ""
+    },
+    "friday": {
+      "text": "五",
+      "desc": ""
+    },
+    "detailsText": {
+      "text": "詳情",
+      "desc": ""
+    },
+    "info": {
+      "text": "訊息",
+      "desc": ""
+    },
+    "messageText": {
+      "text": "訊息",
+      "desc": ""
+    },
+    "hoursAgo": {
+      "text": "小時前",
+      "desc": ""
+    },
+    "addText": {
+      "text": "新增",
+      "desc": ""
+    },
+    "modifyText": {
+      "text": "修改",
+      "desc": ""
+    },
+    "monday": {
+      "text": "一",
+      "desc": ""
+    },
+    "deployedAlready": {
+      "text": "已部署",
+      "desc": ""
+    },
+    "runned": {
+      "text": "已啓動",
+      "desc": ""
+    },
+    "stoped": {
+      "text": "已停止",
+      "desc": ""
+    },
+    "finished": {
+      "text": "已完成",
+      "desc": ""
+    },
+    "aborted": {
+      "text": "已中止",
+      "desc": ""
+    },
+    "workerCrashed": {
+      "text": "錯誤中止",
+      "desc": ""
+    },
+    "abortedByUser": {
+      "text": "用戶中止",
+      "desc": ""
+    },
+    "month": {
+      "text": "月",
+      "desc": ""
+    },
+    "runSucText": {
+      "text": "執行成功",
+      "desc": ""
+    },
+    "runFailText": {
+      "text": "執行失敗",
+      "desc": ""
+    },
+    "started": {
+      "text": "執行中",
+      "desc": ""
+    },
+    "running": {
+      "text": "執行中",
+      "desc": ""
+    },
+    "runningText": {
+      "text": "執行中",
+      "desc": ""
+    },
+    "retrying": {
+      "text": "重試",
+      "desc": ""
+    },
+    "lastThreeMonths": {
+      "text": "最近三個月",
+      "desc": ""
+    },
+    "lastMonth": {
+      "text": "最近一個月",
+      "desc": ""
+    },
+    "lastWeek": {
+      "text": "最近一周",
+      "desc": ""
+    },
+    "taskInvalidText": {
+      "text": "失效",
+      "desc": ""
+    }
+  },
+  "accessKey": {
+    "upgradeTip": {
+      "text": "2020年8月10日起，App Key全面升級爲Access Key，請還在使用App Key的用戶儘快更新！",
+      "desc": ""
+    },
+    "columnTitleAKId": {
+      "text": "Access Key ID",
+      "desc": ""
+    },
+    "columnTitleSKSec": {
+      "text": "Access Key Secret",
+      "desc": ""
+    },
+    "modalConfirmText": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "msgboxTitleResetAK": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "validateMessageRequired": {
+      "text": "必填字段",
+      "desc": ""
+    },
+    "editModalTitle": {
+      "text": "編輯Access Key",
+      "desc": ""
+    },
+    "columnTitleOperation": {
+      "text": "操作",
+      "desc": ""
+    },
+    "gotoAppKeyLink": {
+      "text": "點擊查看原有App Key",
+      "desc": ""
+    },
+    "columnTitleCallbackUrl": {
+      "text": "回調URL",
+      "desc": ""
+    },
+    "formLabelCallback": {
+      "text": "回調URL",
+      "desc": ""
+    },
+    "validateMessageInvalidUrl": {
+      "text": "請輸入合法的URL",
+      "desc": ""
+    },
+    "formPlaceHolderCallbackUrl": {
+      "text": "請輸入回調URL",
+      "desc": ""
+    },
+    "formPlaceHolderName": {
+      "text": "請輸入應用名稱",
+      "desc": ""
+    },
+    "mocalCancelText": {
+      "text": "取消",
+      "desc": ""
+    },
+    "msgboxCancelText": {
+      "text": "取消",
+      "desc": ""
+    },
+    "msgboxConfirmText": {
+      "text": "確定",
+      "desc": ""
+    },
+    "modalRemoveAkTitle": {
+      "text": "删除Access Key",
+      "desc": ""
+    },
+    "msgboxTitleRemoveAK": {
+      "text": "删除Access Key",
+      "desc": ""
+    },
+    "msgboxTipRemoveAK": {
+      "text": "删除後，當前 Access Key 對應的應用授權將會失效，確定要删除嗎？",
+      "desc": ""
+    },
+    "buttonTextCreateAK": {
+      "text": "新建Access Key",
+      "desc": ""
+    },
+    "createModalTitle": {
+      "text": "新建Access Key",
+      "desc": ""
+    },
+    "columnTitleName": {
+      "text": "應用名稱",
+      "desc": ""
+    },
+    "formLabelName": {
+      "text": "應用名稱",
+      "desc": ""
+    },
+    "title": {
+      "text": "應用授權",
+      "desc": ""
+    },
+    "modalRefreshAKTitle": {
+      "text": "重置Access Key",
+      "desc": ""
+    },
+    "msgboxTipResetAK": {
+      "text": "重置後，會生成新的 Access Key Secret，導致之前的應用授權失效，確定要重置嗎？",
+      "desc": ""
+    },
+    "buttonTextLookInterfaceApi": {
+      "text": "查看接口檔案",
+      "desc": ""
+    },
+    "accessKeyTips1": {
+      "text": "回調URL是第三方伺服器接收推送事件的消息接收地址",
+      "desc": ""
+    },
+    "accessKeyTips": {
+      "text": "用於管理OpenAPI的應用授權，獲取授權的第三方應用可以調用 OpenAPI",
+      "desc": ""
+    }
+  },
+  "taskQueueManager": {
+    "authorizeTypeText": {
+      "text": "授權檔案格式",
+      "desc": ""
+    },
+    "ip": {
+      "text": "IP：",
+      "desc": ""
+    },
+    "createdTime": {
+      "text": "Worker創建時間：",
+      "desc": ""
+    },
+    "searchPlaceholder": {
+      "text": "Worker名稱",
+      "desc": ""
+    },
+    "stateTip": {
+      "text": "Worker狀態",
+      "desc": ""
+    },
+    "version": {
+      "text": "版本號：",
+      "desc": ""
+    },
+    "lookTaskDetail": {
+      "text": "查看任務詳情",
+      "desc": ""
+    },
+    "lowVersion": {
+      "text": "當前 Worker 版本較低，無法讀取監控畫面，請將 Worker 升級至 5.3.0 以上版本",
+      "desc": ""
+    },
+    "low": {
+      "text": "當前 Worker 版本較低，無法讀取監控畫面請將 Worker 升級至 5.3.0 以上版本",
+      "desc": ""
+    },
+    "currentWorker": {
+      "text": "當前Worker: ",
+      "desc": ""
+    },
+    "question3": {
+      "text": "等待插件開啓執行即可。",
+      "desc": ""
+    },
+    "offlineTime": {
+      "text": "斷開連接時間：",
+      "desc": ""
+    },
+    "queueDetail": {
+      "text": "Queue詳情",
+      "desc": ""
+    },
+    "sendCtrlAltDel": {
+      "text": "發送Ctrl+Alt+Del",
+      "desc": ""
+    },
+    "tab": {
+      "text": "發送Tab鍵",
+      "desc": ""
+    },
+    "win": {
+      "text": "發送Win鍵",
+      "desc": ""
+    },
+    "minute": {
+      "text": "分鐘",
+      "desc": ""
+    },
+    "question": {
+      "text": "監控插件問題排查",
+      "desc": ""
+    },
+    "noAccess": {
+      "text": "監控模式無法操作",
+      "desc": ""
+    },
+    "monitoring": {
+      "text": "監控中",
+      "desc": ""
+    },
+    "over": {
+      "text": "結束",
+      "desc": ""
+    },
+    "overControl": {
+      "text": "結束遠程控制",
+      "desc": ""
+    },
+    "invnc": {
+      "text": "進入遠程控制",
+      "desc": ""
+    },
+    "startTime": {
+      "text": "開始時間",
+      "desc": ""
+    },
+    "tooLongFreeTime": {
+      "text": "空閑時間過長",
+      "desc": ""
+    },
+    "freeing": {
+      "text": "空閑中",
+      "desc": ""
+    },
+    "controling": {
+      "text": "控制中",
+      "desc": ""
+    },
+    "offline": {
+      "text": "離綫",
+      "desc": ""
+    },
+    "tooLongOffline": {
+      "text": "離綫時間過長",
+      "desc": ""
+    },
+    "history": {
+      "text": "歷史記錄",
+      "desc": ""
+    },
+    "searchFlowPlaceholder": {
+      "text": "流程名稱",
+      "desc": ""
+    },
+    "flowName": {
+      "text": "流程名稱",
+      "desc": ""
+    },
+    "secound": {
+      "text": "秒",
+      "desc": ""
+    },
+    "keyboard": {
+      "text": "模擬鍵盤",
+      "desc": ""
+    },
+    "question1": {
+      "text": "請確保 Worker 所在設備的監控插件已經開啓，插件如下所示。",
+      "desc": ""
+    },
+    "max": {
+      "text": "全螢幕",
+      "desc": ""
+    },
+    "taskCode": {
+      "text": "任務編號",
+      "desc": ""
+    },
+    "taskScreening": {
+      "text": "任務篩選",
+      "desc": ""
+    },
+    "timeout": {
+      "text": "任務執行超時",
+      "desc": ""
+    },
+    "question2": {
+      "text": "如未找到監控插件，請重新啓動 Worker 。在認證 Worker 後，系統將彈出以下窗口，請在窗口欄選項點擊“是”。",
+      "desc": ""
+    },
+    "realTimeMonitor": {
+      "text": "即時監控",
+      "desc": ""
+    },
+    "authorizeType": {
+      "text": "授權類型：",
+      "desc": ""
+    },
+    "refresh": {
+      "text": "更新",
+      "desc": ""
+    },
+    "min": {
+      "text": "退出全螢幕",
+      "desc": ""
+    },
+    "unactive": {
+      "text": "未啓用",
+      "desc": ""
+    },
+    "noActive": {
+      "text": "未啓用",
+      "desc": ""
+    },
+    "noResponse": {
+      "text": "未回應",
+      "desc": ""
+    },
+    "noRecord": {
+      "text": "無記錄",
+      "desc": ""
+    },
+    "unAttendBind": {
+      "text": "無人值守-綁定機器",
+      "desc": ""
+    },
+    "unAttendFloat": {
+      "text": "無人值守-浮動授權",
+      "desc": ""
+    },
+    "hour": {
+      "text": "小時",
+      "desc": ""
+    },
+    "freeTime": {
+      "text": "已空閑時間：",
+      "desc": ""
+    },
+    "remoteControl": {
+      "text": "遠程控制",
+      "desc": ""
+    },
+    "runtime": {
+      "text": "執行時間：",
+      "desc": ""
+    },
+    "online": {
+      "text": "在綫",
+      "desc": ""
+    },
+    "noTask": {
+      "text": "暫無",
+      "desc": ""
+    },
+    "tooLongUnactive": {
+      "text": "長時間未啓用",
+      "desc": ""
+    },
+    "runningTask": {
+      "text": "正在執行的任務",
+      "desc": ""
+    },
+    "pointerTask": {
+      "text": "指定的待執行任務",
+      "desc": ""
+    },
+    "reconnent": {
+      "text": "重新連接",
+      "desc": ""
+    },
+    "pointerTaskTip": {
+      "text": "自動分配的任務不會出現在該列表中",
+      "desc": ""
+    },
+    "latestConnectTime": {
+      "text": "最近連接時間：",
+      "desc": ""
+    },
+    "authorizeWorkerTypeText": {
+      "text": "authorizeWorkerTypeText",
+      "desc": ""
+    },
+    "authorizeAuthTypeText": {
+      "text": "綁定機器 | 浮動授權",
+      "desc": ""
+    }
+  },
+  "Creator": {
+    "creatorName": {
+      "text": "Creator名稱",
+      "desc": ""
+    },
+    "lastLoginIP": {
+      "text": "IP地址",
+      "desc": ""
+    },
+    "licenseTypeFixed": {
+      "text": "綁定機器",
+      "desc": ""
+    },
+    "editCreator": {
+      "text": "編輯Creator",
+      "desc": ""
+    },
+    "creatorMessage2": {
+      "text": "創建成功",
+      "desc": ""
+    },
+    "noCreatorTip": {
+      "text": "當前沒有Creator用戶資料，需系統管理員前往 \"組織機構\" > \"用戶管理\" 給指定用戶添加Worker的所屬角色",
+      "desc": ""
+    },
+    "acceptTaskNo": {
+      "text": "否",
+      "desc": ""
+    },
+    "licenseTypeFloating": {
+      "text": "浮動授權",
+      "desc": ""
+    },
+    "creatorMessage3": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "environment": {
+      "text": "環境",
+      "desc": ""
+    },
+    "machineName": {
+      "text": "機器名/機器碼",
+      "desc": ""
+    },
+    "creatorStateOffline": {
+      "text": "離綫",
+      "desc": ""
+    },
+    "creatorSearchVal": {
+      "text": "名稱/機器名/機器碼/IP",
+      "desc": ""
+    },
+    "creatorNameMessage1": {
+      "text": "名稱不能爲空",
+      "desc": ""
+    },
+    "creatorNamePlaceholder": {
+      "text": "請輸入名稱",
+      "desc": ""
+    },
+    "creatorDepartmentMessage": {
+      "text": "請選擇部門",
+      "desc": ""
+    },
+    "creatorDepartmentPlaceholder": {
+      "text": "請選擇部門",
+      "desc": ""
+    },
+    "creatorEnvironmentPlaceholder": {
+      "text": "請選擇環境",
+      "desc": ""
+    },
+    "creatorEnvironmentMessage": {
+      "text": "請選擇環境",
+      "desc": ""
+    },
+    "creatorUserPlaceholder": {
+      "text": "請選擇用戶",
+      "desc": ""
+    },
+    "creatorUserMessage": {
+      "text": "請選擇用戶",
+      "desc": ""
+    },
+    "creatorDelTip": {
+      "text": "確定要删除這個Creator？該操作不可逆！",
+      "desc": ""
+    },
+    "removeCreator": {
+      "text": "删除Creator",
+      "desc": ""
+    },
+    "creatorMessage1": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "creatorError1": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "acceptTaskYes": {
+      "text": "是",
+      "desc": ""
+    },
+    "acceptTask": {
+      "text": "是否接收任務",
+      "desc": ""
+    },
+    "licenseType": {
+      "text": "授權類型",
+      "desc": ""
+    },
+    "licenseTypeAll": {
+      "text": "授權類型",
+      "desc": ""
+    },
+    "department": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "creatorDepartment": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "creatorEnvironment": {
+      "text": "所屬環境",
+      "desc": ""
+    },
+    "creatorUser": {
+      "text": "所屬用戶",
+      "desc": ""
+    },
+    "creatorTitleBtn": {
+      "text": "新建Creator",
+      "desc": ""
+    },
+    "creatorStateOnline": {
+      "text": "在綫",
+      "desc": ""
+    },
+    "noCreatorSearchTip": {
+      "text": "暫無資料",
+      "desc": ""
+    },
+    "creatorNameMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "creatorNameMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "creatorState": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "creatorStateAll": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "lastLogined": {
+      "text": "最近連接時間",
+      "desc": ""
+    },
+    "defendMode": {
+      "text": "維護模式",
+      "desc": ""
+    },
+    "version": {
+      "text": "版本",
+      "desc": ""
+    },
+    "acceptTask1": {
+      "text": "維護模式",
+      "desc": ""
+    }
+  },
+  "MessageNotification": {
+    "notifyByEmail": {
+      "text": "Email 郵件提醒",
+      "desc": ""
+    },
+    "workerOverload": {
+      "text": "Worker過載",
+      "desc": ""
+    },
+    "workerLongOffline": {
+      "text": "Worker長時間離綫",
+      "desc": ""
+    },
+    "save": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "saveSuccess": {
+      "text": "存檔成功！",
+      "desc": ""
+    },
+    "saveFail": {
+      "text": "存檔失敗！",
+      "desc": ""
+    },
+    "close": {
+      "text": "關閉",
+      "desc": ""
+    },
+    "getNotifySettingFail": {
+      "text": "讀取訊息提醒配置失敗！",
+      "desc": ""
+    },
+    "open": {
+      "text": "開啓",
+      "desc": ""
+    },
+    "notifyByEmailTips": {
+      "text": "開啓郵件提醒，訊息將以郵件形式同步發送給用戶，請確保用戶Email設定無誤",
+      "desc": ""
+    },
+    "messageStatusMessage": {
+      "text": "請選擇訊息狀態",
+      "desc": ""
+    },
+    "all": {
+      "text": "全部",
+      "desc": ""
+    },
+    "taskSendFail": {
+      "text": "任務發送失敗",
+      "desc": ""
+    },
+    "taskQueueTimeout": {
+      "text": "任務排隊超時",
+      "desc": ""
+    },
+    "taskRunTimeout": {
+      "text": "任務執行超時",
+      "desc": ""
+    },
+    "taskRunFail": {
+      "text": "任務執行失敗",
+      "desc": ""
+    },
+    "failMessage": {
+      "text": "失敗訊息",
+      "desc": ""
+    },
+    "notifyWay": {
+      "text": "通知方式",
+      "desc": ""
+    },
+    "messageType": {
+      "text": "訊息類型",
+      "desc": ""
+    },
+    "messageTitle": {
+      "text": "訊息提醒設定",
+      "desc": ""
+    },
+    "messageStatus": {
+      "text": "訊息狀態",
+      "desc": ""
+    },
+    "exceptionMessage": {
+      "text": "錯誤訊息",
+      "desc": ""
+    },
+    "notifyEmailSettings": {
+      "text": "郵件設定",
+      "desc": ""
+    },
+    "warningMessage": {
+      "text": "預警訊息",
+      "desc": ""
+    },
+    "webMessage": {
+      "text": "站內訊息",
+      "desc": ""
+    },
+    "errorRequireAtLeastOneNotifyType": {
+      "text": "至少需要選擇一種通知方式",
+      "desc": ""
+    },
+    "errorRequireAtLeastOneMessageType": {
+      "text": "至少需要選擇一種訊息類型",
+      "desc": ""
+    }
+  },
+  "taskManager": {
+    "jsonFormatError": {
+      "text": "Json格式錯誤",
+      "desc": ""
+    },
+    "createTypeValue3": {
+      "text": "OpenAPI",
+      "desc": ""
+    },
+    "workerName22": {
+      "text": "Worker",
+      "desc": ""
+    },
+    "Worker": {
+      "text": "Worker",
+      "desc": ""
+    },
+    "workerCrashed": {
+      "text": "Worker崩潰",
+      "desc": ""
+    },
+    "workerClientCancel": {
+      "text": "Worker端取消",
+      "desc": ""
+    },
+    "workerType": {
+      "text": "Worker類型",
+      "desc": ""
+    },
+    "workerName": {
+      "text": "Worker名",
+      "desc": ""
+    },
+    "saveTaskTargetFail": {
+      "text": "存檔任務指標失敗！",
+      "desc": ""
+    },
+    "recordState2": {
+      "text": "不錄製畫面",
+      "desc": ""
+    },
+    "notRecord": {
+      "text": "不錄製畫面",
+      "desc": ""
+    },
+    "department": {
+      "text": "部門",
+      "desc": ""
+    },
+    "departmentName": {
+      "text": "部門",
+      "desc": ""
+    },
+    "departName2": {
+      "text": "部門",
+      "desc": ""
+    },
+    "operation": {
+      "text": "操作",
+      "desc": ""
+    },
+    "operate": {
+      "text": "操作",
+      "desc": ""
+    },
+    "viewImg": {
+      "text": "查看截圖",
+      "desc": ""
+    },
+    "lookRecord": {
+      "text": "查看錄製畫面",
+      "desc": ""
+    },
+    "lookTaskParams": {
+      "text": "查看任務參數",
+      "desc": ""
+    },
+    "lookDetails": {
+      "text": "查看任務詳情",
+      "desc": ""
+    },
+    "lookStatis": {
+      "text": "查看統計指標",
+      "desc": ""
+    },
+    "fileViewTitle": {
+      "text": "查看檔案",
+      "desc": ""
+    },
+    "lookRunLogFail": {
+      "text": "查看執行Log詳情失敗",
+      "desc": ""
+    },
+    "getFlowListDataFail": {
+      "text": "查詢流程資料失敗！",
+      "desc": ""
+    },
+    "resultSuc": {
+      "text": "成功",
+      "desc": ""
+    },
+    "handleComplete": {
+      "text": "處理完成",
+      "desc": ""
+    },
+    "handlingExceptions": {
+      "text": "處理錯誤",
+      "desc": ""
+    },
+    "createTaskSuc": {
+      "text": "創建任務成功",
+      "desc": ""
+    },
+    "createTaskFail": {
+      "text": "創建任務失敗",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "創建時間",
+      "desc": ""
+    },
+    "createTimeSelectTips": {
+      "text": "創建時間",
+      "desc": ""
+    },
+    "createTime2": {
+      "text": "創建時間",
+      "desc": ""
+    },
+    "founde": {
+      "text": "創建者",
+      "desc": ""
+    },
+    "deploying": {
+      "text": "待執行",
+      "desc": ""
+    },
+    "waitingExecute": {
+      "text": "待執行",
+      "desc": ""
+    },
+    "currentQueueTask": {
+      "text": "當前排隊任務",
+      "desc": ""
+    },
+    "currentQueue": {
+      "text": "當前排位",
+      "desc": ""
+    },
+    "pending": {
+      "text": "等待處理",
+      "desc": ""
+    },
+    "backHomePage": {
+      "text": "返回首頁",
+      "desc": ""
+    },
+    "stepThree": {
+      "text": "分配Worker",
+      "desc": ""
+    },
+    "stepThree2": {
+      "text": "分配Worker",
+      "desc": ""
+    },
+    "workerAllocation": {
+      "text": "分配方式",
+      "desc": ""
+    },
+    "workerAllocation2": {
+      "text": "分配方式",
+      "desc": ""
+    },
+    "getWorkerListDataFail": {
+      "text": "讀取Worker列表失敗",
+      "desc": ""
+    },
+    "getCurrentRunListFail": {
+      "text": "讀取當前Worker即將執行的任務列表失敗！",
+      "desc": ""
+    },
+    "getTaskQueueManagerFail": {
+      "text": "讀取Queue視圖列表資料失敗",
+      "desc": ""
+    },
+    "getRecordViewDataFail": {
+      "text": "讀取錄製畫面資料失敗！",
+      "desc": ""
+    },
+    "getTaskViewFail": {
+      "text": "讀取任務視圖列表失敗",
+      "desc": ""
+    },
+    "getTaskDetailListDataFail": {
+      "text": "讀取任務視圖列表失敗",
+      "desc": ""
+    },
+    "getTaskFileFail": {
+      "text": "讀取任務檔案失敗",
+      "desc": ""
+    },
+    "getTaskDetailFail": {
+      "text": "讀取任務詳情失敗",
+      "desc": ""
+    },
+    "getTaskTargetFail": {
+      "text": "讀取任務指標失敗！",
+      "desc": ""
+    },
+    "getBussinessTypeFail": {
+      "text": "讀取所有的業務類型失敗",
+      "desc": ""
+    },
+    "getStatisticsDataFail": {
+      "text": "讀取統計資料失敗！",
+      "desc": ""
+    },
+    "getAssignWorkerNumberFail": {
+      "text": "讀取重新指派Worker數量失敗！",
+      "desc": ""
+    },
+    "level": {
+      "text": "級別",
+      "desc": ""
+    },
+    "createTypeValue4": {
+      "text": "計劃管理",
+      "desc": ""
+    },
+    "endTime": {
+      "text": "結束時間",
+      "desc": ""
+    },
+    "endTime2": {
+      "text": "結束時間",
+      "desc": ""
+    },
+    "screenTime": {
+      "text": "截圖時間",
+      "desc": ""
+    },
+    "startTime": {
+      "text": "開始時間",
+      "desc": ""
+    },
+    "workerEmpty": {
+      "text": "空閑中...",
+      "desc": ""
+    },
+    "fastCreateTask": {
+      "text": "快速新建任務",
+      "desc": ""
+    },
+    "flowName": {
+      "text": "流程",
+      "desc": ""
+    },
+    "flowDataDisplay": {
+      "text": "流程",
+      "desc": ""
+    },
+    "flowName4": {
+      "text": "流程",
+      "desc": ""
+    },
+    "createTypeValue5": {
+      "text": "流程管理",
+      "desc": ""
+    },
+    "flowName3": {
+      "text": "流程名",
+      "desc": ""
+    },
+    "flowName22": {
+      "text": "流程名稱",
+      "desc": ""
+    },
+    "flowName2": {
+      "text": "流程名稱",
+      "desc": ""
+    },
+    "flowFileFormatException": {
+      "text": "流程檔案格式錯誤",
+      "desc": ""
+    },
+    "flowDownloadFail": {
+      "text": "流程檔案下載失敗",
+      "desc": ""
+    },
+    "flowRunFail": {
+      "text": "流程執行失敗",
+      "desc": ""
+    },
+    "recordState1": {
+      "text": "錄製畫面",
+      "desc": ""
+    },
+    "record": {
+      "text": "錄製畫面",
+      "desc": ""
+    },
+    "recordViewTitle": {
+      "text": "錄製畫面詳情",
+      "desc": ""
+    },
+    "recordDetail": {
+      "text": "錄製畫面詳情",
+      "desc": ""
+    },
+    "videoFileExist": {
+      "text": "錄像檔案不存在,或無法播放",
+      "desc": ""
+    },
+    "noTaskRunning": {
+      "text": "沒有正在執行的任務",
+      "desc": ""
+    },
+    "remark": {
+      "text": "描述",
+      "desc": ""
+    },
+    "logDisplayContent": {
+      "text": "內容",
+      "desc": ""
+    },
+    "otherTypeOfBusiness": {
+      "text": "其他",
+      "desc": ""
+    },
+    "pleaseFillTaskTargetInfo": {
+      "text": "請先填寫任務指標信息！",
+      "desc": ""
+    },
+    "pleaseSelectWorker": {
+      "text": "請選擇Worker！",
+      "desc": ""
+    },
+    "depNamePlaceholder": {
+      "text": "請選擇所屬部門",
+      "desc": ""
+    },
+    "businessTypeTip": {
+      "text": "請選擇業務類型",
+      "desc": ""
+    },
+    "pleaseSelectExecuteWay": {
+      "text": "請選擇執行方式！",
+      "desc": ""
+    },
+    "noSelectWorkerMessage": {
+      "text": "請至少指定1個執行任務的Worker！",
+      "desc": ""
+    },
+    "cancelBtn": {
+      "text": "取消",
+      "desc": ""
+    },
+    "cancelTask": {
+      "text": "取消任務",
+      "desc": ""
+    },
+    "cancelTime": {
+      "text": "取消時間",
+      "desc": ""
+    },
+    "cancelTaskSuc": {
+      "text": "取消執行任務成功",
+      "desc": ""
+    },
+    "cancelTaskFail": {
+      "text": "取消執行任務失敗",
+      "desc": ""
+    },
+    "cancelOperateContentTip": {
+      "text": "確認進行取消執行操作？該操作不可逆",
+      "desc": ""
+    },
+    "reExecuteContentTip": {
+      "text": "確認進行重新執行操作？該操作不可逆",
+      "desc": ""
+    },
+    "workerAttendFixed": {
+      "text": "人機交互-綁定機器",
+      "desc": ""
+    },
+    "workerAttendFloat": {
+      "text": "人機交互-浮動授權",
+      "desc": ""
+    },
+    "createTypeValue2": {
+      "text": "人機交互-浮動授權Worker",
+      "desc": ""
+    },
+    "taskCode": {
+      "text": "任務編號",
+      "desc": ""
+    },
+    "searchPlaceholderTip": {
+      "text": "任務編號/Worker名/流程名稱",
+      "desc": ""
+    },
+    "searchPlaceholderTip2": {
+      "text": "任務編號/流程名稱/Worker名稱",
+      "desc": ""
+    },
+    "taskParams": {
+      "text": "任務參數",
+      "desc": ""
+    },
+    "taskQueue": {
+      "text": "任務Queue",
+      "desc": ""
+    },
+    "createTypeValue1": {
+      "text": "任務管理",
+      "desc": ""
+    },
+    "createType": {
+      "text": "任務來源",
+      "desc": ""
+    },
+    "canceled": {
+      "text": "取消",
+      "desc": ""
+    },
+    "cancelTaskFailMessage": {
+      "text": "任務取消失敗",
+      "desc": ""
+    },
+    "taskLog": {
+      "text": "任務Log",
+      "desc": ""
+    },
+    "taskListText": {
+      "text": "任務數量",
+      "desc": ""
+    },
+    "taskInfo": {
+      "text": "任務信息",
+      "desc": ""
+    },
+    "taskState": {
+      "text": "任務狀態",
+      "desc": ""
+    },
+    "taskState2": {
+      "text": "任務狀態",
+      "desc": ""
+    },
+    "logDetails": {
+      "text": "Log詳情",
+      "desc": ""
+    },
+    "uploadTime": {
+      "text": "上傳時間",
+      "desc": ""
+    },
+    "creator": {
+      "text": "上傳者",
+      "desc": ""
+    },
+    "preImg": {
+      "text": "上一張",
+      "desc": ""
+    },
+    "setTaskParams": {
+      "text": "設定任務參數",
+      "desc": ""
+    },
+    "resultFail": {
+      "text": "失敗",
+      "desc": ""
+    },
+    "failReason": {
+      "text": "失敗原因",
+      "desc": ""
+    },
+    "recordState": {
+      "text": "是否錄製畫面",
+      "desc": ""
+    },
+    "isRecord": {
+      "text": "是否錄製畫面",
+      "desc": ""
+    },
+    "dataStatisticsTarget": {
+      "text": "資料統計指標",
+      "desc": ""
+    },
+    "statisticsTargetRename": {
+      "text": "資料統計指標不能重名",
+      "desc": ""
+    },
+    "refresh": {
+      "text": "更新",
+      "desc": ""
+    },
+    "depName": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "departName": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "env": {
+      "text": "所屬環境",
+      "desc": ""
+    },
+    "allFlow": {
+      "text": "所有流程",
+      "desc": ""
+    },
+    "allState": {
+      "text": "所有狀態",
+      "desc": ""
+    },
+    "statisticsTarget": {
+      "text": "統計指標",
+      "desc": ""
+    },
+    "stepFour": {
+      "text": "完成",
+      "desc": ""
+    },
+    "noActive": {
+      "text": "未啓用",
+      "desc": ""
+    },
+    "urlError": {
+      "text": "檔案URL錯誤，無法顯示",
+      "desc": ""
+    },
+    "fileName": {
+      "text": "檔案名稱",
+      "desc": ""
+    },
+    "filePlaceholder": {
+      "text": "檔案名稱/描述",
+      "desc": ""
+    },
+    "workerUnattendFixed": {
+      "text": "無人值守-綁定機器",
+      "desc": ""
+    },
+    "workerUnattendFloat": {
+      "text": "無人值守-浮動授權",
+      "desc": ""
+    },
+    "noHasTaskParams": {
+      "text": "無任務參數",
+      "desc": ""
+    },
+    "nextImg": {
+      "text": "下一張",
+      "desc": ""
+    },
+    "createTask": {
+      "text": "新建任務",
+      "desc": ""
+    },
+    "addAStatisticsTarget": {
+      "text": "新增一項資料統計指標",
+      "desc": ""
+    },
+    "saveTaskTargetSuc": {
+      "text": "修改統計指標成功！",
+      "desc": ""
+    },
+    "stepOne": {
+      "text": "選擇部門",
+      "desc": ""
+    },
+    "stepTwo": {
+      "text": "選擇流程",
+      "desc": ""
+    },
+    "businessType": {
+      "text": "業務類型",
+      "desc": ""
+    },
+    "businessTypeTip2": {
+      "text": "業務類型",
+      "desc": ""
+    },
+    "cancelTaskSucMessage": {
+      "text": "已成功取消任務",
+      "desc": ""
+    },
+    "userCancelTask": {
+      "text": "用戶{msg}取消了任務",
+      "desc": ""
+    },
+    "success": {
+      "text": "執行成功",
+      "desc": ""
+    },
+    "runResult": {
+      "text": "執行結果",
+      "desc": ""
+    },
+    "workerRunLog": {
+      "text": "執行Log",
+      "desc": ""
+    },
+    "runLog": {
+      "text": "執行Log",
+      "desc": ""
+    },
+    "failed": {
+      "text": "執行失敗",
+      "desc": ""
+    },
+    "runTime": {
+      "text": "執行時間",
+      "desc": ""
+    },
+    "runInfo": {
+      "text": "執行信息",
+      "desc": ""
+    },
+    "running": {
+      "text": "執行中",
+      "desc": ""
+    },
+    "noConnect": {
+      "text": "暫未連接",
+      "desc": ""
+    },
+    "noParams": {
+      "text": "暫無參數",
+      "desc": ""
+    },
+    "noWorkerData": {
+      "text": "暫無可用的Worker...",
+      "desc": ""
+    },
+    "noScreenVideo": {
+      "text": "暫無屏幕錄像",
+      "desc": ""
+    },
+    "imgViewerMessage1": {
+      "text": "這是第一張圖片了",
+      "desc": ""
+    },
+    "imgViewerMessage2": {
+      "text": "這是最後一張圖片了",
+      "desc": ""
+    },
+    "processing": {
+      "text": "正在處理",
+      "desc": ""
+    },
+    "taskRunning": {
+      "text": "正在執行的任務",
+      "desc": ""
+    },
+    "runMethod": {
+      "text": "執行方式",
+      "desc": ""
+    },
+    "timeLimitTips": {
+      "text": "只能選擇一個月以內的時間查詢！",
+      "desc": ""
+    },
+    "specifyWorker": {
+      "text": "指定worker",
+      "desc": ""
+    },
+    "reExecuteSuc": {
+      "text": "重新執行任務成功",
+      "desc": ""
+    },
+    "reExecuteFail": {
+      "text": "重新執行任務失敗",
+      "desc": ""
+    },
+    "reassignWorkerSuc": {
+      "text": "重新指派Worker成功！",
+      "desc": ""
+    },
+    "reassignWorkerFail": {
+      "text": "重新指派Worker失敗！",
+      "desc": ""
+    },
+    "state": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "workerState": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "autoAllocation": {
+      "text": "自動分配",
+      "desc": ""
+    },
+    "autoAllocationIncludeBrackets": {
+      "text": "自動分配",
+      "desc": ""
+    },
+    "autoRefresh": {
+      "text": "自動更新",
+      "desc": ""
+    },
+    "autoRefreshTip": {
+      "text": "自動更新頻率：每間隔5秒更新1次",
+      "desc": ""
+    },
+    "invalid": {
+      "text": "失效",
+      "desc": ""
+    }
+  },
+  "permission": {
+    "uiBotCommanderTitle": {
+      "text": "Loading",
+      "desc": ""
+    },
+    "tip1": {
+      "text": "抱歉，您無權連接",
+      "desc": ""
+    },
+    "message1": {
+      "text": "提示",
+      "desc": ""
+    }
+  },
+  "loginManager": {
+    "OAuthLogin": {
+      "text": "OAuth登錄",
+      "desc": ""
+    },
+    "productTitle": {
+      "text": "UiBot",
+      "desc": ""
+    },
+    "loginTitle": {
+      "text": "登錄",
+      "desc": ""
+    },
+    "login": {
+      "text": "登錄",
+      "desc": ""
+    },
+    "loginName": {
+      "text": "登錄帳號",
+      "desc": ""
+    },
+    "userNameMessage": {
+      "text": "登錄帳號不能爲空",
+      "desc": ""
+    },
+    "companyCode": {
+      "text": "機構程式",
+      "desc": ""
+    },
+    "companyCodeMessage": {
+      "text": "機構程式不能爲空",
+      "desc": ""
+    },
+    "copyright": {
+      "text": "來也科技",
+      "desc": ""
+    },
+    "errorMessage3": {
+      "text": "兩次密碼輸入不一致",
+      "desc": ""
+    },
+    "flowManagementPlatform": {
+      "text": "流程管理平臺",
+      "desc": ""
+    },
+    "userPassword": {
+      "text": "密碼",
+      "desc": ""
+    },
+    "userPasswordMessage": {
+      "text": "密碼不能爲空",
+      "desc": ""
+    },
+    "expireModifyPwdTip": {
+      "text": "您的密碼已過期，爲保障您的帳號安全，請設定新密碼",
+      "desc": ""
+    },
+    "userNamePlaceholder": {
+      "text": "請輸入登錄帳號",
+      "desc": ""
+    },
+    "companyCodePlaceholder": {
+      "text": "請輸入機構程式",
+      "desc": ""
+    },
+    "userPasswordPlaceholder": {
+      "text": "請輸入密碼",
+      "desc": ""
+    },
+    "newPwdPlaceholder": {
+      "text": "請輸入新密碼",
+      "desc": ""
+    },
+    "checkCodePlaceholder": {
+      "text": "請輸入驗證碼",
+      "desc": ""
+    },
+    "oldPwdPlaceholder": {
+      "text": "請輸入原密碼",
+      "desc": ""
+    },
+    "reNewPwdPlaceholder": {
+      "text": "請再次輸入新密碼",
+      "desc": ""
+    },
+    "errorMessage1": {
+      "text": "請再次輸入新密碼",
+      "desc": ""
+    },
+    "firstModifyPwdTip": {
+      "text": "首次登錄或密碼被修改，請設定新密碼",
+      "desc": ""
+    },
+    "newPwdLabel": {
+      "text": "新密碼",
+      "desc": ""
+    },
+    "errorMessage2": {
+      "text": "新密碼不能和用戶名相同",
+      "desc": ""
+    },
+    "newPwdMessage": {
+      "text": "新密碼不能爲空",
+      "desc": ""
+    },
+    "errorMessage4": {
+      "text": "新密碼不能與原密碼相同",
+      "desc": ""
+    },
+    "modifyPwdTitle": {
+      "text": "修改密碼",
+      "desc": ""
+    },
+    "successMessage1": {
+      "text": "修改密碼成功",
+      "desc": ""
+    },
+    "checkCode": {
+      "text": "驗證碼",
+      "desc": ""
+    },
+    "checkCodeMessage": {
+      "text": "驗證碼不能爲空",
+      "desc": ""
+    },
+    "agreement": {
+      "text": "用戶協議",
+      "desc": ""
+    },
+    "oldPwdLabel": {
+      "text": "原密碼",
+      "desc": ""
+    },
+    "oldPwdMessage": {
+      "text": "原密碼不能爲空",
+      "desc": ""
+    },
+    "reNewPwdLabel": {
+      "text": "再次輸入新密碼",
+      "desc": ""
+    },
+    "reNewPwdMessage": {
+      "text": "再次輸入新密碼不能爲空",
+      "desc": ""
+    }
+  },
+  "EmailSettingsModal": {
+    "smtpPort": {
+      "text": "SMTP端口",
+      "desc": ""
+    },
+    "validateMessageRequiredsmtpPort": {
+      "text": "SMTP端口不能爲空",
+      "desc": ""
+    },
+    "smtpHost": {
+      "text": "SMTP伺服器",
+      "desc": ""
+    },
+    "validateMessageRequiredsmtpHost": {
+      "text": "SMTP伺服器不能爲空",
+      "desc": ""
+    },
+    "smtpDomain": {
+      "text": "SMTP域",
+      "desc": ""
+    },
+    "collapseSettingSendFailed": {
+      "text": "測試郵件發送失敗，請確認郵件配置無誤",
+      "desc": ""
+    },
+    "collapseSettingTitle": {
+      "text": "測試郵件設定",
+      "desc": ""
+    },
+    "collapseSettingSendSuccess": {
+      "text": "測試郵件已發送，請驗證收件箱是否收到郵件",
+      "desc": ""
+    },
+    "senderAddress": {
+      "text": "發件人地址",
+      "desc": ""
+    },
+    "validateMessageRequiredsenderAddress": {
+      "text": "發件人地址不能爲空",
+      "desc": ""
+    },
+    "senderName": {
+      "text": "發件人顯示名稱",
+      "desc": ""
+    },
+    "collapseSettingSendButton": {
+      "text": "發送",
+      "desc": ""
+    },
+    "collapseSettingSenddingButton": {
+      "text": "發送中...",
+      "desc": ""
+    },
+    "smtpPassword": {
+      "text": "密碼",
+      "desc": ""
+    },
+    "validateMessageRequiredpassword": {
+      "text": "密碼不能爲空",
+      "desc": ""
+    },
+    "max30Charactor": {
+      "text": "名稱字元數不能超過30",
+      "desc": ""
+    },
+    "enableSsl": {
+      "text": "啓用SSL",
+      "desc": ""
+    },
+    "testEmailPlaceHolder": {
+      "text": "請輸入收件人的Email地址",
+      "desc": ""
+    },
+    "validEmailRequired": {
+      "text": "請輸入正確的Email地址",
+      "desc": ""
+    },
+    "cancelButton": {
+      "text": "取消",
+      "desc": ""
+    },
+    "confirmButton": {
+      "text": "確定",
+      "desc": ""
+    },
+    "collapseSettingReceiver": {
+      "text": "收件人",
+      "desc": ""
+    },
+    "smtpUserName": {
+      "text": "用戶名",
+      "desc": ""
+    },
+    "validateMessageRequireduserName": {
+      "text": "用戶名不能爲空",
+      "desc": ""
+    },
+    "dialogTitle": {
+      "text": "郵件設定",
+      "desc": ""
+    }
+  },
+  "datav": {
+    "datavTitle": {
+      "text": "UiBot 應用總覽",
+      "desc": ""
+    },
+    "successRate": {
+      "text": "成功率",
+      "desc": ""
+    },
+    "saveTime": {
+      "text": "節省時間",
+      "desc": ""
+    },
+    "saveTimeSummary": {
+      "text": "累計節省工時",
+      "desc": ""
+    },
+    "geoMapTask": {
+      "text": "任務：",
+      "desc": ""
+    },
+    "top12": {
+      "text": "任務地區分布Top12",
+      "desc": ""
+    },
+    "usageRate": {
+      "text": "使用率",
+      "desc": ""
+    },
+    "runCount": {
+      "text": "執行次數",
+      "desc": ""
+    },
+    "runCountSaveTime": {
+      "text": "執行次數（次）/節省時間（分）",
+      "desc": ""
+    },
+    "running": {
+      "text": "正在執行",
+      "desc": ""
+    },
+    "workerRunState": {
+      "text": "正在執行",
+      "desc": ""
+    },
+    "savejieTimeSummary": {
+      "text": "累計節省工時",
+      "desc": ""
+    },
+    "runCountsaveTimeSummary": {
+      "text": "執行次數（次）/節省時長（分）",
+      "desc": ""
+    }
+  },
+  "workerUnAttend": {
+    "workerName": {
+      "text": "Worker 名稱",
+      "desc": ""
+    },
+    "notEmptyWorkerName": {
+      "text": "Worker名不能爲空",
+      "desc": ""
+    },
+    "workerName2": {
+      "text": "Worker名稱",
+      "desc": ""
+    },
+    "workerNameUnattend": {
+      "text": "Worker名稱",
+      "desc": ""
+    },
+    "bindMachine": {
+      "text": "綁定機器",
+      "desc": ""
+    },
+    "workerRemark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "editWorker": {
+      "text": "編輯Worker",
+      "desc": ""
+    },
+    "editWorker2": {
+      "text": "編輯Worker",
+      "desc": ""
+    },
+    "editWorkerFail": {
+      "text": "編輯Worker失敗!",
+      "desc": ""
+    },
+    "workerDepartmentTitle": {
+      "text": "部門",
+      "desc": ""
+    },
+    "lookKey": {
+      "text": "查看密鑰",
+      "desc": ""
+    },
+    "lookKey2": {
+      "text": "查看密鑰",
+      "desc": ""
+    },
+    "querySingleWorkerMessage": {
+      "text": "查詢單個Worker失敗",
+      "desc": ""
+    },
+    "createWorkerSucMessage": {
+      "text": "創建Worker成功",
+      "desc": ""
+    },
+    "createWorkerFail": {
+      "text": "創建Worker失敗",
+      "desc": ""
+    },
+    "selectUnattendedBindMachine": {
+      "text": "打開Worker，選擇許可類型爲“無人值守-綁定機器”",
+      "desc": ""
+    },
+    "selectUnattendedFloatingAuthorization": {
+      "text": "打開Worker，選擇許可類型爲“無人值守-浮動授權”",
+      "desc": ""
+    },
+    "currentVersionCode": {
+      "text": "當前版本號",
+      "desc": ""
+    },
+    "clickCopy": {
+      "text": "點擊複製",
+      "desc": ""
+    },
+    "floatingAuthorization": {
+      "text": "浮動授權",
+      "desc": ""
+    },
+    "copyAndClose": {
+      "text": "複製並關閉",
+      "desc": ""
+    },
+    "copySuc": {
+      "text": "複製成功！",
+      "desc": ""
+    },
+    "copyKey": {
+      "text": "複製密鑰",
+      "desc": ""
+    },
+    "browserNotSupportCopy": {
+      "text": "該瀏覽器不支持自動複製！",
+      "desc": ""
+    },
+    "updateWorkerSucMessage": {
+      "text": "更新Worker成功",
+      "desc": ""
+    },
+    "updateWorkerFailMessage": {
+      "text": "更新Worker失敗",
+      "desc": ""
+    },
+    "env": {
+      "text": "環境",
+      "desc": ""
+    },
+    "getWorkerListFailMessage": {
+      "text": "讀取Worker列表失敗",
+      "desc": ""
+    },
+    "machineCode": {
+      "text": "機器名/機器碼",
+      "desc": ""
+    },
+    "activateWorker": {
+      "text": "啓用Worker",
+      "desc": ""
+    },
+    "activateWorker2": {
+      "text": "啓用Worker",
+      "desc": ""
+    },
+    "searchPlaceholder": {
+      "text": "名稱/機器碼",
+      "desc": ""
+    },
+    "workerDepartmentMessage5": {
+      "text": "您無權删除這個部門",
+      "desc": ""
+    },
+    "bulkUpdateWorker": {
+      "text": "批量更新Worker",
+      "desc": ""
+    },
+    "rememberKey": {
+      "text": "請牢記並保管好您的密鑰",
+      "desc": ""
+    },
+    "pleaseInputWorkerName": {
+      "text": "請輸入Worker名稱",
+      "desc": ""
+    },
+    "workerDepartmentMessage": {
+      "text": "請選擇部門",
+      "desc": ""
+    },
+    "workerEnvironmentPlaceholder": {
+      "text": "請選擇環境",
+      "desc": ""
+    },
+    "workerEnvironmentMessage": {
+      "text": "請選擇環境",
+      "desc": ""
+    },
+    "pleaseSelectAuthorizeType": {
+      "text": "請選擇授權類型",
+      "desc": ""
+    },
+    "workerDepartmentPlaceholder": {
+      "text": "請選擇所屬部門",
+      "desc": ""
+    },
+    "createWorkerMessageTips": {
+      "text": "請選擇所屬部門",
+      "desc": ""
+    },
+    "deleteWorkerMessage": {
+      "text": "確定要删除這個Worker？該操作不可逆！",
+      "desc": ""
+    },
+    "deleteWorker": {
+      "text": "删除Worker",
+      "desc": ""
+    },
+    "deleteWorkerSucMessage": {
+      "text": "删除Worker成功",
+      "desc": ""
+    },
+    "deleteWorkerFailMessage": {
+      "text": "删除Worker失敗",
+      "desc": ""
+    },
+    "remainingAvailable": {
+      "text": "剩餘可用",
+      "desc": ""
+    },
+    "isAccept": {
+      "text": "是否接收任務",
+      "desc": ""
+    },
+    "authorizedDepartment": {
+      "text": "授權部門",
+      "desc": ""
+    },
+    "workerAuthorDepartment": {
+      "text": "授權部門",
+      "desc": ""
+    },
+    "authorizeType": {
+      "text": "授權類型",
+      "desc": ""
+    },
+    "workerType": {
+      "text": "授權類型",
+      "desc": ""
+    },
+    "authorizationType": {
+      "text": "授權類型",
+      "desc": ""
+    },
+    "workerDepartment": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "departmentName": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "workerEnvironment": {
+      "text": "所屬環境",
+      "desc": ""
+    },
+    "workerEnv": {
+      "text": "所屬環境",
+      "desc": ""
+    },
+    "createWorkerComplete": {
+      "text": "完成",
+      "desc": ""
+    },
+    "iKnow": {
+      "text": "我知道了",
+      "desc": ""
+    },
+    "unattendFixed": {
+      "text": "無人值守綁定機器",
+      "desc": ""
+    },
+    "unattendFloat": {
+      "text": "無人值守浮動授權",
+      "desc": ""
+    },
+    "workerDepartmentMessage2": {
+      "text": "無人值守型Worker支持選擇多個授權部門",
+      "desc": ""
+    },
+    "createWorker": {
+      "text": "新建Worker",
+      "desc": ""
+    },
+    "newWorkerUnAttendFailMessage": {
+      "text": "新建無人值守Worker失敗！",
+      "desc": ""
+    },
+    "workerDepartmentMessage1": {
+      "text": "一個Worker 至多授權給50個部門",
+      "desc": ""
+    },
+    "workerDepartmentMessage3": {
+      "text": "已選擇部門",
+      "desc": ""
+    },
+    "pasteKey": {
+      "text": "粘貼密鑰，輸入Commander地址",
+      "desc": ""
+    },
+    "state": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "workerDepartmentMessage4": {
+      "text": "最多授權部門爲 50 個",
+      "desc": ""
+    },
+    "connectTimeLast": {
+      "text": "最近連接時間",
+      "desc": ""
+    },
+    "removeBindTitle": {
+      "text": "解除綁定",
+      "desc": ""
+    },
+    "removeBindContent": {
+      "text": "解除綁定後，此 Worker 將會中斷連線，是否確定解除綁定？",
+      "desc": ""
+    },
+    "noRemoveBindTip": {
+      "text": "維護模式下才能解綁",
+      "desc": ""
+    },
+    "removeBindTip": {
+      "text": "解除綁定",
+      "desc": ""
+    },
+    "acceptModeTips1": {
+      "text": "開啟維護模式後，Worker 將停止接收新任務，暫停執行任務，可以進行版本更新。",
+      "desc": ""
+    },
+    "acceptModeTips2": {
+      "text": "關閉維護模式後，Worker 將重新接收和執行任務。",
+      "desc": ""
+    },
+    "versionCode": {
+      "text": "版本",
+      "desc": ""
+    },
+    "isAccept1": {
+      "text": "維護模式",
+      "desc": ""
+    }
+  },
+  "dashboard": {
+    "workUsage": {
+      "text": "Worker 使用率",
+      "desc": ""
+    },
+    "workerCount": {
+      "text": "Worker數量",
+      "desc": ""
+    },
+    "successRate": {
+      "text": "成功率",
+      "desc": ""
+    },
+    "dealCompleted": {
+      "text": "處理完成",
+      "desc": ""
+    },
+    "dealWait": {
+      "text": "等待處理",
+      "desc": ""
+    },
+    "departmentAnaTitle": {
+      "text": "各部門機器人數量",
+      "desc": ""
+    },
+    "more": {
+      "text": "更多",
+      "desc": ""
+    },
+    "workUsageDatav": {
+      "text": "機器人使用率",
+      "desc": ""
+    },
+    "workerDepartmentDatav": {
+      "text": "機器人在綫分布",
+      "desc": ""
+    },
+    "workerHours2": {
+      "text": "節省工時",
+      "desc": ""
+    },
+    "saveMinite": {
+      "text": "節省時間",
+      "desc": ""
+    },
+    "saveMinite1": {
+      "text": "節省時間（分）",
+      "desc": ""
+    },
+    "todayTask": {
+      "text": "今日任務",
+      "desc": ""
+    },
+    "latestTwoWeek": {
+      "text": "近兩周",
+      "desc": ""
+    },
+    "latestOneMonth": {
+      "text": "近一月",
+      "desc": ""
+    },
+    "latestOneWeek": {
+      "text": "近一周",
+      "desc": ""
+    },
+    "departmentSummary": {
+      "text": "累計服務部門",
+      "desc": ""
+    },
+    "regionSummary": {
+      "text": "累計服務地區",
+      "desc": ""
+    },
+    "saveCostSummary": {
+      "text": "累計節省成本",
+      "desc": ""
+    },
+    "workHours": {
+      "text": "累計節省工時",
+      "desc": ""
+    },
+    "bussinessTypeDistribute": {
+      "text": "流程業務類型分布",
+      "desc": ""
+    },
+    "businessTypeDatav": {
+      "text": "流程業務類型分布 - 近30天",
+      "desc": ""
+    },
+    "mostUsedTop10": {
+      "text": "流程執行次數TOP10",
+      "desc": ""
+    },
+    "mostUsedTop5": {
+      "text": "流程執行次數TOP5",
+      "desc": ""
+    },
+    "mostUsedTopDatav": {
+      "text": "流程執行次數TOP5 - 近30天",
+      "desc": ""
+    },
+    "workerAttend": {
+      "text": "人機交互",
+      "desc": ""
+    },
+    "workerAttendFloat": {
+      "text": "人機交互-浮動授權",
+      "desc": ""
+    },
+    "task": {
+      "text": "任務",
+      "desc": ""
+    },
+    "taskRegionDistribute": {
+      "text": "任務地區分布Top12",
+      "desc": ""
+    },
+    "taskFailReasonDistribution": {
+      "text": "任務失敗原因分布",
+      "desc": ""
+    },
+    "datav": {
+      "text": "任務總覽",
+      "desc": ""
+    },
+    "failRate": {
+      "text": "失敗率",
+      "desc": ""
+    },
+    "failReason": {
+      "text": "失敗原因",
+      "desc": ""
+    },
+    "usage": {
+      "text": "使用率（%）",
+      "desc": ""
+    },
+    "taskCon": {
+      "text": "資料大屏模式",
+      "desc": ""
+    },
+    "centerTitle": {
+      "text": "數位員工辦理業務",
+      "desc": ""
+    },
+    "workerUnattend": {
+      "text": "無人值守",
+      "desc": ""
+    },
+    "workerUnattendFixed": {
+      "text": "無人值守-綁定機器",
+      "desc": ""
+    },
+    "workerUnattendFloat": {
+      "text": "無人值守-浮動授權",
+      "desc": ""
+    },
+    "businessAnalyze": {
+      "text": "業務分析",
+      "desc": ""
+    },
+    "businessType": {
+      "text": "業務類型",
+      "desc": ""
+    },
+    "runSuccess": {
+      "text": "執行成功",
+      "desc": ""
+    },
+    "taskCountSummary": {
+      "text": "執行成功次數",
+      "desc": ""
+    },
+    "runSuccessRate": {
+      "text": "執行成功率",
+      "desc": ""
+    },
+    "taskSuccessRate": {
+      "text": "執行成功率",
+      "desc": ""
+    },
+    "runCount": {
+      "text": "執行次數",
+      "desc": ""
+    },
+    "taskCount": {
+      "text": "執行次數（次）",
+      "desc": ""
+    },
+    "runCount1": {
+      "text": "執行次數（次）",
+      "desc": ""
+    },
+    "runFail": {
+      "text": "執行失敗",
+      "desc": ""
+    },
+    "workerDepartment": {
+      "text": "在綫Worker分布-按部門",
+      "desc": ""
+    },
+    "workType": {
+      "text": "在綫Worker分布-按類型",
+      "desc": ""
+    },
+    "dealing": {
+      "text": "正在處理",
+      "desc": ""
+    },
+    "systemWorkNormal": {
+      "text": "正在執行",
+      "desc": ""
+    },
+    "successRatePer": {
+      "text": "成功率（%）",
+      "desc": ""
+    },
+    "times": {
+      "text": "次",
+      "desc": ""
+    },
+    "taskSuccessRateOne": {
+      "text": "任務執行成功率",
+      "desc": ""
+    },
+    "runSuccessTitle": {
+      "text": "執行成功",
+      "desc": ""
+    },
+    "runSuccess1": {
+      "text": "執行成功",
+      "desc": ""
+    },
+    "runFail1": {
+      "text": "執行失敗",
+      "desc": ""
+    }
+  },
+  "userSetting": {
+    "workerBaseInfo": {
+      "text": "Worker基本信息",
+      "desc": ""
+    },
+    "bindMachine": {
+      "text": "綁定機器",
+      "desc": ""
+    },
+    "saveSuc": {
+      "text": "存檔成功",
+      "desc": ""
+    },
+    "department": {
+      "text": "部門",
+      "desc": ""
+    },
+    "operate": {
+      "text": "操作",
+      "desc": ""
+    },
+    "lookMessage": {
+      "text": "查看",
+      "desc": ""
+    },
+    "currentVersionCode": {
+      "text": "當前版本號",
+      "desc": ""
+    },
+    "floatAuthorization": {
+      "text": "浮動授權",
+      "desc": ""
+    },
+    "env": {
+      "text": "環境",
+      "desc": ""
+    },
+    "getWorkerMessageFailTips": {
+      "text": "讀取worker信息失敗！",
+      "desc": ""
+    },
+    "getMessageListFailTips": {
+      "text": "讀取訊息列表資料失敗！",
+      "desc": ""
+    },
+    "machineCode2": {
+      "text": "機器碼",
+      "desc": ""
+    },
+    "machineCode": {
+      "text": "機械碼",
+      "desc": ""
+    },
+    "workerType": {
+      "text": "類型",
+      "desc": ""
+    },
+    "workerName": {
+      "text": "名稱",
+      "desc": ""
+    },
+    "setAllRead": {
+      "text": "全部設爲已讀",
+      "desc": ""
+    },
+    "setAllReadFail": {
+      "text": "全部設定爲已讀失敗",
+      "desc": ""
+    },
+    "sureBtn": {
+      "text": "確定",
+      "desc": ""
+    },
+    "deleteMessageTips": {
+      "text": "確定要删除這條訊息？該操作不可逆！",
+      "desc": ""
+    },
+    "messageFailType": {
+      "text": "任務失敗",
+      "desc": ""
+    },
+    "messageExpectionType": {
+      "text": "任務錯誤",
+      "desc": ""
+    },
+    "deleteMessage": {
+      "text": "删除",
+      "desc": ""
+    },
+    "deleteMessageSucTips": {
+      "text": "删除訊息成功！",
+      "desc": ""
+    },
+    "deleteMessageFailTips": {
+      "text": "删除訊息失敗！",
+      "desc": ""
+    },
+    "timeZoneSetting": {
+      "text": "時區設定:",
+      "desc": ""
+    },
+    "usedPercentage": {
+      "text": "使用占比",
+      "desc": ""
+    },
+    "sourceTime": {
+      "text": "資料讀取時間：",
+      "desc": ""
+    },
+    "notRead": {
+      "text": "未讀",
+      "desc": ""
+    },
+    "systemMessage": {
+      "text": "系統通知",
+      "desc": ""
+    },
+    "messageType": {
+      "text": "訊息類型",
+      "desc": ""
+    },
+    "messageContent": {
+      "text": "訊息內容",
+      "desc": ""
+    },
+    "messageCenter": {
+      "text": "訊息中心",
+      "desc": ""
+    },
+    "messageState": {
+      "text": "訊息狀態",
+      "desc": ""
+    },
+    "index": {
+      "text": "序號",
+      "desc": ""
+    },
+    "readed": {
+      "text": "已讀",
+      "desc": ""
+    },
+    "hdSpace": {
+      "text": "硬盤使用情况",
+      "desc": ""
+    },
+    "messageWarningType": {
+      "text": "預警通知",
+      "desc": ""
+    },
+    "workerState": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "connectTimeLast": {
+      "text": "最近連接時間",
+      "desc": ""
+    }
+  },
+  "flowManagement": {
+    "versionTitle": {
+      "text": "版本",
+      "desc": ""
+    },
+    "save": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "editFlow": {
+      "text": "編輯流程",
+      "desc": ""
+    },
+    "operation": {
+      "text": "操作",
+      "desc": ""
+    },
+    "lookPackage": {
+      "text": "查看版本詳情",
+      "desc": ""
+    },
+    "lookDetails": {
+      "text": "查看詳情",
+      "desc": ""
+    },
+    "createSuccess": {
+      "text": "創建成功",
+      "desc": ""
+    },
+    "minutes": {
+      "text": "分鐘 | 分鐘",
+      "desc": ""
+    },
+    "copy": {
+      "text": "複製並關閉",
+      "desc": ""
+    },
+    "copySuccess": {
+      "text": "複製成功！",
+      "desc": ""
+    },
+    "copyFail": {
+      "text": "該瀏覽器不支持自動複製！",
+      "desc": ""
+    },
+    "updateTip": {
+      "text": "更新版本",
+      "desc": ""
+    },
+    "upgradeOk": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "updateSuccess": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "dataCount": {
+      "text": "共 {msg} 條資料 | 共 {msg} 條資料",
+      "desc": ""
+    },
+    "serveClose": {
+      "text": "關閉",
+      "desc": ""
+    },
+    "stepTitle1": {
+      "text": "基本信息",
+      "desc": ""
+    },
+    "serveOpen": {
+      "text": "開啓",
+      "desc": ""
+    },
+    "flowServiceTip": {
+      "text": "開啓後可以通過OpenApi使用此流程創建任務",
+      "desc": ""
+    },
+    "fastCreateTask": {
+      "text": "快速新建任務",
+      "desc": ""
+    },
+    "selectType": {
+      "text": "類型",
+      "desc": ""
+    },
+    "package": {
+      "text": "流程包",
+      "desc": ""
+    },
+    "packageTitle": {
+      "text": "流程包",
+      "desc": ""
+    },
+    "selectPackage": {
+      "text": "流程包",
+      "desc": ""
+    },
+    "showPackage": {
+      "text": "流程包 ",
+      "desc": ""
+    },
+    "version": {
+      "text": "流程包版本",
+      "desc": ""
+    },
+    "selectVersion": {
+      "text": "流程包版本",
+      "desc": ""
+    },
+    "showVersion": {
+      "text": "流程包版本 ",
+      "desc": ""
+    },
+    "flowCode": {
+      "text": "流程程式",
+      "desc": ""
+    },
+    "flowService": {
+      "text": "流程服務化",
+      "desc": ""
+    },
+    "flowTypeTile": {
+      "text": "流程類型",
+      "desc": ""
+    },
+    "type": {
+      "text": "流程類型",
+      "desc": ""
+    },
+    "typeTitle": {
+      "text": "流程類型",
+      "desc": ""
+    },
+    "showType": {
+      "text": "流程類型 ",
+      "desc": ""
+    },
+    "flowName": {
+      "text": "流程名稱",
+      "desc": ""
+    },
+    "flowNameTile": {
+      "text": "流程名稱",
+      "desc": ""
+    },
+    "name": {
+      "text": "流程名稱",
+      "desc": ""
+    },
+    "searchVal": {
+      "text": "流程名稱",
+      "desc": ""
+    },
+    "showName": {
+      "text": "流程名稱 ",
+      "desc": ""
+    },
+    "tip1": {
+      "text": "流程名稱不能爲空",
+      "desc": ""
+    },
+    "description": {
+      "text": "流程說明",
+      "desc": ""
+    },
+    "showDescription": {
+      "text": "流程說明 ",
+      "desc": ""
+    },
+    "flowImage": {
+      "text": "流程圖片",
+      "desc": ""
+    },
+    "flowDetail": {
+      "text": "流程詳情",
+      "desc": ""
+    },
+    "uploadTip1": {
+      "text": "您上傳的檔案不是圖片或者不支持該格式！",
+      "desc": ""
+    },
+    "other": {
+      "text": "其它",
+      "desc": ""
+    },
+    "please": {
+      "text": "請",
+      "desc": ""
+    },
+    "selectDep": {
+      "text": "請從流程的授權部門中選擇一個部門",
+      "desc": ""
+    },
+    "showInfoTitle": {
+      "text": "請確認以下信息： ",
+      "desc": ""
+    },
+    "flowNamePlaceholder": {
+      "text": "請輸入流程名稱",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "請輸入流程說明",
+      "desc": ""
+    },
+    "laborTimeTip": {
+      "text": "請輸入小於等於1440的整數！",
+      "desc": ""
+    },
+    "packagePlaceholder": {
+      "text": "請選擇流程包",
+      "desc": ""
+    },
+    "packageTip1": {
+      "text": "請選擇流程包",
+      "desc": ""
+    },
+    "versionPlaceholder": {
+      "text": "請選擇流程包版本",
+      "desc": ""
+    },
+    "versionTip1": {
+      "text": "請選擇流程包版本",
+      "desc": ""
+    },
+    "typePlaceholder": {
+      "text": "請選擇流程類型",
+      "desc": ""
+    },
+    "typeTip1": {
+      "text": "請選擇流程類型",
+      "desc": ""
+    },
+    "authDepTip1": {
+      "text": "請選擇授權部門",
+      "desc": ""
+    },
+    "businessTypePlaceholder": {
+      "text": "請選擇業務類型",
+      "desc": ""
+    },
+    "businessTypeTip1": {
+      "text": "請選擇業務類型",
+      "desc": ""
+    },
+    "authDepTip2": {
+      "text": "請至少選擇一個授權部門",
+      "desc": ""
+    },
+    "cancel": {
+      "text": "取消",
+      "desc": ""
+    },
+    "all": {
+      "text": "全部",
+      "desc": ""
+    },
+    "tip": {
+      "text": "確定將流程包更新至最新版本",
+      "desc": ""
+    },
+    "deleteContent": {
+      "text": "確定要删除這個流程？該操作不可逆！",
+      "desc": ""
+    },
+    "laborCost": {
+      "text": "人工成本",
+      "desc": ""
+    },
+    "laborTime": {
+      "text": "人工時間",
+      "desc": ""
+    },
+    "workerAttend": {
+      "text": "人機交互",
+      "desc": ""
+    },
+    "UnfastCreateTask": {
+      "text": "人機交互類型的流程只能通過Worker用戶自主執行",
+      "desc": ""
+    },
+    "deleteSuccess": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "deleteFail": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "upload": {
+      "text": "上傳",
+      "desc": ""
+    },
+    "preText": {
+      "text": "上一步",
+      "desc": ""
+    },
+    "upgrade": {
+      "text": "升級",
+      "desc": ""
+    },
+    "authDep": {
+      "text": "授權部門",
+      "desc": ""
+    },
+    "stepTitle2": {
+      "text": "授權部門",
+      "desc": ""
+    },
+    "showDepartment": {
+      "text": "授權部門 ",
+      "desc": ""
+    },
+    "depTreeSearchPlaceholer": {
+      "text": "搜尋",
+      "desc": ""
+    },
+    "placeholder": {
+      "text": "搜尋",
+      "desc": ""
+    },
+    "depTreePlaceholder": {
+      "text": "搜尋",
+      "desc": ""
+    },
+    "search": {
+      "text": "搜尋",
+      "desc": ""
+    },
+    "department": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "dataStatistics": {
+      "text": "統計指標",
+      "desc": ""
+    },
+    "validateTip3": {
+      "text": "統計指標不能爲空",
+      "desc": ""
+    },
+    "validateTip1": {
+      "text": "統計指標不能重名",
+      "desc": ""
+    },
+    "validateTip2": {
+      "text": "統計指標最大字元長度爲31",
+      "desc": ""
+    },
+    "stepTitle3": {
+      "text": "完成",
+      "desc": ""
+    },
+    "flowNoCode": {
+      "text": "未開啓流程服務化",
+      "desc": ""
+    },
+    "workerUnAttend": {
+      "text": "無人值守",
+      "desc": ""
+    },
+    "nextText": {
+      "text": "下一步",
+      "desc": ""
+    },
+    "titleBtn": {
+      "text": "新建流程",
+      "desc": ""
+    },
+    "createFlow": {
+      "text": "新建流程",
+      "desc": ""
+    },
+    "createIndicator": {
+      "text": "新增一項統計指標",
+      "desc": ""
+    },
+    "businessType": {
+      "text": "業務類型",
+      "desc": ""
+    },
+    "businessTypeSetTitle": {
+      "text": "業務類型設定",
+      "desc": ""
+    },
+    "listEmpty": {
+      "text": "暫無搜尋結果...",
+      "desc": ""
+    },
+    "tip3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "remarkTip1": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "tip2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "lastPre": {
+      "text": "最新版本",
+      "desc": ""
+    },
+    "manualTime": {
+      "text": "人工時間",
+      "desc": ""
+    },
+    "laborTimeTip1": {
+      "text": "請輸入小於等於14400的整數！",
+      "desc": ""
+    }
+  },
+  "businessType": {
+    "save": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "editBusiness": {
+      "text": "編輯業務類型",
+      "desc": ""
+    },
+    "option5": {
+      "text": "財務",
+      "desc": ""
+    },
+    "operation": {
+      "text": "操作",
+      "desc": ""
+    },
+    "createSuccess": {
+      "text": "創建成功",
+      "desc": ""
+    },
+    "option6": {
+      "text": "調度",
+      "desc": ""
+    },
+    "updateSuccess": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "businessNameTip1": {
+      "text": "名稱不能爲空",
+      "desc": ""
+    },
+    "option8": {
+      "text": "其它",
+      "desc": ""
+    },
+    "businessPlaceholder": {
+      "text": "請輸入業務類型",
+      "desc": ""
+    },
+    "content": {
+      "text": "確定要删除此業務類型？該操作不可逆！",
+      "desc": ""
+    },
+    "deleteSuccess": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "deleteFail": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "deleteBusiness": {
+      "text": "删除業務類型",
+      "desc": ""
+    },
+    "option2": {
+      "text": "生産",
+      "desc": ""
+    },
+    "newBusiness": {
+      "text": "新建業務類型",
+      "desc": ""
+    },
+    "option7": {
+      "text": "信息",
+      "desc": ""
+    },
+    "businessName": {
+      "text": "業務類型",
+      "desc": ""
+    },
+    "businessType": {
+      "text": "業務類型",
+      "desc": ""
+    },
+    "searchValue": {
+      "text": "業務類型",
+      "desc": ""
+    },
+    "option1": {
+      "text": "營銷",
+      "desc": ""
+    },
+    "businessNameTip2": {
+      "text": "長度不能大於50個字元",
+      "desc": ""
+    },
+    "option3": {
+      "text": "資産",
+      "desc": ""
+    },
+    "option4": {
+      "text": "綜合",
+      "desc": ""
+    }
+  },
+  "recordSetting": {
+    "save": {
+      "text": "存檔",
+      "desc": ""
+    },
+    "saveSuccess": {
+      "text": "存檔成功",
+      "desc": ""
+    },
+    "no": {
+      "text": "否",
+      "desc": ""
+    },
+    "defaultSetting": {
+      "text": "錄製畫面設定",
+      "desc": ""
+    },
+    "yes": {
+      "text": "是",
+      "desc": ""
+    },
+    "isRecord": {
+      "text": "是否預設錄製畫面",
+      "desc": ""
+    }
+  },
+  "department": {
+    "remark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "editSomeDepartment": {
+      "text": "編輯 [{msg}] 部門",
+      "desc": ""
+    },
+    "department": {
+      "text": "部門",
+      "desc": ""
+    },
+    "editDepartmentSuccess": {
+      "text": "部門編輯成功",
+      "desc": ""
+    },
+    "editDepartmentSuccess2": {
+      "text": "部門編輯成功",
+      "desc": ""
+    },
+    "maxFiveLevel": {
+      "text": "部門層級至多五級",
+      "desc": ""
+    },
+    "createDepartmentSuccess": {
+      "text": "部門創建成功",
+      "desc": ""
+    },
+    "departmentName": {
+      "text": "部門名稱",
+      "desc": ""
+    },
+    "departmentNameMessage1": {
+      "text": "部門名稱不能爲空",
+      "desc": ""
+    },
+    "mostFiveLevel": {
+      "text": "部門最多五級",
+      "desc": ""
+    },
+    "error1": {
+      "text": "接口無值!",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "departmentNamePlaceholder": {
+      "text": "請輸入部門名稱",
+      "desc": ""
+    },
+    "countyPlaceholder": {
+      "text": "區",
+      "desc": ""
+    },
+    "deleteTip": {
+      "text": "確定要删除這個部門？該操作不可逆！",
+      "desc": ""
+    },
+    "provincePlaceholder": {
+      "text": "省",
+      "desc": ""
+    },
+    "cityPlaceholder": {
+      "text": "市",
+      "desc": ""
+    },
+    "region": {
+      "text": "所屬地區",
+      "desc": ""
+    },
+    "addSameLevelDepartment": {
+      "text": "添加 [{msg}] 同級部門",
+      "desc": ""
+    },
+    "addChildDepartment": {
+      "text": "添加 [{msg}] 子級部門",
+      "desc": ""
+    },
+    "addTopDepartment": {
+      "text": "添加頂級部門",
+      "desc": ""
+    },
+    "createTopDepartment": {
+      "text": "新建頂級部門",
+      "desc": ""
+    },
+    "createLowerDepartment": {
+      "text": "新建下級部門",
+      "desc": ""
+    },
+    "createSameLevel": {
+      "text": "新增同級部門",
+      "desc": ""
+    },
+    "createlower": {
+      "text": "新增下級部門",
+      "desc": ""
+    },
+    "departmentNameMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "remarkMessage": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "departmentNameMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "all": {
+      "text": "全部",
+      "desc": ""
+    }
+  },
+  "UserManager": {
+    "remark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "editUser": {
+      "text": "編輯用戶",
+      "desc": ""
+    },
+    "realNameMessage2": {
+      "text": "不能含有@字元",
+      "desc": ""
+    },
+    "userNameMessage2": {
+      "text": "不能含有@字元",
+      "desc": ""
+    },
+    "viewUser": {
+      "text": "查看詳情",
+      "desc": ""
+    },
+    "userDetail": {
+      "text": "查看詳情",
+      "desc": ""
+    },
+    "error3": {
+      "text": "查詢單個用戶信息失敗",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "創建時間",
+      "desc": ""
+    },
+    "creator": {
+      "text": "創建者",
+      "desc": ""
+    },
+    "loginPsw": {
+      "text": "登錄密碼",
+      "desc": ""
+    },
+    "userName": {
+      "text": "登錄帳號",
+      "desc": ""
+    },
+    "newOrCreateMessage2": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "newOrCreateError2": {
+      "text": "更新失敗",
+      "desc": ""
+    },
+    "error1": {
+      "text": "啓用用戶失敗！",
+      "desc": ""
+    },
+    "disableActive": {
+      "text": "禁用",
+      "desc": ""
+    },
+    "pswMessage1": {
+      "text": "密碼不能爲空",
+      "desc": ""
+    },
+    "passwordMessage": {
+      "text": "密碼不能爲空",
+      "desc": ""
+    },
+    "newOrCreateError5": {
+      "text": "密碼不能爲空格！",
+      "desc": ""
+    },
+    "passwordTip2": {
+      "text": "密碼爲空則不修改密碼",
+      "desc": ""
+    },
+    "active": {
+      "text": "啓用",
+      "desc": ""
+    },
+    "isActive": {
+      "text": "啓用狀態",
+      "desc": ""
+    },
+    "usernameIsActive": {
+      "text": "啓用狀態",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "realNamePlaceholder": {
+      "text": "請輸入別名",
+      "desc": ""
+    },
+    "passwordTip1": {
+      "text": "請輸入登錄密碼",
+      "desc": ""
+    },
+    "phoneNumberPlaceholder": {
+      "text": "請輸入手機號",
+      "desc": ""
+    },
+    "userNamePlaceholder": {
+      "text": "請輸入用戶名",
+      "desc": ""
+    },
+    "emailPlaceholder": {
+      "text": "請輸入Email",
+      "desc": ""
+    },
+    "depNameMessage": {
+      "text": "請選擇部門",
+      "desc": ""
+    },
+    "depNamePlaceholder": {
+      "text": "請選擇所屬部門",
+      "desc": ""
+    },
+    "rolePlaceholder": {
+      "text": "請選擇所屬角色",
+      "desc": ""
+    },
+    "roleMessage": {
+      "text": "請選擇所屬角色",
+      "desc": ""
+    },
+    "deleteTip": {
+      "text": "確定要删除這個用戶？該操作不可逆！",
+      "desc": ""
+    },
+    "message1": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "error2": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "removeUser": {
+      "text": "删除用戶",
+      "desc": ""
+    },
+    "lastLogined": {
+      "text": "上次登錄時間",
+      "desc": ""
+    },
+    "latestModifyTime": {
+      "text": "上次修改時間",
+      "desc": ""
+    },
+    "latestModifier": {
+      "text": "上次修改者",
+      "desc": ""
+    },
+    "phoneNumber": {
+      "text": "手機號",
+      "desc": ""
+    },
+    "newOrCreateError4": {
+      "text": "手機號格式輸入錯誤，請重新輸入",
+      "desc": ""
+    },
+    "depName": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "roles": {
+      "text": "所屬角色",
+      "desc": ""
+    },
+    "role": {
+      "text": "所屬角色",
+      "desc": ""
+    },
+    "externalAuthSource": {
+      "text": "通過第三方登錄創建",
+      "desc": ""
+    },
+    "newOrCreateMessage1": {
+      "text": "新建成功",
+      "desc": ""
+    },
+    "newOrCreateError1": {
+      "text": "新建失敗",
+      "desc": ""
+    },
+    "createUser": {
+      "text": "新建用戶",
+      "desc": ""
+    },
+    "userSearchKey": {
+      "text": "姓名",
+      "desc": ""
+    },
+    "userAlias": {
+      "text": "別名",
+      "desc": ""
+    },
+    "firstModifyPwd": {
+      "text": "要求用戶首次登錄時修改密碼",
+      "desc": ""
+    },
+    "realName": {
+      "text": "用戶名",
+      "desc": ""
+    },
+    "realNameMessage1": {
+      "text": "用戶名不能爲空",
+      "desc": ""
+    },
+    "email": {
+      "text": "Email",
+      "desc": ""
+    },
+    "newOrCreateError3": {
+      "text": "Email格式輸入錯誤，請重新輸入",
+      "desc": ""
+    },
+    "emailMessage2": {
+      "text": "長度不能大於100個字元",
+      "desc": ""
+    },
+    "realNameMessage4": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "userNameMessage4": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "pswMessage2": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "remarkMessage": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "realNameMessage3": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "userNameMessage3": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "emailMessage1": {
+      "text": "長度不能小於4個字元",
+      "desc": ""
+    },
+    "phoneNumberMessage": {
+      "text": "長度爲11個字元",
+      "desc": ""
+    },
+    "userNameMessage1": {
+      "text": "帳號不能爲空",
+      "desc": ""
+    }
+  },
+  "Role": {
+    "remark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "editRole": {
+      "text": "編輯角色",
+      "desc": ""
+    },
+    "alias": {
+      "text": "別名",
+      "desc": ""
+    },
+    "roleUserHeader1": {
+      "text": "部門級用戶",
+      "desc": ""
+    },
+    "viewRole": {
+      "text": "查看詳情",
+      "desc": ""
+    },
+    "roleDetailTitle": {
+      "text": "查看詳情",
+      "desc": ""
+    },
+    "viewUser": {
+      "text": "查看用戶",
+      "desc": ""
+    },
+    "roleUserTitle": {
+      "text": "查看用戶",
+      "desc": ""
+    },
+    "error2": {
+      "text": "查詢單個角色信息失敗",
+      "desc": ""
+    },
+    "userRoleError": {
+      "text": "查詢用戶失敗",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "創建時間",
+      "desc": ""
+    },
+    "creator": {
+      "text": "創建者",
+      "desc": ""
+    },
+    "companyUserName": {
+      "text": "登錄帳號",
+      "desc": ""
+    },
+    "message1": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "error4": {
+      "text": "更新失敗",
+      "desc": ""
+    },
+    "managePermissions": {
+      "text": "管理功能權限",
+      "desc": ""
+    },
+    "error1": {
+      "text": "讀取功能樹失敗",
+      "desc": ""
+    },
+    "roleUserHeader2": {
+      "text": "角色，共計 {msg} 個用戶",
+      "desc": ""
+    },
+    "roleMessage1": {
+      "text": "角色名不能爲空",
+      "desc": ""
+    },
+    "roleName": {
+      "text": "角色名稱",
+      "desc": ""
+    },
+    "searchKey": {
+      "text": "角色名稱",
+      "desc": ""
+    },
+    "role": {
+      "text": "角色名稱",
+      "desc": ""
+    },
+    "rolePermissions": {
+      "text": "角色權限",
+      "desc": ""
+    },
+    "adminNodeTip": {
+      "text": "僅限系統管理員使用，不可勾選",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "rolePlaceholder": {
+      "text": "請輸入角色名稱",
+      "desc": ""
+    },
+    "shrinkAll": {
+      "text": "全部收起",
+      "desc": ""
+    },
+    "expandAll": {
+      "text": "全部展開",
+      "desc": ""
+    },
+    "deleteTip": {
+      "text": "確定要删除這個角色？該操作不可逆！",
+      "desc": ""
+    },
+    "message2": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "removeRole": {
+      "text": "删除角色",
+      "desc": ""
+    },
+    "error5": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "lastModifyDatetime": {
+      "text": "上次修改時間",
+      "desc": ""
+    },
+    "latestModifyTime": {
+      "text": "上次修改時間",
+      "desc": ""
+    },
+    "latestModifier": {
+      "text": "上次修改者",
+      "desc": ""
+    },
+    "depName": {
+      "text": "所屬部門",
+      "desc": ""
+    },
+    "createRole": {
+      "text": "新建角色",
+      "desc": ""
+    },
+    "error3": {
+      "text": "新建角色失敗",
+      "desc": ""
+    },
+    "businessPermissions": {
+      "text": "業務功能權限",
+      "desc": ""
+    },
+    "userCount": {
+      "text": "用戶數",
+      "desc": ""
+    },
+    "roleMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "remarkMessage": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "roleMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    }
+  },
+  "dataManager": {
+    "remark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "paramRemark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "credentialRemark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "queueRemark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "createQueueRemark": {
+      "text": "備注",
+      "desc": ""
+    },
+    "editJson": {
+      "text": "編輯JSON",
+      "desc": ""
+    },
+    "editParam": {
+      "text": "編輯參數",
+      "desc": ""
+    },
+    "editQueue": {
+      "text": "編輯Queue",
+      "desc": ""
+    },
+    "editEnv": {
+      "text": "編輯環境",
+      "desc": ""
+    },
+    "editCredential": {
+      "text": "編輯憑證",
+      "desc": ""
+    },
+    "parameter": {
+      "text": "參數",
+      "desc": ""
+    },
+    "paramName": {
+      "text": "參數名稱",
+      "desc": ""
+    },
+    "lookMsgQueue": {
+      "text": "查看",
+      "desc": ""
+    },
+    "viewQueue": {
+      "text": "查看Queue",
+      "desc": ""
+    },
+    "checkQueueDrawerError5": {
+      "text": "查看Queue失敗，{msg}",
+      "desc": ""
+    },
+    "viewContent": {
+      "text": "查看內容",
+      "desc": ""
+    },
+    "viewMessageQueue": {
+      "text": "查看訊息Queue",
+      "desc": ""
+    },
+    "lookTitle": {
+      "text": "查看訊息內容",
+      "desc": ""
+    },
+    "envMessage1": {
+      "text": "創建成功",
+      "desc": ""
+    },
+    "paramMessage2": {
+      "text": "創建成功",
+      "desc": ""
+    },
+    "credentialMessage3": {
+      "text": "創建成功",
+      "desc": ""
+    },
+    "queueMessage3": {
+      "text": "創建成功",
+      "desc": ""
+    },
+    "queueError3": {
+      "text": "創建Queue信息失敗",
+      "desc": ""
+    },
+    "queue": {
+      "text": "Queue",
+      "desc": ""
+    },
+    "queueNameMessage1": {
+      "text": "Queue名不能爲空",
+      "desc": ""
+    },
+    "queueName": {
+      "text": "Queue名稱",
+      "desc": ""
+    },
+    "queuePlaceholderTip": {
+      "text": "Queue名稱",
+      "desc": ""
+    },
+    "createQueueName": {
+      "text": "Queue名稱",
+      "desc": ""
+    },
+    "formatJson": {
+      "text": "格式化 JSON",
+      "desc": ""
+    },
+    "envMessage2": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "paramMessage3": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "credentialMessage2": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "queueMessage2": {
+      "text": "更新成功",
+      "desc": ""
+    },
+    "queueError2": {
+      "text": "更新Queue信息失敗",
+      "desc": ""
+    },
+    "credentialError3": {
+      "text": "更新失敗",
+      "desc": ""
+    },
+    "expiredDatetime": {
+      "text": "過期時間",
+      "desc": ""
+    },
+    "againQueueDialogError1": {
+      "text": "過期時間不能小於生效時間",
+      "desc": ""
+    },
+    "environment": {
+      "text": "環境",
+      "desc": ""
+    },
+    "managerEnvironment": {
+      "text": "環境管理",
+      "desc": ""
+    },
+    "name": {
+      "text": "環境名稱",
+      "desc": ""
+    },
+    "nameMessage1": {
+      "text": "環境名稱不能爲空",
+      "desc": ""
+    },
+    "createQueueError1": {
+      "text": "讀取單個Queue信息失敗",
+      "desc": ""
+    },
+    "againQueueDialogError2": {
+      "text": "讀取Queue資料失敗！",
+      "desc": ""
+    },
+    "valueRadioFalse": {
+      "text": "假",
+      "desc": ""
+    },
+    "paramType": {
+      "text": "類型",
+      "desc": ""
+    },
+    "headerSelectorPlaceholder": {
+      "text": "類型",
+      "desc": ""
+    },
+    "credentialPsw": {
+      "text": "密碼",
+      "desc": ""
+    },
+    "credentialPswMessage1": {
+      "text": "密碼不能爲空",
+      "desc": ""
+    },
+    "credentialError4": {
+      "text": "密碼不能爲空",
+      "desc": ""
+    },
+    "passwordTip2": {
+      "text": "密碼爲空則不修改密碼",
+      "desc": ""
+    },
+    "searchPlaceholder": {
+      "text": "名稱",
+      "desc": ""
+    },
+    "paramNameMessage1": {
+      "text": "名稱不能爲空",
+      "desc": ""
+    },
+    "credentialNameMessage1": {
+      "text": "名稱不能爲空",
+      "desc": ""
+    },
+    "consumeTips": {
+      "text": "你確定要將該訊息狀態改爲“已消費”嗎？",
+      "desc": ""
+    },
+    "credential": {
+      "text": "憑證",
+      "desc": ""
+    },
+    "credentialName": {
+      "text": "憑證名稱",
+      "desc": ""
+    },
+    "remarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "paramRemarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "credentialRemarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "queueRemarkPlaceholder": {
+      "text": "請輸入備注",
+      "desc": ""
+    },
+    "paramNamePlaceholder": {
+      "text": "請輸入參數名稱",
+      "desc": ""
+    },
+    "queueNamePlaceholder": {
+      "text": "請輸入Queue名稱",
+      "desc": ""
+    },
+    "namePlaceholder": {
+      "text": "請輸入環境名稱",
+      "desc": ""
+    },
+    "passwordTip1": {
+      "text": "請輸入密碼",
+      "desc": ""
+    },
+    "credentialNamePlaceholder": {
+      "text": "請輸入憑證名稱",
+      "desc": ""
+    },
+    "calendarNameMessage": {
+      "text": "請輸入日曆名稱",
+      "desc": ""
+    },
+    "messageContentPlaceholder": {
+      "text": "請輸入訊息內容",
+      "desc": ""
+    },
+    "credentialPlaceholder": {
+      "text": "請輸入用戶名",
+      "desc": ""
+    },
+    "paramValuePlaceholder": {
+      "text": "請輸入值",
+      "desc": ""
+    },
+    "paramError2": {
+      "text": "請先新建環境",
+      "desc": ""
+    },
+    "credentialError2": {
+      "text": "請先新建環境",
+      "desc": ""
+    },
+    "queueError4": {
+      "text": "請先新建環境",
+      "desc": ""
+    },
+    "paramTypeMessage": {
+      "text": "請選擇類型",
+      "desc": ""
+    },
+    "paramTypePlaceholder": {
+      "text": "請選擇類型",
+      "desc": ""
+    },
+    "calendarCycleMessage": {
+      "text": "請選擇日曆周期",
+      "desc": ""
+    },
+    "selectTips": {
+      "text": "請選擇狀態",
+      "desc": ""
+    },
+    "deleteParamTip": {
+      "text": "確定要删除這個參數？該操作不可逆！",
+      "desc": ""
+    },
+    "removeQueueTip": {
+      "text": "確定要删除這個Queue？該操作不可逆!",
+      "desc": ""
+    },
+    "deleteTip": {
+      "text": "確定要删除這個環境？該操作不可逆！",
+      "desc": ""
+    },
+    "credentialDelTip": {
+      "text": "確定要删除這個憑證？該操作不可逆！",
+      "desc": ""
+    },
+    "createTime": {
+      "text": "入Queue時間",
+      "desc": ""
+    },
+    "removeParam": {
+      "text": "删除參數",
+      "desc": ""
+    },
+    "envMessage3": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "paramMessage1": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "credentialMessage1": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "delQueue": {
+      "text": "删除Queue",
+      "desc": ""
+    },
+    "queueMessage1": {
+      "text": "删除Queue成功",
+      "desc": ""
+    },
+    "removeEnv": {
+      "text": "删除環境",
+      "desc": ""
+    },
+    "delCredential": {
+      "text": "删除憑證",
+      "desc": ""
+    },
+    "envError1": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "paramError1": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "credentialError1": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "queueError1": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "availableDatetime": {
+      "text": "生效時間",
+      "desc": ""
+    },
+    "createEnv": {
+      "text": "添加環境",
+      "desc": ""
+    },
+    "notActive": {
+      "text": "未生效",
+      "desc": ""
+    },
+    "notConsume": {
+      "text": "未消費",
+      "desc": ""
+    },
+    "remainMessageCount": {
+      "text": "未消費訊息數",
+      "desc": ""
+    },
+    "messageConvertConsumed": {
+      "text": "消費",
+      "desc": ""
+    },
+    "consumeTitle": {
+      "text": "消費訊息",
+      "desc": ""
+    },
+    "pullWorkerName": {
+      "text": "消費者",
+      "desc": ""
+    },
+    "messageCode": {
+      "text": "訊息編號",
+      "desc": ""
+    },
+    "publishWorkerName": {
+      "text": "訊息來源",
+      "desc": ""
+    },
+    "messageContent": {
+      "text": "訊息內容",
+      "desc": ""
+    },
+    "messageContentMessage": {
+      "text": "訊息長度不能超過65535個字元",
+      "desc": ""
+    },
+    "paramTitleBtn": {
+      "text": "新建參數",
+      "desc": ""
+    },
+    "newParams": {
+      "text": "新建參數",
+      "desc": ""
+    },
+    "createQueue": {
+      "text": "新建Queue",
+      "desc": ""
+    },
+    "createCredential": {
+      "text": "新建憑證",
+      "desc": ""
+    },
+    "addParam": {
+      "text": "新增參數",
+      "desc": ""
+    },
+    "addQueue": {
+      "text": "新增Queue",
+      "desc": ""
+    },
+    "createEnvironment": {
+      "text": "新增環境",
+      "desc": ""
+    },
+    "addCredential": {
+      "text": "新增憑證",
+      "desc": ""
+    },
+    "compressJson": {
+      "text": "壓縮JSON",
+      "desc": ""
+    },
+    "expired": {
+      "text": "已過期",
+      "desc": ""
+    },
+    "consumed": {
+      "text": "已消費",
+      "desc": ""
+    },
+    "consumeMessageCount": {
+      "text": "已消費訊息數",
+      "desc": ""
+    },
+    "credentialUser": {
+      "text": "用戶名",
+      "desc": ""
+    },
+    "credentialUserMessage1": {
+      "text": "用戶名不能爲空",
+      "desc": ""
+    },
+    "indexInfo1": {
+      "text": "暫無權限查看參數！",
+      "desc": ""
+    },
+    "indexInfo3": {
+      "text": "暫無權限查看Queue！",
+      "desc": ""
+    },
+    "indexInfo2": {
+      "text": "暫無權限查看憑證！",
+      "desc": ""
+    },
+    "paramValueMessage2": {
+      "text": "長度不能大於16000個字元",
+      "desc": ""
+    },
+    "nameMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "paramNameMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "credentialNameMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "credentialUserMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "credentialPswMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "queueNameMessage3": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "remarkMessage": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "paramRemarkMessage": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "credentialRemarkMessage": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "queueRemarkMessage": {
+      "text": "長度不能大於500個字元",
+      "desc": ""
+    },
+    "nameMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "paramNameMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "credentialNameMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "credentialUserMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "credentialPswMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "queueNameMessage2": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "valueRadioTrue": {
+      "text": "真",
+      "desc": ""
+    },
+    "paramValue": {
+      "text": "值",
+      "desc": ""
+    },
+    "paramValueMessage1": {
+      "text": "值不能爲空",
+      "desc": ""
+    },
+    "paramValueMessage5": {
+      "text": "只能輸入-999999999到999999999之間的數值",
+      "desc": ""
+    },
+    "paramValueMessage3": {
+      "text": "只能輸入數位",
+      "desc": ""
+    },
+    "checkQueueDrawerError1": {
+      "text": "只能選擇一個月以內的時間查詢！",
+      "desc": ""
+    },
+    "reEntryQueue": {
+      "text": "重新入Queue",
+      "desc": ""
+    },
+    "againQueueTitle": {
+      "text": "重新入Queue",
+      "desc": ""
+    },
+    "checkQueueDrawerMessage1": {
+      "text": "重新入Queue成功！",
+      "desc": ""
+    },
+    "checkQueueDrawerError2": {
+      "text": "重新入Queue失敗！",
+      "desc": ""
+    },
+    "checkQueueDrawerError3": {
+      "text": "轉成消費Queue的id錯誤！",
+      "desc": ""
+    },
+    "checkQueueDrawerError4": {
+      "text": "轉成消費Queue失敗！",
+      "desc": ""
+    },
+    "messageStatus": {
+      "text": "狀態",
+      "desc": ""
+    },
+    "paramValueMessage4": {
+      "text": "最多只能保留至小數點後六位",
+      "desc": ""
+    }
+  },
+  "applicationLicensing": {
+    "editApp": {
+      "text": "編輯應用",
+      "desc": ""
+    },
+    "editAppSuccess": {
+      "text": "編輯應用授權成功！",
+      "desc": ""
+    },
+    "editAppFail": {
+      "text": "編輯應用授權失敗！",
+      "desc": ""
+    },
+    "operate": {
+      "text": "操作",
+      "desc": ""
+    },
+    "back": {
+      "text": "返回",
+      "desc": ""
+    },
+    "appNamePlaceholder": {
+      "text": "請輸入應用名稱",
+      "desc": ""
+    },
+    "pleaseInputAppName": {
+      "text": "請輸入應用名稱",
+      "desc": ""
+    },
+    "deleteMessage": {
+      "text": "確定要删除這條應用授權？該操作不可逆！",
+      "desc": ""
+    },
+    "deleteSuccess": {
+      "text": "删除成功",
+      "desc": ""
+    },
+    "deleteFail": {
+      "text": "删除失敗",
+      "desc": ""
+    },
+    "Message1": {
+      "text": "更新後，會生成新的AppSecret，導致之前應用授權失效，確定要更新嗎？",
+      "desc": ""
+    },
+    "errorMessage1": {
+      "text": "更新失敗",
+      "desc": ""
+    },
+    "addApp": {
+      "text": "添加應用",
+      "desc": ""
+    },
+    "addAppSuccess": {
+      "text": "添加應用授權成功！",
+      "desc": ""
+    },
+    "addAppFail": {
+      "text": "添加應用授權失敗！",
+      "desc": ""
+    },
+    "appName": {
+      "text": "應用名稱",
+      "desc": ""
+    },
+    "appNameMessage": {
+      "text": "應用名稱不能爲空",
+      "desc": ""
+    },
+    "userName": {
+      "text": "用戶名稱",
+      "desc": ""
+    },
+    "appNameMessage2": {
+      "text": "長度不能大於30個字元",
+      "desc": ""
+    },
+    "appNameMessage1": {
+      "text": "長度不能小於2個字元",
+      "desc": ""
+    },
+    "reCreate": {
+      "text": "重新生成",
+      "desc": ""
+    },
+    "reSetAccessKey": {
+      "text": "重置Access Key",
+      "desc": ""
+    }
+  },
+  "basicLayout": {
+    "sayLater": {
+      "text": "不,以後再說",
+      "desc": ""
+    },
+    "pswOutofDate": {
+      "text": "密碼過期提示",
+      "desc": ""
+    },
+    "pswTip": {
+      "text": "您的密碼已過期,您是否現在就去更新密碼?",
+      "desc": ""
+    },
+    "netConnect": {
+      "text": "網路已連接",
+      "desc": ""
+    },
+    "netException": {
+      "text": "網路錯誤,請檢查網路",
+      "desc": ""
+    }
+  },
+  "OperationLog": {
+    "operation": {
+      "text": "操作",
+      "desc": ""
+    },
+    "operateTime": {
+      "text": "操作時間",
+      "desc": ""
+    },
+    "operator": {
+      "text": "操作者",
+      "desc": ""
+    },
+    "getOperateListError": {
+      "text": "讀取操作列表失敗！",
+      "desc": ""
+    },
+    "getOperateError": {
+      "text": "讀取操作失敗！",
+      "desc": ""
+    },
+    "getModuleNameError": {
+      "text": "讀取模塊名失敗！",
+      "desc": ""
+    },
+    "desc": {
+      "text": "描述",
+      "desc": ""
+    },
+    "moduleName2": {
+      "text": "模塊名",
+      "desc": ""
+    },
+    "moduleName": {
+      "text": "模塊名",
+      "desc": ""
+    },
+    "allModule": {
+      "text": "所有模塊",
+      "desc": ""
+    },
+    "onlyInMonth": {
+      "text": "只能選擇一個月以內的時間查詢！",
+      "desc": ""
+    },
+    "operateIp": {
+      "text": "operateIp",
+      "desc": ""
+    }
+  },
+  "authorizeInfo": {
+    "companyName": {
+      "text": "當前租戶：",
+      "desc": ""
+    },
+    "endtime": {
+      "text": "到期時間",
+      "desc": ""
+    },
+    "creatorFloating": {
+      "text": "浮動授權 Creator",
+      "desc": ""
+    },
+    "attendFloat": {
+      "text": "人機交互浮動授權 Worker",
+      "desc": ""
+    },
+    "nums": {
+      "text": "容量",
+      "desc": ""
+    },
+    "authorizeInfo": {
+      "text": "授權機構：",
+      "desc": ""
+    },
+    "authorizeType": {
+      "text": "授權類型",
+      "desc": ""
+    },
+    "unattendFixed": {
+      "text": "無人值守綁定機器 Worker",
+      "desc": ""
+    },
+    "unattendFloat": {
+      "text": "無人值守浮動授權 Worker",
+      "desc": ""
+    },
+    "usednums": {
+      "text": "用量",
+      "desc": ""
+    }
+  },
+  "Nopermission": {
+    "backToLogin": {
+      "text": "返回登錄",
+      "desc": ""
+    },
+    "titleText": {
+      "text": "你沒有查看權限，請聯繫管理員配置你的角色和權限後，重新登錄",
+      "desc": ""
+    }
+  },
+  "globalHeader": {
+    "simplifiedChinese": {
+      "text": "簡體中文",
+      "desc": ""
+    },
+    "traditionalChinese": {
+      "text": "繁體中文",
+      "desc": ""
+    },
+    "English": {
+      "text": "English",
+      "desc": "English"
+    },
+    "Japan": {
+      "text": "日本語",
+      "desc": "日本語"
+    },
+    "aboutTitle": {
+      "text": "關於Commander",
+      "desc": ""
+    },
+    "tipForCreator2": {
+      "text": "可前往 組織架構>用戶管理 給指定用戶添加或移除以上角色。",
+      "desc": ""
+    },
+    "tipForWorkerAttend2": {
+      "text": "可前往 組織架構>用戶管理 給指定用戶添加或移除以上角色。",
+      "desc": ""
+    },
+    "aboutCopyright": {
+      "text": "來也科技 版權所有",
+      "desc": ""
+    },
+    "twoPswNotSame": {
+      "text": "兩次輸入密碼不一致!",
+      "desc": ""
+    },
+    "pswLengthMoreThanZero": {
+      "text": "密碼長度不能少於 0 位",
+      "desc": ""
+    },
+    "newPswMessage": {
+      "text": "請輸入新密碼",
+      "desc": ""
+    },
+    "oldPswMessage": {
+      "text": "請輸入原密碼",
+      "desc": ""
+    },
+    "rePswMessage": {
+      "text": "請再次輸入密碼",
+      "desc": ""
+    },
+    "tip": {
+      "text": "提示",
+      "desc": ""
+    },
+    "exit": {
+      "text": "退出登錄",
+      "desc": ""
+    },
+    "messageCenter": {
+      "text": "訊息中心",
+      "desc": ""
+    },
+    "tipForCreator1": {
+      "text": "新建Creator需系統管理員給指定用戶帳號添加 Creator用戶 角色或添加有Creator客戶端登錄權限的角色。",
+      "desc": ""
+    },
+    "tipForWorkerAttend1": {
+      "text": "新建人機交互Worker需系統管理員給指定用戶帳號添加  人機交互Worker用戶 角色或添加有Worker客戶端登錄權限的角色。",
+      "desc": ""
+    },
+    "newPsw": {
+      "text": "新密碼",
+      "desc": ""
+    },
+    "editPsw": {
+      "text": "修改密碼",
+      "desc": ""
+    },
+    "editPswSuccess": {
+      "text": "修改密碼成功",
+      "desc": ""
+    },
+    "editPswFail": {
+      "text": "修改密碼失敗",
+      "desc": ""
+    },
+    "user": {
+      "text": "用戶：",
+      "desc": ""
+    },
+    "aboutLicense": {
+      "text": "用戶協議",
+      "desc": ""
+    },
+    "oldPsw": {
+      "text": "原密碼",
+      "desc": ""
+    },
+    "rePsw": {
+      "text": "再次輸入密碼",
+      "desc": ""
+    },
+    "chinese": {
+      "text": "中文",
+      "desc": ""
+    },
+    "userBook": {
+      "text": "產品手冊",
+      "desc": ""
+    },
+    "version": {
+      "text": "版本",
+      "desc": ""
+    },
+    "interfaceBook": {
+      "text": "介面文檔",
+      "desc": ""
+    }
+  },
+  "systemSet": {
+    "recordSetTitle": {
+      "text": "錄製畫面設定",
+      "desc": ""
+    },
+    "passwordSafeSetTitle": {
+      "text": "密碼策略設定",
+      "desc": ""
+    },
+    "messageNotificateSetTitle": {
+      "text": "訊息設定",
+      "desc": ""
+    }
+  },
+  "agreement": {
+    "cancel": {
+      "text": "取消",
+      "desc": ""
+    },
+    "confirm": {
+      "text": "確定",
+      "desc": ""
+    },
+    "agree": {
+      "text": "同意",
+      "desc": ""
+    },
+    "checkTip": {
+      "text": "我已閱讀並知曉用戶協議",
+      "desc": ""
+    }
+  },
+  "other": {
+    "directionalIcon": {
+      "text": "方向性圖示",
+      "desc": ""
+    },
+    "suggestedIcon": {
+      "text": "提示建議性圖示",
+      "desc": ""
+    },
+    "editorIcon": {
+      "text": "編輯class圖示",
+      "desc": ""
+    },
+    "dataIcon": {
+      "text": "資料類圖示",
+      "desc": ""
+    },
+    "brandlogoIcon": {
+      "text": "網站通用圖示",
+      "desc": ""
+    },
+    "applicationIcon": {
+      "text": "品牌和標識",
+      "desc": ""
+    },
+    "themeColor1": {
+      "text": "薄暮",
+      "desc": ""
+    },
+    "themeColor2": {
+      "text": "火山",
+      "desc": ""
+    },
+    "themeColor3": {
+      "text": "橘黃色",
+      "desc": ""
+    },
+    "themeColor4": {
+      "text": "藍綠色",
+      "desc": ""
+    },
+    "themeColor5": {
+      "text": "極光綠",
+      "desc": ""
+    },
+    "themeColor6": {
+      "text": "拂曉藍（預設）",
+      "desc": ""
+    },
+    "themeColor7": {
+      "text": "極客藍",
+      "desc": ""
+    },
+    "themeColor8": {
+      "text": "深紫",
+      "desc": ""
+    },
+    "changTheme": {
+      "text": "正在切換主題！",
+      "desc": ""
+    },
+    "home": {
+      "text": "首頁",
+      "desc": ""
+    }
+  }
+}

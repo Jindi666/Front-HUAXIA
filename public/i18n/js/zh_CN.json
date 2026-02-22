@@ -1,0 +1,7162 @@
+﻿{
+  "public": {
+    "text": {
+      "text": "文本",
+      "desc": "类型"
+    },
+    "number": {
+      "text": "数值",
+      "desc": "类型"
+    },
+    "bool": {
+      "text": "布尔",
+      "desc": "类型"
+    },
+    "delete": {
+      "text": "删除",
+      "desc": "删除弹框标题"
+    },
+    "okText": {
+      "text": "确定删除",
+      "desc": "删除弹框右下角文案"
+    },
+    "operate": {
+      "text": "操作",
+      "desc": "表头中操作文字"
+    },
+    "remark": {
+      "text": "备注",
+      "desc": "表头中备注文字"
+    },
+    "edit": {
+      "text": "编辑",
+      "desc": "按钮的编辑"
+    },
+    "create": {
+      "text": "新增",
+      "desc": "按钮的新增"
+    },
+    "search": {
+      "text": "查询",
+      "desc": "按钮的查询"
+    },
+    "search2": {
+      "text": "搜索",
+      "desc": "搜索的placeholder"
+    },
+    "pageTotalCount": {
+      "text": "共 {msg} 条数据 | 共 {msg} 条数据",
+      "desc": "页面表格数据总条数"
+    },
+    "autoAllocation": {
+      "text": "自动分配",
+      "desc": "worker类型为自动分配的提示文案"
+    },
+    "toolTip": {
+      "text": "提示",
+      "desc": "modal的提示title"
+    },
+    "ok": {
+      "text": "确定",
+      "desc": "modal的确定按钮"
+    },
+    "cancel": {
+      "text": "取消",
+      "desc": "modal的取消按钮"
+    },
+    "save": {
+      "text": "保存",
+      "desc": "modal的保存按钮"
+    },
+    "time": {
+      "text": "次 | 次",
+      "desc": "量词 次"
+    },
+    "day": {
+      "text": "天 | 天",
+      "desc": "量词 天"
+    },
+    "manday": {
+      "text": "人天 | 人天",
+      "desc": "量词 人天"
+    },
+    "cnYuan": {
+      "text": "元 | 元",
+      "desc": "量词 元"
+    },
+    "second": {
+      "text": "秒 | 秒",
+      "desc": "时间单位 秒"
+    },
+    "minute": {
+      "text": "分钟 | 分钟",
+      "desc": "时间单位 分钟"
+    },
+    "hour": {
+      "text": "小时 | 小时",
+      "desc": "时间单位 小时"
+    },
+    "one": {
+      "text": "个 | 个",
+      "desc": "量词 个"
+    },
+    "one1": {
+      "text": "次 | 次",
+      "desc": "量词 次"
+    },
+    "noData": {
+      "text": "暂无数据…",
+      "desc": "table中没有数据"
+    },
+    "pageTotal": {
+      "text": "共 {msg} 条数据 | 共 {msg} 条数据",
+      "desc": "数据总条数"
+    },
+    "error": {
+      "text": "错误",
+      "desc": "错误"
+    },
+    "complete": {
+      "text": "完成",
+      "desc": "完成"
+    },
+    "nextStep": {
+      "text": "下一步",
+      "desc": "下一步"
+    },
+    "previousStep": {
+      "text": "上一步",
+      "desc": "上一步"
+    },
+    "name": {
+      "text": "名称",
+      "desc": "名称"
+    },
+    "nameNotEmpty": {
+      "text": "名称不能为空",
+      "desc": "名称没有输入的提示"
+    },
+    "nameMinLength": {
+      "text": "长度不能小于2个字符",
+      "desc": "名称最小长度限制"
+    },
+    "nameMaxLength": {
+      "text": "长度不能大于30个字符",
+      "desc": "名称最大长度限制"
+    },
+    "pleaseInputName": {
+      "text": "请输入名称",
+      "desc": "名称未输入时占位提示"
+    },
+    "activationPlan": {
+      "text": "激活计划",
+      "desc": "激活计划"
+    },
+    "des": {
+      "text": "说明",
+      "desc": "说明"
+    },
+    "desMinLength": {
+      "text": "长度不能小于2个字符",
+      "desc": "说明最小长度限制"
+    },
+    "desMaxLength": {
+      "text": "长度不能大于500个字符",
+      "desc": "说明文字最大长度限制"
+    },
+    "pleaseInputDes": {
+      "text": "请输入说明",
+      "desc": "说明未输入时占位提示"
+    },
+    "getDepartmentTreeFail": {
+      "text": "获取部门树失败！",
+      "desc": "获取部门接口数据失败的文案提示"
+    },
+    "workerType": {
+      "text": "类型",
+      "desc": "worker类型"
+    },
+    "unattended": {
+      "text": "无人值守",
+      "desc": "worker类型为无人值守"
+    },
+    "workerInactivated": {
+      "text": "未激活",
+      "desc": "worker没有激活状态"
+    },
+    "workerOnline": {
+      "text": "在线",
+      "desc": "worker在线状态"
+    },
+    "workerOffline": {
+      "text": "离线",
+      "desc": "worker离线状态"
+    },
+    "connectTime": {
+      "text": "最近连接时间",
+      "desc": "最近连接时间"
+    },
+    "ipAddress": {
+      "text": "IP地址",
+      "desc": "PC的IP地址"
+    },
+    "machineCode": {
+      "text": "机器码",
+      "desc": "pc生成的一长串文字"
+    },
+    "env": {
+      "text": "环境",
+      "desc": "worker所在的环境"
+    },
+    "state": {
+      "text": "状态",
+      "desc": "worker状态类型"
+    },
+    "department": {
+      "text": "所属部门",
+      "desc": "页面左侧部门树的标题"
+    },
+    "lookDetail": {
+      "text": "查看详情",
+      "desc": "查看详情"
+    },
+    "lookRunLog": {
+      "text": "查看运行日志",
+      "desc": "查看运行日志"
+    },
+    "reassignWorker": {
+      "text": "重新指派Worker",
+      "desc": "重新选择Worker"
+    },
+    "doAgain": {
+      "text": "重新执行",
+      "desc": "重新执行"
+    },
+    "endTime": {
+      "text": "结束时间",
+      "desc": "结束时间"
+    },
+    "startTime": {
+      "text": "开始时间",
+      "desc": "开始时间"
+    },
+    "runTime": {
+      "text": "运行时长",
+      "desc": "运行时长"
+    },
+    "queueExecute": {
+      "text": "排队执行",
+      "desc": "Worker等待排队执行"
+    },
+    "executeImmediately": {
+      "text": "立即执行",
+      "desc": "Worker立即执行"
+    },
+    "executeWay": {
+      "text": "执行方式",
+      "desc": "Worker执行方式"
+    },
+    "reAssignWorker": {
+      "text": "重新指定Worker",
+      "desc": "重新指定Worker"
+    },
+    "close": {
+      "text": "关闭",
+      "desc": "弹框关闭按钮文字图案"
+    },
+    "specifyWorker": {
+      "text": "指定Worker",
+      "desc": "指定Worker"
+    },
+    "cancelTableTitleTips": {
+      "text": "取消",
+      "desc": "表格中图片放上去的文字提示"
+    },
+    "laborTime": {
+      "text": "人工时间",
+      "desc": "数据统计文字"
+    },
+    "laborCost": {
+      "text": "人工成本",
+      "desc": "数据统计文字"
+    },
+    "currentSelect": {
+      "text": "当前选择：",
+      "desc": "当前选择了流程或Worker的文案"
+    },
+    "inputTaskNumberErrorTip": {
+      "text": "请输入正确的任务数量！",
+      "desc": "自动分配任务数量输入错误的提示"
+    },
+    "maxTaskNumberTip": {
+      "text": "任务数量最多为100！",
+      "desc": "自动分配最大的任务数提示"
+    },
+    "minTaskNumberTip": {
+      "text": "请至少分配1个任务！",
+      "desc": "自动分配没有填写任务数的提示"
+    },
+    "minWorkerNumberTip": {
+      "text": "请至少指定1个执行计划的Worker！",
+      "desc": "自动分配没有填写任务数的提示"
+    },
+    "assignWorkerSelectEnv": {
+      "text": "当前选择：自动分配Worker",
+      "desc": "当前选择了自动分配Worker的文案"
+    },
+    "noSelectEnvTip": {
+      "text": "请选择环境",
+      "desc": "自动分配Worker未选择环境点击下一步的提示"
+    },
+    "maxTaskTargetNumber": {
+      "text": "请输入小于等于1440的整数！",
+      "desc": "任务指标统计人工时间超出最大值的提示"
+    },
+    "type": {
+      "text": "类型",
+      "desc": "类型"
+    },
+    "status": {
+      "text": "状态",
+      "desc": "状态"
+    },
+    "version": {
+      "text": "版本",
+      "desc": "版本"
+    },
+    "placeholderMax": {
+      "text": "{max}个字符以内",
+      "desc": "多少个字符以内"
+    },
+    "back": {
+      "text": "返回",
+      "desc": "返回"
+    },
+    "activationschedule": {
+      "text": "激活计划",
+      "desc": ""
+    }
+  },
+  "basicLayout": {
+    "pswTip": {
+      "text": "您的密码已过期,您是否现在就去更新密码?",
+      "desc": "您的密码已过期,您是否现在就去更新密码?"
+    },
+    "pswOutofDate": {
+      "text": "密码过期提示",
+      "desc": "密码过期提示"
+    },
+    "sayLater": {
+      "text": "不,以后再说",
+      "desc": "不,以后再说"
+    },
+    "netException": {
+      "text": "网络异常,请检查网络",
+      "desc": "网络异常,请检查网络"
+    },
+    "netConnect": {
+      "text": "网络已连接",
+      "desc": "网络已连接"
+    }
+  },
+  "datav": {
+    "runCountSaveTime": {
+      "text": "运行次数（次）/节省时长（分）",
+      "desc": "运行次数（次）/节省时长（分）"
+    },
+    "saveTimeSummary": {
+      "text": "累计节省工时",
+      "desc": "累计节省工时"
+    },
+    "runCountsaveTimeSummary": {
+      "text": "运行次数（次）/节省时长（分）",
+      "desc": "运行次数（次）/节省时长（分）"
+    },
+    "datavTitle": {
+      "text": "UiBot 应用总览",
+      "desc": "数据大屏主标题"
+    },
+    "savejieTimeSummary": {
+      "text": "累计节省工时",
+      "desc": "累计节省工时"
+    },
+    "running": {
+      "text": "正在运行",
+      "desc": "正在运行"
+    },
+    "geoMapTask": {
+      "text": "任务：",
+      "desc": "任务："
+    },
+    "usageRate": {
+      "text": "使用率",
+      "desc": "使用率"
+    },
+    "successRate": {
+      "text": "成功率",
+      "desc": "成功率"
+    },
+    "saveTime": {
+      "text": "节省时长",
+      "desc": "节省时长"
+    },
+    "runCount": {
+      "text": "运行次数",
+      "desc": "运行次数"
+    },
+    "workerRunState": {
+      "text": "运行动态",
+      "desc": "任务运行动态"
+    },
+    "top12": {
+      "text": "任务地区分布Top12",
+      "desc": "任务地区分布Top12"
+    }
+  },
+  "permission": {
+    "uiBotCommanderTitle": {
+      "text": "华夏基金可视化看板",
+      "desc": "index.html的title"
+    },
+    "message1": {
+      "text": "提示",
+      "desc": "提示"
+    },
+    "tip1": {
+      "text": "抱歉，您无权访问",
+      "desc": "抱歉，您无权访问"
+    }
+  },
+  "Nopermission": {
+    "backToLogin": {
+      "text": "返回登录",
+      "desc": "返回登录"
+    },
+    "titleText": {
+      "text": "你没有查看权限，请联系管理员添加权限",
+      "desc": "你没有查看权限，请联系管理员添加权限"
+    }
+  },
+  "globalHeader": {
+    "simplifiedChinese": {
+      "text": "简体中文",
+      "desc": "简体中文"
+    },
+    "traditionalChinese": {
+      "text": "繁体中文",
+      "desc": "繁体中文"
+    },
+    "English": {
+      "text": "English",
+      "desc": "English"
+    },
+    "Japan": {
+      "text": "日本语",
+      "desc": "日本语"
+    },
+    "version": {
+      "text": "版本",
+      "desc": "版本"
+    },
+    "chinese": {
+      "text": "中文",
+      "desc": "中文"
+    },
+    "userBook": {
+      "text": "产品手册",
+      "desc": "产品手册"
+    },
+    "interfaceBook": {
+      "text": "接口文档",
+      "desc": "接口文档"
+    },
+    "aboutTitle": {
+      "text": "关于",
+      "desc": "关于页面弹窗底部信息"
+    },
+    "aboutLicense": {
+      "text": "用户协议",
+      "desc": "关于页面弹窗底部信息协议"
+    },
+    "aboutCopyright": {
+      "text": "来也科技 版权所有",
+      "desc": "关于页面弹窗底部信息"
+    },
+    "messageCenter": {
+      "text": "消息中心",
+      "desc": "头部消息中心"
+    },
+    "user": {
+      "text": "用户：",
+      "desc": "头部用户头像"
+    },
+    "editPsw": {
+      "text": "修改密码",
+      "desc": "头部下拉修改密码选项"
+    },
+    "exit": {
+      "text": "退出登录",
+      "desc": "头部下拉退出登录选项"
+    },
+    "tip": {
+      "text": "提示",
+      "desc": "弹框提示"
+    },
+    "oldPsw": {
+      "text": "原密码",
+      "desc": "修改密码弹框表单原密码"
+    },
+    "oldPswMessage": {
+      "text": "请输入原密码",
+      "desc": "修改密码弹框表单原请输入原密码提示"
+    },
+    "newPsw": {
+      "text": "新密码",
+      "desc": "修改密码弹框表单原新密码"
+    },
+    "newPswMessage": {
+      "text": "请输入新密码",
+      "desc": "修改密码弹框表单原请输入新密码提示"
+    },
+    "rePsw": {
+      "text": "再次输入密码",
+      "desc": "修改密码弹框表单原再次输入密码"
+    },
+    "rePswMessage": {
+      "text": "请再次输入密码",
+      "desc": "修改密码弹框表单原请再次输入密码提示"
+    },
+    "editPswSuccess": {
+      "text": "修改密码成功，即将退出登录重新认证",
+      "desc": "修改密码弹框表单原修改密码成功提示"
+    },
+    "editPswFail": {
+      "text": "修改密码失败",
+      "desc": "修改密码失败提示"
+    },
+    "twoPswNotSame": {
+      "text": "两次输入密码不一致!",
+      "desc": "两次输入密码不一致!错误消息"
+    },
+    "pswLengthMoreThanZero": {
+      "text": "密码长度不能少于 0 位",
+      "desc": "密码长度不能少于 0 位错误消息"
+    },
+    "tipForCreator1": {
+      "text": "新建Creator需系统管理员给指定用户帐号添加 Creator用户 角色或添加有Creator客户端登录权限的角色。",
+      "desc": ""
+    },
+    "tipForCreator2": {
+      "text": "可前往 用户>用户管理 给指定用户添加或移除以上角色。",
+      "desc": ""
+    },
+    "tipForWorkerAttend1": {
+      "text": "新建人机交互Worker需系统管理员给指定用户帐号添加  人机交互Worker用户 角色或添加有Worker客户端登录权限的角色。",
+      "desc": ""
+    },
+    "tipForWorkerAttend2": {
+      "text": "可前往 用户>用户管理 给指定用户添加或移除以上角色。",
+      "desc": ""
+    }
+  },
+  "utilsIndexJs": {
+    "addText": {
+      "text": "新增",
+      "desc": "新增"
+    },
+    "deleteText": {
+      "text": "删除",
+      "desc": "删除"
+    },
+    "modifyText": {
+      "text": "修改",
+      "desc": "修改"
+    },
+    "queryText": {
+      "text": "查询",
+      "desc": "查询"
+    },
+    "detailsText": {
+      "text": "详情",
+      "desc": "详情"
+    },
+    "startText": {
+      "text": "启用",
+      "desc": "启用"
+    },
+    "disableText": {
+      "text": "禁用",
+      "desc": "禁用"
+    },
+    "importText": {
+      "text": "导入",
+      "desc": "导入"
+    },
+    "exportText": {
+      "text": "导出",
+      "desc": "导出"
+    },
+    "promptText": {
+      "text": "提示",
+      "desc": "提示"
+    },
+    "sessionExpired": {
+      "text": "您的会话已过期",
+      "desc": "您的会话已过期"
+    },
+    "fileTooLarge": {
+      "text": "文件过大!",
+      "desc": "上传文件过大的提示"
+    },
+    "sunday": {
+      "text": "日",
+      "desc": "日"
+    },
+    "monday": {
+      "text": "一",
+      "desc": "一"
+    },
+    "tuesday": {
+      "text": "二",
+      "desc": "二"
+    },
+    "wednesday": {
+      "text": "三",
+      "desc": "三"
+    },
+    "thursday": {
+      "text": "四",
+      "desc": "四"
+    },
+    "friday": {
+      "text": "五",
+      "desc": "五"
+    },
+    "saturday": {
+      "text": "六",
+      "desc": "六"
+    },
+    "just": {
+      "text": "刚刚",
+      "desc": "刚刚"
+    },
+    "minutesAgo": {
+      "text": "分钟前",
+      "desc": "分钟前"
+    },
+    "hoursAgo": {
+      "text": "小时前",
+      "desc": "小时前"
+    },
+    "oneDayAgo": {
+      "text": "1天前",
+      "desc": "1天前"
+    },
+    "month": {
+      "text": "月",
+      "desc": "月"
+    },
+    "day": {
+      "text": "日",
+      "desc": "天"
+    },
+    "hour": {
+      "text": "时",
+      "desc": "时"
+    },
+    "minute": {
+      "text": "分",
+      "desc": "分"
+    },
+    "today": {
+      "text": "今天",
+      "desc": "今天"
+    },
+    "lastWeek": {
+      "text": "最近一周",
+      "desc": "最近一周"
+    },
+    "lastMonth": {
+      "text": "最近一个月",
+      "desc": "最近一个月"
+    },
+    "lastThreeMonths": {
+      "text": "最近三个月",
+      "desc": "最近三个月"
+    },
+    "deploying": {
+      "text": "待部署",
+      "desc": "待部署"
+    },
+    "received": {
+      "text": "待运行",
+      "desc": "待运行"
+    },
+    "finished": {
+      "text": "已完成",
+      "desc": "已完成"
+    },
+    "started": {
+      "text": "运行中",
+      "desc": "运行中"
+    },
+    "aborted": {
+      "text": "已中止",
+      "desc": "已中止"
+    },
+    "stopping": {
+      "text": "停止中",
+      "desc": "停止中"
+    },
+    "rejected": {
+      "text": "无法响应",
+      "desc": "无法响应"
+    },
+    "retrying": {
+      "text": "重试",
+      "desc": "重试"
+    },
+    "allState": {
+      "text": "Worker状态",
+      "desc": "Worker状态"
+    },
+    "unknown": {
+      "text": "未知",
+      "desc": "未知"
+    },
+    "success": {
+      "text": "成功",
+      "desc": "成功"
+    },
+    "fail": {
+      "text": "失败",
+      "desc": "失败"
+    },
+    "admin": {
+      "text": "管理员",
+      "desc": "管理员"
+    },
+    "developer": {
+      "text": "开发者",
+      "desc": "开发者"
+    },
+    "user": {
+      "text": "普通用户",
+      "desc": "普通用户"
+    },
+    "enabling": {
+      "text": "启用",
+      "desc": "启用"
+    },
+    "prohibiting": {
+      "text": "禁用",
+      "desc": "禁用"
+    },
+    "trace": {
+      "text": "跟踪",
+      "desc": "跟踪"
+    },
+    "info": {
+      "text": "消息",
+      "desc": "消息"
+    },
+    "warn": {
+      "text": "警告",
+      "desc": "警告"
+    },
+    "error": {
+      "text": "错误",
+      "desc": "错误"
+    },
+    "abortedByUser": {
+      "text": "用户中止",
+      "desc": "用户中止"
+    },
+    "abortedByCommander": {
+      "text": "控制中止",
+      "desc": "控制中止"
+    },
+    "workerCrashed": {
+      "text": "异常中止",
+      "desc": "异常中止"
+    },
+    "canceled": {
+      "text": "取消",
+      "desc": "取消"
+    },
+    "deployedAlready": {
+      "text": "已部署",
+      "desc": "已部署"
+    },
+    "starting": {
+      "text": "启动中",
+      "desc": "启动中"
+    },
+    "runned": {
+      "text": "已启动",
+      "desc": "已启动"
+    },
+    "stoped": {
+      "text": "已停止",
+      "desc": "已停止"
+    },
+    "running": {
+      "text": "运行中",
+      "desc": "运行中"
+    },
+    "canceling": {
+      "text": "取消中",
+      "desc": "取消中"
+    },
+    "pendingDeployment": {
+      "text": "待部署",
+      "desc": "待部署"
+    },
+    "humanComputerInteraction": {
+      "text": "人机交互",
+      "desc": "人机交互"
+    },
+    "unattended": {
+      "text": "无人值守",
+      "desc": "无人值守"
+    },
+    "textText": {
+      "text": "文本",
+      "desc": "文本"
+    },
+    "numberText": {
+      "text": "数值",
+      "desc": "数值"
+    },
+    "boolText": {
+      "text": "布尔",
+      "desc": "布尔"
+    },
+    "deployingText": {
+      "text": "待运行",
+      "desc": "待运行"
+    },
+    "overTime": {
+      "text": "超时",
+      "desc": "超时"
+    },
+    "runningText": {
+      "text": "运行中",
+      "desc": "运行中"
+    },
+    "runSucText": {
+      "text": "成功",
+      "desc": "运行成功"
+    },
+    "runCancelText": {
+      "text": "取消",
+      "desc": "任务取消"
+    },
+    "taskCancelText": {
+      "text": "取消",
+      "desc": "任务取消"
+    },
+    "taskInvalidText": {
+      "text": "失效",
+      "desc": "失效"
+    },
+    "runFailText": {
+      "text": "失败",
+      "desc": "运行失败"
+    },
+    "trackText": {
+      "text": "跟踪",
+      "desc": "跟踪"
+    },
+    "messageText": {
+      "text": "消息",
+      "desc": "消息"
+    },
+    "warningText": {
+      "text": "警告",
+      "desc": "警告"
+    },
+    "errorText": {
+      "text": "错误",
+      "desc": "错误"
+    }
+  },
+  "loginManager": {
+    "productTitle": {
+      "text": "UiBot",
+      "desc": "登录页的logo文字"
+    },
+    "flowManagementPlatform": {
+      "text": "流程管理平台",
+      "desc": "登录页的logo文字"
+    },
+    "loginTitle": {
+      "text": "登录",
+      "desc": "登录form的title"
+    },
+    "loginName": {
+      "text": "登录帐号",
+      "desc": "登录form的用户名"
+    },
+    "userNamePlaceholder": {
+      "text": "请输入登录帐号",
+      "desc": "请输入登录帐号"
+    },
+    "userNameMessage": {
+      "text": "登录帐号不能为空",
+      "desc": "登录form的用户名错误message"
+    },
+    "userPassword": {
+      "text": "密码",
+      "desc": "登录form的密码"
+    },
+    "userPasswordPlaceholder": {
+      "text": "请输入密码",
+      "desc": "登录form的密码placeholder"
+    },
+    "userPasswordMessage": {
+      "text": "密码不能为空",
+      "desc": "登录form的密码错误message"
+    },
+    "companyCode": {
+      "text": "机构代码",
+      "desc": "登录form的机构代码"
+    },
+    "companyCodePlaceholder": {
+      "text": "请输入机构代码",
+      "desc": "登录form的机构代码placeholder"
+    },
+    "companyCodeMessage": {
+      "text": "机构代码不能为空",
+      "desc": "登录form的机构代码错误message"
+    },
+    "checkCode": {
+      "text": "验证码",
+      "desc": "登录form的验证码"
+    },
+    "checkCodePlaceholder": {
+      "text": "请输入验证码",
+      "desc": "登录form的验证码placeholder"
+    },
+    "checkCodeMessage": {
+      "text": "验证码不能为空",
+      "desc": "登录form的验证码错误message"
+    },
+    "login": {
+      "text": "登录",
+      "desc": "登录form的提交按钮"
+    },
+    "OAuthLogin": {
+      "text": "OAuth登录",
+      "desc": "OAuth登录form的提交按钮"
+    },
+    "modifyPwdTitle": {
+      "text": "修改密码",
+      "desc": "修改密码form的title"
+    },
+    "oldPwdLabel": {
+      "text": "原密码",
+      "desc": "原密码Label"
+    },
+    "oldPwdMessage": {
+      "text": "原密码不能为空",
+      "desc": "原密码报错Message"
+    },
+    "oldPwdPlaceholder": {
+      "text": "请输入原密码",
+      "desc": "原密码Placeholder"
+    },
+    "newPwdLabel": {
+      "text": "新密码",
+      "desc": "新密码Label"
+    },
+    "newPwdMessage": {
+      "text": "新密码不能为空",
+      "desc": "新密码报错Message"
+    },
+    "newPwdPlaceholder": {
+      "text": "请输入新密码",
+      "desc": "新密码Placeholder"
+    },
+    "reNewPwdLabel": {
+      "text": "再次输入新密码",
+      "desc": "请再次输入新密码Label"
+    },
+    "reNewPwdMessage": {
+      "text": "再次输入新密码不能为空",
+      "desc": "请再次输入新密码报错Message"
+    },
+    "reNewPwdPlaceholder": {
+      "text": "请再次输入新密码",
+      "desc": "请再次输入新密码Placeholder"
+    },
+    "expireModifyPwdTip": {
+      "text": "您的密码已过期，为保障您的帐号安全，请设置新密码",
+      "desc": "过期修改密码的Tip"
+    },
+    "firstModifyPwdTip": {
+      "text": "首次登录或密码被修改，请设置新密码",
+      "desc": "用户下次登录时须更改密码的Tip"
+    },
+    "successMessage1": {
+      "text": "修改密码成功",
+      "desc": "修改密码成功时提示"
+    },
+    "errorMessage1": {
+      "text": "请再次输入新密码",
+      "desc": "请再次输入新密码Placeholder"
+    },
+    "errorMessage2": {
+      "text": "新密码不能和用户名相同",
+      "desc": "新密码不能和用户名相同"
+    },
+    "errorMessage3": {
+      "text": "两次密码输入不一致",
+      "desc": "两次密码输入不一致"
+    },
+    "errorMessage4": {
+      "text": "新密码不能与原密码相同",
+      "desc": "新密码不能与原密码相同"
+    },
+    "agreement": {
+      "text": "用户协议",
+      "desc": "登录页面用户协议"
+    },
+    "copyright": {
+      "text": "来也科技",
+      "desc": "登录页面copyright"
+    }
+  },
+  "dashboard": {
+    "datav": {
+      "text": "任务总览",
+      "desc": "dashboard上按钮"
+    },
+    "taskCon": {
+      "text": "数据大屏模式",
+      "desc": "dashboard上按钮"
+    },
+    "taskCountSummary": {
+      "text": "运行成功次数",
+      "desc": "任务总览第一栏"
+    },
+    "workHours": {
+      "text": "累计节省工时",
+      "desc": "任务总览第三栏"
+    },
+    "runSuccessRate": {
+      "text": "运行成功率",
+      "desc": "任务总览第二栏"
+    },
+    "digitalEmployeesNum": {
+      "text": "数字员工数量",
+      "desc": "任务总览第二栏"
+    },
+    "launchBusinessScenario": {
+      "text": "处理业务场景",
+      "desc": "任务总览第四栏"
+    },
+    "saveCostSummary": {
+      "text": "累计节省成本",
+      "desc": "任务总览第四栏"
+    },
+    "regionSummary": {
+      "text": "累计服务地区",
+      "desc": "任务总览第五栏"
+    },
+    "departmentSummary": {
+      "text": "累计服务部门",
+      "desc": "任务总览第五栏"
+    },
+    "todayTask": {
+      "text": "今日任务",
+      "desc": "第二行的title"
+    },
+    "businessAnalyze": {
+      "text": "业务分析",
+      "desc": "第三行的title"
+    },
+    "dealCompleted": {
+      "text": "运行成功",
+      "desc": "运行成功"
+    },
+    "runSuccessTitle": {
+      "text": "运行成功",
+      "desc": "运行成功"
+    },
+    "dealing": {
+      "text": "运行中",
+      "desc": "运行中"
+    },
+    "dealWait": {
+      "text": "待运行",
+      "desc": "待运行"
+    },
+    "workerHours2": {
+      "text": "节省工时",
+      "desc": "节省工时"
+    },
+    "systemWorkNormal": {
+      "text": "运行动态",
+      "desc": "任务运行动态"
+    },
+    "more": {
+      "text": "更多",
+      "desc": "更多"
+    },
+    "runSuccess": {
+      "text": "成功",
+      "desc": "运行成功"
+    },
+    "runSuccess1": {
+      "text": "运行成功",
+      "desc": "运行成功"
+    },
+    "runFail": {
+      "text": "失败",
+      "desc": "运行失败"
+    },
+    "runFail1": {
+      "text": "运行失败",
+      "desc": "运行成功"
+    },
+    "latestOneWeek": {
+      "text": "近一周",
+      "desc": "echarts图中下拉，几个图公用"
+    },
+    "latestTwoWeek": {
+      "text": "近两周",
+      "desc": "echarts图中下拉，几个图公用"
+    },
+    "latestOneMonth": {
+      "text": "近一月",
+      "desc": "echarts图中下拉，几个图公用"
+    },
+    "taskFailReasonDistribution": {
+      "text": "任务失败原因分布",
+      "desc": "任务失败原因分布"
+    },
+    "times": {
+      "text": "次",
+      "desc": "单位"
+    },
+    "failReason": {
+      "text": "失败原因",
+      "desc": "失败原因"
+    },
+    "taskSuccessRate": {
+      "text": "业务领域-业务量-累计节省工时(近30天)",
+      "desc": "运行成功率"
+    },
+    "taskSuccessRateOne": {
+      "text": "任务运行成功率",
+      "desc": "成功率"
+    },
+    "successRate": {
+      "text": "成功率",
+      "desc": "成功率"
+    },
+    "successRatePer": {
+      "text": "成功率（%）",
+      "desc": "成功率（%）"
+    },
+    "failRate": {
+      "text": "失败率",
+      "desc": "失败率"
+    },
+    "taskCount": {
+      "text": "业务量",
+      "desc": "业务量"
+    },
+    "taskRegionDistribute": {
+      "text": "任务地区分布Top12",
+      "desc": "任务地区分布Top12"
+    },
+    "task": {
+      "text": "任务",
+      "desc": "任务"
+    },
+    "runCount": {
+      "text": "运行次数",
+      "desc": "运行次数"
+    },
+    "runCount1": {
+      "text": "运行次数（次）",
+      "desc": "运行次数（次）"
+    },
+    "mostUsedTop10": {
+      "text": "流程运行次数TOP10",
+      "desc": "流程运行次数Top10"
+    },
+    "mostUsedTop5": {
+      "text": "流程运行次数TOP5",
+      "desc": "流程运行次数Top5"
+    },
+    "saveMinite": {
+      "text": "节省时长",
+      "desc": "节省时长"
+    },
+    "saveMinite1": {
+      "text": "节省时长（分）",
+      "desc": "节省时长（分）"
+    },
+    "workUsage": {
+      "text": "Worker 使用率",
+      "desc": "Worker 使用率"
+    },
+    "workerAttend": {
+      "text": "人机交互",
+      "desc": "人机交互"
+    },
+    "workerUnattend": {
+      "text": "无人值守",
+      "desc": "无人值守"
+    },
+    "usage": {
+      "text": "使用率（%）",
+      "desc": "使用率（%）"
+    },
+    "workType": {
+      "text": "在线Worker分布-按类型",
+      "desc": "在线Worker分布-按类型"
+    },
+    "workerCount": {
+      "text": "Worker数量",
+      "desc": "Worker数量"
+    },
+    "workerAttendFloat": {
+      "text": "人机交互-浮动授权",
+      "desc": "人机交互-浮动授权"
+    },
+    "workerUnattendFloat": {
+      "text": "无人值守-浮动授权",
+      "desc": "无人值守-浮动授权"
+    },
+    "workerUnattendFixed": {
+      "text": "无人值守-绑定机器",
+      "desc": "无人值守-绑定机器"
+    },
+    "bussinessTypeDistribute": {
+      "text": "任务业务类型分布",
+      "desc": "业务类型分布"
+    },
+    "businessType": {
+      "text": "业务类型",
+      "desc": "业务类型"
+    },
+    "workerDepartment": {
+      "text": "在线Worker分布-按部门",
+      "desc": "在线Worker分布-按部门"
+    },
+    "centerTitle": {
+      "text": "数 字 员 工 展 示",
+      "desc": "中间栏标题"
+    },
+    "departmentAnaTitle": {
+      "text": "各组织数字员工数量及工具应用数量",
+      "desc": "机器人统计Title"
+    },
+    "workerDepartmentDatav": {
+      "text": "机器人在线分布",
+      "desc": "部门机器人统计Title"
+    },
+    "businessTypeDatav": {
+      "text": "流程业务类型分布 - 近30天",
+      "desc": "部门机器人统计Title"
+    },
+    "mostUsedTopDatav": {
+      "text": "累计节省工时-数字员工-Top5(近30天)",
+      "desc": "流程运行次数TOP5"
+    },
+    "digitalEmployeeBusinessVolume": {
+      "text": "业务量-数字员工-Top5(近30天)",
+      "desc": "流程运行次数TOP5"
+    },
+    "workUsageDatav": {
+      "text": "机器人使用率",
+      "desc": "Worker 使用率"
+    },
+    "digitalEmployeeDatav": {
+      "text": "数字员工使用率",
+      "desc": "数字员工使用率"
+    }
+  },
+  "authorizeInfo": {
+    "companyName": {
+      "text": "当前租户：",
+      "desc": "头部的租户"
+    },
+    "authorizeInfo": {
+      "text": "授权机构：",
+      "desc": "头部的授权机构："
+    },
+    "authorizeType": {
+      "text": "授权类型",
+      "desc": "table的授权类型列"
+    },
+    "nums": {
+      "text": "容量",
+      "desc": "table的容量列"
+    },
+    "usednums": {
+      "text": "用量",
+      "desc": "table的用量列"
+    },
+    "endtime": {
+      "text": "到期时间",
+      "desc": "table的到期时间列"
+    },
+    "attendFloat": {
+      "text": "人机交互浮动授权 Worker",
+      "desc": "table的人机交互浮动授权行"
+    },
+    "unattendFloat": {
+      "text": "无人值守浮动授权 Worker",
+      "desc": "table的无人值守浮动授权行"
+    },
+    "unattendFixed": {
+      "text": "无人值守绑定机器 Worker",
+      "desc": "table的无人值守绑定机器行"
+    },
+    "creatorFloating": {
+      "text": "浮动授权 Creator",
+      "": "table的 浮动授权 Creator行"
+    }
+  },
+  "applicationLicensing": {
+    "back": {
+      "text": "返回",
+      "desc": "header返回按钮文案"
+    },
+    "reCreate": {
+      "text": "重新生成",
+      "desc": "重新生成按钮title"
+    },
+    "reSetAccessKey": {
+      "text": "重置Access Key",
+      "desc": "重置Access Key按钮title"
+    },
+    "addApp": {
+      "text": "添加应用",
+      "desc": "添加应用title"
+    },
+    "editApp": {
+      "text": "编辑应用",
+      "desc": "编辑应用title"
+    },
+    "appName": {
+      "text": "应用名称",
+      "desc": "form上应用名称label"
+    },
+    "appNamePlaceholder": {
+      "text": "请输入应用名称",
+      "desc": "form上应用名称placeholder"
+    },
+    "appNameMessage": {
+      "text": "应用名称不能为空",
+      "desc": "form上应用名称为空提示"
+    },
+    "appNameMessage1": {
+      "text": "长度不能小于2个字符",
+      "desc": "form上应用名称错误提示1"
+    },
+    "appNameMessage2": {
+      "text": "长度不能大于30个字符",
+      "desc": "form上应用名称错误提示2"
+    },
+    "userName": {
+      "text": "用户名称",
+      "desc": "table的用户名称列"
+    },
+    "operate": {
+      "text": "操作",
+      "desc": "table的操作列"
+    },
+    "deleteMessage": {
+      "text": "确定要删除这条应用授权？该操作不可逆！",
+      "desc": "删除提示"
+    },
+    "deleteSuccess": {
+      "text": "删除成功",
+      "desc": "删除成功提示"
+    },
+    "deleteFail": {
+      "text": "删除失败",
+      "desc": "删除失败提示"
+    },
+    "pleaseInputAppName": {
+      "text": "请输入应用名称",
+      "desc": "请输入应用名称"
+    },
+    "addAppSuccess": {
+      "text": "添加应用授权成功！",
+      "desc": "添加应用授权成功！"
+    },
+    "addAppFail": {
+      "text": "添加应用授权失败！",
+      "desc": "添加应用授权失败！"
+    },
+    "editAppSuccess": {
+      "text": "编辑应用授权成功！",
+      "desc": "编辑应用授权成功！"
+    },
+    "editAppFail": {
+      "text": "编辑应用授权失败！",
+      "desc": "编辑应用授权失败！"
+    },
+    "Message1": {
+      "text": "刷新后，会生成新的AppSecret，导致之前应用授权失效，确定要刷新吗？",
+      "desc": "刷新二次确认的文案"
+    },
+    "errorMessage1": {
+      "text": "刷新失败",
+      "desc": "刷新失败"
+    }
+  },
+  "passwordSafe": {
+    "passwordSafeTitle": {
+      "text": "密码安全策略设置",
+      "desc": "密码安全策略设置title"
+    },
+    "passwordMinLength": {
+      "text": "密码长度最小值",
+      "desc": "form中密码最小长度lable"
+    },
+    "passwordMin": {
+      "text": "密码至少",
+      "desc": "第一栏短语1"
+    },
+    "passwordMinWords": {
+      "text": "个字符 | 个字符",
+      "desc": "第一栏短语2,单数第一个,复数第二个"
+    },
+    "threeMonth": {
+      "text": "90天",
+      "desc": "90天"
+    },
+    "twoMonth": {
+      "text": "60天",
+      "desc": "60天"
+    },
+    "sixMonth": {
+      "text": "180天",
+      "desc": "180天"
+    },
+    "never": {
+      "text": "永不过期",
+      "desc": "永不过期"
+    },
+    "complexityItem1": {
+      "text": "必须包含数字、英文字母（A~Z或a~z）",
+      "desc": "密码复杂度选项1"
+    },
+    "passwordMinLengthPlaceholder": {
+      "text": "请输入数字",
+      "desc": "请输入数字"
+    },
+    "complexityItem2": {
+      "text": "必须包含数字、英文字母（A~Z或a~z）和特殊字符",
+      "desc": "密码复杂度选项2"
+    },
+    "complexityItem3": {
+      "text": "必须包含数字、大写和小写英文字母（A~Z和a~z）以及特殊字符",
+      "desc": "密码复杂度选项3"
+    },
+    "passwordMinLengthMessage": {
+      "text": "密码最小长度不能为空",
+      "desc": "密码最小长度不能为空"
+    },
+    "validTime": {
+      "text": "密码有效期",
+      "desc": "有效时长"
+    },
+    "complexity": {
+      "text": "密码复杂性",
+      "desc": "复杂度"
+    },
+    "protect": {
+      "text": "防破解",
+      "desc": "防破解"
+    },
+    "pswErrorMax": {
+      "text": "密码错误次数大于等于",
+      "desc": "密码错误次数大于等于"
+    },
+    "time": {
+      "text": "次 | 次",
+      "desc": "次,注意单复数逻辑"
+    },
+    "accountFreeze": {
+      "text": "，帐号冻结",
+      "desc": "，帐号冻结"
+    },
+    "minite": {
+      "text": "分钟",
+      "desc": "分钟"
+    },
+    "save": {
+      "text": "保存",
+      "desc": "保存"
+    },
+    "includeNum": {
+      "text": "必须包含数字",
+      "desc": "必须包含数字"
+    },
+    "includeWord": {
+      "text": "必须包含字母",
+      "desc": "必须包含字母"
+    },
+    "includeSpecial": {
+      "text": "必须包含特殊符号",
+      "desc": "必须包含特殊符号"
+    },
+    "pswOnlyNum": {
+      "text": "密码长度只能输入数字",
+      "desc": "密码长度只能输入数字"
+    },
+    "mustComplexity": {
+      "text": "必须选择复杂度",
+      "desc": "必须选择复杂度"
+    },
+    "pleaseInputPswLength": {
+      "text": "请输入密码长度最小值",
+      "desc": "请输入密码长度最小值"
+    },
+    "pleaseInputErrorNum": {
+      "text": "请输入错误次数",
+      "desc": "请输入错误次数"
+    },
+    "errorBe1to10": {
+      "text": "错误次数为1-10次",
+      "desc": "错误次数为1-10次"
+    },
+    "pleaseInputFreezeTime": {
+      "text": "请输入冻结时长",
+      "desc": "请输入冻结时长"
+    },
+    "Freeze1to1440": {
+      "text": "冻结时长为1-1440分钟",
+      "desc": "冻结时长为1-1440分钟"
+    },
+    "pswLength6to10": {
+      "text": "密码长度在6-10位!",
+      "desc": "密码长度在6-10位!"
+    },
+    "saveSuccess": {
+      "text": "保存成功",
+      "desc": "保存成功"
+    }
+  },
+  "OperationLog": {
+    "moduleName2": {
+      "text": "模块名",
+      "desc": "表格标题"
+    },
+    "moduleName": {
+      "text": "模块名",
+      "desc": "header第一个下拉框placeholder"
+    },
+    "operation": {
+      "text": "操作",
+      "desc": "header第二个下拉框placeholder"
+    },
+    "operator": {
+      "text": "操作者",
+      "desc": "header第三个下拉框placeholder"
+    },
+    "allModule": {
+      "text": "模块名",
+      "desc": "模块名"
+    },
+    "desc": {
+      "text": "描述",
+      "desc": "描述"
+    },
+    "operateTime": {
+      "text": "操作时间",
+      "desc": "操作时间"
+    },
+    "operateIp": {
+      "text": "IP地址",
+      "desc": "IP地址"
+    },
+    "onlyInMonth": {
+      "text": "只能选择一个月以内的时间查询！",
+      "desc": "只能选择一个月以内的时间查询！"
+    },
+    "getModuleNameError": {
+      "text": "获取模块名失败！",
+      "desc": "获取模块名失败！"
+    },
+    "getOperateListError": {
+      "text": "获取操作列表失败！",
+      "desc": "获取操作列表失败！"
+    },
+    "getOperateError": {
+      "text": "获取操作失败！",
+      "desc": "获取操作失败！"
+    }
+  },
+  "MessageNotification": {
+    "messageTitle": {
+      "text": "消息提醒设置",
+      "desc": "消息提醒设置title"
+    },
+    "exceptionMessage": {
+      "text": "异常消息",
+      "desc": "异常消息"
+    },
+    "messageStatus": {
+      "text": "消息状态",
+      "desc": "form第一个lable"
+    },
+    "messageStatusMessage": {
+      "text": "请选择消息状态",
+      "desc": "form第一个错误Message"
+    },
+    "open": {
+      "text": "开启",
+      "desc": "开启"
+    },
+    "close": {
+      "text": "关闭",
+      "desc": "关闭"
+    },
+    "notifyWay": {
+      "text": "通知方式",
+      "desc": "通知方式"
+    },
+    "messageType": {
+      "text": "消息类型",
+      "desc": "消息类型"
+    },
+    "save": {
+      "text": "保存",
+      "desc": "保存"
+    },
+    "webMessage": {
+      "text": "站内消息",
+      "desc": "站内消息"
+    },
+    "notifyByEmail": {
+      "text": "Email 邮件提醒",
+      "desc": "通过邮件方式进行提醒"
+    },
+    "notifyEmailSettings": {
+      "text": "邮件设置",
+      "desc": "设置邮件相关参数的链接"
+    },
+    "notifyByEmailTips": {
+      "text": "开启邮件提醒，消息将以邮件形式同步发送给用户，请确保用户邮箱设置无误",
+      "desc": "功能说明文字"
+    },
+    "all": {
+      "text": "全部",
+      "desc": "全部"
+    },
+    "warningMessage": {
+      "text": "预警消息",
+      "desc": "预警消息"
+    },
+    "failMessage": {
+      "text": "失败消息",
+      "desc": "失败消息"
+    },
+    "taskRunTimeout": {
+      "text": "任务运行超时",
+      "desc": "任务运行超时"
+    },
+    "taskQueueTimeout": {
+      "text": "任务排队超时",
+      "desc": "任务排队超时"
+    },
+    "workerOverload": {
+      "text": "Worker过载",
+      "desc": "Worker过载"
+    },
+    "workerLongOffline": {
+      "text": "Worker长时间离线",
+      "desc": "Worker长时间离线"
+    },
+    "taskSendFail": {
+      "text": "任务发送失败",
+      "desc": "任务发送失败"
+    },
+    "taskRunFail": {
+      "text": "任务运行失败",
+      "desc": "任务运行失败"
+    },
+    "saveSuccess": {
+      "text": "保存成功！",
+      "desc": "保存成功！"
+    },
+    "saveFail": {
+      "text": "保存失败！",
+      "desc": "保存失败！"
+    },
+    "getNotifySettingFail": {
+      "text": "获取消息提醒配置失败！",
+      "desc": "获取消息提醒配置失败！"
+    },
+    "errorRequireAtLeastOneNotifyType": {
+      "text": "至少需要选择一种通知方式",
+      "desc": "错误信息"
+    },
+    "errorRequireAtLeastOneMessageType": {
+      "text": "至少需要选择一种消息类型",
+      "desc": "错误信息"
+    }
+  },
+  "UpdateWorker": {
+    "updateFailTips1": {
+      "text": "Zip包上传失败",
+      "desc": "上传失败提示"
+    },
+    "updateFailTips2": {
+      "text": "Zip包下载失败",
+      "desc": "上传失败提示"
+    },
+    "updateFailTips3": {
+      "text": "安装包exe上传失败",
+      "desc": "上传失败提示"
+    },
+    "updateFailTips4": {
+      "text": "已存在相同版本的安装包，请重新上传",
+      "desc": "上传失败提示"
+    },
+    "netError": {
+      "text": "网络异常，上传失败",
+      "desc": "上传失败提示"
+    },
+    "upgradSuc": {
+      "text": "操作成功，Worker正在更新中",
+      "desc": "操作提示"
+    },
+    "deleteSuc": {
+      "text": "删除成功",
+      "desc": "删除成功"
+    },
+    "deleteUpdatePackage": {
+      "text": "删除安装包",
+      "desc": "删除安装包"
+    },
+    "updateRemarkSuc": {
+      "text": "修改备注成功",
+      "desc": "修改备注成功"
+    },
+    "systemWindow": {
+      "text": "Windows {msg1}({msg2})",
+      "desc": "适用系统描述"
+    },
+    "window32": {
+      "text": "32位",
+      "desc": "32位系统"
+    },
+    "window64": {
+      "text": "64位",
+      "desc": "64位系统"
+    },
+    "uploadSucess": {
+      "text": "上传成功",
+      "desc": "提示"
+    },
+    "cancelUploadPack": {
+      "text": "已取消上传",
+      "desc": "提示"
+    },
+    "uploadCheckErr": {
+      "text": "检测文件名报错",
+      "desc": "报错提示"
+    },
+    "workerAcceptBtnText1": {
+      "text": "强制取消任务，立即进入 '维护模式'",
+      "desc": "按钮文字"
+    },
+    "workerAcceptBtnText2": {
+      "text": "当前任务运行结束后，自动进入 '维护模式'",
+      "desc": "按钮文字"
+    },
+    "workerUpdateRunTips1": {
+      "text": "当前 Worker 正在运行任务",
+      "desc": "提示"
+    },
+    "workerUpdateRunTips2": {
+      "text": "是否确定改为维护模式？",
+      "desc": "提示"
+    },
+    "workerUpdateErrTips": {
+      "text": "当前Worker 尚未开启维护模式，无法进行版本更新",
+      "desc": "提示"
+    },
+    "workerUpdateErrTips1": {
+      "text": "当前Worker 处于离线状态，无法进行版本更新",
+      "desc": "提示"
+    },
+    "workerUpdateTips1": {
+      "text": "无人值守 Worker 将自动进行版本更新，并自动认证登录。",
+      "desc": "提示"
+    },
+    "workerUpdateTips2": {
+      "text": "更新时，如该设备打开了Creator客户端，会同步关闭并更新。",
+      "desc": "提示"
+    },
+    "workerUpdateTips": {
+      "text": "存在新版本 {msg}，是否立即更新？",
+      "desc": "提示"
+    },
+    "workerUpdateOkText": {
+      "text": "立即更新",
+      "desc": "提示"
+    },
+    "versionName": {
+      "text": "文件名",
+      "desc": "详情标题"
+    },
+    "versionNum": {
+      "text": "版本",
+      "desc": "详情标题"
+    },
+    "useSystem": {
+      "text": "适用系统",
+      "desc": "详情标题"
+    },
+    "versionTips": {
+      "text": "版本说明",
+      "desc": "详情标题"
+    },
+    "uploadName": {
+      "text": "上传者",
+      "desc": "详情标题"
+    },
+    "uploadTime": {
+      "text": "上传时间",
+      "desc": "详情标题"
+    },
+    "versionSize": {
+      "text": "文件大小",
+      "desc": "详情标题"
+    },
+    "versionDesc": {
+      "text": "备注",
+      "desc": "详情标题"
+    },
+    "versionDetail": {
+      "text": "版本详情",
+      "desc": "版本详情"
+    },
+    "inputDesc": {
+      "text": "请输入备注",
+      "desc": "请输入备注"
+    },
+    "editDesc": {
+      "text": "编辑备注",
+      "desc": "编辑备注"
+    },
+    "deleteUpdateWorkerContent": {
+      "text": "是否确定删除安装包？该操作不可逆",
+      "desc": "删除提示"
+    },
+    "downLoadUpdateWorkerContent": {
+      "text": "是否确定下载安装包？",
+      "desc": "删除提示"
+    },
+    "uploadPackageProcessTip": {
+      "text": "上传过程中不能取消",
+      "desc": "错误提示"
+    },
+    "uploadPackageErr1": {
+      "text": "只能上传.zip文件",
+      "desc": "错误提示"
+    },
+    "uploadVersionLowerTips": {
+      "text": "当前上传的版本过低，建议上传 5.5.0及以上版本",
+      "desc": "错误提示"
+    },
+    "uploadFormatErr": {
+      "text": "安装包格式错误，请重新上传",
+      "desc": "错误提示"
+    },
+    "uploadBoxLimit": {
+      "text": "仅支持.zip文件",
+      "desc": "仅支持.zip文件"
+    },
+    "uploadUpdateLimitError": {
+      "text": "格式错误，请重新选择！",
+      "desc": "格式错误，请重新选择！"
+    },
+    "updateFileTitle": {
+      "text": "安装包文件",
+      "desc": "安装包文件"
+    },
+    "uploadText": {
+      "text": "上传",
+      "desc": "上传"
+    },
+    "activeTips": {
+      "text": "版本更新列表中，只能存在一个启用版本",
+      "desc": "是否激活tips"
+    },
+    "forceUpdateTipsLine1": {
+      "text": "强制更新：客户端连接Commander 时，检测并强制更新，不提供“取消”按钮",
+      "desc": "强制更新tips"
+    },
+    "forceUpdateTipsLine2": {
+      "text": "非强制更新：客户端提示更新，提供“取消”按钮，但取消更新后，下次启动时会再次提醒 ",
+      "desc": "强制更新tips"
+    },
+    "forceUpdateTipsLine3": {
+      "text": "特殊情况：无人值守Worker 请通过“Worker > 无人值守”开启维护模式，再进行版本更新（支持自动完成版本更新并恢复在线状态）",
+      "desc": "强制更新tips"
+    },
+    "download": {
+      "text": "下载安装包",
+      "desc": "下载安装包"
+    },
+    "versionTip": {
+      "text": "版本说明",
+      "desc": "版本说明"
+    },
+    "uploadWorkerUpdate": {
+      "text": "上传安装包",
+      "desc": "上传安装包"
+    },
+    "uploadWorkerIntroduction": {
+      "text": "请上传Zip格式的更新包，上传成功后可用于Worker更新",
+      "desc": "请上传Zip格式的更新包，上传成功后可用于Worker更新"
+    },
+    "uploadUpdate": {
+      "text": "上传安装包",
+      "desc": "上传安装包"
+    },
+    "dragToUpload": {
+      "text": "可将文件拖拽至此区域",
+      "desc": "可将文件拖拽至此区域"
+    },
+    "uploading": {
+      "text": "上传中…",
+      "desc": "上传中…"
+    },
+    "uploadNotCloseWindow": {
+      "text": "更新包上传中请勿关闭弹窗",
+      "desc": "更新包上传中请勿关闭弹窗"
+    },
+    "reUpload": {
+      "text": "重新上传",
+      "desc": "重新上传"
+    },
+    "versionUpdate": {
+      "text": "版本更新包.exe",
+      "desc": "版本更新包.exe"
+    },
+    "uploadSuccess": {
+      "text": "上传成功!",
+      "desc": "上传成功!"
+    },
+    "versionIntroduction": {
+      "text": "版本说明",
+      "desc": "版本说明"
+    },
+    "updateCloseTip": {
+      "text": "更新包还未保存，确定关闭吗？",
+      "desc": "更新包还未保存，确定关闭吗？"
+    },
+    "closeDirect": {
+      "text": "直接关闭",
+      "desc": "直接关闭"
+    },
+    "existCloseTip": {
+      "text": "更新包已存在，是否确认替换？",
+      "desc": "更新包已存在，是否确认替换？"
+    },
+    "version": {
+      "text": "版本",
+      "desc": "table数据头"
+    },
+    "createTime": {
+      "text": "创建时间",
+      "desc": "table数据头"
+    },
+    "uploadBy": {
+      "text": "上传者",
+      "desc": "table数据头"
+    },
+    "firstUseTime": {
+      "text": "首次使用时间",
+      "desc": "首次使用时间"
+    },
+    "isActivated": {
+      "text": "启用状态",
+      "desc": "table表格头"
+    },
+    "isForceUpdate": {
+      "text": "是否强制更新",
+      "desc": "table表格头"
+    },
+    "updateDesc": {
+      "text": "备注",
+      "desc": "table表格头"
+    },
+    "operation": {
+      "text": "操作",
+      "desc": "操作"
+    },
+    "saveSuccess": {
+      "text": "保存成功",
+      "desc": "保存成功"
+    },
+    "pleaseUploadUpdate": {
+      "text": "请上传安装包",
+      "desc": "请上传安装包"
+    },
+    "onlyZip": {
+      "text": "只能上传.zip文件",
+      "desc": "只能上传.zip文件"
+    },
+    "youTriggerEvent": {
+      "text": "你触发事件!--",
+      "desc": "你触发事件!--"
+    },
+    "updateVersionIntroduction": {
+      "text": "{msg}更新包版本说明",
+      "desc": "{msg}更新包版本说明"
+    },
+    "noIntroduction": {
+      "text": "暂无说明",
+      "desc": "暂无说明"
+    },
+    "updateWorkerTip": {
+      "text": "用于管理 Creator / Worker 客户端的版本更新，适用于5.5.0及更高版本",
+      "desc": "标题tips"
+    }
+  },
+  "EmailSettingsModal": {
+    "emailLanguage": {
+      "text": "语言",
+      "desc": "语言设置"
+    },
+    "dialogTitle": {
+      "text": "邮件设置",
+      "desc": "邮件设置对话框标题"
+    },
+    "enableSsl": {
+      "text": "启用SSL",
+      "desc": "勾选后可启用SSL"
+    },
+    "smtpHost": {
+      "text": "SMTP服务器",
+      "desc": "SMTP服务器地址"
+    },
+    "smtpDomain": {
+      "text": "SMTP域",
+      "desc": "SMTP域"
+    },
+    "smtpPort": {
+      "text": "SMTP端口",
+      "desc": "SMTP端口"
+    },
+    "smtpUserName": {
+      "text": "用户名",
+      "desc": "SMTP帐号"
+    },
+    "smtpPassword": {
+      "text": "密码",
+      "desc": "SMTP帐号密码"
+    },
+    "senderAddress": {
+      "text": "发件人地址",
+      "desc": "发件人邮件地址"
+    },
+    "senderName": {
+      "text": "发件人显示名称",
+      "desc": "发件人显示名称"
+    },
+    "confirmButton": {
+      "text": "确定",
+      "desc": "保存按钮文字"
+    },
+    "cancelButton": {
+      "text": "取消",
+      "desc": "取消按钮文字"
+    },
+    "collapseSettingTitle": {
+      "text": "测试邮件设置",
+      "desc": ""
+    },
+    "collapseSettingReceiver": {
+      "text": "收件人",
+      "desc": ""
+    },
+    "collapseSettingSendButton": {
+      "text": "发送",
+      "desc": ""
+    },
+    "collapseSettingSenddingButton": {
+      "text": "发送中...",
+      "desc": ""
+    },
+    "collapseSettingSendSuccess": {
+      "text": "测试邮件已发送，请验证收件箱是否收到邮件",
+      "desc": ""
+    },
+    "collapseSettingSendFailed": {
+      "text": "测试邮件发送失败，请确认邮件配置无误",
+      "desc": ""
+    },
+    "validateMessageRequiredsmtpHost": {
+      "text": "SMTP服务器不能为空",
+      "desc": "校验信息"
+    },
+    "validateMessageRequiredsmtpPort": {
+      "text": "SMTP端口不能为空",
+      "desc": "校验信息"
+    },
+    "validateMessageRequireduserName": {
+      "text": "用户名不能为空",
+      "desc": "校验信息"
+    },
+    "validateMessageRequiredpassword": {
+      "text": "密码不能为空",
+      "desc": "校验信息"
+    },
+    "validateMessageRequiredsenderAddress": {
+      "text": "发件人地址不能为空",
+      "desc": "校验信息"
+    },
+    "validEmailRequired": {
+      "text": "请输入正确的Email地址",
+      "desc": "校验信息"
+    },
+    "max30Charactor": {
+      "text": "名称字符数不能超过30",
+      "desc": "校验信息"
+    },
+    "testEmailPlaceHolder": {
+      "text": "请输入收件人的邮箱地址",
+      "desc": "placeholder"
+    }
+  },
+  "department": {
+    "all": {
+      "text": "全部",
+      "desc": "全部"
+    },
+    "createTopDepartment": {
+      "text": "新建顶级部门",
+      "desc": "新建顶级部门"
+    },
+    "department": {
+      "text": "部门",
+      "desc": "部门"
+    },
+    "createSameLevel": {
+      "text": "新增同级部门",
+      "desc": "新增同级部门"
+    },
+    "createlower": {
+      "text": "新增下级部门",
+      "desc": "新增下级部门"
+    },
+    "mostFiveLevel": {
+      "text": "部门最多五级",
+      "desc": "部门最多五级"
+    },
+    "createLowerDepartment": {
+      "text": "新建下级部门",
+      "desc": "新建下级部门"
+    },
+    "departmentName": {
+      "text": "部门名称",
+      "desc": "部门名称"
+    },
+    "departmentNameMessage1": {
+      "text": "部门名称不能为空",
+      "desc": "部门名称不能为空"
+    },
+    "departmentNameMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "departmentNameMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "departmentNamePlaceholder": {
+      "text": "请输入部门名称",
+      "desc": "请输入部门名称"
+    },
+    "region": {
+      "text": "所属地区",
+      "desc": "所属地区"
+    },
+    "provincePlaceholder": {
+      "text": "省",
+      "desc": "省"
+    },
+    "cityPlaceholder": {
+      "text": "市",
+      "desc": "市"
+    },
+    "countyPlaceholder": {
+      "text": "区",
+      "desc": "区"
+    },
+    "remark": {
+      "text": "备注",
+      "desc": "备注"
+    },
+    "remarkMessage": {
+      "text": "长度不能大于500个字符",
+      "desc": "长度不能大于500个字符"
+    },
+    "remarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "请输入备注"
+    },
+    "deleteTip": {
+      "text": "确定要删除这个部门？该操作不可逆！",
+      "desc": "确定要删除这个部门？该操作不可逆！"
+    },
+    "addTopDepartment": {
+      "text": "添加顶级部门",
+      "desc": "添加顶级部门"
+    },
+    "addChildDepartment": {
+      "text": "添加 [{msg}] 子级部门",
+      "desc": "添加 [{msg}] 子级部门"
+    },
+    "addSameLevelDepartment": {
+      "text": "添加 [{msg}] 同级部门",
+      "desc": "添加 [{msg}] 同级部门"
+    },
+    "maxFiveLevel": {
+      "text": "部门层级至多五级",
+      "desc": "第五级部门添加下级部门时提示"
+    },
+    "editSomeDepartment": {
+      "text": "编辑 [{msg}] 部门",
+      "desc": "编辑 [{msg}] 部门"
+    },
+    "createDepartmentSuccess": {
+      "text": "部门创建成功",
+      "desc": "部门创建成功"
+    },
+    "editDepartmentSuccess": {
+      "text": "部门编辑成功",
+      "desc": "部门编辑成功"
+    },
+    "editDepartmentSuccess2": {
+      "text": "部门编辑成功",
+      "desc": "部门编辑成功"
+    },
+    "error1": {
+      "text": "接口无值!",
+      "desc": "接口无值!"
+    }
+  },
+  "UserManager": {
+    "roles": {
+      "text": "所属角色",
+      "desc": "所属角色"
+    },
+    "externalAuthSource": {
+      "text": "通过第三方登录创建",
+      "desc": "通过第三方登录创建"
+    },
+    "realName": {
+      "text": "用户名",
+      "desc": "用户名"
+    },
+    "userName": {
+      "text": "登录帐号",
+      "desc": "登录帐号"
+    },
+    "depName": {
+      "text": "所属部门",
+      "desc": "所属部门"
+    },
+    "createTime": {
+      "text": "创建时间",
+      "desc": "创建时间"
+    },
+    "lastLogined": {
+      "text": "上次登录时间",
+      "desc": "上次登录时间"
+    },
+    "isActive": {
+      "text": "启用状态",
+      "desc": "启用状态"
+    },
+    "viewUser": {
+      "text": "查看详情",
+      "desc": "查看详情"
+    },
+    "editUser": {
+      "text": "编辑用户",
+      "desc": "编辑用户"
+    },
+    "removeUser": {
+      "text": "删除用户",
+      "desc": "删除用户"
+    },
+    "deleteTip": {
+      "text": "确定要删除这个用户？该操作不可逆！",
+      "desc": "确定要删除这个用户？该操作不可逆！"
+    },
+    "createUser": {
+      "text": "新建用户",
+      "desc": "新建用户"
+    },
+    "userSearchKey": {
+      "text": "用户名/别名",
+      "desc": "搜索框文案"
+    },
+    "error1": {
+      "text": "激活用户失败！",
+      "desc": "页面第一个错误信息"
+    },
+    "message1": {
+      "text": "删除成功",
+      "desc": "页面第一个提示信息"
+    },
+    "error2": {
+      "text": "删除失败",
+      "desc": "页面第二个错误信息"
+    },
+    "error3": {
+      "text": "查询单个用户信息失败",
+      "desc": "页面第三个错误信息"
+    },
+    "realNameMessage1": {
+      "text": "用户名不能为空",
+      "desc": "用户名不能为空"
+    },
+    "realNameMessage2": {
+      "text": "不能含有@字符",
+      "desc": "不能含有@字符"
+    },
+    "realNameMessage3": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "realNameMessage4": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "realNamePlaceholder": {
+      "text": "请输入别名",
+      "desc": "请输入别名"
+    },
+    "userNameMessage1": {
+      "text": "帐号不能为空",
+      "desc": "帐号不能为空"
+    },
+    "userNameMessage2": {
+      "text": "不能含有@字符",
+      "desc": "不能含有@字符"
+    },
+    "userNameMessage3": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "userNameMessage4": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "userNamePlaceholder": {
+      "text": "请输入用户名",
+      "desc": "请输入用户名"
+    },
+    "loginPsw": {
+      "text": "登录密码",
+      "desc": "登录密码"
+    },
+    "firstModifyPwd": {
+      "text": "用户下次登录时须更改密码",
+      "desc": "用户下次登录时须更改密码的checkbox"
+    },
+    "depNameMessage": {
+      "text": "请选择部门",
+      "desc": "请选择部门"
+    },
+    "depNamePlaceholder": {
+      "text": "请选择所属部门",
+      "desc": "请选择所属部门"
+    },
+    "role": {
+      "text": "所属角色",
+      "desc": "所属角色"
+    },
+    "rolePlaceholder": {
+      "text": "请选择所属角色",
+      "desc": "请选择所属角色"
+    },
+    "roleMessage": {
+      "text": "请选择所属角色",
+      "desc": "请选择所属角色"
+    },
+    "email": {
+      "text": "邮箱",
+      "desc": "邮箱"
+    },
+    "emailMessage1": {
+      "text": "长度不能小于4个字符",
+      "desc": "长度不能小于4个字符"
+    },
+    "emailMessage2": {
+      "text": "长度不能大于100个字符",
+      "desc": "长度不能大于100个字符"
+    },
+    "emailPlaceholder": {
+      "text": "请输入邮箱",
+      "desc": "请输入邮箱"
+    },
+    "phoneNumber": {
+      "text": "手机号",
+      "desc": "手机号"
+    },
+    "phoneNumberMessage": {
+      "text": "长度为11个字符",
+      "desc": "长度为11个字符"
+    },
+    "phoneNumberPlaceholder": {
+      "text": "请输入手机号",
+      "desc": "请输入手机号"
+    },
+    "usernameIsActive": {
+      "text": "启用状态",
+      "desc": "启用状态"
+    },
+    "remark": {
+      "text": "备注",
+      "desc": "备注"
+    },
+    "remarkMessage": {
+      "text": "长度不能大于500个字符",
+      "desc": "长度不能大于500个字符"
+    },
+    "remarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "请输入备注"
+    },
+    "pswMessage1": {
+      "text": "密码不能为空",
+      "desc": "密码不能为空"
+    },
+    "pswMessage2": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "newOrCreateMessage1": {
+      "text": "新建成功",
+      "desc": "新建成功"
+    },
+    "newOrCreateError1": {
+      "text": "新建失败",
+      "desc": "新建失败"
+    },
+    "newOrCreateMessage2": {
+      "text": "更新成功",
+      "desc": "更新成功"
+    },
+    "newOrCreateError2": {
+      "text": "更新失败",
+      "desc": "更新失败"
+    },
+    "newOrCreateError3": {
+      "text": "邮箱格式输入错误，请重新输入",
+      "desc": "邮箱格式输入错误，请重新输入"
+    },
+    "newOrCreateError4": {
+      "text": "手机号格式输入错误，请重新输入",
+      "desc": "手机号格式输入错误，请重新输入"
+    },
+    "newOrCreateError5": {
+      "text": "密码不能为空格！",
+      "desc": "密码不能为空格！"
+    },
+    "passwordTip1": {
+      "text": "请输入登录密码",
+      "desc": "请输入登录密码"
+    },
+    "passwordMessage": {
+      "text": "密码不能为空",
+      "desc": "密码不能为空"
+    },
+    "passwordTip2": {
+      "text": "密码为空则不修改密码",
+      "desc": "密码为空则不修改密码"
+    },
+    "userAlias": {
+      "text": "别名",
+      "desc": "别名"
+    },
+    "userDetail": {
+      "text": "查看详情",
+      "desc": "查看详情"
+    },
+    "creator": {
+      "text": "创建者",
+      "desc": "创建者"
+    },
+    "latestModifier": {
+      "text": "上次修改者",
+      "desc": "上次修改者"
+    },
+    "latestModifyTime": {
+      "text": "上次修改时间",
+      "desc": "上次修改时间"
+    },
+    "active": {
+      "text": "启用",
+      "desc": "启用"
+    },
+    "disableActive": {
+      "text": "禁用",
+      "desc": "禁用"
+    }
+  },
+  "Role": {
+    "viewRole": {
+      "text": "查看详情",
+      "desc": "查看详情"
+    },
+    "viewUser": {
+      "text": "查看用户",
+      "desc": "查看用户"
+    },
+    "lastModifyDatetime": {
+      "text": "上次修改时间",
+      "desc": "上次修改时间"
+    },
+    "userCount": {
+      "text": "用户数",
+      "desc": "用户数"
+    },
+    "editRole": {
+      "text": "编辑角色",
+      "desc": "编辑角色"
+    },
+    "removeRole": {
+      "text": "删除角色",
+      "desc": "删除角色"
+    },
+    "roleName": {
+      "text": "角色名称",
+      "desc": "角色名称"
+    },
+    "deleteTip": {
+      "text": "确定要删除这个角色？该操作不可逆！",
+      "desc": "确定要删除这个角色？该操作不可逆！"
+    },
+    "createRole": {
+      "text": "新建角色",
+      "desc": "新建角色"
+    },
+    "searchKey": {
+      "text": "角色名称",
+      "desc": "搜索框文案"
+    },
+    "error1": {
+      "text": "获取功能树失败",
+      "desc": "获取功能树失败"
+    },
+    "error2": {
+      "text": "查询单个角色信息失败",
+      "desc": "查询单个角色信息失败"
+    },
+    "error3": {
+      "text": "新建角色失败",
+      "desc": "新建角色失败"
+    },
+    "message1": {
+      "text": "更新成功",
+      "desc": "更新成功"
+    },
+    "error4": {
+      "text": "更新失败",
+      "desc": "更新失败"
+    },
+    "message2": {
+      "text": "删除成功",
+      "desc": "删除成功"
+    },
+    "error5": {
+      "text": "删除失败",
+      "desc": "删除失败"
+    },
+    "role": {
+      "text": "角色名称",
+      "desc": "角色名称"
+    },
+    "rolePlaceholder": {
+      "text": "请输入角色名称",
+      "desc": "请输入角色名称"
+    },
+    "roleMessage1": {
+      "text": "角色名不能为空",
+      "desc": "角色名不能为空"
+    },
+    "roleMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "roleMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "rolePermissions": {
+      "text": "角色权限",
+      "desc": "角色权限"
+    },
+    "managePermissions": {
+      "text": "管理功能权限",
+      "desc": "管理功能权限"
+    },
+    "businessPermissions": {
+      "text": "业务功能权限",
+      "desc": "业务功能权限"
+    },
+    "shrinkAll": {
+      "text": "全部收起",
+      "desc": "全部收起"
+    },
+    "expandAll": {
+      "text": "全部展开",
+      "desc": "全部展开"
+    },
+    "remark": {
+      "text": "备注",
+      "desc": "备注"
+    },
+    "remarkMessage": {
+      "text": "长度不能大于500个字符",
+      "desc": "长度不能大于500个字符"
+    },
+    "remarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "请输入备注"
+    },
+    "roleDetailTitle": {
+      "text": "查看详情",
+      "desc": "查看详情"
+    },
+    "creator": {
+      "text": "创建者",
+      "desc": "创建者"
+    },
+    "createTime": {
+      "text": "创建时间",
+      "desc": "创建时间"
+    },
+    "latestModifier": {
+      "text": "上次修改者",
+      "desc": "上次修改者"
+    },
+    "latestModifyTime": {
+      "text": "上次修改时间",
+      "desc": "上次修改时间"
+    },
+    "roleUserHeader1": {
+      "text": "部门级用户",
+      "desc": "部门级用户"
+    },
+    "roleUserHeader2": {
+      "text": "角色，共计{msg}个用户",
+      "desc": "角色，共计{msg}个用户"
+    },
+    "depName": {
+      "text": "所属部门",
+      "desc": "所属部门"
+    },
+    "companyUserName": {
+      "text": "登录帐号",
+      "desc": "登录帐号"
+    },
+    "alias": {
+      "text": "别名",
+      "desc": "别名"
+    },
+    "roleUserTitle": {
+      "text": "查看用户",
+      "desc": "查看用户"
+    },
+    "userRoleError": {
+      "text": "查询用户失败",
+      "desc": "查询用户失败"
+    },
+    "adminNodeTip": {
+      "text": "仅限系统管理员使用，不可勾选",
+      "desc": "仅限系统管理员使用，不可勾选"
+    }
+  },
+  "dataManager": {
+    "managerEnvironment": {
+      "text": "环境管理",
+      "desc": "环境管理"
+    },
+    "formatJson": {
+      "text": "格式化 JSON",
+      "desc": "格式化JSON"
+    },
+    "compressJson": {
+      "text": "压缩 JSON",
+      "desc": "压缩JSON"
+    },
+    "editJson": {
+      "text": "编辑JSON",
+      "desc": "编辑JSON"
+    },
+    "createEnvironment": {
+      "text": "新增环境",
+      "desc": "新增环境"
+    },
+    "editEnv": {
+      "text": "编辑环境",
+      "desc": "编辑环境"
+    },
+    "removeEnv": {
+      "text": "删除环境",
+      "desc": "删除环境"
+    },
+    "name": {
+      "text": "环境名称",
+      "desc": "环境名称"
+    },
+    "nameMessage1": {
+      "text": "环境名称不能为空",
+      "desc": "环境名称不能为空"
+    },
+    "nameMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "nameMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "namePlaceholder": {
+      "text": "请输入环境名称",
+      "desc": "请输入环境名称"
+    },
+    "remark": {
+      "text": "备注",
+      "desc": "备注"
+    },
+    "remarkMessage": {
+      "text": "长度不能大于500个字符",
+      "desc": "长度不能大于500个字符"
+    },
+    "remarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "请输入备注"
+    },
+    "deleteTip": {
+      "text": "确定要删除这个环境？该操作不可逆！",
+      "desc": "确定要删除这个环境？该操作不可逆！"
+    },
+    "createEnv": {
+      "text": "添加环境",
+      "desc": "添加环境"
+    },
+    "envMessage1": {
+      "text": "创建成功",
+      "desc": "创建成功"
+    },
+    "envMessage2": {
+      "text": "更新成功",
+      "desc": "更新成功"
+    },
+    "envMessage3": {
+      "text": "删除成功",
+      "desc": "删除成功"
+    },
+    "envError1": {
+      "text": "删除失败",
+      "desc": "删除失败"
+    },
+    "environment": {
+      "text": "环境",
+      "desc": "dashboard上按钮"
+    },
+    "parameter": {
+      "text": "参数",
+      "desc": "dashboard上按钮"
+    },
+    "credential": {
+      "text": "凭据",
+      "desc": "dashboard上按钮"
+    },
+    "queue": {
+      "text": "队列",
+      "desc": "dashboard上按钮"
+    },
+    "indexInfo1": {
+      "text": "暂无权限查看参数！",
+      "desc": "暂无权限查看参数！"
+    },
+    "indexInfo2": {
+      "text": "暂无权限查看凭据！",
+      "desc": "暂无权限查看凭据！"
+    },
+    "indexInfo3": {
+      "text": "暂无权限查看队列！",
+      "desc": "暂无权限查看队列！"
+    },
+    "editParam": {
+      "text": "编辑参数",
+      "desc": "编辑参数"
+    },
+    "removeParam": {
+      "text": "删除参数",
+      "desc": "删除参数"
+    },
+    "paramName": {
+      "text": "参数名称",
+      "desc": "参数名称"
+    },
+    "paramNameMessage1": {
+      "text": "名称不能为空",
+      "desc": "名称不能为空"
+    },
+    "paramNameMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "paramNameMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "paramNamePlaceholder": {
+      "text": "请输入参数名称",
+      "desc": "请输入名称"
+    },
+    "paramType": {
+      "text": "类型",
+      "desc": "类型"
+    },
+    "paramTypeMessage": {
+      "text": "请选择类型",
+      "desc": "请选择类型"
+    },
+    "paramTypePlaceholder": {
+      "text": "请选择类型",
+      "desc": "请选择类型"
+    },
+    "paramValue": {
+      "text": "值",
+      "desc": "值"
+    },
+    "paramValueMessage1": {
+      "text": "值不能为空",
+      "desc": "值不能为空"
+    },
+    "paramValueMessage2": {
+      "text": "长度不能大于65535个字符",
+      "desc": "长度不能大于65535个字符"
+    },
+    "paramValueMessage6": {
+      "text": "长度不能大于16000个字符",
+      "desc": "长度不能大于16000个字符"
+    },
+    "paramValuePlaceholder": {
+      "text": "请输入值",
+      "desc": "请输入值"
+    },
+    "valueRadioTrue": {
+      "text": "真",
+      "desc": "真"
+    },
+    "valueRadioFalse": {
+      "text": "假",
+      "desc": "假"
+    },
+    "paramRemark": {
+      "text": "备注",
+      "desc": "备注"
+    },
+    "paramRemarkMessage": {
+      "text": "长度不能大于500个字符",
+      "desc": "长度不能大于500个字符"
+    },
+    "paramRemarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "请输入备注"
+    },
+    "paramValueMessage3": {
+      "text": "只能输入数字",
+      "desc": "只能输入数字"
+    },
+    "paramValueMessage4": {
+      "text": "最多只能保留至小数点后六位",
+      "desc": "最多只能保留至小数点后六位"
+    },
+    "paramValueMessage5": {
+      "text": "只能输入-999999999到999999999之间的数值",
+      "desc": "只能输入-999999999到999999999之间的数值"
+    },
+    "deleteParamTip": {
+      "text": "确定要删除这个参数？该操作不可逆！",
+      "desc": "确定要删除这个参数？该操作不可逆！"
+    },
+    "paramTitleBtn": {
+      "text": "新建参数",
+      "desc": "新建参数"
+    },
+    "addParam": {
+      "text": "新增参数",
+      "desc": "新增参数"
+    },
+    "paramMessage1": {
+      "text": "删除成功",
+      "desc": "删除成功"
+    },
+    "paramError1": {
+      "text": "删除失败",
+      "desc": "删除失败"
+    },
+    "paramError2": {
+      "text": "请先新建环境",
+      "desc": "请先新建环境"
+    },
+    "paramMessage2": {
+      "text": "创建成功",
+      "desc": "创建成功"
+    },
+    "paramMessage3": {
+      "text": "更新成功",
+      "desc": "更新成功"
+    },
+    "editCredential": {
+      "text": "编辑凭据",
+      "desc": "编辑凭据"
+    },
+    "delCredential": {
+      "text": "删除凭据",
+      "desc": "删除凭据"
+    },
+    "credentialName": {
+      "text": "凭据名称",
+      "desc": "凭据名称"
+    },
+    "credentialNameMessage1": {
+      "text": "名称不能为空",
+      "desc": "名称不能为空"
+    },
+    "credentialNameMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "credentialNameMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "credentialNamePlaceholder": {
+      "text": "请输入凭据名称",
+      "desc": "请输入名称"
+    },
+    "credentialUser": {
+      "text": "用户名",
+      "desc": "用户名"
+    },
+    "credentialUserMessage1": {
+      "text": "用户名不能为空",
+      "desc": "用户名不能为空"
+    },
+    "credentialUserMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "credentialUserMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "credentialPlaceholder": {
+      "text": "请输入用户名",
+      "desc": "请输入用户名"
+    },
+    "calendarNameMessage": {
+      "text": "请输入日历名称",
+      "desc": "请输入日历名称"
+    },
+    "calendarCycleMessage": {
+      "text": "请选择日历周期",
+      "desc": "请选择日历周期"
+    },
+    "credentialPsw": {
+      "text": "密码",
+      "desc": "密码"
+    },
+    "credentialRemark": {
+      "text": "备注",
+      "desc": "备注"
+    },
+    "credentialRemarkMessage": {
+      "text": "长度不能大于500个字符",
+      "desc": "长度不能大于500个字符"
+    },
+    "credentialRemarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "请输入备注"
+    },
+    "credentialPswMessage1": {
+      "text": "密码不能为空",
+      "desc": "密码不能为空"
+    },
+    "credentialPswMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "credentialPswMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "credentialDelTip": {
+      "text": "确定要删除这个凭据？该操作不可逆！",
+      "desc": "确定要删除这个凭据？该操作不可逆！"
+    },
+    "addCredential": {
+      "text": "新增凭据",
+      "desc": "新增凭据"
+    },
+    "credentialMessage1": {
+      "text": "删除成功",
+      "desc": "删除成功"
+    },
+    "credentialError1": {
+      "text": "删除失败",
+      "desc": "删除失败"
+    },
+    "credentialError2": {
+      "text": "请先新建环境",
+      "desc": "请先新建环境"
+    },
+    "createCredential": {
+      "text": "新建凭据",
+      "desc": "新建凭据"
+    },
+    "passwordTip1": {
+      "text": "请输入密码",
+      "desc": "请输入密码"
+    },
+    "passwordTip2": {
+      "text": "密码为空则不修改密码",
+      "desc": "密码为空则不修改密码"
+    },
+    "credentialMessage2": {
+      "text": "更新成功",
+      "desc": "更新成功"
+    },
+    "credentialError3": {
+      "text": "更新失败",
+      "desc": "更新失败"
+    },
+    "credentialMessage3": {
+      "text": "创建成功",
+      "desc": "创建成功"
+    },
+    "credentialError4": {
+      "text": "密码不能为空",
+      "desc": "密码不能为空"
+    },
+    "viewQueue": {
+      "text": "查看队列",
+      "desc": "查看队列"
+    },
+    "editQueue": {
+      "text": "编辑队列",
+      "desc": "编辑队列"
+    },
+    "delQueue": {
+      "text": "删除队列",
+      "desc": "删除队列"
+    },
+    "queueName": {
+      "text": "队列名称",
+      "desc": "队列名称"
+    },
+    "remainMessageCount": {
+      "text": "未消费消息数",
+      "desc": "未消费消息数"
+    },
+    "consumeMessageCount": {
+      "text": "已消费消息数",
+      "desc": "已消费消息数"
+    },
+    "queueRemark": {
+      "text": "备注",
+      "desc": "备注"
+    },
+    "queuePlaceholderTip": {
+      "text": "队列名称",
+      "desc": "队列名称"
+    },
+    "addQueue": {
+      "text": "新增队列",
+      "desc": "新增队列"
+    },
+    "createQueue": {
+      "text": "新建队列",
+      "desc": "新建队列"
+    },
+    "queueMessage1": {
+      "text": "删除队列成功",
+      "desc": "删除队列成功"
+    },
+    "queueError1": {
+      "text": "删除失败",
+      "desc": "删除失败"
+    },
+    "queueMessage2": {
+      "text": "更新成功",
+      "desc": "更新成功"
+    },
+    "queueError2": {
+      "text": "更新队列信息失败",
+      "desc": "更新队列信息失败"
+    },
+    "queueMessage3": {
+      "text": "创建成功",
+      "desc": "创建成功"
+    },
+    "queueError3": {
+      "text": "创建队列信息失败",
+      "desc": "创建队列信息失败"
+    },
+    "queueError4": {
+      "text": "请先新建环境",
+      "desc": "请先新建环境"
+    },
+    "removeQueueTip": {
+      "text": "确定要删除这个队列？该操作不可逆!",
+      "desc": "确定要删除这个队列？该操作不可逆!"
+    },
+    "lookMsgQueue": {
+      "text": "查看",
+      "desc": "查看"
+    },
+    "messageConvertConsumed": {
+      "text": "消费",
+      "desc": "消费"
+    },
+    "reEntryQueue": {
+      "text": "重新入队",
+      "desc": "重新入队"
+    },
+    "consumed": {
+      "text": "已消费",
+      "desc": "已消费"
+    },
+    "expired": {
+      "text": "已过期",
+      "desc": "已过期"
+    },
+    "notConsume": {
+      "text": "未消费",
+      "desc": "未消费"
+    },
+    "notActive": {
+      "text": "未生效",
+      "desc": "未生效"
+    },
+    "messageCode": {
+      "text": "消息编号",
+      "desc": "消息编号"
+    },
+    "publishWorkerName": {
+      "text": "消息来源",
+      "desc": "消息来源"
+    },
+    "createTime": {
+      "text": "入队时间",
+      "desc": "入队时间"
+    },
+    "availableDatetime": {
+      "text": "生效时间",
+      "desc": "生效时间"
+    },
+    "expiredDatetime": {
+      "text": "过期时间",
+      "desc": "过期时间"
+    },
+    "messageStatus": {
+      "text": "状态",
+      "desc": "状态"
+    },
+    "pullWorkerName": {
+      "text": "消费者",
+      "desc": "消费者"
+    },
+    "selectTips": {
+      "text": "请选择状态",
+      "desc": "请选择状态"
+    },
+    "consumeTips": {
+      "text": "你确定要将该消息状态改为“已消费”吗？",
+      "desc": "你确定要将该消息状态改为“已消费”吗？"
+    },
+    "lookTitle": {
+      "text": "查看消息内容",
+      "desc": "查看消息内容"
+    },
+    "consumeTitle": {
+      "text": "消费消息",
+      "desc": "消费消息"
+    },
+    "viewMessageQueue": {
+      "text": "查看消息队列",
+      "desc": "查看消息队列"
+    },
+    "checkQueueDrawerError1": {
+      "text": "只能选择一个月以内的时间查询！",
+      "desc": "只能选择一个月以内的时间查询！"
+    },
+    "checkQueueDrawerMessage1": {
+      "text": "重新入队成功！",
+      "desc": "重新入队成功！"
+    },
+    "checkQueueDrawerError2": {
+      "text": "重新入队失败！",
+      "desc": "重新入队失败！"
+    },
+    "checkQueueDrawerError3": {
+      "text": "转成消费队列的id错误！",
+      "desc": "转成消费队列的id错误！"
+    },
+    "checkQueueDrawerError4": {
+      "text": "转成消费队列失败！",
+      "desc": "转成消费队列失败！"
+    },
+    "checkQueueDrawerError5": {
+      "text": "查看队列失败，{msg}",
+      "desc": "查看队列失败，{msg}"
+    },
+    "viewContent": {
+      "text": "查看内容",
+      "desc": "查看内容"
+    },
+    "messageContent": {
+      "text": "消息内容",
+      "desc": "消息内容"
+    },
+    "messageContentPlaceholder": {
+      "text": "请输入消息内容",
+      "desc": "请输入消息内容"
+    },
+    "messageContentMessage": {
+      "text": "消息长度不能超过65535个字符",
+      "desc": "消息长度不能超过65535个字符"
+    },
+    "againQueueDialogError1": {
+      "text": "过期时间不能小于生效时间",
+      "desc": "过期时间不能小于生效时间"
+    },
+    "againQueueDialogError2": {
+      "text": "获取队列数据失败！",
+      "desc": "获取队列数据失败！"
+    },
+    "againQueueTitle": {
+      "text": "重新入队",
+      "desc": "重新入队弹窗的标题"
+    },
+    "createQueueName": {
+      "text": "队列名称",
+      "desc": "创建或编辑队列form label"
+    },
+    "queueNamePlaceholder": {
+      "text": "请输入队列名称",
+      "desc": "请输入队列名称"
+    },
+    "queueNameMessage1": {
+      "text": "队列名不能为空",
+      "desc": "队列名不能为空"
+    },
+    "queueNameMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "queueNameMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "createQueueRemark": {
+      "text": "备注",
+      "desc": "创建或编辑队列form label"
+    },
+    "queueRemarkMessage": {
+      "text": "长度不能大于500个字符",
+      "desc": "长度不能大于500个字符"
+    },
+    "queueRemarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "请输入备注"
+    },
+    "createQueueError1": {
+      "text": "获取单个队列信息失败",
+      "desc": "获取单个队列信息失败"
+    },
+    "headerSelectorPlaceholder": {
+      "text": "类型",
+      "desc": "header下拉的placeholder"
+    },
+    "searchPlaceholder": {
+      "text": "名称",
+      "desc": "名称"
+    },
+    "newParams": {
+      "text": "新建参数",
+      "desc": "新建参数"
+    }
+  },
+  "Creator": {
+    "department": {
+      "text": "所属部门",
+      "desc": "Creator的side的tree头部文案"
+    },
+    "editCreator": {
+      "text": "编辑Creator",
+      "desc": "编辑Creator"
+    },
+    "removeCreator": {
+      "text": "删除Creator",
+      "desc": "删除Creator"
+    },
+    "creatorName": {
+      "text": "Creator名称",
+      "desc": "名称"
+    },
+    "creatorNameMessage1": {
+      "text": "名称不能为空",
+      "desc": "名称不能为空"
+    },
+    "creatorNameMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "creatorNameMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "creatorNamePlaceholder": {
+      "text": "请输入名称",
+      "desc": "请输入名称"
+    },
+    "creatorDepartment": {
+      "text": "所属部门",
+      "desc": "所属部门"
+    },
+    "creatorDepartmentMessage": {
+      "text": "请选择部门",
+      "desc": "请选择部门"
+    },
+    "creatorDepartmentPlaceholder": {
+      "text": "请选择部门",
+      "desc": "请选择部门"
+    },
+    "creatorUser": {
+      "text": "所属用户",
+      "desc": "所属用户"
+    },
+    "creatorUserPlaceholder": {
+      "text": "请选择用户",
+      "desc": "请选择用户"
+    },
+    "creatorUserMessage": {
+      "text": "请选择用户",
+      "desc": "请选择用户"
+    },
+    "creatorEnvironment": {
+      "text": "所属环境",
+      "desc": "所属环境"
+    },
+    "creatorEnvironmentPlaceholder": {
+      "text": "请选择环境",
+      "desc": "请选择环境"
+    },
+    "creatorEnvironmentMessage": {
+      "text": "请选择环境",
+      "desc": "请选择环境"
+    },
+    "environment": {
+      "text": "环境",
+      "desc": "环境"
+    },
+    "machineName": {
+      "text": "机器名/机器码",
+      "desc": "机器名/机器码"
+    },
+    "lastLoginIP": {
+      "text": "IP地址",
+      "desc": "IP地址"
+    },
+    "defendMode": {
+      "text": "维护模式",
+      "desc": "无人值守表格头"
+    },
+    "acceptTask1": {
+      "text": "维护模式",
+      "desc": "维护模式"
+    },
+    "acceptTask": {
+      "text": "是否接收任务",
+      "desc": "是否运维模式"
+    },
+    "acceptTaskYes": {
+      "text": "是",
+      "desc": "是否接收任务"
+    },
+    "acceptTaskNo": {
+      "text": "否",
+      "desc": "是否接收任务"
+    },
+    "lastLogined": {
+      "text": "最近连接时间",
+      "desc": "最近连接时间"
+    },
+    "creatorDelTip": {
+      "text": "确定要删除这个Creator？该操作不可逆！",
+      "desc": "确定要删除这个Creator？该操作不可逆！"
+    },
+    "creatorTitleBtn": {
+      "text": "新建Creator",
+      "desc": "新建Creator"
+    },
+    "creatorSearchVal": {
+      "text": "名称/机器名/机器码/IP",
+      "desc": "名称/机器名/机器码/IP"
+    },
+    "creatorMessage1": {
+      "text": "删除成功",
+      "desc": "删除成功"
+    },
+    "creatorError1": {
+      "text": "删除失败",
+      "desc": "删除失败"
+    },
+    "creatorMessage2": {
+      "text": "创建成功",
+      "desc": "创建成功"
+    },
+    "creatorMessage3": {
+      "text": "更新成功",
+      "desc": "更新成功"
+    },
+    "creatorState": {
+      "text": "状态",
+      "desc": "Creator 在线状态"
+    },
+    "creatorStateOnline": {
+      "text": "在线",
+      "desc": "Creator 在线"
+    },
+    "creatorStateOffline": {
+      "text": "离线",
+      "desc": "Creator 离线"
+    },
+    "creatorStateAll": {
+      "text": "状态",
+      "desc": "搜索条件-所有状态"
+    },
+    "licenseType": {
+      "text": "授权类型",
+      "desc": "表格标题"
+    },
+    "version": {
+      "text": "版本",
+      "desc": "表格标题"
+    },
+    "licenseTypeAll": {
+      "text": "授权类型",
+      "desc": "Creator 授权类型查询控件 Placeholder"
+    },
+    "licenseTypeFixed": {
+      "text": "绑定机器",
+      "desc": "绑定机器授权类型"
+    },
+    "licenseTypeFloating": {
+      "text": "浮动授权",
+      "desc": "浮动授权类型"
+    },
+    "noCreatorTip": {
+      "text": "当前没有Creator用户数据，需系统管理员前往 \"组织机构\" > \"用户管理\" 给指定用户添加Worker的所属角色",
+      "desc": "没有 Creator 的提示"
+    },
+    "noCreatorSearchTip": {
+      "text": "暂无数据",
+      "desc": "搜索下没有 Creator 的提示"
+    }
+  },
+  "WorkerAttend": {
+    "workerAttendDepartment": {
+      "text": "所属部门",
+      "desc": "WorkerAttend的side的tree头部文案"
+    },
+    "notActive": {
+      "text": "未激活",
+      "desc": "未激活"
+    },
+    "online": {
+      "text": "在线",
+      "desc": "在线"
+    },
+    "offline": {
+      "text": "离线",
+      "desc": "离线"
+    },
+    "workerAttendEditWorker": {
+      "text": "编辑Worker",
+      "desc": "编辑Worker"
+    },
+    "workerAttendRemoveWorker": {
+      "text": "删除Worker",
+      "desc": "删除Worker"
+    },
+    "workerAttendName": {
+      "text": "名称",
+      "desc": "名称"
+    },
+    "workerRemark": {
+      "text": "备注",
+      "desc": "备注"
+    },
+    "workerAttendName2": {
+      "text": "机器人",
+      "desc": "机器人"
+    },
+    "workerAttendRemarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "请输入备注"
+    },
+    "workerAttendNameMessage1": {
+      "text": "名称不能为空",
+      "desc": "名称不能为空"
+    },
+    "workerAttendNameMessage2": {
+      "text": "长度不能小于2个字符",
+      "desc": "长度不能小于2个字符"
+    },
+    "workerAttendNameMessage3": {
+      "text": "长度不能大于30个字符",
+      "desc": "长度不能大于30个字符"
+    },
+    "workerAttendNamePlaceholder": {
+      "text": "请输入Worker名称",
+      "desc": "请输入名称"
+    },
+    "workerAttendDepartmentMessage": {
+      "text": "请选择部门",
+      "desc": "请选择部门"
+    },
+    "workerAttendDepartmentPlaceholder": {
+      "text": "请选择部门",
+      "desc": "请选择部门"
+    },
+    "workerAttendUser": {
+      "text": "所属用户",
+      "desc": "所属用户"
+    },
+    "workerAttendUserPlaceholder": {
+      "text": "请选择用户",
+      "desc": "请选择用户"
+    },
+    "workerAttendUserMessage": {
+      "text": "请选择用户",
+      "desc": "请选择用户"
+    },
+    "workerAttendEnvironment": {
+      "text": "所属环境",
+      "desc": "所属环境"
+    },
+    "workerAttendEnvironmentPlaceholder": {
+      "text": "请选择环境",
+      "desc": "请选择环境"
+    },
+    "workerAttendEnvironmentMessage": {
+      "text": "请选择环境",
+      "desc": "请选择环境"
+    },
+    "workerAttendWorkerState": {
+      "text": "状态",
+      "desc": "状态"
+    },
+    "department": {
+      "text": "所属部门",
+      "desc": "所属部门"
+    },
+    "environment": {
+      "text": "环境",
+      "desc": "环境"
+    },
+    "machineCode": {
+      "text": "机器名/机器码",
+      "desc": "机器名/机器码"
+    },
+    "workerVersion": {
+      "text": "版本",
+      "desc": "版本"
+    },
+    "lastLogined": {
+      "text": "最近连接时间",
+      "desc": "最近连接时间"
+    },
+    "titleBtnContent": {
+      "text": "批量更新Worker",
+      "desc": "批量更新Worker"
+    },
+    "delTip": {
+      "text": "确定要删除这个Worker？该操作不可逆！",
+      "desc": "确定要删除这个Worker？该操作不可逆！"
+    },
+    "titleBtn": {
+      "text": "新建Worker",
+      "desc": "新建Worker"
+    },
+    "searchVal": {
+      "text": "名称/机器码",
+      "desc": "名称/机器码"
+    },
+    "workerAttendMessage1": {
+      "text": "删除成功",
+      "desc": "删除成功"
+    },
+    "workerAttendError1": {
+      "text": "删除失败",
+      "desc": "删除失败"
+    },
+    "workerAttendMessage2": {
+      "text": "创建成功",
+      "desc": "创建成功"
+    },
+    "workerAttendMessage3": {
+      "text": "更新成功",
+      "desc": "更新成功"
+    },
+    "selectUpdatePackage": {
+      "text": "选择更新包",
+      "desc": "选择更新包"
+    },
+    "selectWorker": {
+      "text": "选择需要更新的Worker",
+      "desc": "选择需要更新的Worker"
+    },
+    "bulkUpdateTip1": {
+      "text": "暂无可用的Worker更新包,请先上传或启用Worker更新包",
+      "desc": "暂无可用的Worker更新包,请先上传或启用Worker更新包"
+    },
+    "versionUpdatePackage": {
+      "text": "{msg}版本更新包",
+      "desc": "{msg}版本更新包"
+    },
+    "new": {
+      "text": "新",
+      "desc": "新"
+    },
+    "bulkUpdateRemarkMessage": {
+      "text": "长度不能大于500个字符",
+      "desc": "长度不能大于500个字符"
+    },
+    "bulkUpdateRemarkPlaceholder": {
+      "text": "可输入更新说明…",
+      "desc": "可输入更新说明…"
+    },
+    "bulkUpdateTip2": {
+      "text": "勾选部门默认选择部门下全部Worker",
+      "desc": "勾选部门默认选择部门下全部Worker"
+    },
+    "departmentTitle": {
+      "text": "部门",
+      "desc": "标题文字"
+    },
+    "workerTitle": {
+      "text": "Worker",
+      "desc": "标题文字"
+    },
+    "bulkUpdateTip3": {
+      "text": "请先选择有Worker的部门,再选择对应部门下需要更新的Worker",
+      "desc": "请先选择有Worker的部门,再选择对应部门下需要更新的Worker"
+    },
+    "bulkUpdateTitle": {
+      "text": "批量更新worker",
+      "desc": "批量更新worker"
+    },
+    "cancel": {
+      "text": "取消",
+      "desc": "取消"
+    },
+    "preStep": {
+      "text": "上一步",
+      "desc": "上一步"
+    },
+    "beginUpdate": {
+      "text": "开始更新",
+      "desc": "开始更新"
+    },
+    "nextStep": {
+      "text": "下一步",
+      "desc": "下一步"
+    },
+    "bulkUpdateError1": {
+      "text": "获取部门树失败",
+      "desc": "获取部门树失败"
+    },
+    "bulkUpdateError2": {
+      "text": "请至少选择一个需要更新的Worker",
+      "desc": "请至少选择一个需要更新的Worker"
+    },
+    "bulkUpdateMessage1": {
+      "text": "更新命令已下发！",
+      "desc": "更新命令已下发！"
+    },
+    "attendFloat": {
+      "text": "人机交互浮动授权",
+      "desc": "人机交互浮动授权"
+    },
+    "authorType": {
+      "text": "授权类型",
+      "desc": "授权类型"
+    },
+    "editWorkerFail": {
+      "text": "编辑Worker失败!",
+      "desc": "编辑Worker失败!"
+    },
+    "createWorkerFail": {
+      "text": "创建Worker失败",
+      "desc": "创建Worker失败"
+    },
+    "lookDetails": {
+      "text": "查看详情",
+      "desc": "查看详情"
+    },
+    "getWorkerInfoFail": {
+      "text": "获取Worker信息失败",
+      "desc": "获取Worker信息失败"
+    }
+  },
+  "flowManagement": {
+    "manualTime": {
+      "text": "人工时间",
+      "desc": "人工时间"
+    },
+    "updateTip": {
+      "text": "更新版本",
+      "desc": "更新版本"
+    },
+    "lookDetails": {
+      "text": "查看详情",
+      "desc": "查看详情"
+    },
+    "flowDetail": {
+      "text": "流程详情",
+      "desc": "流程详情"
+    },
+    "tip": {
+      "text": "确定将流程包更新至最新版本",
+      "desc": "确定更新成的提示语"
+    },
+    "selectDep": {
+      "text": "请从流程的授权部门中选择一个部门",
+      "desc": "请从流程的授权部门中选择一个部门"
+    },
+    "upgradeOk": {
+      "text": "更新成功",
+      "desc": "更新成功提示语"
+    },
+    "listEmpty": {
+      "text": "暂无搜索结果...",
+      "desc": "暂无搜索结果"
+    },
+    "department": {
+      "text": "所属部门",
+      "desc": "二级菜单部门树标题"
+    },
+    "depTreeSearchPlaceholer": {
+      "text": "搜索",
+      "desc": "二级菜单部门树标题占位"
+    },
+    "placeholder": {
+      "text": "搜索",
+      "desc": "二级菜单部门树标题占位"
+    },
+    "all": {
+      "text": "全部",
+      "desc": "二级菜单部门树：一级全部"
+    },
+    "flowCode": {
+      "text": "流程代码",
+      "desc": "操作按钮提示语"
+    },
+    "flowNoCode": {
+      "text": "未开启流程服务化",
+      "desc": "操作按钮提示语"
+    },
+    "lookPackage": {
+      "text": "查看版本详情",
+      "desc": "查看版本详情"
+    },
+    "upgrade": {
+      "text": "升级",
+      "desc": "升级按钮提示语"
+    },
+    "fastCreateTask": {
+      "text": "快速新建任务",
+      "desc": "操作按钮提示语"
+    },
+    "UnfastCreateTask": {
+      "text": "人机交互类型的流程只能通过Worker用户自主运行",
+      "desc": "不能快速新建任务提示"
+    },
+    "authDep": {
+      "text": "授权部门",
+      "desc": "操作按钮提示语"
+    },
+    "editFlow": {
+      "text": "编辑流程",
+      "desc": "操作按钮提示语"
+    },
+    "dataCount": {
+      "text": "共 {msg} 条数据 | 共 {msg} 条数据",
+      "desc": "数据总条数"
+    },
+    "copy": {
+      "text": "复制并关闭",
+      "desc": "弹窗右下角按钮文字"
+    },
+    "stepTitle1": {
+      "text": "基本信息",
+      "desc": "新建流程步骤标题"
+    },
+    "stepTitle2": {
+      "text": "授权部门",
+      "desc": "新建流程步骤标题"
+    },
+    "stepTitle3": {
+      "text": "完成",
+      "desc": "新建流程步骤标题"
+    },
+    "flowNamePlaceholder": {
+      "text": "请输入流程名称",
+      "desc": "新建流程输入框介绍"
+    },
+    "flowName": {
+      "text": "流程名称",
+      "desc": "新建流程输入框介绍"
+    },
+    "flowNameTile": {
+      "text": "流程名称",
+      "desc": "表头"
+    },
+    "flowTypeTile": {
+      "text": "流程类型",
+      "desc": "表头"
+    },
+    "tip1": {
+      "text": "流程名称不能为空",
+      "desc": "新建流程输入框验证提示信息"
+    },
+    "tip2": {
+      "text": "长度不能小于2个字符",
+      "desc": "新建流程输入框验证提示信息"
+    },
+    "tip3": {
+      "text": "长度不能大于30个字符",
+      "desc": "新建流程输入框验证提示信息"
+    },
+    "depTreePlaceholder": {
+      "text": "搜索",
+      "desc": "部门搜索树"
+    },
+    "description": {
+      "text": "流程说明",
+      "desc": "新建流程输入框介绍"
+    },
+    "remarkTip1": {
+      "text": "长度不能大于255个字符",
+      "desc": "新建流程输入框验证提示信息"
+    },
+    "remarkPlaceholder": {
+      "text": "请输入流程说明",
+      "desc": "新建流程输入框默认文字"
+    },
+    "type": {
+      "text": "流程类型",
+      "desc": "新建流程输入框介绍"
+    },
+    "typePlaceholder": {
+      "text": "请选择流程类型",
+      "desc": "新建流程输入框默认文字"
+    },
+    "typeTip1": {
+      "text": "请选择流程类型",
+      "desc": "新建流程输入框验证提示信息"
+    },
+    "package": {
+      "text": "流程包",
+      "desc": "新建流程输入框介绍"
+    },
+    "packagePlaceholder": {
+      "text": "请选择流程包",
+      "desc": "新建流程输入框默认文字"
+    },
+    "packageTip1": {
+      "text": "请选择流程包",
+      "desc": "新建流程输入框验证提示信息"
+    },
+    "version": {
+      "text": "流程包版本",
+      "desc": "新建流程输入框介绍"
+    },
+    "versionPlaceholder": {
+      "text": "请选择流程包版本",
+      "desc": "新建流程输入框默认文字"
+    },
+    "versionTip1": {
+      "text": "请选择流程包版本",
+      "desc": "新建流程输入框验证提示信息"
+    },
+    "businessType": {
+      "text": "业务类型",
+      "desc": "新建流程输入框介绍"
+    },
+    "businessTypePlaceholder": {
+      "text": "请选择业务类型",
+      "desc": "新建流程输入框默认文字"
+    },
+    "businessTypeTip1": {
+      "text": "请选择业务类型",
+      "desc": "新建流程输入框验证提示信息"
+    },
+    "flowServiceTip": {
+      "text": "开启后可以通过OpenApi使用此流程创建任务",
+      "desc": "流程服务化功能介绍"
+    },
+    "flowService": {
+      "text": "流程服务化",
+      "start": "开启",
+      "stop": "关闭",
+      "desc": "新建流程勾选框文字介绍"
+    },
+    "please": {
+      "text": "请",
+      "desc": "新建流程上传图片提示信息"
+    },
+    "upload": {
+      "text": "上传",
+      "desc": "新建流程上传图片提示信息"
+    },
+    "flowImage": {
+      "text": "流程图片",
+      "desc": "新建流程上传图片提示信息"
+    },
+    "uploadTip1": {
+      "text": "您上传的文件不是图片或者不支持该格式！",
+      "desc": "新建流程上传图片错误时提示信息"
+    },
+    "serveOpen": {
+      "text": "开启",
+      "desc": "流程服务化开启"
+    },
+    "serveClose": {
+      "text": "关闭",
+      "desc": "流程服务化关闭"
+    },
+    "showInfoTitle": {
+      "text": "请确认以下信息： ",
+      "desc": "新建流程第三步界面展示信息"
+    },
+    "showName": {
+      "text": "流程名称 ",
+      "desc": "新建流程第三步界面展示信息"
+    },
+    "showDescription": {
+      "text": "流程说明 ",
+      "desc": "新建流程第三步界面展示信息"
+    },
+    "showType": {
+      "text": "流程类型 ",
+      "desc": "新建流程第三步界面展示信息"
+    },
+    "showPackage": {
+      "text": "流程包 ",
+      "desc": "新建流程第三步界面展示信息"
+    },
+    "showVersion": {
+      "text": "流程包版本 ",
+      "desc": "新建流程第三步界面展示信息"
+    },
+    "showDepartment": {
+      "text": "授权部门 ",
+      "desc": "新建流程第三步界面展示信息"
+    },
+    "dataStatistics": {
+      "text": "统计指标",
+      "desc": "数据统计组件文案"
+    },
+    "lastPre": {
+      "text": "最新版本",
+      "desc": "最新版本"
+    },
+    "laborTime": {
+      "text": "人工时间",
+      "desc": "数据统计组件文案"
+    },
+    "minutes": {
+      "text": "分钟 | 分钟",
+      "desc": "数据统计组件文案"
+    },
+    "createIndicator": {
+      "text": "新增一项统计指标",
+      "desc": "数据统计组件文案"
+    },
+    "laborCost": {
+      "text": "人工成本",
+      "desc": "数据统计组件文案"
+    },
+    "laborTimeTip": {
+      "text": "请输入小于等于1440的整数！",
+      "desc": "数据统计组件文案"
+    },
+    "laborTimeTip1": {
+      "text": "请输入小于等于14400的整数！",
+      "desc": "数据统计组件文案"
+    },
+    "save": {
+      "text": "保存",
+      "desc": "保存按钮文案"
+    },
+    "cancel": {
+      "text": "取消",
+      "desc": "取消按钮文案"
+    },
+    "name": {
+      "text": "流程名称",
+      "desc": "表格单元格标题"
+    },
+    "typeTitle": {
+      "text": "流程类型",
+      "desc": "表格单元格标题"
+    },
+    "packageTitle": {
+      "text": "流程包",
+      "desc": "表格单元格标题"
+    },
+    "versionTitle": {
+      "text": "版本",
+      "desc": "表格单元格标题"
+    },
+    "operation": {
+      "text": "操作",
+      "desc": "表格单元格标题"
+    },
+    "workerAttend": {
+      "text": "人机交互",
+      "desc": "下拉框选项"
+    },
+    "workerUnAttend": {
+      "text": "无人值守",
+      "desc": "下拉框选项"
+    },
+    "deleteContent": {
+      "text": "确定要删除这个流程？该操作不可逆！",
+      "desc": "删除弹框提示"
+    },
+    "businessTypeSetTitle": {
+      "text": "业务类型设置",
+      "desc": "业务类型按钮文字"
+    },
+    "titleBtn": {
+      "text": "新建流程",
+      "desc": "新建流程按钮文字"
+    },
+    "searchVal": {
+      "text": "流程名称",
+      "desc": "搜索框默认文字"
+    },
+    "preText": {
+      "text": "上一步",
+      "desc": "保存流程按钮文字"
+    },
+    "nextText": {
+      "text": "下一步",
+      "desc": "保存流程按钮文字"
+    },
+    "copySuccess": {
+      "text": "复制成功！",
+      "desc": "复制成功提示语"
+    },
+    "copyFail": {
+      "text": "该浏览器不支持自动复制！",
+      "desc": "复制失败提示语"
+    },
+    "other": {
+      "text": "其它",
+      "desc": "默认业务类型"
+    },
+    "deleteSuccess": {
+      "text": "删除成功",
+      "desc": "删除成功提示语"
+    },
+    "deleteFail": {
+      "text": "删除失败",
+      "desc": "删除失败提示语"
+    },
+    "createFlow": {
+      "text": "新建流程",
+      "desc": "新建流程标题"
+    },
+    "authDepTip1": {
+      "text": "请选择授权部门",
+      "desc": "未勾选授权部门的提示语"
+    },
+    "validateTip1": {
+      "text": "统计指标不能重名",
+      "desc": "保存流程时不合法的提示"
+    },
+    "validateTip2": {
+      "text": "统计指标最大字符长度为31",
+      "desc": "保存流程时不合法的提示"
+    },
+    "validateTip3": {
+      "text": "统计指标不能为空",
+      "desc": "保存流程时不合法的提示"
+    },
+    "createSuccess": {
+      "text": "创建成功",
+      "desc": "创建成功的提示语"
+    },
+    "updateSuccess": {
+      "text": "更新成功",
+      "desc": "更新成功的提示语"
+    },
+    "authDepTip2": {
+      "text": "请至少选择一个授权部门",
+      "desc": "未勾选授权部门的提示语"
+    },
+    "selectType": {
+      "text": "类型",
+      "desc": "下拉框默认提示语"
+    },
+    "selectPackage": {
+      "text": "流程包",
+      "desc": "下拉框默认提示语"
+    },
+    "selectVersion": {
+      "text": "流程包版本",
+      "desc": "下拉框默认提示语"
+    },
+    "search": {
+      "text": "搜索",
+      "desc": "搜索框默认提示语"
+    }
+  },
+  "package": {
+    "packageManagement": {
+      "text": "流程包",
+      "desc": "左侧二级菜单下列表标题"
+    },
+    "createPackage": {
+      "text": "新建流程包",
+      "desc": "左侧二级菜单下列表按钮文字"
+    },
+    "lookPackage": {
+      "text": "查看流程包详情",
+      "desc": "左侧二级菜单下列表按钮提示语"
+    },
+    "totalNum": {
+      "text": "共 {number} 个流程包",
+      "desc": "共多少个流程包"
+    },
+    "editPackage": {
+      "text": "编辑流程包",
+      "desc": "左侧二级菜单下列表按钮提示语"
+    },
+    "package": {
+      "text": "流程包",
+      "desc": "搜索placeholder"
+    },
+    "deletePackage": {
+      "text": "删除流程包",
+      "desc": "左侧二级菜单下列表按钮提示语"
+    },
+    "uploadVersion": {
+      "text": "上传",
+      "desc": "上传版本按钮文字"
+    },
+    "lookPackageVersion": {
+      "text": "查看版本详情",
+      "desc": "查看版本详情"
+    },
+    "editVersionRemark": {
+      "text": "编辑备注",
+      "desc": "操作按钮的文字提示语"
+    },
+    "edit": {
+      "text": "编辑",
+      "desc": "弹窗标题"
+    },
+    "save": {
+      "text": "保存",
+      "desc": "弹窗右下角按钮文字"
+    },
+    "versionNumber": {
+      "text": "版本号",
+      "desc": "弹窗内容标题"
+    },
+    "uploadTime": {
+      "text": "上传时间",
+      "desc": "弹窗内容标题"
+    },
+    "uploadAuthor": {
+      "text": "上传者",
+      "desc": "弹窗内容标题"
+    },
+    "versionRemark": {
+      "text": "版本",
+      "desc": "弹窗内容标题"
+    },
+    "versionRemarkTip": {
+      "text": "长度不能大于500个字符",
+      "desc": "弹窗输入框验证提示信息"
+    },
+    "versionRemarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "弹窗输入框默认提示语"
+    },
+    "packageName": {
+      "text": "流程包名称",
+      "desc": "弹窗内容标题"
+    },
+    "packageNameTip1": {
+      "text": "流程包名称不能为空",
+      "desc": "弹窗输入框验证提示信息"
+    },
+    "packageNameTip2": {
+      "text": "长度不能小于2个字符",
+      "desc": "弹窗输入框验证提示信息"
+    },
+    "packageNameTip3": {
+      "text": "长度不能大于30个字符",
+      "desc": "弹窗输入框验证提示信息"
+    },
+    "packageNamePlaceholder": {
+      "text": "请输入流程包名称",
+      "desc": "弹窗输入框默认提示语"
+    },
+    "icon": {
+      "text": "图标",
+      "desc": "弹窗内容标题"
+    },
+    "selectIcon": {
+      "text": "选择图标",
+      "desc": "选择图标"
+    },
+    "or": {
+      "text": "或",
+      "desc": "或"
+    },
+    "uploadIcon": {
+      "text": "上传图标",
+      "desc": "上传图标"
+    },
+    "iconTip": {
+      "text": "支持图片类型：png, jpg",
+      "desc": "支持图片类型：png, jpg"
+    },
+    "packageRemark": {
+      "text": "描述",
+      "desc": "描述"
+    },
+    "packageRemarkPlaceholder": {
+      "text": "请输入描述",
+      "desc": "请输入描述"
+    },
+    "userLinked": {
+      "text": "关联用户",
+      "desc": "关联用户"
+    },
+    "userLinkedPlaceholder": {
+      "text": "请选择用户",
+      "desc": "请选择用户"
+    },
+    "userLinkedMessage": {
+      "text": "请选择Creator用户",
+      "desc": "请选择Creator用户"
+    },
+    "remark": {
+      "text": "备注",
+      "desc": "弹窗内容标题"
+    },
+    "remarkTip": {
+      "text": "长度不能大于500个字符",
+      "desc": "弹窗输入框验证提示信息"
+    },
+    "remarkPlaceholder": {
+      "text": "请输入备注",
+      "desc": "弹窗输入框默认提示语"
+    },
+    "upload": {
+      "text": "上传",
+      "desc": "弹窗右下角按钮文字"
+    },
+    "packageFile": {
+      "text": "流程文件",
+      "desc": "弹窗内容标题"
+    },
+    "uploadPackage": {
+      "text": "上传流程包",
+      "desc": "上传按钮文字"
+    },
+    "uploadPackageTip": {
+      "text": "可将文件拖拽至此区域，只能选择.bot文件",
+      "desc": "上传提示语"
+    },
+    "version": {
+      "text": "版本",
+      "desc": "弹窗内容标题"
+    },
+    "isEnabled": {
+      "text": "是否可用",
+      "desc": "弹窗内容标题"
+    },
+    "versionId": {
+      "text": "版本",
+      "desc": "表格列标题"
+    },
+    "createTime": {
+      "text": "上传时间",
+      "desc": "表格列标题"
+    },
+    "userName": {
+      "text": "上传者",
+      "desc": "表格列标题"
+    },
+    "description": {
+      "text": "版本说明",
+      "desc": "表格列标题"
+    },
+    "remarkVersion": {
+      "text": "备注",
+      "desc": "表格列标题"
+    },
+    "isActive": {
+      "text": "启用状态",
+      "desc": "表格列标题"
+    },
+    "operation": {
+      "text": "操作",
+      "desc": "表格列标题"
+    },
+    "versionTitle": {
+      "text": "上传版本",
+      "desc": "弹窗标题"
+    },
+    "content": {
+      "text": "确定要删除这个流程包？该操作不可逆！",
+      "desc": "删除提示语"
+    },
+    "updateSuccess": {
+      "text": "更新成功",
+      "desc": "更新成功提示语"
+    },
+    "packageTitle": {
+      "text": "新建流程包",
+      "desc": "新建流程包提示语"
+    },
+    "packageTitle2": {
+      "text": "编辑流程包",
+      "desc": "编辑流程包提示语"
+    },
+    "lookPackageDetail": {
+      "text": "查看流程包详情",
+      "desc": "查看流程包详情"
+    },
+    "createUserName": {
+      "text": "创建者",
+      "desc": "创建者"
+    },
+    "createPackageTime": {
+      "text": "创建时间",
+      "desc": "创建时间"
+    },
+    "noUrlTip": {
+      "text": "暂无使用说明",
+      "desc": "暂无使用说明提示语"
+    },
+    "createSuccess": {
+      "text": "创建成功",
+      "desc": "创建成功提示语"
+    },
+    "errorTip1": {
+      "text": "请上传流程文件",
+      "desc": "上传流程包提示语"
+    },
+    "errorTip2": {
+      "text": "只能上传.bot文件",
+      "desc": "上传流程包提示语"
+    },
+    "uploadSuccess": {
+      "text": "上传成功",
+      "desc": "上传流程包成功提示语"
+    },
+    "errorTip3": {
+      "text": "您选择的流程文件格式有误",
+      "desc": "上传流程包提示语"
+    },
+    "deleteSuccess": {
+      "text": "删除成功",
+      "desc": "删除成功提示语"
+    },
+    "deleteFail": {
+      "text": "删除失败",
+      "desc": "删除失败提示语"
+    },
+    "createPackageTip": {
+      "text": "您选择的流程文件格式有误，请先新建流程包",
+      "desc": "新建上传版本无流程包时提示语"
+    },
+    "versionDetail": {
+      "text": "版本详情",
+      "desc": "版本详情"
+    },
+    "packageNames": {
+      "text": "流程包",
+      "desc": "流程包"
+    },
+    "versionDescription": {
+      "text": "版本说明",
+      "desc": "版本说明"
+    },
+    "useDescription": {
+      "text": "使用说明",
+      "desc": "使用说明"
+    },
+    "publisher": {
+      "text": "上传者",
+      "desc": "上传者"
+    },
+    "publishTime": {
+      "text": "上传时间",
+      "desc": "上传时间"
+    },
+    "lookUseIntroduction": {
+      "text": "查看使用说明",
+      "desc": "查看使用说明"
+    },
+    "createTimes": {
+      "text": "创建时间",
+      "desc": "创建时间"
+    },
+    "versions": {
+      "text": "版本",
+      "desc": "版本"
+    },
+    "packageFileTitle": {
+      "text": "流程包文件",
+      "desc": "流程包文件"
+    },
+    "uploadBoxText": {
+      "text": "点击或拖放文件至此区域",
+      "desc": "点击或拖放文件至此区域"
+    },
+    "uploadHoverText": {
+      "text": "松开鼠标",
+      "desc": "松开鼠标"
+    },
+    "uploadBoxLimit": {
+      "text": "仅支持.bot文件",
+      "desc": "仅支持.bot文件"
+    },
+    "uploadError1": {
+      "text": "解析文件报错，请确保是由Creator发布的文件！",
+      "desc": "解析文件报错，请确保是由Creator发布的文件！"
+    },
+    "uploadError2": {
+      "text": "config.json文件或.html文件解析错误，请确保是由Creator发布的文件！",
+      "desc": "config.json文件解析错误，请确保是由Creator发布的文件！"
+    },
+    "uploadError3": {
+      "text": ".html文件解析错误，请确保是由Creator发布的文件！",
+      "desc": ".html文件解析错误，请确保是由Creator发布的文件！"
+    },
+    "uploadBoxLimitError": {
+      "text": "格式错误，请重新选择！",
+      "desc": "格式错误，请重新选择！"
+    },
+    "uploadSizeLimitError": {
+      "text": "文件不能大于200M，请重新选择！",
+      "desc": "文件不能大于200M，请重新选择！"
+    },
+    "uploadText": {
+      "text": "上传",
+      "desc": "上传"
+    },
+    "uploadWarning": {
+      "text": "已取消上传！",
+      "desc": "已取消上传！"
+    },
+    "uploadVersionSuccess": {
+      "text": "上传成功！",
+      "desc": "上传成功！"
+    },
+    "uploadVersionIng": {
+      "text": "正在上传",
+      "desc": "正在上传"
+    },
+    "uploadVersionFail": {
+      "text": "上传失败",
+      "desc": "上传失败"
+    }
+  },
+  "businessType": {
+    "editBusiness": {
+      "text": "编辑业务类型",
+      "desc": "表格操作列图标提示语"
+    },
+    "deleteBusiness": {
+      "text": "删除业务类型",
+      "desc": "表格操作列图标提示语"
+    },
+    "save": {
+      "text": "保存",
+      "desc": "弹窗保存按钮文案"
+    },
+    "businessName": {
+      "text": "业务类型",
+      "desc": "新建业务类型输入框标题"
+    },
+    "businessNameTip1": {
+      "text": "名称不能为空",
+      "desc": "新建业务类型验证提示语"
+    },
+    "businessNameTip2": {
+      "text": "长度不能大于50个字符",
+      "desc": "新建业务类型验证提示语"
+    },
+    "businessPlaceholder": {
+      "text": "请输入业务类型",
+      "desc": "新建业务类型输入框默认文字"
+    },
+    "businessType": {
+      "text": "业务类型",
+      "desc": "业务类型表格标题"
+    },
+    "operation": {
+      "text": "操作",
+      "desc": "业务类型表格标题"
+    },
+    "option1": {
+      "text": "营销",
+      "desc": "业务类型输入框默认参考类型"
+    },
+    "option2": {
+      "text": "生产",
+      "desc": "业务类型输入框默认参考类型"
+    },
+    "option3": {
+      "text": "资产",
+      "desc": "业务类型输入框默认参考类型"
+    },
+    "option4": {
+      "text": "综合",
+      "desc": "业务类型输入框默认参考类型"
+    },
+    "option5": {
+      "text": "财务",
+      "desc": "业务类型输入框默认参考类型"
+    },
+    "option6": {
+      "text": "调度",
+      "desc": "业务类型输入框默认参考类型"
+    },
+    "option7": {
+      "text": "信息",
+      "desc": "业务类型输入框默认参考类型"
+    },
+    "option8": {
+      "text": "其它",
+      "desc": "业务类型输入框默认参考类型"
+    },
+    "content": {
+      "text": "确定要删除此业务类型？该操作不可逆！",
+      "desc": "删除弹窗提示语"
+    },
+    "newBusiness": {
+      "text": "新建业务类型",
+      "desc": "新增业务类型按钮文字"
+    },
+    "searchValue": {
+      "text": "业务类型",
+      "desc": "搜索框默认文字"
+    },
+    "createSuccess": {
+      "text": "创建成功",
+      "desc": "创建成功提示语"
+    },
+    "updateSuccess": {
+      "text": "更新成功",
+      "desc": "更新成功提示语"
+    },
+    "deleteSuccess": {
+      "text": "删除成功",
+      "desc": "删除成功提示语"
+    },
+    "deleteFail": {
+      "text": "删除失败",
+      "desc": "删除失败提示语"
+    }
+  },
+  "scheduleManagement": {
+    "maxRunTime": {
+      "text": "最大运行时长",
+      "desc": ""
+    },
+    "repeatTask": {
+      "text": "新建重复任务",
+      "desc": ""
+    },
+    "cronTipText1": {
+      "text": "在 UiBot Commander 中，CRON 表达式的结构为 “",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText2": {
+      "text": "分 时 天 月 周",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText3": {
+      "text": "” （不包含 “秒” 和 “年”），使用空格隔开不同的信息域。 比如：“",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText4": {
+      "text": "” 表示 “",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText5": {
+      "text": "第5分钟 每小时 第1天 每月 每周",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText6": {
+      "text": "”，即 “",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText7": {
+      "text": "每月每周第1天的第5分钟",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText8": {
+      "text": "CRON表达式允许的值和特殊符号，如下所示：",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText9": {
+      "text": "字段",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText10": {
+      "text": "分（Minutes）",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText11": {
+      "text": "小时（Hours）",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText12": {
+      "text": "日期（DayofMonth）",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText13": {
+      "text": "月份（Month）",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText14": {
+      "text": "星期（DayofWeek）",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText15": {
+      "text": "允许值",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText16": {
+      "text": "0~59的整数",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText17": {
+      "text": "0~23的整数",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText18": {
+      "text": "1~31的整数",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText19": {
+      "text": "1~12的整数",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText20": {
+      "text": "0~6的整数",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText21": {
+      "text": "允许的特殊字符",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText22": {
+      "text": "* 和/",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText23": {
+      "text": "允许使用的特殊符号，说明如下：",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText24": {
+      "text": "表示起始时间开始触发，然后每隔固定时间触发一次。例如在Minutes域使用5/20，则意味着5分钟触发一次，而25，45等分别触发一次。",
+      "desc": "cron表达式提示文字"
+    },
+    "cronTipText25": {
+      "text": "表示匹配该域的任意值。假如在Minutes域使用*， 即表示每分钟都会触发事件 注：暂不支持“L、W”和“？、#”等特殊符号。",
+      "desc": "cron表达式提示文字"
+    },
+    "editCalendarTip": {
+      "text": "编辑工作日历",
+      "desc": "编辑工作日历"
+    },
+    "deleteCalendarTip": {
+      "text": "删除工作日历",
+      "desc": "删除工作日历"
+    },
+    "month": {
+      "text": "月",
+      "desc": "月"
+    },
+    "year": {
+      "text": "年",
+      "desc": "年"
+    },
+    "outCalendarCycle": {
+      "text": "超出日历周期",
+      "desc": "超出日历周期"
+    },
+    "uploadBoxLimit": {
+      "text": "仅支持.CSV文件",
+      "desc": "仅支持.CSV文件"
+    },
+    "uploadText": {
+      "text": "上传",
+      "desc": "上传"
+    },
+    "uploadCalendarTitle": {
+      "text": "上传日历文件",
+      "desc": "上传日历文件"
+    },
+    "uploadCalendarTips1": {
+      "text": "请先下载日历模板，将非工作日按照模板格式填入文件中，添加完成后上传文件即可",
+      "desc": "请先下载日历模板，将非工作日按照模板格式填入文件中，添加完成后上传文件即可"
+    },
+    "calendarEditChangeBtn": {
+      "text": "离开",
+      "desc": "离开"
+    },
+    "calendarEditExit": {
+      "text": "离开此页面？",
+      "desc": "离开"
+    },
+    "calendarEditExitTips": {
+      "text": "系统可能不会保存您所做的更改",
+      "desc": "系统可能不会保存您所做的更改"
+    },
+    "calendarNameLengthTip": {
+      "text": "日历名称最少为两个字符",
+      "desc": "名称提示"
+    },
+    "workDay": {
+      "text": "工作日",
+      "desc": "展示"
+    },
+    "scheduleDownloadTip": {
+      "text": "下载日历设置模版，将非工作日按照模版格式填入文件中，并上传日历设置文件，保存即可",
+      "desc": "下载提示"
+    },
+    "scheduleExecuteTimeTip": {
+      "text": "每次执行时，会按执行规则生成任务，排队等待执行",
+      "desc": "计划执行时间的tooltips提示"
+    },
+    "inputScheduleName": {
+      "text": "请输入计划名称",
+      "desc": "输入框提示"
+    },
+    "creatorText": {
+      "text": "创建",
+      "desc": ""
+    },
+    "calendarTempTypeTips": {
+      "text": "上传格式错误,请重新选择！",
+      "desc": "日期模板格式错误提示"
+    },
+    "calendarTempSizeTips": {
+      "text": "文件不能大于1M，请重新选择！",
+      "desc": "日期模板大小限制提示"
+    },
+    "calendarValidateRepeatName": {
+      "text": "日历名称已存在",
+      "desc": "表单验证重名提示"
+    },
+    "uploadCalendarTips": {
+      "text": "上传日历设置文件将会覆盖当前的日历设置，是否确认上传？",
+      "desc": "上传日历提示"
+    },
+    "calendarTypeDouble": {
+      "text": "周末双休日历",
+      "desc": "周末双休日历模板"
+    },
+    "calendarTypeSingle": {
+      "text": "周末单休日历（每周日为非工作日）",
+      "desc": "周末单休日历模板"
+    },
+    "calendarTypeBlank": {
+      "text": "空白日历",
+      "desc": "空白日历模板"
+    },
+    "deleteCalendarFail": {
+      "text": "删除工作日历失败",
+      "desc": "删除工作日历失败"
+    },
+    "deleteCalendarContent": {
+      "text": "确定要删除这个工作日历？该操作不可逆！",
+      "desc": "删除日历弹框提示"
+    },
+    "deleteCalendarSuccess": {
+      "text": "删除工作日历成功",
+      "desc": "删除工作日历成功"
+    },
+    "updateCalendarSuccess": {
+      "text": "更新工作日历成功",
+      "desc": "更新工作日历成功"
+    },
+    "noHaveCalendar": {
+      "text": "暂无工作日历",
+      "desc": "暂无工作日历"
+    },
+    "noWorkDay": {
+      "text": "非工作日",
+      "desc": "非工作日"
+    },
+    "updateCalendarFaile": {
+      "text": "更新工作日历失败",
+      "desc": "更新工作日历失败"
+    },
+    "selectCalendarDateTip": {
+      "text": "所选日期不在日历周期范围内",
+      "desc": "工作日历交互提示"
+    },
+    "deleteCalendar": {
+      "text": "删除工作日历",
+      "desc": "删除工作日历"
+    },
+    "createWorkCalendarTitle": {
+      "text": "新建工作日历",
+      "desc": "新建工作日历"
+    },
+    "selfWorkCalendar": {
+      "text": "自定义工作日",
+      "desc": "自定义工作日"
+    },
+    "selfWorkProcess": {
+      "text": "自定义工作日可以指定具体的日期启动流程",
+      "desc": ""
+    },
+    "selectWorkCalendar": {
+      "text": "请选择工作日历",
+      "desc": ""
+    },
+    "workCalendarSet": {
+      "text": "工作日历设置",
+      "desc": ""
+    },
+    "workDayExecute": {
+      "text": "工作日执行",
+      "desc": ""
+    },
+    "noWorkDayExecute": {
+      "text": "非工作日执行",
+      "desc": ""
+    },
+    "calendarCreator": {
+      "text": "创建者：",
+      "desc": ""
+    },
+    "calendarUpdate": {
+      "text": "更新",
+      "desc": ""
+    },
+    "calendarStr1": {
+      "text": "于",
+      "desc": ""
+    },
+    "calendarCycleDate": {
+      "text": "日历周期",
+      "desc": ""
+    },
+    "uploadCalendarFile": {
+      "text": "上传自定义日历设置文件",
+      "desc": ""
+    },
+    "downloadCalendarFile": {
+      "text": "下载日历模板",
+      "desc": ""
+    },
+    "calendarSetName": {
+      "text": "日历设置模板",
+      "desc": "日历模板名称"
+    },
+    "selectCalendarFile": {
+      "text": "选择日历模板",
+      "desc": ""
+    },
+    "calendarName": {
+      "text": "日历名称",
+      "desc": "日历名称"
+    },
+    "aboutCron": {
+      "text": "关于 CRON 表达式",
+      "desc": "关于 CRON 表达式"
+    },
+    "cronHelpLang": {
+      "text": "zh",
+      "desc": "zh"
+    },
+    "fastCreate": {
+      "text": "快速新建任务",
+      "desc": "快速新建任务"
+    },
+    "fastCreateOk": {
+      "text": "计划任务新建完成",
+      "desc": "计划任务新建完成"
+    },
+    "fastCreateTip": {
+      "text": "系统将会按照当前计划的配置生成任务，并排队执行，是否继续？",
+      "desc": "系统将会按照当前计划的配置生成任务，并排队执行，是否继续？"
+    },
+    "newCreate": {
+      "text": "新建",
+      "desc": "新建"
+    },
+    "newCreate1": {
+      "text": "新建",
+      "desc": "新建"
+    },
+    "unit": {
+      "text": "个任务",
+      "desc": "接前面自定义数字 - 个任务"
+    },
+    "active": {
+      "text": "启用",
+      "desc": "启用"
+    },
+    "unactive": {
+      "text": "禁用",
+      "desc": "禁用"
+    },
+    "activeState": {
+      "text": "启用状态",
+      "desc": "下拉框标题"
+    },
+    "scheduleName": {
+      "text": "计划名称",
+      "desc": "表头计划名称"
+    },
+    "scheduleName2": {
+      "text": "计划名称",
+      "desc": "表头计划名称"
+    },
+    "flowName": {
+      "text": "流程",
+      "desc": "表头流程名称"
+    },
+    "createTime": {
+      "text": "开始时间",
+      "desc": "表头计划创建时间"
+    },
+    "scheduleStartTime": {
+      "text": "开始时间",
+      "desc": "表头计划开始执行的时间"
+    },
+    "endTime": {
+      "text": "结束时间",
+      "desc": "表头计划结束时间"
+    },
+    "scheduleExecuteNextTime": {
+      "text": "下次执行时间",
+      "desc": "表头下次执行计划的时间"
+    },
+    "isActivated": {
+      "text": "启用状态",
+      "desc": "表头-激活状态"
+    },
+    "isActivatedText": {
+      "text": "['启用', '未启用']",
+      "desc": "Worker是否激活状态"
+    },
+    "workerCount": {
+      "text": "{msg}数量",
+      "desc": "表头worker的数量"
+    },
+    "deleteScheduleTip": {
+      "text": "确定删除这个计划？该操作不可逆",
+      "desc": "删除计划的提示"
+    },
+    "newSchedule": {
+      "text": "新建计划",
+      "desc": "创建一个新的计划按钮的文字"
+    },
+    "searchPlaceholderText": {
+      "text": "名称",
+      "desc": "搜索框中的文字占位提示"
+    },
+    "searchPlaceholderText2": {
+      "text": "计划名称",
+      "desc": "搜索框中的文字占位提示"
+    },
+    "editSchedule": {
+      "text": "编辑计划",
+      "desc": "操作中编辑图标的文字提示"
+    },
+    "deleteSchedule": {
+      "text": "删除计划",
+      "desc": "操作中删除图标的文字提示"
+    },
+    "deleteScheduleSuc": {
+      "text": "删除计划成功！",
+      "desc": "删除计划成功的文字提示"
+    },
+    "deleteScheduleFail": {
+      "text": "删除计划失败！",
+      "desc": "删除计划失败的文字提示"
+    },
+    "getScheduleListFail": {
+      "text": "获取计划列表数据失败！",
+      "desc": "获取计划页面列表数据失败的文字提示"
+    },
+    "getScheduleCalendarFail": {
+      "text": "获取日历失败！",
+      "desc": "获取计划日历页面数据失败的文字提示"
+    },
+    "timeText": {
+      "text": "计划执行时间",
+      "desc": "表格扩展文字提示"
+    },
+    "sureBtn": {
+      "text": "确定",
+      "desc": "确认按钮文字"
+    },
+    "currentDaySchedule": {
+      "text": "当天计划",
+      "desc": "当天日历标题文字提示"
+    },
+    "getEveryDayScheduleFail": {
+      "text": "获取每日计划失败！",
+      "desc": "获取每日计划数据列表失败的提示"
+    },
+    "desc": {
+      "text": "描述",
+      "desc": "每日计划文字描述"
+    },
+    "basicInfo": {
+      "text": "基本信息",
+      "desc": "创建计划第一个步骤中的标题提示"
+    },
+    "department": {
+      "text": "所属部门",
+      "desc": "创建计划第二个步骤中的标题提示"
+    },
+    "flow": {
+      "text": "流程",
+      "desc": "创建计划第三个步骤中的标题提示"
+    },
+    "executeSchedule": {
+      "text": "执行计划",
+      "desc": "创建计划最后步骤中的标题提示"
+    },
+    "noSelectDepartmentTip": {
+      "text": "请选择部门！",
+      "desc": "未选择部门点击下一步的提示"
+    },
+    "pleaseScheduleInFlow": {
+      "text": "请选择一个流程！",
+      "desc": "未选择流程点击下一步的提示"
+    },
+    "noSelectFlowTip": {
+      "text": "请选择一个流程！",
+      "desc": "未选择流程点击下一步的提示"
+    },
+    "selectEnvPlaceholder": {
+      "text": "请选择环境",
+      "desc": "选择环境下拉框默认显示的文字"
+    },
+    "pleaseSelectEnvMessage": {
+      "text": "请选择环境！",
+      "desc": "没有选择环境点击保存的提示"
+    },
+    "noSelectWorkerTip": {
+      "text": "请选择Worker！",
+      "desc": "指定分配Worker未选择Worker点击下一步的提示"
+    },
+    "createScheduleSuc": {
+      "text": "创建计划成功！",
+      "desc": "创建一个计划成功的提示"
+    },
+    "createScheduleFail": {
+      "text": "创建计划失败！",
+      "desc": "创建一个计划失败的提示"
+    },
+    "createScheduleTitle": {
+      "text": "新建计划",
+      "desc": "创建一个计划弹窗的标题"
+    },
+    "createScheduleName": {
+      "text": "名称",
+      "desc": "创建计划的名称"
+    },
+    "createScheduleName2": {
+      "text": "计划名称",
+      "desc": "创建计划的名称"
+    },
+    "createScheduleDes": {
+      "text": "描述",
+      "desc": "创建计划的描述"
+    },
+    "getSingleFlowFail": {
+      "text": "获取单个流程数据失败！",
+      "desc": "获取单个流程数据失败的提示"
+    },
+    "flowVersion": {
+      "text": "版本",
+      "desc": "流程的版本"
+    },
+    "flowPackage": {
+      "text": "流程包",
+      "desc": "流程包"
+    },
+    "getFlowListFail": {
+      "text": "获取流程列表数据失败！",
+      "desc": "获取流程列表数据失败的提示"
+    },
+    "specifyWorker": {
+      "text": "指定Worker",
+      "desc": "指定Worker"
+    },
+    "nameOrMechanicalCode": {
+      "text": "名称 / 机器码 /IP",
+      "desc": "搜索框中占位文字提示"
+    },
+    "taskCount": {
+      "text": "任务数量：",
+      "desc": "自动分配worker时填写的任务数量"
+    },
+    "taskCountNo": {
+      "text": "任务数量",
+      "desc": "任务数量无冒号"
+    },
+    "getWorkerListFail": {
+      "text": "获取Worker列表失败",
+      "desc": "获取Worker列表数据失败的提示"
+    },
+    "getAllEnvFail": {
+      "text": "获取环境列表失败！",
+      "desc": "获取所有的环境数据失败的提示"
+    },
+    "pleaseSelectEnv": {
+      "text": "请选择环境",
+      "desc": "自动分配worker时选择环境下拉框占位提示"
+    },
+    "comma": {
+      "text": "，",
+      "desc": "逗号分隔符"
+    },
+    "noSelectWorkerMessage": {
+      "text": "请至少指定1个执行计划的Worker！",
+      "desc": "指定Worker没有选择Worker时，点击下一步的提示"
+    },
+    "taskParams": {
+      "text": "任务参数",
+      "desc": "任务参数"
+    },
+    "noHasTaskParams": {
+      "text": "无任务参数",
+      "desc": "无任务参数"
+    },
+    "isRecord": {
+      "text": "是否录屏",
+      "desc": "是否录屏"
+    },
+    "record": {
+      "text": "录屏",
+      "desc": "录屏"
+    },
+    "notRecord": {
+      "text": "不录屏",
+      "desc": "不录屏"
+    },
+    "jsonFormatError": {
+      "text": "Json格式错误",
+      "desc": "输入参数不符合JSON语法"
+    },
+    "setTaskParams": {
+      "text": "设置任务参数",
+      "desc": "设置任务参数"
+    },
+    "pleaseFillCronExp": {
+      "text": "请输入CRON表达式",
+      "desc": "没有填写或选择Cron表达式的提示"
+    },
+    "pleaseselectEndDate": {
+      "text": "请先选择结束日期",
+      "desc": "没有填写计划执行的结束时间"
+    },
+    "cronExpError": {
+      "text": "cron表达式格式错误",
+      "desc": "cron表达式格式错误"
+    },
+    "noSupportThisMode": {
+      "text": "不支持此种模式",
+      "desc": "不支持此种模式"
+    },
+    "cronExpCorrect": {
+      "text": "cron表达式正确",
+      "desc": "cron表达式书写格式正确"
+    },
+    "checkCronRuleErr": {
+      "text": "接口请求错误!",
+      "desc": "校验cron表达式的接口请求错误!"
+    },
+    "checkCronRuleErrWithMsg": {
+      "text": "接口请求错误: {msg}",
+      "desc": "校验cron表达式的接口请求错误!"
+    },
+    "leastSelectOneDayOfMonth": {
+      "text": "至少选择当月中的一天",
+      "desc": "至少选择当月中的一天"
+    },
+    "leastSelectOneDayOfWeek": {
+      "text": "至少选择周一到周日中的一天",
+      "desc": "至少选择周一到周日中的一天"
+    },
+    "noSupportChar": {
+      "text": "后台表达式不支持'?'字符",
+      "desc": "后台表达式不支持'?'字符"
+    },
+    "performPreview": {
+      "text": "执行预览",
+      "desc": "执行预览"
+    },
+    "specifiedTime": {
+      "text": "指定时间",
+      "desc": "指定时间"
+    },
+    "neverEnd": {
+      "text": "永不结束",
+      "desc": "永不结束"
+    },
+    "startTime": {
+      "text": "启动时间",
+      "desc": "启动时间"
+    },
+    "parse": {
+      "text": "解析",
+      "desc": "解析Cron表达式按钮文字文案"
+    },
+    "pleaseInputCronExp": {
+      "text": "请输入CRON表达式：例 * 0/23 1-31 * *",
+      "desc": "自定义Cron表达式的输入参考例子"
+    },
+    "cronExp": {
+      "text": "CRON表达式",
+      "desc": "CRON表达式"
+    },
+    "executeOnce": {
+      "text": "执行一次",
+      "desc": "执行一次"
+    },
+    "minutes": {
+      "text": "分钟| 分钟",
+      "desc": "分钟"
+    },
+    "hours": {
+      "text": "小时| 小时",
+      "desc": "小时"
+    },
+    "remain": {
+      "text": "在",
+      "desc": "在"
+    },
+    "result": {
+      "text": "结果：",
+      "desc": "结果："
+    },
+    "each": {
+      "text": "每",
+      "desc": "每"
+    },
+    "repeatExecute": {
+      "text": "重复执行",
+      "desc": "重复执行"
+    },
+    "manyMinutesExecute": {
+      "text": "分执行 | 分执行",
+      "desc": "隔多少分钟执行"
+    },
+    "time": {
+      "text": "点 | 点",
+      "desc": "几点执行"
+    },
+    "loopExecute": {
+      "text": "循环执行",
+      "desc": "循环执行"
+    },
+    "defineCronExp": {
+      "text": "自定义CRON表达式",
+      "desc": "自定义CRON表达式"
+    },
+    "everyday": {
+      "text": "每天",
+      "desc": "每天"
+    },
+    "perWeek": {
+      "text": "每周",
+      "desc": "每周"
+    },
+    "perMonth": {
+      "text": "每月",
+      "desc": "每月"
+    },
+    "executeRules": {
+      "text": "执行规则",
+      "desc": "执行规则"
+    },
+    "currentMonth": {
+      "text": "当月第",
+      "desc": "当月第"
+    },
+    "day": {
+      "text": "天 | 天",
+      "desc": "天"
+    },
+    "executeFrequency": {
+      "text": "执行频率",
+      "desc": "执行频率"
+    },
+    "monday": {
+      "text": "周一",
+      "desc": "周一"
+    },
+    "tuesday": {
+      "text": "周二",
+      "desc": "周二"
+    },
+    "wednesday": {
+      "text": "周三",
+      "desc": "周三"
+    },
+    "thursday": {
+      "text": "周四",
+      "desc": "周四"
+    },
+    "friday": {
+      "text": "周五",
+      "desc": "周五"
+    },
+    "saturday": {
+      "text": "周六",
+      "desc": "周六"
+    },
+    "sunday": {
+      "text": "周日",
+      "desc": "周日"
+    },
+    "countNumber": {
+      "text": "第{msg}次 | 第{msg}次",
+      "desc": "第多少执行计划"
+    },
+    "one": {
+      "text": "一",
+      "desc": "一"
+    },
+    "two": {
+      "text": "二",
+      "desc": "二"
+    },
+    "three": {
+      "text": "三",
+      "desc": "三"
+    },
+    "four": {
+      "text": "四",
+      "desc": "四"
+    },
+    "five": {
+      "text": "五",
+      "desc": "五"
+    },
+    "six": {
+      "text": "六",
+      "desc": "六"
+    },
+    "seven": {
+      "text": "七",
+      "desc": "七"
+    },
+    "eight": {
+      "text": "八",
+      "desc": "八"
+    },
+    "nine": {
+      "text": "九",
+      "desc": "九"
+    },
+    "ten": {
+      "text": "十",
+      "desc": "十"
+    },
+    "pleaseFillBaseInfo": {
+      "text": "请先填写基本信息！",
+      "desc": "没有填写编辑计划的基本信息点击保存按钮做的提示"
+    },
+    "noFillScheduleName": {
+      "text": "名称不能为空！",
+      "desc": "名称没有填写点击保存按钮做的提示"
+    },
+    "pleaseFillDepartment": {
+      "text": "请先选择所属部门",
+      "desc": "没有选择部门点击保存按钮做的提示"
+    },
+    "pleaseFillFlow": {
+      "text": "请先选择流程",
+      "desc": "没有选择流程点击保存按钮做的提示"
+    },
+    "fixScheduleSuc": {
+      "text": "修改计划成功！",
+      "desc": "修改计划成功弹的提示"
+    },
+    "fixScheduleFail": {
+      "text": "修改计划失败！",
+      "desc": "修改计划失败弹的提示"
+    },
+    "getScheduleInfoFail": {
+      "text": "获取计划编辑信息失败！",
+      "desc": "获取一条计划的信息失败弹的提示"
+    },
+    "pleaseSelectWorker": {
+      "text": "请先选择Worker信息",
+      "desc": "没有选择Worker点击保存弹的提示"
+    },
+    "editScheduleTitle": {
+      "text": "编辑计划",
+      "desc": "编辑计划的弹框标题"
+    },
+    "saveBtn": {
+      "text": "保存",
+      "desc": "保存按钮文字的文案"
+    },
+    "cancelBtn": {
+      "text": "取消",
+      "desc": "取消按钮文字的文案"
+    },
+    "cronHelscheduleg": {
+      "text": "zh",
+      "desc": ""
+    }
+  },
+  "taskManager": {
+    "maxRunTime": {
+      "text": "最大运行时长",
+      "desc": "最大运行时长"
+    },
+    "urlError": {
+      "text": "文件URL异常，无法显示",
+      "desc": "文件URL异常，无法显示"
+    },
+    "nextImg": {
+      "text": "下一张",
+      "desc": "下一张"
+    },
+    "preImg": {
+      "text": "上一张",
+      "desc": "上一张"
+    },
+    "imgViewerMessage1": {
+      "text": "这是第一张图片了",
+      "desc": "这是第一张图片了"
+    },
+    "imgViewerMessage2": {
+      "text": "这是最后一张图片了",
+      "desc": "这是最后一张图片了"
+    },
+    "filePlaceholder": {
+      "text": "文件名称/描述",
+      "desc": "查看文件页面搜索框文字占位提示"
+    },
+    "fileName": {
+      "text": "文件名称",
+      "desc": "文件名称"
+    },
+    "screenTime": {
+      "text": "截图时间",
+      "desc": "截图时间"
+    },
+    "remark": {
+      "text": "描述",
+      "desc": "描述"
+    },
+    "uploadTime": {
+      "text": "上传时间",
+      "desc": "上传时间"
+    },
+    "fileViewTitle": {
+      "text": "查看文件",
+      "desc": "查看文件"
+    },
+    "getTaskFileFail": {
+      "text": "获取任务文件失败",
+      "desc": "获取任务文件失败"
+    },
+    "searchPlaceholderTip": {
+      "text": "任务编号/Worker名/流程名称",
+      "desc": "任务管理页面搜索框文字占位提示"
+    },
+    "createTask": {
+      "text": "新建任务",
+      "desc": "新建任务按钮文字的文案"
+    },
+    "fastCreateTask": {
+      "text": "快速新建任务",
+      "desc": "新建任务按钮文字的文案"
+    },
+    "refresh": {
+      "text": "刷新",
+      "desc": "刷新按钮文字的文案"
+    },
+    "cancelBtn": {
+      "text": "取消",
+      "desc": "取消按钮文字的文案"
+    },
+    "deploying": {
+      "text": "待运行",
+      "desc": "Worker等待运行"
+    },
+    "overTime": {
+      "text": "超时",
+      "desc": "超时"
+    },
+    "running": {
+      "text": "运行中",
+      "desc": "Worker正在运行"
+    },
+    "failed": {
+      "text": "失败",
+      "desc": "Worker运行失败"
+    },
+    "success": {
+      "text": "成功",
+      "desc": "Worker运行成功结束"
+    },
+    "canceled": {
+      "text": "取消",
+      "desc": "取消下发给Worker的任务"
+    },
+    "invalid": {
+      "text": "失效",
+      "desc": "失效"
+    },
+    "taskCode": {
+      "text": "任务编号",
+      "desc": "任务编号"
+    },
+    "flowName": {
+      "text": "流程",
+      "desc": "流程的名称在表格中展示"
+    },
+    "department": {
+      "text": "部门",
+      "desc": "部门的名称在表格中展示"
+    },
+    "createTime": {
+      "text": "创建时间",
+      "desc": "任务的创建时间"
+    },
+    "state": {
+      "text": "状态",
+      "desc": "任务的状态"
+    },
+    "taskState": {
+      "text": "任务状态",
+      "desc": "任务的状态"
+    },
+    "operation": {
+      "text": "操作",
+      "desc": "操作"
+    },
+    "allState": {
+      "text": "所有状态",
+      "desc": "所有状态"
+    },
+    "flowRunFail": {
+      "text": "流程运行失败",
+      "desc": "流程运行失败"
+    },
+    "workerClientCancel": {
+      "text": "Worker端取消",
+      "desc": "Worker端取消"
+    },
+    "workerCrashed": {
+      "text": "Worker崩溃",
+      "desc": "Worker运行崩溃"
+    },
+    "userCancelTask": {
+      "text": "用户{msg}取消了任务",
+      "desc": "用户取消了任务"
+    },
+    "flowDownloadFail": {
+      "text": "流程文件下载失败",
+      "desc": "流程文件下载失败"
+    },
+    "flowFileFormatException": {
+      "text": "流程文件格式异常",
+      "desc": "流程文件格式异常"
+    },
+    "timeLimitTips": {
+      "text": "只能选择一个月以内的时间查询！",
+      "desc": "只能选择一个月以内的时间查询！"
+    },
+    "autoAllocation": {
+      "text": "自动分配",
+      "desc": "自动分配"
+    },
+    "getTaskViewFail": {
+      "text": "获取任务视图列表失败",
+      "desc": "获取任务视图列表数据失败的提示"
+    },
+    "reExecuteSuc": {
+      "text": "重新执行任务成功",
+      "desc": "重新执行任务成功的提示"
+    },
+    "reExecuteFail": {
+      "text": "重新执行任务失败",
+      "desc": "重新执行任务失败的提示"
+    },
+    "cancelTaskSuc": {
+      "text": "取消执行任务成功",
+      "desc": "取消执行任务成功"
+    },
+    "cancelTaskFail": {
+      "text": "取消执行任务失败",
+      "desc": "取消执行任务失败"
+    },
+    "reExecuteContentTip": {
+      "text": "确认进行重新执行操作？该操作不可逆",
+      "desc": "确认进行重新执行操作？该操作不可逆"
+    },
+    "cancelOperateContentTip": {
+      "text": "确认进行取消执行操作？该操作不可逆",
+      "desc": "确认进行取消执行操作？该操作不可逆"
+    },
+    "flowName22": {
+      "text": "流程名称",
+      "desc": "流程的名称在表格中展示"
+    },
+    "workerName22": {
+      "text": "Worker",
+      "desc": "Worker的名称在表格中展示"
+    },
+    "taskState2": {
+      "text": "任务状态",
+      "desc": "下拉框中的任务的状态"
+    },
+    "searchPlaceholderTip2": {
+      "text": "任务编号/流程名称/机器人",
+      "desc": "任务管理页面搜索框文字占位提示"
+    },
+    "getRecordViewDataFail": {
+      "text": "获取录屏数据失败！",
+      "desc": "获取录屏数据失败！"
+    },
+    "autoRefresh": {
+      "text": "自动刷新",
+      "desc": "自动刷新"
+    },
+    "autoRefreshTip": {
+      "text": "自动刷新频率：每间隔5秒刷新1次",
+      "desc": "自动刷新频率：每间隔5秒刷新1次"
+    },
+    "taskListText": {
+      "text": "任务数量",
+      "desc": "任务数量"
+    },
+    "noActive": {
+      "text": "未激活",
+      "desc": "Worker没有激活"
+    },
+    "noConnect": {
+      "text": "暂未连接",
+      "desc": "Worker暂时没有连接"
+    },
+    "workerEmpty": {
+      "text": "空闲中...",
+      "desc": "Worker在线同时处于空闲状态"
+    },
+    "getTaskQueueManagerFail": {
+      "text": "获取队列视图列表数据失败",
+      "desc": "获取队列视图列表数据失败"
+    },
+    "noParams": {
+      "text": "暂无参数",
+      "desc": "查看参数，没有参数时的提示"
+    },
+    "getTaskDetailFail": {
+      "text": "获取任务详情失败",
+      "desc": "获取任务详情失败"
+    },
+    "lookStatis": {
+      "text": "查看统计指标",
+      "desc": "查看统计指标"
+    },
+    "lookTaskParams": {
+      "text": "查看任务参数",
+      "desc": "查看任务参数"
+    },
+    "workerRunLog": {
+      "text": "运行日志",
+      "desc": "Worker运行日志"
+    },
+    "creator": {
+      "text": "上传者",
+      "desc": "上传者"
+    },
+    "founde": {
+      "text": "创建者",
+      "desc": "创建者"
+    },
+    "env": {
+      "text": "所属环境",
+      "desc": "所属环境"
+    },
+    "recordState": {
+      "text": "是否录屏",
+      "desc": "是否录屏"
+    },
+    "recordState1": {
+      "text": "录屏",
+      "desc": "录屏状态"
+    },
+    "recordState2": {
+      "text": "不录屏",
+      "desc": "录屏状态"
+    },
+    "taskParams": {
+      "text": "任务参数",
+      "desc": "任务参数"
+    },
+    "statisticsTarget": {
+      "text": "统计指标",
+      "desc": "统计指标"
+    },
+    "lookDetails": {
+      "text": "查看任务详情",
+      "desc": "查看详情弹框的标题"
+    },
+    "taskInfo": {
+      "text": "任务信息",
+      "desc": "查看详情弹框的tab1"
+    },
+    "runInfo": {
+      "text": "运行信息",
+      "desc": "查看详情弹框的tab2"
+    },
+    "taskLog": {
+      "text": "任务日志",
+      "desc": "查看详情弹框的tab3"
+    },
+    "viewImg": {
+      "text": "查看截图",
+      "desc": "查看详情弹框的tab4"
+    },
+    "Worker": {
+      "text": "Worker",
+      "desc": "Worker"
+    },
+    "runMethod": {
+      "text": "执行方式",
+      "desc": "执行方式"
+    },
+    "createType": {
+      "text": "任务来源",
+      "desc": "任务来源"
+    },
+    "runTime": {
+      "text": "运行时长",
+      "desc": "运行时长"
+    },
+    "startTime": {
+      "text": "开始时间",
+      "desc": "开始时间"
+    },
+    "endTime": {
+      "text": "结束时间",
+      "desc": "结束时间"
+    },
+    "cancelTime": {
+      "text": "取消时间",
+      "desc": "取消时间"
+    },
+    "runLog": {
+      "text": "运行日志",
+      "desc": "运行日志"
+    },
+    "createTypeValue1": {
+      "text": "任务管理",
+      "desc": "通过“任务管理”创建"
+    },
+    "createTypeValue2": {
+      "text": "人机交互-浮动授权Worker",
+      "desc": "通过UiBot Worker客户端创建"
+    },
+    "createTypeValue3": {
+      "text": "OpenAPI",
+      "desc": "通过OpenApi创建"
+    },
+    "createTypeValue4": {
+      "text": "计划管理",
+      "desc": "通过“计划管理”创建"
+    },
+    "createTypeValue5": {
+      "text": "流程管理",
+      "desc": "通过“流程管理”快速创建"
+    },
+    "specifyWorker": {
+      "text": "指定worker",
+      "desc": "指定worker"
+    },
+    "operate": {
+      "text": "操作",
+      "desc": "操作对话框的标题"
+    },
+    "reassignWorkerFail": {
+      "text": "重新指派Worker失败！",
+      "desc": "重新指派Worker失败的提示"
+    },
+    "reassignWorkerSuc": {
+      "text": "重新指派Worker成功！",
+      "desc": "重新指派Worker成功的提示"
+    },
+    "getAssignWorkerNumberFail": {
+      "text": "获取重新指派Worker数量失败！",
+      "desc": "获取重新指派Worker数量失败的提示"
+    },
+    "pleaseSelectExecuteWay": {
+      "text": "请选择执行方式！",
+      "desc": "没有选择Worker执行方式的提示"
+    },
+    "pleaseSelectWorker": {
+      "text": "请选择Worker！",
+      "desc": "没有选择Worker的提示"
+    },
+    "currentQueueTask": {
+      "text": "当前排队任务",
+      "desc": "当前排队任务数的文字提示"
+    },
+    "noWorkerData": {
+      "text": "暂无可用的Worker...",
+      "desc": "重新指派Worker没有数据的提示"
+    },
+    "lookRunLogFail": {
+      "text": "查看运行日志详情失败",
+      "desc": "查看运行日志详情失败的提示"
+    },
+    "logDetails": {
+      "text": "日志详情",
+      "desc": "日志详情"
+    },
+    "level": {
+      "text": "级别",
+      "desc": "日志级别"
+    },
+    "logDisplayContent": {
+      "text": "内容",
+      "desc": "日志显示的内容"
+    },
+    "getCurrentRunListFail": {
+      "text": "获取当前Worker即将运行的任务列表失败！",
+      "desc": "获取当前Worker即将运行的任务列表失败的提示"
+    },
+    "waitingExecute": {
+      "text": "待运行",
+      "desc": "待运行"
+    },
+    "flowName2": {
+      "text": "流程名称",
+      "desc": "流程名称"
+    },
+    "taskQueue": {
+      "text": "任务队列",
+      "desc": "任务队列"
+    },
+    "noTaskRunning": {
+      "text": "没有正在运行的任务",
+      "desc": "没有正在运行的任务"
+    },
+    "taskRunning": {
+      "text": "正在运行的任务",
+      "desc": "正在运行的任务"
+    },
+    "saveTaskTargetFail": {
+      "text": "保存任务指标失败！",
+      "desc": "保存任务指标失败的提示"
+    },
+    "saveTaskTargetSuc": {
+      "text": "修改统计指标成功！",
+      "desc": "修改任务指标失败的提示"
+    },
+    "getTaskTargetFail": {
+      "text": "获取任务指标失败！",
+      "desc": "获取任务指标失败的提示"
+    },
+    "statisticsTargetRename": {
+      "text": "数据统计指标不能重名",
+      "desc": "数据统计指标不能重名"
+    },
+    "pleaseFillTaskTargetInfo": {
+      "text": "请先填写任务指标信息！",
+      "desc": "请先填写任务指标信息！"
+    },
+    "dataStatisticsTarget": {
+      "text": "数据统计指标",
+      "desc": "数据统计指标"
+    },
+    "addAStatisticsTarget": {
+      "text": "新增一项数据统计指标",
+      "desc": "新增一项数据统计指标"
+    },
+    "recordViewTitle": {
+      "text": "录屏详情",
+      "desc": "屏幕录像弹框的标题"
+    },
+    "noScreenVideo": {
+      "text": "暂无屏幕录像",
+      "desc": "暂无屏幕录像"
+    },
+    "workerAllocation": {
+      "text": "分配方式",
+      "desc": "分配方式"
+    },
+    "depName": {
+      "text": "所属部门",
+      "desc": "所属部门"
+    },
+    "createTaskSuc": {
+      "text": "创建任务成功",
+      "desc": "创建任务成功的提示"
+    },
+    "createTaskFail": {
+      "text": "创建任务失败",
+      "desc": "创建任务失败的提示"
+    },
+    "stepOne": {
+      "text": "选择部门",
+      "desc": "选择部门"
+    },
+    "stepTwo": {
+      "text": "选择流程",
+      "desc": "选择流程"
+    },
+    "stepThree": {
+      "text": "分配Worker",
+      "desc": "分配Worker"
+    },
+    "stepThree2": {
+      "text": "分配Worker",
+      "desc": "分配Worker"
+    },
+    "workerAllocation2": {
+      "text": "分配方式",
+      "desc": "分配方式"
+    },
+    "stepFour": {
+      "text": "完成",
+      "desc": "完成"
+    },
+    "jsonFormatError": {
+      "text": "Json格式错误",
+      "desc": "Json数据格式不符合规范"
+    },
+    "flowDataDisplay": {
+      "text": "流程",
+      "desc": "选择好的流程数据的展示"
+    },
+    "departmentName": {
+      "text": "部门",
+      "desc": "选择好的部门数据的展示"
+    },
+    "noHasTaskParams": {
+      "text": "无任务参数",
+      "desc": "无任务参数"
+    },
+    "setTaskParams": {
+      "text": "设置任务参数",
+      "desc": "设置任务参数是一个json的字符串"
+    },
+    "autoAllocationIncludeBrackets": {
+      "text": "自动分配",
+      "desc": "自动分配数据的展示"
+    },
+    "isRecord": {
+      "text": "是否录屏",
+      "desc": "是否录屏"
+    },
+    "record": {
+      "text": "录屏",
+      "desc": "录屏"
+    },
+    "notRecord": {
+      "text": "不录屏",
+      "desc": "不录屏"
+    },
+    "lookRecord": {
+      "text": "查看录屏",
+      "desc": "查看录屏"
+    },
+    "recordDetail": {
+      "text": "录屏详情",
+      "desc": "录屏详情"
+    },
+    "noSelectWorkerMessage": {
+      "text": "请至少指定1个执行任务的Worker！",
+      "desc": "指定Worker没有选择Worker时，点击下一步的提示"
+    },
+    "getWorkerListDataFail": {
+      "text": "获取Worker列表失败",
+      "desc": "获取Worker列表数据的提示"
+    },
+    "getFlowListDataFail": {
+      "text": "查询流程数据失败！",
+      "desc": "查询流程数据失败的提示"
+    },
+    "getBussinessTypeFail": {
+      "text": "获取所有的业务类型失败",
+      "desc": "获取所有的业务类型数据失败的提示"
+    },
+    "getTaskDetailListDataFail": {
+      "text": "获取任务视图列表失败",
+      "desc": "获取任务详情视图列表数据失败的提示"
+    },
+    "getStatisticsDataFail": {
+      "text": "获取统计数据失败！",
+      "desc": "获取统计数据失败的提示"
+    },
+    "workerAttendFloat": {
+      "text": "人机交互-浮动授权",
+      "desc": "人机交互-浮动授权"
+    },
+    "workerUnattendFloat": {
+      "text": "无人值守-浮动授权",
+      "desc": "无人值守-浮动授权"
+    },
+    "workerUnattendFixed": {
+      "text": "无人值守-绑定机器",
+      "desc": "无人值守-绑定机器"
+    },
+    "workerAttendFixed": {
+      "text": "人机交互-绑定机器",
+      "desc": "人机交互-绑定机器"
+    },
+    "resultSuc": {
+      "text": "成功",
+      "desc": "成功"
+    },
+    "resultFail": {
+      "text": "失败",
+      "desc": "失败"
+    },
+    "flowName3": {
+      "text": "流程名",
+      "desc": "表格中表头文字展示"
+    },
+    "workerName": {
+      "text": "Worker名",
+      "desc": "表格中表头文字展示"
+    },
+    "workerType": {
+      "text": "Worker类型",
+      "desc": "表格中表头文字展示"
+    },
+    "departName": {
+      "text": "所属部门",
+      "desc": "表格中表头文字展示"
+    },
+    "businessType": {
+      "text": "业务类型",
+      "desc": "表格中表头文字展示"
+    },
+    "failReason": {
+      "text": "失败原因",
+      "desc": "表格中表头文字展示"
+    },
+    "runResult": {
+      "text": "运行结果",
+      "desc": "worker运行结果文字"
+    },
+    "depNamePlaceholder": {
+      "text": "请选择所属部门",
+      "desc": "请选择所属部门"
+    },
+    "allFlow": {
+      "text": "所有流程",
+      "desc": "所有流程"
+    },
+    "businessTypeTip": {
+      "text": "请选择业务类型",
+      "desc": "业务类型下拉选择框的占位提示"
+    },
+    "videoFileExist": {
+      "text": "录像文件不存在,或无法播放",
+      "desc": "录像文件不存在,或无法播放"
+    },
+    "handleComplete": {
+      "text": "运行成功",
+      "desc": "运行成功"
+    },
+    "processing": {
+      "text": "运行中",
+      "desc": "运行中"
+    },
+    "pending": {
+      "text": "待运行",
+      "desc": "待运行"
+    },
+    "handlingExceptions": {
+      "text": "运行失败",
+      "desc": "运行失败"
+    },
+    "otherTypeOfBusiness": {
+      "text": "其他",
+      "desc": "业务类型中的其他"
+    },
+    "currentQueue": {
+      "text": "当前排位",
+      "desc": "Worker排了当前排了多少任务的提示"
+    },
+    "createTimeSelectTips": {
+      "text": "创建时间",
+      "desc": "创建时间"
+    },
+    "createTime2": {
+      "text": "创建时间",
+      "desc": "创建时间"
+    },
+    "endTime2": {
+      "text": "结束时间",
+      "desc": "结束时间"
+    },
+    "backHomePage": {
+      "text": "返回",
+      "desc": "返回"
+    },
+    "flowName4": {
+      "text": "流程",
+      "desc": "流程"
+    },
+    "departName2": {
+      "text": "部门",
+      "desc": "部门"
+    },
+    "workerState": {
+      "text": "状态",
+      "desc": "下拉框中的提示信息"
+    },
+    "businessTypeTip2": {
+      "text": "业务类型",
+      "desc": "下拉框中的提示信息"
+    },
+    "cancelTask": {
+      "text": "取消任务",
+      "desc": "取消任务"
+    },
+    "cancelTaskSucMessage": {
+      "text": "已成功取消任务",
+      "desc": "已成功取消任务"
+    },
+    "cancelTaskFailMessage": {
+      "text": "任务取消失败",
+      "desc": "任务取消失败"
+    }
+  },
+  "taskQueueManager": {
+    "stateTip": {
+      "text": "Worker状态",
+      "desc": "下拉框提示"
+    },
+    "lowVersion": {
+      "text": "当前 Worker 版本较低，无法获取监控画面，请将 Worker 更新至 5.3.0 以上版本",
+      "desc": "当前 Worker 版本较低，无法获取监控画面，请将 Worker 更新至 5.3.0 以上版本"
+    },
+    "question": {
+      "text": "监控插件问题排查",
+      "desc": "监控插件问题排查"
+    },
+    "question1": {
+      "text": "请确保 Worker 所在设备的监控插件已经开启，插件如下所示。",
+      "desc": "请确保 Worker 所在设备的监控插件已经开启，插件如下所示。"
+    },
+    "question2": {
+      "text": "如未找到监控插件，请重新启动 Worker 。在认证 Worker 后，系统将弹出以下窗口，请在窗口栏选项点击“是”。",
+      "desc": "如未找到监控插件，请重新启动 Worker 。在认证 Worker 后，系统将弹出以下窗口，请在窗口栏选项点击“是”。"
+    },
+    "question3": {
+      "text": "等待插件开启运行即可。",
+      "desc": "等待插件开启运行即可。"
+    },
+    "invnc": {
+      "text": "进入远程控制",
+      "desc": "进入远程控制"
+    },
+    "noTask": {
+      "text": "暂无",
+      "desc": "暂无"
+    },
+    "reconnent": {
+      "text": "重新连接",
+      "desc": "重新连接"
+    },
+    "remoteControl": {
+      "text": "远程控制",
+      "desc": "远程控制提示"
+    },
+    "overControl": {
+      "text": "结束远程控制",
+      "desc": "结束远程控制提示"
+    },
+    "keyboard": {
+      "text": "模拟键盘",
+      "desc": "模拟键盘"
+    },
+    "win": {
+      "text": "发送Win键",
+      "desc": "发送Win键"
+    },
+    "tab": {
+      "text": "发送Tab键",
+      "desc": "发送Tab键"
+    },
+    "sendCtrlAltDel": {
+      "text": "发送Ctrl+Alt+Del",
+      "desc": "发送Ctrl+Alt+Del"
+    },
+    "min": {
+      "text": "退出全屏",
+      "desc": "退出全屏"
+    },
+    "max": {
+      "text": "全屏",
+      "desc": "全屏"
+    },
+    "over": {
+      "text": "结束",
+      "desc": "结束控制"
+    },
+    "noAccess": {
+      "text": "监控模式无法操作",
+      "desc": "监控模式无法操作"
+    },
+    "noRecord": {
+      "text": "无记录",
+      "desc": "无记录"
+    },
+    "monitoring": {
+      "text": "监控中",
+      "desc": "监控中"
+    },
+    "controling": {
+      "text": "控制中",
+      "desc": "控制中"
+    },
+    "low": {
+      "text": "当前 Worker 版本较低，无法获取监控画面请将 Worker 更新至 5.3.0 以上版本",
+      "desc": "未连接"
+    },
+    "runtime": {
+      "text": "运行时间：",
+      "desc": "运行时间"
+    },
+    "unactive": {
+      "text": "未激活",
+      "desc": "未激活"
+    },
+    "noResponse": {
+      "text": "未响应",
+      "desc": "未响应"
+    },
+    "timeout": {
+      "text": "任务运行超时",
+      "desc": "任务运行超时"
+    },
+    "tooLongFreeTime": {
+      "text": "空闲时间过长",
+      "desc": "空闲时间过长"
+    },
+    "tooLongOffline": {
+      "text": "离线时间过长",
+      "desc": "离线时间过长"
+    },
+    "tooLongUnactive": {
+      "text": "长时间未激活",
+      "desc": "长时间未激活"
+    },
+    "authorizeType": {
+      "text": "授权类型：",
+      "desc": "授权类型："
+    },
+    "authorizeWorkerTypeText": {
+      "text": "人机交互 | 无人值守",
+      "desc": "授权类型的值"
+    },
+    "authorizeAuthTypeText": {
+      "text": "绑定机器 | 浮动授权",
+      "desc": "授权类型的值"
+    },
+    "searchFlowPlaceholder": {
+      "text": "流程名称",
+      "desc": "searchFlowPlaceholder"
+    },
+    "taskScreening": {
+      "text": "任务筛选",
+      "desc": "任务筛选"
+    },
+    "version": {
+      "text": "版本号：",
+      "desc": "版本号"
+    },
+    "ip": {
+      "text": "IP：",
+      "desc": "IP"
+    },
+    "startTime": {
+      "text": "开始时间",
+      "desc": "开始时间"
+    },
+    "pointerTask": {
+      "text": "指定的待运行任务",
+      "desc": "指定的待运行任务数量"
+    },
+    "pointerTaskTip": {
+      "text": "自动分配的任务不会出现在该列表中",
+      "desc": "自动分配的任务不会出现在该列表中tip"
+    },
+    "realTimeMonitor": {
+      "text": "实时监控",
+      "desc": "实时监控"
+    },
+    "history": {
+      "text": "历史记录",
+      "desc": "历史记录"
+    },
+    "offlineTime": {
+      "text": "断开连接时间：",
+      "desc": "小时"
+    },
+    "freeTime": {
+      "text": "已空闲时长：",
+      "desc": "小时"
+    },
+    "createdTime": {
+      "text": "Worker创建时间：",
+      "desc": "小时"
+    },
+    "hour": {
+      "text": "小时",
+      "desc": "小时"
+    },
+    "minute": {
+      "text": "分钟",
+      "desc": "分钟"
+    },
+    "secound": {
+      "text": "秒",
+      "desc": "秒"
+    },
+    "searchPlaceholder": {
+      "text": "机器人",
+      "desc": "机器人"
+    },
+    "refresh": {
+      "text": "刷新",
+      "desc": "刷新"
+    },
+    "unAttendBind": {
+      "text": "无人值守-绑定机器",
+      "desc": "无人值守-绑定机器"
+    },
+    "unAttendFloat": {
+      "text": "无人值守-浮动授权",
+      "desc": "无人值守-浮动授权"
+    },
+    "noActive": {
+      "text": "未激活",
+      "desc": "未激活"
+    },
+    "online": {
+      "text": "在线",
+      "desc": "在线"
+    },
+    "offline": {
+      "text": "离线",
+      "desc": "离线"
+    },
+    "runningTask": {
+      "text": "正在运行的任务",
+      "desc": "正在运行的任务"
+    },
+    "flowName": {
+      "text": "流程名称",
+      "desc": "流程名称"
+    },
+    "taskCode": {
+      "text": "任务编号",
+      "desc": "任务编号"
+    },
+    "freeing": {
+      "text": "空闲中",
+      "desc": "空闲中"
+    },
+    "latestConnectTime": {
+      "text": "最近连接时间：",
+      "desc": "最近连接时间："
+    },
+    "currentWorker": {
+      "text": "当前Worker: ",
+      "desc": "当前Worker: "
+    },
+    "queueDetail": {
+      "text": "队列详情",
+      "desc": "队列详情"
+    },
+    "lookTaskDetail": {
+      "text": "查看任务详情",
+      "desc": "按钮的title"
+    },
+    "authorizeTypeText": {
+      "text": "authorizeTypeText",
+      "desc": ""
+    }
+  },
+  "workerUnAttend": {
+    "removeBindTitle": {
+      "text": "解除绑定",
+      "desc": "解除绑定"
+    },
+    "removeBindContent": {
+      "text": "解除绑定后，此 Worker 将会断开连接，是否确定解除绑定？",
+      "desc": "解除绑定内容提示"
+    },
+    "noRemoveBindTip": {
+      "text": "维护模式下才能解绑",
+      "desc": "维护模式下才能解绑"
+    },
+    "removeBindTip": {
+      "text": "解除绑定",
+      "desc": "解除绑定"
+    },
+    "acceptModeTips1": {
+      "text": "开启维护模式后，Worker 将停止接收新任务，暂停运行任务，可以进行版本更新。",
+      "desc": "维护模式提示"
+    },
+    "acceptModeTips2": {
+      "text": "关闭维护模式后，Worker 将重新接收和运行任务。",
+      "desc": "维护模式提示"
+    },
+    "editWorker": {
+      "text": "编辑Worker",
+      "desc": "编辑Worker弹框的标题"
+    },
+    "createWorker": {
+      "text": "新建Worker",
+      "desc": "新建Worker"
+    },
+    "workerName": {
+      "text": "Worker 名称",
+      "desc": "Worker 名称"
+    },
+    "pleaseInputWorkerName": {
+      "text": "请输入Worker名称",
+      "desc": "请输入Worker名称"
+    },
+    "notEmptyWorkerName": {
+      "text": "Worker名不能为空",
+      "desc": "Worker名不能为空"
+    },
+    "authorizeType": {
+      "text": "授权类型",
+      "desc": "授权类型"
+    },
+    "pleaseSelectAuthorizeType": {
+      "text": "请选择授权类型",
+      "desc": "请选择授权类型"
+    },
+    "workerEnvironment": {
+      "text": "所属环境",
+      "desc": "所属环境"
+    },
+    "workerEnvironmentPlaceholder": {
+      "text": "请选择环境",
+      "desc": "请选择环境"
+    },
+    "workerEnvironmentMessage": {
+      "text": "请选择环境",
+      "desc": "请选择环境"
+    },
+    "workerDepartment": {
+      "text": "所属部门",
+      "desc": "所属部门"
+    },
+    "workerDepartmentMessage": {
+      "text": "请选择部门",
+      "desc": "请选择部门"
+    },
+    "workerDepartmentPlaceholder": {
+      "text": "请选择所属部门",
+      "desc": "请选择所属部门"
+    },
+    "unattendFloat": {
+      "text": "无人值守浮动授权",
+      "desc": "无人值守浮动授权"
+    },
+    "unattendFixed": {
+      "text": "无人值守绑定机器",
+      "desc": "无人值守绑定机器"
+    },
+    "remainingAvailable": {
+      "text": "剩余可用",
+      "desc": "Worker剩余可用"
+    },
+    "querySingleWorkerMessage": {
+      "text": "查询单个Worker失败",
+      "desc": "查询单个Worker失败的提示"
+    },
+    "newWorkerUnAttendFailMessage": {
+      "text": "新建无人值守Worker失败！",
+      "desc": "新建无人值守Worker失败的提示"
+    },
+    "createWorkerSucMessage": {
+      "text": "创建Worker成功",
+      "desc": "创建Worker成功的提示"
+    },
+    "updateWorkerFailMessage": {
+      "text": "更新Worker失败",
+      "desc": "更新Worker失败的提示语"
+    },
+    "updateWorkerSucMessage": {
+      "text": "更新Worker成功",
+      "desc": "更新Worker成功的提示语"
+    },
+    "deleteWorkerFailMessage": {
+      "text": "删除Worker失败",
+      "desc": "删除Worker失败的提示语"
+    },
+    "deleteWorkerSucMessage": {
+      "text": "删除Worker成功",
+      "desc": "删除Worker成功的提示语"
+    },
+    "getWorkerListFailMessage": {
+      "text": "获取Worker列表失败",
+      "desc": "获取Worker列表失败的提示语"
+    },
+    "browserNotSupportCopy": {
+      "text": "该浏览器不支持自动复制！",
+      "desc": "该浏览器不支持自动复制的提示语"
+    },
+    "copySuc": {
+      "text": "复制成功！",
+      "desc": "复制成功！"
+    },
+    "searchPlaceholder": {
+      "text": "名称/机器码",
+      "desc": "搜索框占位文字提示"
+    },
+    "rememberKey": {
+      "text": "请牢记并保管好您的密钥",
+      "desc": "请牢记并保管好您的密钥"
+    },
+    "deleteWorkerMessage": {
+      "text": "确定要删除这个Worker？该操作不可逆！",
+      "desc": "删除Worker这条信息的提示语"
+    },
+    "bulkUpdateWorker": {
+      "text": "批量更新Worker",
+      "desc": "批量更新Worker"
+    },
+    "connectTimeLast": {
+      "text": "最近连接时间",
+      "desc": "表格中表头worker最近连接时间"
+    },
+    "currentVersionCode": {
+      "text": "当前版本号",
+      "desc": "表v格中表头worker当前版本号"
+    },
+    "versionCode": {
+      "text": "版本",
+      "desc": "表格中表头worker当前版本号"
+    },
+    "machineCode": {
+      "text": "机器名/机器码",
+      "desc": "表格中表头机器码"
+    },
+    "isAccept": {
+      "text": "是否接收任务",
+      "desc": "表格中表头是否接受任务"
+    },
+    "isAccept1": {
+      "text": "维护模式",
+      "desc": "表格中表头是否接受任务"
+    },
+    "env": {
+      "text": "环境",
+      "desc": "表格中表头worker所属的环境"
+    },
+    "departmentName": {
+      "text": "所属部门",
+      "desc": "表格中表头worker所属的部门"
+    },
+    "state": {
+      "text": "状态",
+      "desc": "表格中表头worker状态"
+    },
+    "workerType": {
+      "text": "授权类型",
+      "desc": "表格中表头worker类型"
+    },
+    "workerName2": {
+      "text": "机器人",
+      "desc": "表格中表头worker名称"
+    },
+    "iKnow": {
+      "text": "我知道了",
+      "desc": "我知道了"
+    },
+    "pasteKey": {
+      "text": "粘贴密钥，输入Commander地址",
+      "desc": "粘贴密钥，输入Commander地址"
+    },
+    "selectUnattendedFloatingAuthorization": {
+      "text": "打开Worker，选择许可类型为“无人值守-浮动授权”",
+      "desc": "打开Worker，选择许可类型为“无人值守-浮动授权”"
+    },
+    "selectUnattendedBindMachine": {
+      "text": "打开Worker，选择许可类型为“无人值守-绑定机器”",
+      "desc": "打开Worker，选择许可类型为“无人值守-绑定机器”"
+    },
+    "clickCopy": {
+      "text": "点击复制",
+      "desc": "点击复制"
+    },
+    "copyKey": {
+      "text": "复制密钥",
+      "desc": "复制密钥"
+    },
+    "activateWorker": {
+      "text": "激活Worker",
+      "desc": "弹框标题"
+    },
+    "copyAndClose": {
+      "text": "复制并关闭",
+      "desc": "复制并关闭"
+    },
+    "lookKey": {
+      "text": "查看密钥",
+      "desc": "查看密钥弹框的标题"
+    },
+    "deleteWorker": {
+      "text": "删除Worker",
+      "desc": "表格操作中删除icon鼠标放上显示的文字提示"
+    },
+    "editWorker2": {
+      "text": "编辑Worker",
+      "desc": "表格操作中编辑icon鼠标放上显示的文字提示"
+    },
+    "activateWorker2": {
+      "text": "激活Worker",
+      "desc": "表格操作中激活icon鼠标放上显示的文字提示"
+    },
+    "lookKey2": {
+      "text": "查看密钥",
+      "desc": "表格操作中密钥icon鼠标放上显示的文字提示"
+    },
+    "bindMachine": {
+      "text": "绑定机器",
+      "desc": "绑定机器"
+    },
+    "floatingAuthorization": {
+      "text": "浮动授权",
+      "desc": "浮动授权"
+    },
+    "editWorkerFail": {
+      "text": "编辑Worker失败!",
+      "desc": "编辑Worker失败!"
+    },
+    "createWorkerFail": {
+      "text": "创建Worker失败",
+      "desc": "创建Worker失败"
+    },
+    "createWorkerMessageTips": {
+      "text": "请选择所属部门",
+      "desc": "请选择所属部门"
+    },
+    "authorizedDepartment": {
+      "text": "授权部门",
+      "desc": "授权部门"
+    },
+    "createWorkerComplete": {
+      "text": "完成",
+      "desc": "完成"
+    },
+    "workerDepartmentMessage1": {
+      "text": "一个Worker 至多授权给50个部门",
+      "desc": "一个Worker 至多授权给50个部门"
+    },
+    "workerDepartmentMessage2": {
+      "text": "无人值守型Worker支持选择多个授权部门",
+      "desc": "无人值守型Worker支持选择多个授权部门"
+    },
+    "workerDepartmentMessage3": {
+      "text": "已选择部门",
+      "desc": "已选择部门"
+    },
+    "workerDepartmentTitle": {
+      "text": "部门",
+      "desc": "部门"
+    },
+    "workerNameUnattend": {
+      "text": "机器人",
+      "desc": "机器人"
+    },
+    "workerRemark": {
+      "text": "备注",
+      "desc": "备注"
+    },
+    "authorizationType": {
+      "text": "授权类型",
+      "desc": "授权类型"
+    },
+    "workerEnv": {
+      "text": "所属环境",
+      "desc": "所属环境"
+    },
+    "workerAuthorDepartment": {
+      "text": "授权部门",
+      "desc": "授权部门"
+    },
+    "workerDepartmentMessage4": {
+      "text": "最多授权部门为 50 个",
+      "desc": "最多授权部门为 50 个"
+    },
+    "workerDepartmentMessage5": {
+      "text": "您无权删除这个部门",
+      "desc": "您无权删除这个部门"
+    }
+  },
+  "userSetting": {
+    "hdSpace": {
+      "text": "硬盘使用情况",
+      "desc": "硬盘空间信息弹窗标题"
+    },
+    "usedPercentage": {
+      "text": "使用占比",
+      "desc": "硬盘使用占比"
+    },
+    "sourceTime": {
+      "text": "数据获取时间：",
+      "desc": "数据获取时间："
+    },
+    "setAllReadFail": {
+      "text": "全部设置为已读失败",
+      "desc": "全部设置为已读失败"
+    },
+    "systemMessage": {
+      "text": "系统通知",
+      "desc": "消息类型为系统通知"
+    },
+    "notRead": {
+      "text": "未读",
+      "desc": "消息状态为未读"
+    },
+    "readed": {
+      "text": "已读",
+      "desc": "消息状态为已读"
+    },
+    "messageState": {
+      "text": "消息状态",
+      "desc": "消息状态"
+    },
+    "setAllRead": {
+      "text": "全部设为已读",
+      "desc": "全部设为已读按钮"
+    },
+    "saveSuc": {
+      "text": "保存成功",
+      "desc": "保存成功"
+    },
+    "sureBtn": {
+      "text": "确定",
+      "desc": "确定按钮文字文案"
+    },
+    "timeZoneSetting": {
+      "text": "时区设置:",
+      "desc": "时区设置:"
+    },
+    "deleteMessageFailTips": {
+      "text": "删除消息失败！",
+      "desc": "删除消息失败的提示"
+    },
+    "deleteMessageSucTips": {
+      "text": "删除消息成功！",
+      "desc": "删除消息成功的提示"
+    },
+    "getMessageListFailTips": {
+      "text": "获取消息列表数据失败！",
+      "desc": "获取消息列表数据失败的提示"
+    },
+    "messageCenter": {
+      "text": "消息中心",
+      "desc": "消息中心"
+    },
+    "index": {
+      "text": "序号",
+      "desc": "表格中一列数据按照从1开始的序号排列"
+    },
+    "messageType": {
+      "text": "消息类型",
+      "desc": "消息类型"
+    },
+    "messageContent": {
+      "text": "消息内容",
+      "desc": "消息内容"
+    },
+    "operate": {
+      "text": "操作",
+      "desc": "表格中的操作简写"
+    },
+    "messageExpectionType": {
+      "text": "任务异常",
+      "desc": "消息类型为异常"
+    },
+    "messageFailType": {
+      "text": "任务失败",
+      "desc": "消息类型为失败"
+    },
+    "messageWarningType": {
+      "text": "预警通知",
+      "desc": "消息类型为预警"
+    },
+    "lookMessage": {
+      "text": "查看",
+      "desc": "查看"
+    },
+    "deleteMessage": {
+      "text": "删除",
+      "desc": "删除"
+    },
+    "deleteMessageTips": {
+      "text": "确定要删除这条消息？该操作不可逆！",
+      "desc": "确定要删除这条消息？该操作不可逆！"
+    },
+    "getWorkerMessageFailTips": {
+      "text": "获取worker信息失败！",
+      "desc": "获取worker信息失败的提示"
+    },
+    "workerBaseInfo": {
+      "text": "Worker基本信息",
+      "desc": "Worker基本信息"
+    },
+    "connectTimeLast": {
+      "text": "最近连接时间",
+      "desc": "最近连接时间"
+    },
+    "currentVersionCode": {
+      "text": "当前版本号",
+      "desc": "当前版本号"
+    },
+    "machineCode": {
+      "text": "机械码",
+      "desc": "机械码"
+    },
+    "machineCode2": {
+      "text": "机器码",
+      "desc": "机器码"
+    },
+    "env": {
+      "text": "环境",
+      "desc": "环境"
+    },
+    "department": {
+      "text": "部门",
+      "desc": "部门"
+    },
+    "workerState": {
+      "text": "状态",
+      "desc": "状态"
+    },
+    "floatAuthorization": {
+      "text": "浮动授权",
+      "desc": "浮动授权"
+    },
+    "bindMachine": {
+      "text": "绑定机器",
+      "desc": "绑定机器"
+    },
+    "workerType": {
+      "text": "类型",
+      "desc": "worker类型"
+    },
+    "workerName": {
+      "text": "名称",
+      "desc": "机器人"
+    }
+  },
+  "recordSetting": {
+    "defaultSetting": {
+      "text": "录屏设置",
+      "desc": "标题"
+    },
+    "isRecord": {
+      "text": "是否默认录屏",
+      "desc": "表单项标题"
+    },
+    "yes": {
+      "text": "是",
+      "desc": "选项"
+    },
+    "no": {
+      "text": "否",
+      "desc": "选项"
+    },
+    "save": {
+      "text": "保存",
+      "desc": "保存按钮文案"
+    },
+    "saveSuccess": {
+      "text": "保存成功",
+      "desc": "保存成功提示语"
+    }
+  },
+  "agreement": {
+    "confirm": {
+      "text": "确定",
+      "desc": "右下角按钮文案"
+    },
+    "checkTip": {
+      "text": "我已阅读并知晓用户协议",
+      "desc": "右下角按钮文案"
+    },
+    "cancel": {
+      "text": "不同意",
+      "desc": "右下角按钮文案"
+    },
+    "agree": {
+      "text": "同意",
+      "desc": "右下角按钮文案"
+    }
+  },
+  "accessKey": {
+    "accessKeyTips": {
+      "text": "用于管理OpenAPI的应用授权，获取授权的第三方应用可以调用 OpenAPI",
+      "desc": ""
+    },
+    "accessKeyTips1": {
+      "text": "回调URL是第三方服务器接收推送事件的消息接收地址",
+      "desc": ""
+    },
+    "title": {
+      "text": "应用授权",
+      "desc": ""
+    },
+    "upgradeTip": {
+      "text": "2020年8月10日起，App Key全面升级为Access Key，请还在使用App Key的用户尽快更新！",
+      "desc": ""
+    },
+    "gotoAppKeyLink": {
+      "text": "点击查看原有App Key",
+      "desc": ""
+    },
+    "columnTitleName": {
+      "text": "应用名称",
+      "desc": ""
+    },
+    "columnTitleAKId": {
+      "text": "Access Key ID",
+      "desc": ""
+    },
+    "columnTitleSKSec": {
+      "text": "Access Key Secret",
+      "desc": ""
+    },
+    "columnTitleCallbackUrl": {
+      "text": "回调URL",
+      "desc": ""
+    },
+    "columnTitleOperation": {
+      "text": "操作",
+      "desc": ""
+    },
+    "buttonTextCreateAK": {
+      "text": "新建Access Key",
+      "desc": ""
+    },
+    "buttonTextLookInterfaceApi": {
+      "text": "查看接口文档",
+      "desc": ""
+    },
+    "createModalTitle": {
+      "text": "新建Access Key",
+      "desc": ""
+    },
+    "editModalTitle": {
+      "text": "编辑Access Key",
+      "desc": ""
+    },
+    "formLabelName": {
+      "text": "应用名称",
+      "desc": ""
+    },
+    "formPlaceHolderName": {
+      "text": "请输入应用名称",
+      "desc": ""
+    },
+    "formLabelCallback": {
+      "text": "回调URL",
+      "desc": ""
+    },
+    "formPlaceHolderCallbackUrl": {
+      "text": "请输入回调URL",
+      "desc": ""
+    },
+    "mocalCancelText": {
+      "text": "取消",
+      "desc": ""
+    },
+    "modalConfirmText": {
+      "text": "保存",
+      "desc": ""
+    },
+    "msgboxTitleResetAK": {
+      "text": "保存",
+      "desc": ""
+    },
+    "modalRemoveAkTitle": {
+      "text": "删除Access Key",
+      "desc": ""
+    },
+    "modalRefreshAKTitle": {
+      "text": "重置Access Key",
+      "desc": ""
+    },
+    "msgboxTipResetAK": {
+      "text": "重置后，会生成新的 Access Key Secret，导致之前的应用授权失效，确定要重置吗？",
+      "desc": ""
+    },
+    "msgboxTitleRemoveAK": {
+      "text": "删除Access Key",
+      "desc": ""
+    },
+    "msgboxTipRemoveAK": {
+      "text": "删除后，当前 Access Key 对应的应用授权将会失效，确定要删除吗？",
+      "desc": ""
+    },
+    "msgboxCancelText": {
+      "text": "取消",
+      "desc": ""
+    },
+    "msgboxConfirmText": {
+      "text": "确定",
+      "desc": ""
+    },
+    "validateMessageRequired": {
+      "text": "必填字段",
+      "desc": ""
+    },
+    "validateMessageInvalidUrl": {
+      "text": "请输入合法的URL",
+      "desc": ""
+    }
+  },
+  "systemSet": {
+    "messageNotificateSetTitle": {
+      "text": "消息设置",
+      "desc": "消息设置标题"
+    },
+    "recordSetTitle": {
+      "text": "录屏设置",
+      "desc": "录屏设置标题"
+    },
+    "passwordSafeSetTitle": {
+      "text": "密码策略设置",
+      "desc": "密码策略设置标题"
+    }
+  },
+  "other": {
+    "directionalIcon": {
+      "text": "方向性图标",
+      "desc": "方向性图标"
+    },
+    "suggestedIcon": {
+      "text": "提示建议性图标",
+      "desc": "提示建议性图标"
+    },
+    "editorIcon": {
+      "text": "编辑类图标",
+      "desc": "编辑类图标"
+    },
+    "dataIcon": {
+      "text": "数据类图标",
+      "desc": "数据类图标"
+    },
+    "brandlogoIcon": {
+      "text": "网站通用图标",
+      "desc": "网站通用图标"
+    },
+    "applicationIcon": {
+      "text": "品牌和标识",
+      "desc": "品牌和标识"
+    },
+    "themeColor1": {
+      "text": "薄暮",
+      "desc": "薄暮"
+    },
+    "themeColor2": {
+      "text": "火山",
+      "desc": "火山"
+    },
+    "themeColor3": {
+      "text": "日暮",
+      "desc": "日暮"
+    },
+    "themeColor4": {
+      "text": "明青",
+      "desc": "明青"
+    },
+    "themeColor5": {
+      "text": "极光绿",
+      "desc": "极光绿"
+    },
+    "themeColor6": {
+      "text": "拂晓蓝（默认）",
+      "desc": "拂晓蓝（默认）"
+    },
+    "themeColor7": {
+      "text": "极客蓝",
+      "desc": "极客蓝"
+    },
+    "themeColor8": {
+      "text": "酱紫",
+      "desc": "酱紫"
+    },
+    "changTheme": {
+      "text": "正在切换主题！",
+      "desc": "正在切换主题！"
+    },
+    "home": {
+      "text": "首页",
+      "desc": "首页"
+    }
+  }
+}
