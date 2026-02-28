@@ -57,21 +57,32 @@ export default {
   methods: {
     getRobotOnlineMonitoring() {
       Api.getRobotOnlineMonitoring({}).then(response => {
-        if (response.code == 200) {
+        console.log('robotDistribution 接口响应:', response)
+        console.log('response.code 类型:', typeof response.code, '值:', response.code)
+        // 兼容字符串和数字类型的 code
+        if (response.code == 200 || response.code == '200') {
           let res = response.data
+          console.log('data 数据:', res)
           this.workerCountSum = res.workerCountSum
           this.workerOfflineSum = res.workerOfflineSum
           this.cdata = []
           res.robotOnlineBeansList.forEach(item => {
+            // 使用 workerCount 作为 value，避免为 0 时无法显示
+            // 如果需要按离线率排序，可以在 label 中显示
             this.cdata.push({
-              value: item.workerOfflineRate,
+              value: item.workerCount || 1, // 使用机器人总数，至少为 1
               name: item.deptName,
               workerCount: item.workerCount,
               workerOfflineRate: item.workerOfflineRate,
               workerOffline: item.workerOffline
             })
           })
+          console.log('处理后的图表数据:', this.cdata)
+        } else {
+          console.error('响应码不正确，期望200，实际:', response.code)
         }
+      }).catch(error => {
+        console.error('获取机器人监控数据失败:', error)
       })
     }
   }
