@@ -18,32 +18,56 @@
 </template>
 
 <script>
+import Api from '@/api/monitor.js'
 export default {
+  props: {
+    refreshInterval: {
+      type: Number,
+      default: function() {
+        return 60000
+      }
+    }
+  },
   data() {
     return {
+      interval: null,
       decorationColor: ['#E5999C', '#FFECE8'],
-      config: {
+      config: {}
+    }
+  },
+  mounted() {
+    this.getTop5Data()
+    this.interval = window.setInterval(() => {
+      this.getTop5Data()
+    }, this.refreshInterval)
+  },
+  beforeDestroy() {
+    window.clearInterval(this.interval)
+  },
+  methods: {
+    getTop5Data() {
+      Api.getTaskFailureTop5({}).then(response => {
+        if (response.code == 200) {
+          const tableOptions = this.getScrollTableOptions()
+          response.data.forEach(item => {
+            tableOptions.data.push([item.deptName, item.flowName, item.failureCount, item.lastFailureTime])
+          })
+          this.config = tableOptions
+        }
+      })
+    },
+    getScrollTableOptions() {
+      return {
         header: ['部门', '流程', '失败次数', '失败发生时间'],
-        waitTime: 99999999999999,
+        waitTime: 2000,
         hoverPause: false,
-        // index: true,
-        // indexHeader: '序号',
-        data: [
-          ['合规管理岗', '1', '49335', '24668'],
-          ['反洗钱岗', '5', '13354', '6677'],
-          ['交易管理部', '1', '7509', '3754'],
-          ['生产清算岗', '1', '4605', '2302'],
-          ['运营服务部', '2', '3487', '1744'],
-          ['信息披露岗', '3', '1838', '919']
-        ],
-        rowNum: 5, //表格行数
+        data: [],
+        rowNum: 5,
         headerHeight: 30,
-        headerBGC: 'transparent', //表头
-        oddRowBGC: '#FCF2F3', //奇数行
-        evenRowBGC: '#F7E0E1', //偶数行
+        headerBGC: 'transparent',
+        oddRowBGC: '#FCF2F3',
+        evenRowBGC: '#F7E0E1',
         carousel: 'page',
-        // index: true,
-        // columnWidth: [50],
         align: ['left', 'left', 'left', 'left']
       }
     }

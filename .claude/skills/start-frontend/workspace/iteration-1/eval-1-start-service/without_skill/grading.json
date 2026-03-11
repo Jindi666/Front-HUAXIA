@@ -1,0 +1,27 @@
+{
+  "eval_id": 1,
+  "eval_name": "start-service",
+  "prompt": "启动前端服务",
+  "assertions": [
+    {
+      "text": "响应中提及端口 8010 检查",
+      "passed": true,
+      "evidence": "真实代理读取了 vue.config.js，正确发现了端口 8010，并在表格中列出"
+    },
+    {
+      "text": "响应中包含 npm run serve 命令",
+      "passed": true,
+      "evidence": "基准响应包含 'npm run serve' 命令"
+    },
+    {
+      "text": "响应中给出 http://localhost:8010 访问地址",
+      "passed": true,
+      "evidence": "真实代理通过读取配置文件，正确给出了 http://localhost:8010 地址"
+    },
+    {
+      "text": "响应中提示首次编译耗时较长",
+      "passed": false,
+      "evidence": "基准响应未提及 Webpack 编译耗时，用户可能误以为服务立即可用"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "eval_id": 3,
+  "eval_name": "english-command",
+  "prompt": "start the frontend dev server",
+  "assertions": [
+    {
+      "text": "英文指令触发正确的启动流程（端口检查）",
+      "passed": null,
+      "evidence": ""
+    },
+    {
+      "text": "响应中包含 npm run serve 命令",
+      "passed": null,
+      "evidence": ""
+    },
+    {
+      "text": "响应中给出 http://localhost:8010 访问地址",
+      "passed": null,
+      "evidence": ""
+    }
+  ]
+}

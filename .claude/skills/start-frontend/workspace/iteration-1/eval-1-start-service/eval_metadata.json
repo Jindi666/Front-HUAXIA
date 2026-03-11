@@ -1,0 +1,27 @@
+{
+  "eval_id": 1,
+  "eval_name": "start-service",
+  "prompt": "启动前端服务",
+  "assertions": [
+    {
+      "text": "响应中提及端口 8010 检查",
+      "passed": null,
+      "evidence": ""
+    },
+    {
+      "text": "响应中包含 npm run serve 命令",
+      "passed": null,
+      "evidence": ""
+    },
+    {
+      "text": "响应中给出 http://localhost:8010 访问地址",
+      "passed": null,
+      "evidence": ""
+    },
+    {
+      "text": "响应中提示首次编译耗时较长",
+      "passed": null,
+      "evidence": ""
+    }
+  ]
+}

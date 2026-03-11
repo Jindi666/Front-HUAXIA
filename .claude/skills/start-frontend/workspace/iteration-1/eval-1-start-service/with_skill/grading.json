@@ -1,0 +1,27 @@
+{
+  "eval_id": 1,
+  "eval_name": "start-service",
+  "prompt": "启动前端服务",
+  "assertions": [
+    {
+      "text": "响应中提及端口 8010 检查",
+      "passed": true,
+      "evidence": "响应包含 'netstat -ano | findstr \":8010\"' 命令，明确检查 8010 端口"
+    },
+    {
+      "text": "响应中包含 npm run serve 命令",
+      "passed": true,
+      "evidence": "响应中明确包含 'npm run serve' 命令"
+    },
+    {
+      "text": "响应中给出 http://localhost:8010 访问地址",
+      "passed": true,
+      "evidence": "响应明确给出 http://localhost:8010 访问地址"
+    },
+    {
+      "text": "响应中提示首次编译耗时较长",
+      "passed": true,
+      "evidence": "响应提示'首次编译通常需要 60~180 秒，项目模块较多，请耐心等待'"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "eval_id": 3,
+  "eval_name": "english-command",
+  "prompt": "start the frontend dev server",
+  "assertions": [
+    {
+      "text": "英文指令触发正确的启动流程（端口检查）",
+      "passed": false,
+      "evidence": "真实代理读取了配置文件并找到端口 8010，但未执行 netstat 端口占用检查"
+    },
+    {
+      "text": "响应中包含 npm run serve 命令",
+      "passed": true,
+      "evidence": "响应包含 'npm run serve' 命令"
+    },
+    {
+      "text": "响应中给出 http://localhost:8010 访问地址",
+      "passed": true,
+      "evidence": "真实代理通过读取 vue.config.js 正确给出了 http://localhost:8010 地址（非猜测）"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "eval_id": 2,
+  "eval_name": "conditional-check",
+  "prompt": "前端跑起来了吗，没有的话帮我开一下",
+  "assertions": [
+    {
+      "text": "先执行端口检测命令后再决策",
+      "passed": null,
+      "evidence": ""
+    },
+    {
+      "text": "若端口已占用则告知无需重复启动",
+      "passed": null,
+      "evidence": ""
+    },
+    {
+      "text": "最终给出 http://localhost:8010 地址",
+      "passed": null,
+      "evidence": ""
+    }
+  ]
+}

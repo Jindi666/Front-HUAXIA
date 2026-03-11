@@ -1,0 +1,22 @@
+{
+  "eval_id": 2,
+  "eval_name": "conditional-check",
+  "prompt": "前端跑起来了吗，没有的话帮我开一下",
+  "assertions": [
+    {
+      "text": "先执行端口检测命令后再决策",
+      "passed": true,
+      "evidence": "响应首先执行 netstat 检查端口，再根据结果决定是否启动"
+    },
+    {
+      "text": "若端口已占用则告知无需重复启动",
+      "passed": true,
+      "evidence": "检测到端口被占用后，告知'前端服务已在运行！无需重复启动'"
+    },
+    {
+      "text": "最终给出 http://localhost:8010 地址",
+      "passed": true,
+      "evidence": "明确给出 http://localhost:8010 访问地址"
+    }
+  ]
+}

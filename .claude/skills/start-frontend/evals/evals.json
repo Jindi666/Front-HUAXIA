@@ -1,0 +1,73 @@
+{
+  "skill_name": "start-frontend",
+  "evals": [
+    {
+      "id": 1,
+      "prompt": "启动前端服务",
+      "expected_output": "先检查 8010 端口是否占用；若未运行则在后台执行 npm run serve；等待编译完成后报告访问地址 http://localhost:8010",
+      "assertions": [
+        {
+          "name": "检查端口占用",
+          "description": "响应中应包含对 8010 端口的检查步骤或说明"
+        },
+        {
+          "name": "包含启动命令",
+          "description": "响应中应执行或提及 npm run serve 命令"
+        },
+        {
+          "name": "报告访问地址",
+          "description": "响应中应包含 http://localhost:8010 访问地址"
+        },
+        {
+          "name": "说明编译等待",
+          "description": "响应中应提示用户首次编译耗时较长，需要等待"
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": 2,
+      "prompt": "前端跑起来了吗，没有的话帮我开一下",
+      "expected_output": "先检查 8010 端口是否已被占用；若已运行则告知用户服务正在运行并给出访问地址；若未运行则启动服务",
+      "assertions": [
+        {
+          "name": "端口检查先行",
+          "description": "先执行端口检测命令（netstat 或类似），再决定是否启动"
+        },
+        {
+          "name": "已运行情况处理",
+          "description": "若端口已被占用，应告知用户服务已在运行，无需重复启动"
+        },
+        {
+          "name": "未运行情况处理",
+          "description": "若端口未占用，应执行 npm run serve 启动服务"
+        },
+        {
+          "name": "给出访问地址",
+          "description": "最终给出 http://localhost:8010 地址"
+        }
+      ],
+      "files": []
+    },
+    {
+      "id": 3,
+      "prompt": "start the frontend dev server",
+      "expected_output": "英文指令也能正确触发流程：检查端口 → 启动服务 → 报告 URL",
+      "assertions": [
+        {
+          "name": "正确识别英文指令",
+          "description": "英文指令也能触发正确的启动流程，不应只针对中文"
+        },
+        {
+          "name": "包含启动命令",
+          "description": "响应中应执行或提及 npm run serve 命令"
+        },
+        {
+          "name": "报告访问地址",
+          "description": "响应中应包含 http://localhost:8010 访问地址"
+        }
+      ],
+      "files": []
+    }
+  ]
+}

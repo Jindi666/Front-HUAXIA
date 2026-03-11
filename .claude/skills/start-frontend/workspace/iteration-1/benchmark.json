@@ -1,0 +1,86 @@
+{
+  "skill_name": "start-frontend",
+  "iteration": 1,
+  "configurations": [
+    {
+      "name": "with_skill",
+      "pass_rate": 1.0,
+      "mean_pass_rate": 1.0,
+      "stddev": 0.0,
+      "evals": [
+        {
+          "eval_id": 1,
+          "eval_name": "start-service",
+          "prompt": "启动前端服务",
+          "pass_rate": 1.0,
+          "passed": 4,
+          "total": 4
+        },
+        {
+          "eval_id": 2,
+          "eval_name": "conditional-check",
+          "prompt": "前端跑起来了吗，没有的话帮我开一下",
+          "pass_rate": 1.0,
+          "passed": 3,
+          "total": 3
+        },
+        {
+          "eval_id": 3,
+          "eval_name": "english-command",
+          "prompt": "start the frontend dev server",
+          "pass_rate": 1.0,
+          "passed": 3,
+          "total": 3
+        }
+      ]
+    },
+    {
+      "name": "without_skill",
+      "pass_rate": 0.8,
+      "mean_pass_rate": 0.8,
+      "stddev": 0.13,
+      "note": "最终修正（全部 6 个真实代理完成）：Claude 能自行读配置、找端口、想到端口检查，仅缺编译耗时提示和 netstat 主动执行",
+      "evals": [
+        {
+          "eval_id": 1,
+          "eval_name": "start-service",
+          "prompt": "启动前端服务",
+          "pass_rate": 0.75,
+          "passed": 3,
+          "total": 4,
+          "note": "找到端口和地址，但未提示编译耗时"
+        },
+        {
+          "eval_id": 2,
+          "eval_name": "conditional-check",
+          "prompt": "前端跑起来了吗，没有的话帮我开一下",
+          "pass_rate": 1.0,
+          "passed": 3,
+          "total": 3,
+          "note": "读配置 + 自行想到 netstat 检查，3/3 通过"
+        },
+        {
+          "eval_id": 3,
+          "eval_name": "english-command",
+          "prompt": "start the frontend dev server",
+          "pass_rate": 0.67,
+          "passed": 2,
+          "total": 3,
+          "note": "读配置找到端口 8010，但未执行 netstat 检查"
+        }
+      ]
+    }
+  ],
+  "delta": {
+    "pass_rate": 0.2,
+    "description": "有 Skill 提升 20%（全部真实代理完成后的最终基准）"
+  },
+  "analyst_observations": [
+    "Claude 本身能力很强：所有代理都通过读 vue.config.js 自行找到端口 8010，无需 Skill 提供",
+    "Skill 最明确的差异：编译耗时提示 —— 无 Skill 3 个用例全部未提及，Skill 始终提及",
+    "Skill 次要差异：netstat 检查 —— eval-2 无 Skill 自行想到了，eval-3 无 Skill 未想到，不稳定",
+    "Skill 的效率价值：减少工具调用（无 Skill 需先读 2 个文件才能给答案），响应更直接",
+    "结论：当前 Skill 提供 20% 的可靠提升，价值主要在于工作流程标准化和编译耗时提示",
+    "建议迭代方向：在 SKILL.md 中更突出编译耗时提示，这是与无 Skill 最稳定的差异点"
+  ]
+}
