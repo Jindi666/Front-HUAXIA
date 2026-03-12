@@ -33,22 +33,26 @@ export default {
       },
       {
         title: '失败原因',
-        dataIndex: 'firstErrcode'
+        dataIndex: 'firstErrcode',
+        align: 'left'
       },
       {
         title: '流程名',
-        width: 180,
-        dataIndex: 'flowName'
+        width: 220,
+        dataIndex: 'deptName',
+        align: 'left'
       },
       {
         title: '涉及部门',
-        width: 220,
-        dataIndex: 'deptName'
+        width: 180,
+        dataIndex: 'flowName',
+        align: 'left'
       },
       {
         title: '失败次数',
         width: 80,
-        dataIndex: 'errcodeCount'
+        dataIndex: 'errcodeCount',
+        align: 'left'
       }
     ]
     return {
